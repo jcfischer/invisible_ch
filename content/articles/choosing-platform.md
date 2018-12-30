@@ -5,6 +5,7 @@ description: "How to choose a new platform for this site"
 tags: ["tech"]
 resources: []
 title: "Choosing a Platform for this new site"
+menu: "articles"
 ---
 
 I wanted to bring back from the dead my old website, which was running on an old version
