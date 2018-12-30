@@ -31,4 +31,17 @@ of Twitter for suggestions](https://twitter.com/jcfischer/status/107856714998629
 | [Middleman](https://middlemanapp.com/) | 1 | 
 | [Perun](https://perun.io) | 1 | 
 
+After a long amount of deliberation, I decided to try Hugo. Installation and setup was a breeze, 
+writing in Markdown and storing things in Git are things I like. Originally I wanted to self host
+the resulting site, but after seening a lot of my colleagues recommending [Netlify](https://netlify.com)
+I decided to try that as well. Again, the setup was a breeze, including setting up and moving DNS to them. 
+
+The biggest time sink was selecting a template from [themes.gohugo.io](https://themes.gohugo.io) - I spent
+several hours downloading and trying templates. In the end I selected
+[Casper-Two](https://themes.gohugo.io/hugo-casper-two/) a port of Ghost template. I will probably have
+to make some changes to it, but for the moment it does what it needs to do.
+
+
+
+
 
