@@ -22,6 +22,7 @@ canonifyurls    = true
   fbName = "JensChristianFischer"
   githubName = "jcfischer"
   linkedinName = "jenscfischer"
+  keybaseName = "jcfischer"
 
 
   showSupport = false
