@@ -1,12 +1,11 @@
-+++
-Author = "Jens-Christian Fischer"
-description = "How to choose a new platform for this site"
-date = "2018-12-30T08:26:00-01:00"
-resources = []
-slug = ""
-title = "Choosing a Platform for this new site"
-
-+++
+---
+date: 2018-12-28T09:26:08-01:00
+author: Jens-Christian Fischer
+description: "How to choose a new platform for this site"
+tags: ["tech"]
+resources: []
+title: "Choosing a Platform for this new site"
+---
 
 I wanted to bring back from the dead my old website, which was running on an old version
 of WordPress. It probably got hacked, as one day I received a text from a friend, asking about

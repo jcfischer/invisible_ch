@@ -1,9 +1,8 @@
-+++
-title =  "{{ replace .TranslationBaseName "-" " " | title }}"
-Author = "Jens-Christian Fischer"
-Description = ""
-date = {{ .Date }}
-resources = []
-slug = ""
+---
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
+author: "Jens-Christian Fischer"
+description:
+date: {{ .Date }}
+resources: []
 
-+++
+---
