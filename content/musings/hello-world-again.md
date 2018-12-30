@@ -2,6 +2,8 @@
 title: "Hello World Again"
 author: "Jens-Christian Fischer"
 date: 2018-12-30T08:53:41+01:00
+categories: [writing]
+tags: [typography, elements]
 type: post
 ---
 
