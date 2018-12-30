@@ -1,18 +1,12 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
-[submodule "themes/future-imperfect"]
-	path = themes/future-imperfect
-	url = https://github.com/jpescador/hugo-future-imperfect.git
 [submodule "themes/indigo"]
 	path = themes/indigo
 	url = https://github.com/AngeloStavrow/indigo.git
 [submodule "themes/ghostwriter"]
 	path = themes/ghostwriter
 	url = https://github.com/am1t/ghostwriter
-[submodule "themes/jeffprod"]
-	path = themes/jeffprod
-	url = https://github.com/Tazeg/hugo-blog-jeffprod.git
-[submodule "themes/simplicity"]
-	path = themes/simplicity
-	url = https://github.com/eshlox/simplicity.git
+[submodule "themes/casper-two"]
+	path = themes/casper-two
+	url = git@github.com:jcfischer/hugo-casper-two.git
