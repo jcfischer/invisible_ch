@@ -24,7 +24,7 @@ canonifyurls    = true
   linkedinName = "jenscfischer"
 
 
-  showSupport = true
+  showSupport = false
 
   author = "EM"
   authorAvatar = "img/ghost-icon.png"
@@ -36,6 +36,9 @@ canonifyurls    = true
 
   #casper or caspertwo
   singleViewStyle = "caspertwo"
+
+[taxonomies]
+  tag = "tags"
 
 [permalinks]
   post = "/post/:slug/"
