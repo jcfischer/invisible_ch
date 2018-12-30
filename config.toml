@@ -1,10 +1,15 @@
-baseurl         = "/"
+baseurl         = "https://invisible.ch"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
 canonifyurls    = true
+
+[author]
+    name    = "Jens-Christian Fischer"
+    nick    = "jcfischer"
+    email   = "jens-christian@invisible.ch"
 
 [params]
   title       = "Invisible"
@@ -36,7 +41,7 @@ canonifyurls    = true
   pageNotFoundTitle = "404 - Page not found"
 
   #casper or caspertwo
-  singleViewStyle = "caspertwo"
+  singleViewStyle = "casper"
 
 [taxonomies]
   tag = "tags"
@@ -70,3 +75,8 @@ canonifyurls    = true
   weight = 90
 
 
+# These are parameters used for indieweb identity. You should set these along
+# with the above email/social network parameters.
+[params.indieWeb]
+    Country = "Switzerland"
+    City = "Zurich"
