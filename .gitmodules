@@ -10,3 +10,9 @@
 [submodule "themes/casper-two"]
 	path = themes/casper-two
 	url = https://github.com/eueung/hugo-casper-two.git
+[submodule "themes/ghostwriter"]
+	path = themes/ghostwriter
+	url = https://github.com/am1t/ghostwriter
+[submodule "themes/jeffprod"]
+	path = themes/jeffprod
+	url = https://github.com/Tazeg/hugo-blog-jeffprod.git
