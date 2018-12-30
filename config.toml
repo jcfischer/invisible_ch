@@ -1,76 +1,68 @@
-baseurl = "https://invisible.ch/"
-title = "Musings. Music. Code. Art"
-theme = "invisible"
-languageCode = "en-us"
-copyright = "Jens-Christian Fischer"
-disqusShortname = "XXX"
-googleAnalytics = "XXX"
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
 
-[Privacy]
+[params]
+  title       = "Invisible"
+  subtitle    = "Musings. Music. Code. Art"
+  copyright   = "© 2018"
 
-[Privacy.disqus]
-    disable = true
+  cover       = "img/blog-cover.jpg"
+  description = "Portfolio and Blog of Jens-Christian Fischer"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
 
-[Privacy.googleAnalytics]
-    anonymizeIP = true
-    respectDoNotTrack = true
-    useSessionStorage = false
+  twitterName = "jcfischer"
+  fbName = "JensChristianFischer"
+  githubName = "jcfischer"
+  linkedinName = "jenscfischer"
 
-[Author]
-    name = "Jens-Christian Fischer"
-    profile = "https://google.com/+XXX"
-    email = "jens-christian@invisible.ch"
-    nick = "jcfischer"
 
-[Taxonomies]
-    tag = "tags"
+  showSupport = true
 
-[Params]
-    intro = true
-    headline = "Ghostwriter example"
-    description = "Ghostwriter example description"
-    github = "https://github.com/jcfischer"
-    gitlab = "https://gitlab.com/XXX"
-    linkedin = "https://linkedin.com/in/jenscfischer/"
-    twitter = "https://twitter.com/jcfischer"
-    stackoverflow = "https://stackoverflow.com/users/XXX/YYY"
-    microblog = "https://micro.blog/XXX"
-    webmentionEndpoint = "https://example.com/webmention"
-    pingbackEndpoint = "https://example.com/pingback"
-    micropubEndpoint = "https://example.com/webmention/micropub"
-    email = "jens-christian@invisible.ch"
-    opengraph = true
-    shareTwitter = true
-    shareFacebook = true
-    shareGooglePlus = true
-    shareLinkedIn = false
-    dateFormat = "Mon, Jan 2, 2006"
-    highlightJsUrl = ""
-    highlightJsLocalUrl = ""
+  author = "EM"
+  authorAvatar = "img/ghost-icon.png"
+  authorLocation = "Bandung, ID"
+  authorWebsite = "https://eueung.github.io"
+  authorDescription = "Your description here"
 
-[Permalinks]
-    musings = "/:year/:month/:day/:filename/"
+  pageNotFoundTitle = "404 - Page not found"
 
-[taxonomies]
-    tag = "tags"
-    archive = "archives"
+  #casper or caspertwo
+  singleViewStyle = "caspertwo"
+
+[permalinks]
+  post = "/post/:slug/"
 
 [[menu.main]]
-    name = "Musings"
-    url = "/"
-    weight = 1
+  name = "Musings"
+  url = "/musings"
+  weight = 200
 
 [[menu.main]]
-    name = "Music"
-    url = "/music/"
-    weight = 2
+  name = "Music"
+  url = "/music"
+  weight = 100
 
 [[menu.main]]
-    name = "Code"
-    url = "/code/"
-    weight = 3
+  name = "Code"
+  url = "/code"
+  weight = 99
 
 [[menu.main]]
-    name = "Art"
-    url = "/art/"
-    weight = 4
+  name = "Art"
+  url = "/art"
+  weight = 95
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 90
+
+

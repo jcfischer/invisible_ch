@@ -1,7 +1,9 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-author: "Jens-Christian Fischer"
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
+categories: []
+tags: []
+language: en
+slug:
 draft: true
 ---
-
