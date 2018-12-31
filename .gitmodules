@@ -7,3 +7,6 @@
 [submodule "themes/ghostwriter"]
 	path = themes/ghostwriter
 	url = https://github.com/am1t/ghostwriter
+[submodule "themes/chaschper"]
+	path = themes/chaschper
+	url = https://github.com/jcfischer/hugo-chaschper.git

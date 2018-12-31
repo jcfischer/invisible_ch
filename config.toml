@@ -1,6 +1,6 @@
 baseurl         = "https://invisible.ch/"
 title           = "Invisible - Musings. Music. Code. Art"
-theme           = "casper-two"
+theme           = "chaschper"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
