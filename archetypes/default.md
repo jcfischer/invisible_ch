@@ -2,8 +2,10 @@
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 author: "Jens-Christian Fischer"
-categories: []
-tags: []
+description: ""
+image: ""
+categories: [""]
+tags: [""]
 language: en
 slug:
 type: post
