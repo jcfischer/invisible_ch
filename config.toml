@@ -1,19 +1,13 @@
 baseurl         = "https://invisible.ch/"
 title           = "Invisible - Musings. Music. Code. Art"
-theme           = ["hugo-atom-feed", "casper-two"]
+theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
 canonifyurls    = true
 
 
-[outputs]
-    # <domain>/atom.xml
-    home = ["HTML", "RSS", "ATOM"]     # default = ["HTML", "RSS"]
-    # <domain>/posts/atom.xml
-    section = ["HTML", "RSS", "ATOM"]  # default = ["HTML", "RSS"]
-    # <domain>/tags/mytag/atom.xml, <domain>/categories/mycat/atom.xml
-    taxonomy = ["HTML", "RSS", "ATOM"] # default = ["HTML", "RSS"]
+
 
 [authorInfo]
     name    = "Jens-Christian Fischer"
