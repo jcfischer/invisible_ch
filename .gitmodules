@@ -10,6 +10,3 @@
 [submodule "themes/casper-two"]
 	path = themes/casper-two
 	url = https://github.com/jcfischer/hugo-casper-two.git
-[submodule "themes/hugo-atom-feed"]
-	path = themes/hugo-atom-feed
-	url = https://github.com/kaushalmodi/hugo-atom-feed.git

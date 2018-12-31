@@ -58,7 +58,7 @@ canonifyurls    = true
 
 
 [permalinks]
-  post = "/post/:slug/"
+  posts = "/:year/:month/:slug/"
 
 [[menu.main]]
   name = "Musings"
