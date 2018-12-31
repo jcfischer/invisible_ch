@@ -10,6 +10,8 @@ canonifyurls    = true
     name    = "Jens-Christian Fischer"
     nick    = "jcfischer"
     email   = "jens-christian@invisible.ch"
+    avatar  = ""
+    description = "Maker. Musician"
 
 [params]
   title       = "Invisible"
@@ -80,3 +82,4 @@ canonifyurls    = true
 [params.indieWeb]
     Country = "Switzerland"
     City = "Zurich"
+    webmention = "invisible.ch"
