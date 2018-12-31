@@ -9,7 +9,6 @@ tags: ["tech"]
 language: en
 slug:
 type: post
-draft: true
 ---
 
 I like Analytics on a website, I don't want to use Google Analytics. That leaves
@@ -83,5 +82,5 @@ the 'Table Prefix'. The rest of the wizard should be self explanatory.
 
 ## Hugo Setup
 
-To enable Matomo Tracking, use the [hugo-component-matomo](https://github.com/holehan/hugo-component-matomo)
+To enable Matomo Tracking, use [hugo-component-matomo](https://github.com/holehan/hugo-component-matomo)
 
