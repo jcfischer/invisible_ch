@@ -2,7 +2,7 @@
 date: 2018-12-28T09:26:08-01:00
 author: ["Jens-Christian Fischer"]
 description: "How to choose a new platform for this site"
-tags: ["tech"]
+tags: ["hugo", "tech"]
 categories: ["code"]
 resources: []
 title: "Choosing a Platform for this new site"
