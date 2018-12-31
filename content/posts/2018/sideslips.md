@@ -11,5 +11,7 @@ slug:
 type: post
 ---
 
+One track on the [Crystal Caves](2018/11/crystal-caves/) album is *Sideslips*. When I recorded it, I 
+also did a video recording. Enjoy:
 
 {{< youtube cuxfZTtVw2g >}}

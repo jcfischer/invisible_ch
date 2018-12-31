@@ -15,8 +15,10 @@ years)
 
 I also wanted to move away from WordPress and was looking for alternatives. Via a blog post 
 I read (yes, blogs still are a thing, it seems) I found [Ghost](https://ghost.org) which looked 
-good. Instead of just diving straight into installing it, I decided to [ask the collective wisdom
-of Twitter for suggestions](https://twitter.com/jcfischer/status/1078567149986295808).
+good. Instead of just diving straight into installing it, I decided to ask the collective wisdom
+of Twitter for suggestions.
+
+{{< tweet 1078567149986295808 >}}
 
 
 | Name | Votes |
