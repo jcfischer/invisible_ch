@@ -1,11 +1,11 @@
 ---
 title: "Crystal Caves"
-author: "Jens-Christian Fischer"
+author: ["Jens-Christian Fischer"]
 date: 2018-12-30T10:01:18+01:00
 description: "An exploration of the soul"
+categories: ["music"]
 tags: ["music", "album"]
 resources: []
-type: post
 ---
 
 Crystal Caves is a concept album I have been thinking off for over a year and started to work

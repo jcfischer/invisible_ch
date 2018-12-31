@@ -1,12 +1,21 @@
-baseurl         = "https://invisible.ch"
-theme           = "casper-two"
+baseurl         = "https://invisible.ch/"
+title           = "Invisible - Musings. Music. Code. Art"
+theme           = ["hugo-atom-feed", "casper-two"]
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
-#SectionPagesMenu = "main"
 canonifyurls    = true
 
-[author]
+
+[outputs]
+    # <domain>/atom.xml
+    home = ["HTML", "RSS", "ATOM"]     # default = ["HTML", "RSS"]
+    # <domain>/posts/atom.xml
+    section = ["HTML", "RSS", "ATOM"]  # default = ["HTML", "RSS"]
+    # <domain>/tags/mytag/atom.xml, <domain>/categories/mycat/atom.xml
+    taxonomy = ["HTML", "RSS", "ATOM"] # default = ["HTML", "RSS"]
+
+[authorInfo]
     name    = "Jens-Christian Fischer"
     nick    = "jcfischer"
     email   = "jens-christian@invisible.ch"
@@ -24,6 +33,8 @@ canonifyurls    = true
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
+
+  mainSections = ["musings", "music", "code", "art"]
 
   twitterName = "jcfischer"
   fbName = "JensChristianFischer"
@@ -45,30 +56,28 @@ canonifyurls    = true
   #casper or caspertwo
   singleViewStyle = "casper"
 
-[taxonomies]
-  tag = "tags"
 
 [permalinks]
   post = "/post/:slug/"
 
 [[menu.main]]
   name = "Musings"
-  url = "/musings"
+  url = "/categories/musings"
   weight = 200
 
 [[menu.main]]
   name = "Music"
-  url = "/music"
+  url = "/categories/music"
   weight = 100
 
 [[menu.main]]
   name = "Code"
-  url = "/code"
+  url = "/categories/code"
   weight = 99
 
 [[menu.main]]
   name = "Art"
-  url = "/art"
+  url = "/categories/art"
   weight = 95
 
 [[menu.main]]

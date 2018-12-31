@@ -1,11 +1,11 @@
 ---
 title: "Ambient Explorations"
-author: "Jens-Christian Fischer"
+author: ["Jens-Christian Fischer"]
 date: 2017-07-21T14:57:18+01:00
 description: "Explorations of delays"
+categories: ["music"]
 tags: ["music", "album"]
 resources: []
-type: post
 ---
 
 Ambient Explorations is a series of four instant composition pieces. The only 
