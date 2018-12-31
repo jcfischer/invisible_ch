@@ -82,5 +82,6 @@ the 'Table Prefix'. The rest of the wizard should be self explanatory.
 
 ## Hugo Setup
 
-To enable Matomo Tracking, use [hugo-component-matomo](https://github.com/holehan/hugo-component-matomo)
+To enable Matomo Tracking, use [hugo-component-matomo](https://github.com/holehan/hugo-component-matomo). You
+will also need to enable the `AjaxOptOut` Plugin in Matomo. (Settings -> Plugins)
 
