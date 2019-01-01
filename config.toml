@@ -38,19 +38,7 @@ canonifyurls    = true
   keybaseName = "jcfischer"
 
 
-  showSupport = false
-
-  author = "EM"
-  authorAvatar = "img/ghost-icon.png"
-  authorLocation = "Bandung, ID"
-  authorWebsite = "https://eueung.github.io"
-  authorDescription = "Your description here"
-
   pageNotFoundTitle = "404 - Page not found"
-
-  #casper or caspertwo
-  singleViewStyle = "casper"
-
 
 [permalinks]
   posts = "/:year/:month/:slug/"
@@ -93,8 +81,8 @@ canonifyurls    = true
     id = 1
 
 [params.matomo.track]
-button = "Enable Analytics"
-message = "Your visits will be logged."
+    button = "Enable Analytics"
+    message = "Your visits will be logged."
 [params.matomo.block]
-button = "Disable Analytics"
-message = "Your visits will *not* be logged."
+    button = "Disable Analytics"
+    message = "Your visits will *not* be logged."

@@ -1,6 +1,6 @@
 ---
 title: "Crystal Caves"
-author: ["Jens-Christian Fischer"]
+author: "Jens-Christian Fischer"
 date: 2018-11-25T10:01:18+01:00
 description: "An exploration of the soul"
 image: 'img/crystal_caves.jpg'

@@ -1,6 +1,6 @@
 ---
 title: "Sun Machines"
-author: ["Jens-Christian Fischer"]
+author: "Jens-Christian Fischer"
 date: 2018-12-30T14:51:53+01:00
 categories: ["art"]
 tags: ["duo", "experimental"]
