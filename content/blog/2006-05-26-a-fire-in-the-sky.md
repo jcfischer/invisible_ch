@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-05-26 21:14:24+00:00
 layout: post
-link: http://blog.invisible.ch/2006/05/26/a-fire-in-the-sky/
+link: http://invisible.ch/2006/05/26/a-fire-in-the-sky/
 slug: a-fire-in-the-sky
 tags: ["blog"]
 title: a fire in the sky

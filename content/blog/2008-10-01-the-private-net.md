@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2008-10-01 20:28:49+00:00
 layout: post
-link: http://blog.invisible.ch/2008/10/01/the-private-net/
+link: http://invisible.ch/2008/10/01/the-private-net/
 slug: the-private-net
 tags: ["blog"]
 title: the private net

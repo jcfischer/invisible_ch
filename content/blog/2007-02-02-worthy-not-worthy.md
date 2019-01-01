@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-02-02 17:16:46+00:00
 layout: post
-link: http://blog.invisible.ch/2007/02/02/worthy-not-worthy/
+link: http://invisible.ch/2007/02/02/worthy-not-worthy/
 slug: worthy-not-worthy
 tags: ["blog"]
 title: worthy / not worthy

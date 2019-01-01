@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-15 07:04:50+00:00
 layout: post
-link: http://blog.invisible.ch/2005/06/15/europeans-unite/
+link: http://invisible.ch/2005/06/15/europeans-unite/
 slug: europeans-unite
 tags: ["blog"]
 title: Europeans unite

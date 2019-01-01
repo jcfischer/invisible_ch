@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-11 16:44:44+00:00
 layout: post
-link: http://blog.invisible.ch/2005/06/11/reboot-pains/
+link: http://invisible.ch/2005/06/11/reboot-pains/
 slug: reboot-pains
 tags: ["blog"]
 title: reboot pains

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-09-13 07:06:41+00:00
 layout: post
-link: http://blog.invisible.ch/2011/09/13/suss-und-genau-richtig-was-zeitmanagement-angeht/
+link: http://invisible.ch/2011/09/13/suss-und-genau-richtig-was-zeitmanagement-angeht/
 slug: suss-und-genau-richtig-was-zeitmanagement-angeht
 tags: ["blog"]
 title: süss - und genau richtig, was Zeitmanagement angeht...

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-12-02 19:35:41+00:00
 layout: post
-link: http://blog.invisible.ch/2005/12/02/mac-os-x-services/
+link: http://invisible.ch/2005/12/02/mac-os-x-services/
 slug: mac-os-x-services
 tags: ["blog"]
 title: Mac OS X Services

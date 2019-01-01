@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-10-01 19:53:13+00:00
 layout: post
-link: http://blog.invisible.ch/2011/10/01/makeopendata-zeigt-an-wofur-meine-steuerfranken-in-zurich-verschwinden/
+link: http://invisible.ch/2011/10/01/makeopendata-zeigt-an-wofur-meine-steuerfranken-in-zurich-verschwinden/
 slug: makeopendata-zeigt-an-wofur-meine-steuerfranken-in-zurich-verschwinden
 tags: ["blog"]
 title: MakeOpenData zeigt an, wofür meine Steuerfranken in Zürich verschwinden

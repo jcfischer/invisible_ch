@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-11 10:22:22+00:00
 layout: post
-link: http://blog.invisible.ch/2005/11/11/tweakfest-gedanken-zum-schluss/
+link: http://invisible.ch/2005/11/11/tweakfest-gedanken-zum-schluss/
 slug: tweakfest-gedanken-zum-schluss
 tags: ["blog"]
 title: Tweakfest - Gedanken zum Schluss

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-08-04 08:19:41+00:00
 layout: post
-link: http://blog.invisible.ch/2005/08/04/wheres-the-fish/
+link: http://invisible.ch/2005/08/04/wheres-the-fish/
 slug: wheres-the-fish
 tags: ["blog"]
 title: Where's the fish?

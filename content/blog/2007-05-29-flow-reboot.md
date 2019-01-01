@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-05-29 20:04:14+00:00
 layout: post
-link: http://blog.invisible.ch/2007/05/29/flow-reboot/
+link: http://invisible.ch/2007/05/29/flow-reboot/
 slug: flow-reboot
 tags: ["blog"]
 title: flow @ reboot

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-09-28 22:15:29+00:00
 layout: post
-link: http://blog.invisible.ch/2006/09/28/first-swissrug-meeting-success/
+link: http://invisible.ch/2006/09/28/first-swissrug-meeting-success/
 slug: first-swissrug-meeting-success
 tags: ["blog"]
 title: first swissRUG meeting success

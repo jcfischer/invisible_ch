@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-03-06 11:30:58+00:00
 layout: post
-link: http://blog.invisible.ch/2006/03/06/is-campfire-going-free/
+link: http://invisible.ch/2006/03/06/is-campfire-going-free/
 slug: is-campfire-going-free
 tags: ["blog"]
 title: Is Campfire going free?

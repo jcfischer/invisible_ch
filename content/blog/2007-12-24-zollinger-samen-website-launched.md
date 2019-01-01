@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-12-24 17:24:31+00:00
 layout: post
-link: http://blog.invisible.ch/2007/12/24/zollinger-samen-website-launched/
+link: http://invisible.ch/2007/12/24/zollinger-samen-website-launched/
 slug: zollinger-samen-website-launched
 tags: ["blog"]
 title: Zollinger Samen Website launched
@@ -14,7 +14,7 @@ wordpress_id: 637
 
 Today we launched a new website for one of our customers: [Zollinger-Samen.ch][1]. Zollinger Samen is a family owned business, that cultivates more than 200 plants (vegetables, flowers, herbs) and sells the seeds. They have operated over 20 years and have been pushed into the internet age by their sons.
 
-[![Zollinger-Samen-Tn](http://blog.invisible.ch/wp-content/zollinger-samen-tn.png)](http://www.zollinger-samen.ch)
+[![Zollinger-Samen-Tn](/wp-content/zollinger-samen-tn.png)](http://www.zollinger-samen.ch)
 
 The website was built with Rails and and a heavily extended Radiant for the catalogue and the shop. The wonderful design was inspired by the 20 year long history of printed catalogs and implemented by HTML and CSS wrangler [Keith Bingman][2]. We spent a wonderful time working with Zollingers on transferring catalogue and brand from print to the web. Personally, this was one of the most rewarding projects to work on, because I believe that the work Zollingers are doing on keeping [genetic diversity][3] up and cultivating the old, non-[hybrid][4] plants is very important. I have trouble with seeds that will not reproduce, so that they have to be bought again and again. 
 

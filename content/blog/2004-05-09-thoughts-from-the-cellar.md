@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-05-09 12:28:17+00:00
 layout: post
-link: http://blog.invisible.ch/2004/05/09/thoughts-from-the-cellar/
+link: http://invisible.ch/2004/05/09/thoughts-from-the-cellar/
 slug: thoughts-from-the-cellar
 tags: ["blog"]
 title: Thoughts from the cellar

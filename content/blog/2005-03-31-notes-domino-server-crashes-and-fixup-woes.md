@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-03-31 21:15:42+00:00
 layout: post
-link: http://blog.invisible.ch/2005/03/31/notes-domino-server-crashes-and-fixup-woes/
+link: http://invisible.ch/2005/03/31/notes-domino-server-crashes-and-fixup-woes/
 slug: notes-domino-server-crashes-and-fixup-woes
 tags: ["blog"]
 title: Notes / Domino Server crashes and fixup woes
@@ -27,4 +27,4 @@ Has anyone got any clue of what is going on?
 
 It's going to be a long night....
 
-[1]: http://blog.invisible.ch/archives/000384.html
+[1]: /archives/000384.html

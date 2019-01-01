@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-12-25 23:07:05+00:00
 layout: post
-link: http://blog.invisible.ch/2003/12/25/the-zen-of-driving/
+link: http://invisible.ch/2003/12/25/the-zen-of-driving/
 slug: the-zen-of-driving
 tags: ["blog"]
 title: The ZEN of driving

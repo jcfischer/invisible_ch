@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-12-11 23:29:57+00:00
 layout: post
-link: http://blog.invisible.ch/2003/12/11/css-lower-right-text-mac/
+link: http://invisible.ch/2003/12/11/css-lower-right-text-mac/
 slug: css-lower-right-text-mac
 tags: ["blog"]
 title: CSS - lower right text & Mac

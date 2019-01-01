@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-29 22:48:05+00:00
 layout: post
-link: http://blog.invisible.ch/2013/03/29/40-to-rome-with-love/
+link: http://invisible.ch/2013/03/29/40-to-rome-with-love/
 slug: 40-to-rome-with-love
 tags: ["blog"]
 title: 40 - to rome with love

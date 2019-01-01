@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-02-18 01:52:24+00:00
 layout: post
-link: http://blog.invisible.ch/2003/02/18/blogging-bookmarks/
+link: http://invisible.ch/2003/02/18/blogging-bookmarks/
 slug: blogging-bookmarks
 tags: ["blog"]
 title: Blogging Bookmarks

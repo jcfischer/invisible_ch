@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-10-27 19:51:18+00:00
 layout: post
-link: http://blog.invisible.ch/2011/10/27/nice-music-and-interesting-music-video-i-like/
+link: http://invisible.ch/2011/10/27/nice-music-and-interesting-music-video-i-like/
 slug: nice-music-and-interesting-music-video-i-like
 tags: ["blog"]
 title: Nice music and interesting music video! I like

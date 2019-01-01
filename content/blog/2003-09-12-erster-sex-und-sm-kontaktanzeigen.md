@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-12 10:12:53+00:00
 layout: post
-link: http://blog.invisible.ch/2003/09/12/erster-sex-und-sm-kontaktanzeigen/
+link: http://invisible.ch/2003/09/12/erster-sex-und-sm-kontaktanzeigen/
 slug: erster-sex-und-sm-kontaktanzeigen
 tags: ["blog"]
 title: Erster Sex und SM Kontaktanzeigen

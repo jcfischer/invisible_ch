@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-03-10 11:24:00+00:00
 layout: post
-link: http://blog.invisible.ch/2005/03/10/mind-on-multitasking/
+link: http://invisible.ch/2005/03/10/mind-on-multitasking/
 slug: mind-on-multitasking
 tags: ["blog"]
 title: Mind on Multitasking

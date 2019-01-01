@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-01-05 20:32:23+00:00
 layout: post
-link: http://blog.invisible.ch/2006/01/05/beta-ruby-on-rails-workshop-in-geneva-311-122006/
+link: http://invisible.ch/2006/01/05/beta-ruby-on-rails-workshop-in-geneva-311-122006/
 slug: beta-ruby-on-rails-workshop-in-geneva-311-122006
 tags: ["blog"]
 title: Beta Ruby On Rails workshop in Geneva, 31.1 - 1.2.2006
@@ -28,7 +28,7 @@ If there are more than 8 people participating, I will hold this workshop. If you
 
 [1]: http://37signals.com/svn/archives2/getting_real_release_something_today.php
 [2]: http://pragmaticprogrammer.com/
-[3]: http://blog.invisible.ch/2006/01/05/ruby-on-rails-training-in-zurich/
+[3]: /2006/01/05/ruby-on-rails-training-in-zurich/
 [4]: http://www.lift06.org
 
 

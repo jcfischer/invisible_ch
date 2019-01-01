@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-12-31 16:33:07+00:00
 layout: post
-link: http://blog.invisible.ch/2005/12/31/happy-new-year/
+link: http://invisible.ch/2005/12/31/happy-new-year/
 slug: happy-new-year
 tags: ["blog"]
 title: Happy new year

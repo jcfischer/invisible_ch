@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-08-06 01:33:05+00:00
 layout: post
-link: http://blog.invisible.ch/2003/08/06/cpu-pegged-at-100-who-to-blame-part-1/
+link: http://invisible.ch/2003/08/06/cpu-pegged-at-100-who-to-blame-part-1/
 slug: cpu-pegged-at-100-who-to-blame-part-1
 tags: ["blog"]
 title: CPU pegged at 100%, Who to blame? (Part 1)

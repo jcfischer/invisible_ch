@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-10-25 08:13:43+00:00
 layout: post
-link: http://blog.invisible.ch/2006/10/25/lifting-off-in-07/
+link: http://invisible.ch/2006/10/25/lifting-off-in-07/
 slug: lifting-off-in-07
 tags: ["blog"]
 title: lifting off in 07

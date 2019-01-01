@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-10 18:12:48+00:00
 layout: post
-link: http://blog.invisible.ch/2013/02/10/87-guitar-stand/
+link: http://invisible.ch/2013/02/10/87-guitar-stand/
 slug: 87-guitar-stand
 tags: ["blog"]
 title: 87 - Guitar stand
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 12155
 ---
 
-To all of you who wondered what the [day of woodcarving](http://blog.invisible.ch/2013/02/09/88-woodcarving/) produced:
+To all of you who wondered what the [day of woodcarving](/2013/02/09/88-woodcarving/) produced:
 
 A guitar stand for my Telecaster and the Norman acoustic.
 

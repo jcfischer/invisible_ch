@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-05-24 09:19:14+00:00
 layout: post
-link: http://blog.invisible.ch/2007/05/24/flow-tweakfest/
+link: http://invisible.ch/2007/05/24/flow-tweakfest/
 slug: flow-tweakfest
 tags: ["blog"]
 title: flow @ TweakFest

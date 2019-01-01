@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-02-02 17:16:32+00:00
 layout: post
-link: http://blog.invisible.ch/2005/02/02/one-of-these-weeks/
+link: http://invisible.ch/2005/02/02/one-of-these-weeks/
 slug: one-of-these-weeks
 tags: ["blog"]
 title: One of these weeks
@@ -34,6 +34,6 @@ On the positive side
 [1]: http://www.ubuntulinux.org
 [2]: http://43things.com/things/view/169
 [3]: http://www.prius.ch
-[4]: http://blog.invisible.ch/archives/000266.html
-[5]: http://blog.invisible.ch/archives/000360.html
+[4]: /archives/000266.html
+[5]: /archives/000360.html
 [6]: http://www.schauspielhaus.ch/www/107_430.asp?PlayID=19

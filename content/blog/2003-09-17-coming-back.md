@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-17 23:32:30+00:00
 layout: post
-link: http://blog.invisible.ch/2003/09/17/coming-back/
+link: http://invisible.ch/2003/09/17/coming-back/
 slug: coming-back
 tags: ["blog"]
 title: Coming back

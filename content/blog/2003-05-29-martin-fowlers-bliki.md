@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-29 00:05:09+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/29/martin-fowlers-bliki/
+link: http://invisible.ch/2003/05/29/martin-fowlers-bliki/
 slug: martin-fowlers-bliki
 tags: ["blog"]
 title: Martin Fowler's Bliki

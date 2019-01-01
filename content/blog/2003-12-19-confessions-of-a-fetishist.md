@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-12-19 08:15:37+00:00
 layout: post
-link: http://blog.invisible.ch/2003/12/19/confessions-of-a-fetishist/
+link: http://invisible.ch/2003/12/19/confessions-of-a-fetishist/
 slug: confessions-of-a-fetishist
 tags: ["blog"]
 title: Confessions of a fetishist

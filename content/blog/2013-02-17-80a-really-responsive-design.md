@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-17 21:32:01+00:00
 layout: post
-link: http://blog.invisible.ch/2013/02/17/80a-really-responsive-design/
+link: http://invisible.ch/2013/02/17/80a-really-responsive-design/
 slug: 80a-really-responsive-design
 tags: ["blog"]
 title: 80a - really responsive design
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 12183
 ---
 
-Just stumbled upon [this gem of a responsive website](http://webdesign.maratz.com/lab/responsivetypography/realtime/). It uses your Laptops webcam and a [JavaScript headtracking library](https://github.com/auduno/headtrackr/) to determine your distance to the screen. It then adjusts the fontsize of the website to fit.[![Responsive Facetracking Design](http://blog.invisible.ch/wp-content/uploads/2013/02/Screen-Shot-2013-02-17-at-22.24.49-300x190.png)](http://blog.invisible.ch/wp-content/uploads/2013/02/Screen-Shot-2013-02-17-at-22.24.49.png)
+Just stumbled upon [this gem of a responsive website](http://webdesign.maratz.com/lab/responsivetypography/realtime/). It uses your Laptops webcam and a [JavaScript headtracking library](https://github.com/auduno/headtrackr/) to determine your distance to the screen. It then adjusts the fontsize of the website to fit.[![Responsive Facetracking Design](/wp-content/uploads/2013/02/Screen-Shot-2013-02-17-at-22.24.49-300x190.png)](/wp-content/uploads/2013/02/Screen-Shot-2013-02-17-at-22.24.49.png)
 
 Great idea - and really neat.
 

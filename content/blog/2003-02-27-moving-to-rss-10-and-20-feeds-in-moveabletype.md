@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-02-27 16:34:01+00:00
 layout: post
-link: http://blog.invisible.ch/2003/02/27/moving-to-rss-10-and-20-feeds-in-moveabletype/
+link: http://invisible.ch/2003/02/27/moving-to-rss-10-and-20-feeds-in-moveabletype/
 slug: moving-to-rss-10-and-20-feeds-in-moveabletype
 tags: ["blog"]
 title: Moving to RSS 1.0 and 2.0 feeds in MoveableType

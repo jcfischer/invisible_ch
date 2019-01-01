@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-01-29 11:28:19+00:00
 layout: post
-link: http://blog.invisible.ch/2004/01/29/using-zoe-for-accounting/
+link: http://invisible.ch/2004/01/29/using-zoe-for-accounting/
 slug: using-zoe-for-accounting
 tags: ["blog"]
 title: Using ZOE for accounting

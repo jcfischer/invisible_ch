@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-05-10 10:32:07+00:00
 layout: post
-link: http://blog.invisible.ch/2004/05/10/most-stupid-url/
+link: http://invisible.ch/2004/05/10/most-stupid-url/
 slug: most-stupid-url
 tags: ["blog"]
 title: Most stupid URL
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 272
 ---
 
-Having clear URLs on your page or in your web applictation not only is a help to users, but make you think about structure and usability. And - [I was wrong](http://blog.invisible.ch/archives/000132.html)
+Having clear URLs on your page or in your web applictation not only is a help to users, but make you think about structure and usability. And - [I was wrong](/archives/000132.html)
 
 I just happend to come across an email on the [Prius Mailing List](http://de.groups.yahoo.com/group/toyota_prius_de/) that had a number of links to Prius ressources.
 
@@ -35,6 +35,6 @@ In my earlier web applications I tried to overcome the browsers limitations as m
 
 But it makes so much more sense to recognize that the browser is -- hold it -- a browser, and not a sophisticated fat client with tons of functionality. Once that realisation sets it, the challenge become to desing an application that doesn't try to mimic a rich UI (and there are some amazin examples out there 
 
-ZAPPATA uses a pure URL based interface. Everything can be adressed with a URL. Neither server nor client keep state. Everything is bookmarkable (searches, actions, lists). I have seen the light and [retract what I said earlier](http://blog.invisible.ch/archives/000132.html).
+ZAPPATA uses a pure URL based interface. Everything can be adressed with a URL. Neither server nor client keep state. Everything is bookmarkable (searches, actions, lists). I have seen the light and [retract what I said earlier](/archives/000132.html).
 
 If your application runs in a browser, make sure it works well in the browser and looks and feels like a well designed web site.

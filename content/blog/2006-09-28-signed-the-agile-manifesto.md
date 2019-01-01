@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-09-28 13:51:39+00:00
 layout: post
-link: http://blog.invisible.ch/2006/09/28/signed-the-agile-manifesto/
+link: http://invisible.ch/2006/09/28/signed-the-agile-manifesto/
 slug: signed-the-agile-manifesto
 tags: ["blog"]
 title: signed the Agile Manifesto

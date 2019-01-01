@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-11-22 02:01:33+00:00
 layout: post
-link: http://blog.invisible.ch/2003/11/22/pragmatic-books/
+link: http://invisible.ch/2003/11/22/pragmatic-books/
 slug: pragmatic-books
 tags: ["blog"]
 title: Pragmatic Books

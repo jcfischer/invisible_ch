@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-06-17 12:30:03+00:00
 layout: post
-link: http://blog.invisible.ch/2011/06/17/bericht-vom-ersten-zurcher-dojo/
+link: http://invisible.ch/2011/06/17/bericht-vom-ersten-zurcher-dojo/
 slug: bericht-vom-ersten-zurcher-dojo
 tags: ["blog"]
 title: Bericht vom ersten Zürcher Dojo

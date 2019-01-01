@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-31 12:57:24+00:00
 layout: post
-link: http://blog.invisible.ch/2003/03/31/whats-next/
+link: http://invisible.ch/2003/03/31/whats-next/
 slug: whats-next
 tags: ["blog"]
 title: What's next?

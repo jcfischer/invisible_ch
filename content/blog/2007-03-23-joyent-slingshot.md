@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-03-23 06:49:55+00:00
 layout: post
-link: http://blog.invisible.ch/2007/03/23/joyent-slingshot/
+link: http://invisible.ch/2007/03/23/joyent-slingshot/
 slug: joyent-slingshot
 tags: ["blog"]
 title: Joyent Slingshot

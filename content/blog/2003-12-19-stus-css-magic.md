@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-12-19 23:00:56+00:00
 layout: post
-link: http://blog.invisible.ch/2003/12/19/stus-css-magic/
+link: http://invisible.ch/2003/12/19/stus-css-magic/
 slug: stus-css-magic
 tags: ["blog"]
 title: Stu's CSS magic

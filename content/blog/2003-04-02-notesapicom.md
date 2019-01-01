@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-04-02 11:21:59+00:00
 layout: post
-link: http://blog.invisible.ch/2003/04/02/notesapicom/
+link: http://invisible.ch/2003/04/02/notesapicom/
 slug: notesapicom
 tags: ["blog"]
 title: Notesapi.com

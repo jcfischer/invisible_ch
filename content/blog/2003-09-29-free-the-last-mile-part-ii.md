@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-29 12:53:01+00:00
 layout: post
-link: http://blog.invisible.ch/2003/09/29/free-the-last-mile-part-ii/
+link: http://invisible.ch/2003/09/29/free-the-last-mile-part-ii/
 slug: free-the-last-mile-part-ii
 tags: ["blog"]
 title: Free the last mile, part II

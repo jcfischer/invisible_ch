@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-10-14 13:25:14+00:00
 layout: post
-link: http://blog.invisible.ch/2004/10/14/music-memorabilia/
+link: http://invisible.ch/2004/10/14/music-memorabilia/
 slug: music-memorabilia
 tags: ["blog"]
 title: Music Memorabilia

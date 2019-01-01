@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-02 14:55:10+00:00
 layout: post
-link: http://blog.invisible.ch/2003/03/02/us-spying-on-unsc-members/
+link: http://invisible.ch/2003/03/02/us-spying-on-unsc-members/
 slug: us-spying-on-unsc-members
 tags: ["blog"]
 title: US spying on UNSC members

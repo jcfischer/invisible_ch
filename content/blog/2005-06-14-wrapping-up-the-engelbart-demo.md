@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-14 08:54:20+00:00
 layout: post
-link: http://blog.invisible.ch/2005/06/14/wrapping-up-the-engelbart-demo/
+link: http://invisible.ch/2005/06/14/wrapping-up-the-engelbart-demo/
 slug: wrapping-up-the-engelbart-demo
 tags: ["blog"]
 title: Wrapping up the Engelbart demo

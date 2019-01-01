@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-13 10:38:52+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/13/lotusscript-snippets/
+link: http://invisible.ch/2003/05/13/lotusscript-snippets/
 slug: lotusscript-snippets
 tags: ["blog"]
 title: LotusScript Snippets

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-04-27 22:01:29+00:00
 layout: post
-link: http://blog.invisible.ch/2013/04/27/13-the-unanswered-question/
+link: http://invisible.ch/2013/04/27/13-the-unanswered-question/
 slug: 13-the-unanswered-question
 tags: ["blog"]
 title: 13 - the unanswered question
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 12873
 ---
 
-Fallout from the [Songwriting course](http://blog.invisible.ch/2013/04/24/16-pat-pattisons-introduction-to-songwriting-recap/) was a link to [Leonard Bernsteins](http://en.wikipedia.org/wiki/Leonard_Bernstein) 1973 Harward Norton Lecture "[The unanswered question](https://www.youtube.com/playlist?list=PLwA6LUf2OwxZ53dFAnRZXqPVodZNaoOQK)". While ironing my shirts today I watched lecture nr 2 about the syntax of music.
+Fallout from the [Songwriting course](/2013/04/24/16-pat-pattisons-introduction-to-songwriting-recap/) was a link to [Leonard Bernsteins](http://en.wikipedia.org/wiki/Leonard_Bernstein) 1973 Harward Norton Lecture "[The unanswered question](https://www.youtube.com/playlist?list=PLwA6LUf2OwxZ53dFAnRZXqPVodZNaoOQK)". While ironing my shirts today I watched lecture nr 2 about the syntax of music.
 
 
 

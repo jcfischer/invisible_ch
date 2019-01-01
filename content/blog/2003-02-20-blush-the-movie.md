@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-02-20 15:34:59+00:00
 layout: post
-link: http://blog.invisible.ch/2003/02/20/blush-the-movie/
+link: http://invisible.ch/2003/02/20/blush-the-movie/
 slug: blush-the-movie
 tags: ["blog"]
 title: Blush - the movie

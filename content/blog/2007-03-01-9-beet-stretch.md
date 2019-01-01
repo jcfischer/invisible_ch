@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-03-01 16:12:40+00:00
 layout: post
-link: http://blog.invisible.ch/2007/03/01/9-beet-stretch/
+link: http://invisible.ch/2007/03/01/9-beet-stretch/
 slug: 9-beet-stretch
 tags: ["blog"]
 title: 9 Beet Stretch

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-11-12 18:18:17+00:00
 layout: post
-link: http://blog.invisible.ch/2006/11/12/did-i-mention-that-i-love-ruby/
+link: http://invisible.ch/2006/11/12/did-i-mention-that-i-love-ruby/
 slug: did-i-mention-that-i-love-ruby
 tags: ["blog"]
 title: Did I mention that I love Ruby?

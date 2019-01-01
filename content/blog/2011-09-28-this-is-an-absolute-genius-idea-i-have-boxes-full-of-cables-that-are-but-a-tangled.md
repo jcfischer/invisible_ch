@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-09-28 09:23:24+00:00
 layout: post
-link: http://blog.invisible.ch/2011/09/28/this-is-an-absolute-genius-idea-i-have-boxes-full-of-cables-that-are-but-a-tangled/
+link: http://invisible.ch/2011/09/28/this-is-an-absolute-genius-idea-i-have-boxes-full-of-cables-that-are-but-a-tangled/
 slug: this-is-an-absolute-genius-idea-i-have-boxes-full-of-cables-that-are-but-a-tangled
 tags: ["blog"]
 title: This is an absolute genius idea - I have boxes full of cables that are but

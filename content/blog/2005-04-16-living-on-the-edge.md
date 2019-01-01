@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-04-16 19:23:28+00:00
 layout: post
-link: http://blog.invisible.ch/2005/04/16/living-on-the-edge/
+link: http://invisible.ch/2005/04/16/living-on-the-edge/
 slug: living-on-the-edge
 tags: ["blog"]
 title: Living on the EDGE
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 399
 ---
 
-![edge.jpg](http://blog.invisible.ch/images/edge.jpg)
+![edge.jpg](/images/edge.jpg)
 
 This is the view I'm enjoying right now. Looking out living room window of our holiday-flat in a [little village][1] in the mountains south-west in Switzerland. This is a really small village, some 1300 inhabitants and almost non-existent tourism. But there are sheep and goats and this village happens to have the highest vineyards in Europe, so the supply with cheese, meat and wine is endless and excellent. And the people are extremely friendly. Great area for quiet holidays or working days.
 

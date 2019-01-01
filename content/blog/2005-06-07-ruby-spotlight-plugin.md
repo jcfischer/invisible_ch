@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-07 06:20:41+00:00
 layout: post
-link: http://blog.invisible.ch/2005/06/07/ruby-spotlight-plugin/
+link: http://invisible.ch/2005/06/07/ruby-spotlight-plugin/
 slug: ruby-spotlight-plugin
 tags: ["blog"]
 title: Ruby Spotlight Plugin
@@ -13,7 +13,7 @@ wordpress_id: 420
 ---
 
 
-[![Ruby-Import](http://blog.invisible.ch/ruby-import-tm.jpg)](http://blog.invisible.ch/ruby-import.png)
+[![Ruby-Import](/ruby-import-tm.jpg)](/ruby-import.png)
   
 Spotlight continues to be useful: With the [RubyImporter](http://www.apple.com/downloads/macosx/spotlight/rubyimporter.html) Plugin it understands Ruby Code... Neat
 

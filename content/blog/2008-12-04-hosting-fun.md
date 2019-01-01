@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2008-12-04 19:43:26+00:00
 layout: post
-link: http://blog.invisible.ch/2008/12/04/hosting-fun/
+link: http://invisible.ch/2008/12/04/hosting-fun/
 slug: hosting-fun
 tags: ["blog"]
 title: Hosting fun

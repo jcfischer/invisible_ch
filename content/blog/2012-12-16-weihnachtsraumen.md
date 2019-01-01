@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2012-12-16 11:33:14+00:00
 layout: post
-link: http://blog.invisible.ch/2012/12/16/weihnachtsraumen/
+link: http://invisible.ch/2012/12/16/weihnachtsraumen/
 slug: weihnachtsraumen
 tags: ["blog"]
 title: Weihnachtsräumen

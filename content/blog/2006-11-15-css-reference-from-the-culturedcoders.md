@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-11-15 12:40:18+00:00
 layout: post
-link: http://blog.invisible.ch/2006/11/15/css-reference-from-the-culturedcoders/
+link: http://invisible.ch/2006/11/15/css-reference-from-the-culturedcoders/
 slug: css-reference-from-the-culturedcoders
 tags: ["blog"]
 title: CSS Reference from the CulturedCoders
@@ -19,7 +19,7 @@ wordpress_id: 567
 
 [1]: http://www.culturedcode.com
 [2]: http://www.culturedcode.com/xyle/index.html
-[3]: http://blog.invisible.ch/2005/05/23/a-css-microscope/
+[3]: /2005/05/23/a-css-microscope/
 [4]: http://www.culturedcode.com/css/reference.html
 
 

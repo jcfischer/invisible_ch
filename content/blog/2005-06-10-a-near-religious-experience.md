@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-10 20:03:48+00:00
 layout: post
-link: http://blog.invisible.ch/2005/06/10/a-near-religious-experience/
+link: http://invisible.ch/2005/06/10/a-near-religious-experience/
 slug: a-near-religious-experience
 tags: ["blog"]
 title: A near religious experience

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-22 06:32:33+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/22/mobile-blogging-with-the-p800/
+link: http://invisible.ch/2003/05/22/mobile-blogging-with-the-p800/
 slug: mobile-blogging-with-the-p800
 tags: ["blog"]
 title: mobile blogging with the p800

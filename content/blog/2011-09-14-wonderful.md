@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-09-14 07:10:04+00:00
 layout: post
-link: http://blog.invisible.ch/2011/09/14/wonderful/
+link: http://invisible.ch/2011/09/14/wonderful/
 slug: wonderful
 tags: ["blog"]
 title: wonderful!

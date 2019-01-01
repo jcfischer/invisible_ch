@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-06-03 14:43:31+00:00
 layout: post
-link: http://blog.invisible.ch/2003/06/03/trepia-im-your-neighbourhood/
+link: http://invisible.ch/2003/06/03/trepia-im-your-neighbourhood/
 slug: trepia-im-your-neighbourhood
 tags: ["blog"]
 title: Trepia - IM your neighbourhood

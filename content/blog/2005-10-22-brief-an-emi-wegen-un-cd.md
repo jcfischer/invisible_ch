@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-10-22 13:58:52+00:00
 layout: post
-link: http://blog.invisible.ch/2005/10/22/brief-an-emi-wegen-un-cd/
+link: http://invisible.ch/2005/10/22/brief-an-emi-wegen-un-cd/
 slug: brief-an-emi-wegen-un-cd
 tags: ["blog"]
 title: Brief an EMI wegen Un-CD

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-05-15 19:49:24+00:00
 layout: post
-link: http://blog.invisible.ch/2005/05/15/20-things-in-tiger/
+link: http://invisible.ch/2005/05/15/20-things-in-tiger/
 slug: 20-things-in-tiger
 tags: ["blog"]
 title: 20 things in Tiger

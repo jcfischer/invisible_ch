@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-02-02 15:28:37+00:00
 layout: post
-link: http://blog.invisible.ch/2006/02/02/open-source-course-materials/
+link: http://invisible.ch/2006/02/02/open-source-course-materials/
 slug: open-source-course-materials
 tags: ["blog"]
 title: Open Source Course Materials

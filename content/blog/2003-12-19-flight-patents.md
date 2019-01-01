@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-12-19 23:34:40+00:00
 layout: post
-link: http://blog.invisible.ch/2003/12/19/flight-patents/
+link: http://invisible.ch/2003/12/19/flight-patents/
 slug: flight-patents
 tags: ["blog"]
 title: F(l)ight Patents

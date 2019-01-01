@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-12 19:19:07+00:00
 layout: post
-link: http://blog.invisible.ch/2013/03/12/57-music-is-the-best/
+link: http://invisible.ch/2013/03/12/57-music-is-the-best/
 slug: 57-music-is-the-best
 tags: ["blog"]
 title: 57 - music is the best

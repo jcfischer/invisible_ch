@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-03-08 22:46:02+00:00
 layout: post
-link: http://blog.invisible.ch/2006/03/08/its-the-cables-stupid/
+link: http://invisible.ch/2006/03/08/its-the-cables-stupid/
 slug: its-the-cables-stupid
 tags: ["blog"]
 title: It's the cables, stupid

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-21 15:33:29+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/21/icebergs-and-screen-design/
+link: http://invisible.ch/2003/05/21/icebergs-and-screen-design/
 slug: icebergs-and-screen-design
 tags: ["blog"]
 title: Icebergs and Screen Design

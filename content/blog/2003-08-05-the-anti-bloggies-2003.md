@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-08-05 00:35:23+00:00
 layout: post
-link: http://blog.invisible.ch/2003/08/05/the-anti-bloggies-2003/
+link: http://invisible.ch/2003/08/05/the-anti-bloggies-2003/
 slug: the-anti-bloggies-2003
 tags: ["blog"]
 title: The Anti-Bloggies 2003

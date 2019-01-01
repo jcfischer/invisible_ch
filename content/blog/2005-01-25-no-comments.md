@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: false
 date: 2005-01-25 12:22:23+00:00
 layout: post
-link: http://blog.invisible.ch/2005/01/25/no-comments/
+link: http://invisible.ch/2005/01/25/no-comments/
 slug: no-comments
 tags: ["blog"]
 title: No Comments

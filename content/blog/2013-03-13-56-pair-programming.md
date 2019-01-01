@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-13 21:58:27+00:00
 layout: post
-link: http://blog.invisible.ch/2013/03/13/56-pair-programming/
+link: http://invisible.ch/2013/03/13/56-pair-programming/
 slug: 56-pair-programming
 tags: ["blog"]
 title: 56 - pair programming

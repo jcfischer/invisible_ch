@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-12-08 21:24:24+00:00
 layout: post
-link: http://blog.invisible.ch/2005/12/08/moving-the-blog-to-wordpress/
+link: http://invisible.ch/2005/12/08/moving-the-blog-to-wordpress/
 slug: moving-the-blog-to-wordpress
 tags: ["blog"]
 title: Moving the blog to Wordpress?

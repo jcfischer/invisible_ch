@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-22 17:18:06+00:00
 layout: post
-link: http://blog.invisible.ch/2005/11/22/real-viagra-spam/
+link: http://invisible.ch/2005/11/22/real-viagra-spam/
 slug: real-viagra-spam
 tags: ["blog"]
 title: Real Viagra Spam
@@ -17,7 +17,7 @@ It's not enough that our mailboxes are overflowing with Viagra spam. Now Pfizer 
 
 
 
-[![3D-Viagra-Spam](http://blog.invisible.ch/3d-viagra-spam-tm.jpg)](http://blog.invisible.ch/3d-viagra-spam.jpg)
+[![3D-Viagra-Spam](/3d-viagra-spam-tm.jpg)](/3d-viagra-spam.jpg)
 
 
 

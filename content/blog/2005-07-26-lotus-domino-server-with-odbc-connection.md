@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-07-26 21:57:10+00:00
 layout: post
-link: http://blog.invisible.ch/2005/07/26/lotus-domino-server-with-odbc-connection/
+link: http://invisible.ch/2005/07/26/lotus-domino-server-with-odbc-connection/
 slug: lotus-domino-server-with-odbc-connection
 tags: ["blog"]
 title: Lotus Domino Server with ODBC connection

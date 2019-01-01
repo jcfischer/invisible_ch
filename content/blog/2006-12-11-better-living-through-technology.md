@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-12-11 22:12:39+00:00
 layout: post
-link: http://blog.invisible.ch/2006/12/11/better-living-through-technology/
+link: http://invisible.ch/2006/12/11/better-living-through-technology/
 slug: better-living-through-technology
 tags: ["blog"]
 title: Better living through technology

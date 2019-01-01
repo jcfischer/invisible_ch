@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2008-03-16 06:33:10+00:00
 layout: post
-link: http://blog.invisible.ch/2008/03/16/administrative-debris/
+link: http://invisible.ch/2008/03/16/administrative-debris/
 slug: administrative-debris
 tags: ["blog"]
 title: Administrative Debris
@@ -29,7 +29,7 @@ Does this work? Perusing his website (which I hadn't seen before) it seems like 
 I will have to let that sink in for a while and try to incorporate it into my next designs. (Yes, this blog could use a redesign too, but most of my readers already see the "pure information" version anyway - in their RSS readers. So this hasn't really much priority)
 
 
-[1]: http://blog.invisible.ch/2008/03/12/the-flow-2008-03-12/
+[1]: /2008/03/12/the-flow-2008-03-12/
 [2]: http://tomayko.com/writings/administrative-debris
 [3]: http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00036T
 

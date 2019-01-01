@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-10-28 20:29:52+00:00
 layout: post
-link: http://blog.invisible.ch/2007/10/28/rails-stack-on-leopard/
+link: http://invisible.ch/2007/10/28/rails-stack-on-leopard/
 slug: rails-stack-on-leopard
 tags: ["blog"]
 title: Rails Stack on Leopard

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-04-23 05:55:14+00:00
 layout: post
-link: http://blog.invisible.ch/2005/04/23/the-nsa-secures-your-computer/
+link: http://invisible.ch/2005/04/23/the-nsa-secures-your-computer/
 slug: the-nsa-secures-your-computer
 tags: ["blog"]
 title: The NSA secures your computer

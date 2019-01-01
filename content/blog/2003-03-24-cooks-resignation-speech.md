@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-24 09:21:03+00:00
 layout: post
-link: http://blog.invisible.ch/2003/03/24/cooks-resignation-speech/
+link: http://invisible.ch/2003/03/24/cooks-resignation-speech/
 slug: cooks-resignation-speech
 tags: ["blog"]
 title: Cook's resignation speech

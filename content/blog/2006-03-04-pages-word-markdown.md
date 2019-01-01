@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-03-04 11:00:36+00:00
 layout: post
-link: http://blog.invisible.ch/2006/03/04/pages-word-markdown/
+link: http://invisible.ch/2006/03/04/pages-word-markdown/
 slug: pages-word-markdown
 tags: ["blog"]
 title: Pages - Word - Markdown

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-11-05 11:11:30+00:00
 layout: post
-link: http://blog.invisible.ch/2004/11/05/invisible-web-site-launched/
+link: http://invisible.ch/2004/11/05/invisible-web-site-launched/
 slug: invisible-web-site-launched
 tags: ["blog"]
 title: invisible web site launched

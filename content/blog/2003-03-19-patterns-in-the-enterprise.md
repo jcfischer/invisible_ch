@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-19 23:16:21+00:00
 layout: post
-link: http://blog.invisible.ch/2003/03/19/patterns-in-the-enterprise/
+link: http://invisible.ch/2003/03/19/patterns-in-the-enterprise/
 slug: patterns-in-the-enterprise
 tags: ["blog"]
 title: Patterns in the Enterprise

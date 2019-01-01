@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-08-20 20:58:17+00:00
 layout: post
-link: http://blog.invisible.ch/2006/08/20/where-will-the-madness-end/
+link: http://invisible.ch/2006/08/20/where-will-the-madness-end/
 slug: where-will-the-madness-end
 tags: ["blog"]
 title: Where will the madness end

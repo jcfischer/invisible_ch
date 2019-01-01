@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-02-25 06:20:11+00:00
 layout: post
-link: http://blog.invisible.ch/2003/02/25/geourl-whos-next-to-you/
+link: http://invisible.ch/2003/02/25/geourl-whos-next-to-you/
 slug: geourl-whos-next-to-you
 tags: ["blog"]
 title: GeoUrl - who's next to you?

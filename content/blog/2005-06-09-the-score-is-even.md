@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-09 23:29:05+00:00
 layout: post
-link: http://blog.invisible.ch/2005/06/09/the-score-is-even/
+link: http://invisible.ch/2005/06/09/the-score-is-even/
 slug: the-score-is-even
 tags: ["blog"]
 title: The score is even

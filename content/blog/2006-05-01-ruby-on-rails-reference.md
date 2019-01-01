@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-05-01 15:41:37+00:00
 layout: post
-link: http://blog.invisible.ch/2006/05/01/ruby-on-rails-reference/
+link: http://invisible.ch/2006/05/01/ruby-on-rails-reference/
 slug: ruby-on-rails-reference
 tags: ["blog"]
 title: Ruby On Rails Reference
@@ -35,12 +35,12 @@ The guide will always be free, but if you'd like, you can buy me a beer by press
 
 
 [1]: http://creativecommons.org
-[2]: http://blog.invisible.ch/files/rails-reference-1.1.pdf
+[2]: /files/rails-reference-1.1.pdf
 [3]: http://daringfireball.net/projects/markdown/
 [4]: http://invisible.ch/projects/browser/rails-seminar/doc
-[5]: http://blog.invisible.ch/files/rails-reference-1.1.html
+[5]: /files/rails-reference-1.1.html
 [6]: http://digg.com/programming/ruby_on_rails_reference_cheatsheet
-[7]: http://blog.invisible.ch/files/changelog.html
+[7]: /files/changelog.html
 
 
 

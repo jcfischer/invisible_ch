@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-08-23 08:40:39+00:00
 layout: post
-link: http://blog.invisible.ch/2007/08/23/how-to-get-things-done/
+link: http://invisible.ch/2007/08/23/how-to-get-things-done/
 slug: how-to-get-things-done
 tags: ["blog"]
 title: How to get things done

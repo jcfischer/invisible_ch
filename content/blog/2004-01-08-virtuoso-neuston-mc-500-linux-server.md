@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-01-08 21:02:54+00:00
 layout: post
-link: http://blog.invisible.ch/2004/01/08/virtuoso-neuston-mc-500-linux-server/
+link: http://invisible.ch/2004/01/08/virtuoso-neuston-mc-500-linux-server/
 slug: virtuoso-neuston-mc-500-linux-server
 tags: ["blog"]
 title: Virtuoso Neuston MC-500 & Linux Server

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-04-23 13:47:53+00:00
 layout: post
-link: http://blog.invisible.ch/2003/04/23/flight-risk/
+link: http://invisible.ch/2003/04/23/flight-risk/
 slug: flight-risk
 tags: ["blog"]
 title: Flight Risk

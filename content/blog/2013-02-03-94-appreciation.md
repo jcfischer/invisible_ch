@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-03 20:54:57+00:00
 layout: post
-link: http://blog.invisible.ch/2013/02/03/94-appreciation/
+link: http://invisible.ch/2013/02/03/94-appreciation/
 slug: 94-appreciation
 tags: ["blog"]
 title: 94 - Appreciation

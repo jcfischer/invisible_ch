@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-03-09 20:50:41+00:00
 layout: post
-link: http://blog.invisible.ch/2006/03/09/installing-xen-30-on-debian-sarge/
+link: http://invisible.ch/2006/03/09/installing-xen-30-on-debian-sarge/
 slug: installing-xen-30-on-debian-sarge
 tags: ["blog"]
 title: Installing XEN 3.0 on Debian Sarge
@@ -61,7 +61,7 @@ Random Xen Documentation:
 
 * [http://linuxwiki.de/Xen][4]
 
-[1]: http://blog.invisible.ch/2004/08/30/welcome-to/
+[1]: /2004/08/30/welcome-to/
 [2]: http://www.xensource.com
 [3]: http://www.debian-administration.org/articles/304
 [4]: http://linuxwiki.de/Xen

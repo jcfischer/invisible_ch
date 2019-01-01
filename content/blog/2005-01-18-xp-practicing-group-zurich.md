@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-01-18 15:47:29+00:00
 layout: post
-link: http://blog.invisible.ch/2005/01/18/xp-practicing-group-zurich/
+link: http://invisible.ch/2005/01/18/xp-practicing-group-zurich/
 slug: xp-practicing-group-zurich
 tags: ["blog"]
 title: XP Practicing Group Zurich

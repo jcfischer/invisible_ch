@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-05-07 20:46:52+00:00
 layout: post
-link: http://blog.invisible.ch/2005/05/07/heavy-metal/
+link: http://invisible.ch/2005/05/07/heavy-metal/
 slug: heavy-metal
 tags: ["blog"]
 title: Heavy Metal

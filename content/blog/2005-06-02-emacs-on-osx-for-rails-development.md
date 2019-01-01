@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-02 10:00:29+00:00
 layout: post
-link: http://blog.invisible.ch/2005/06/02/emacs-on-osx-for-rails-development/
+link: http://invisible.ch/2005/06/02/emacs-on-osx-for-rails-development/
 slug: emacs-on-osx-for-rails-development
 tags: ["blog"]
 title: EMacs on OS/X for Rails development
@@ -54,7 +54,7 @@ All my extensions are in ~/lisp and that file (as well as ~/.emacs) are under ve
 
 
 
-see my [.emacs](http://blog.invisible.ch/.emacs)  file for a possible way of doing this
+see my [.emacs](/.emacs)  file for a possible way of doing this
 
 
 

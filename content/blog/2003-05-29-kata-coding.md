@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-29 00:14:20+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/29/kata-coding/
+link: http://invisible.ch/2003/05/29/kata-coding/
 slug: kata-coding
 tags: ["blog"]
 title: Kata Coding

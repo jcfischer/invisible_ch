@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-03-16 11:53:13+00:00
 layout: post
-link: http://blog.invisible.ch/2005/03/16/web-services/
+link: http://invisible.ch/2005/03/16/web-services/
 slug: web-services
 tags: ["blog"]
 title: Web services

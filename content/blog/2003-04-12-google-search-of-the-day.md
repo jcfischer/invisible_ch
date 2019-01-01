@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-04-12 19:31:57+00:00
 layout: post
-link: http://blog.invisible.ch/2003/04/12/google-search-of-the-day/
+link: http://invisible.ch/2003/04/12/google-search-of-the-day/
 slug: google-search-of-the-day
 tags: ["blog"]
 title: Google Search of the day

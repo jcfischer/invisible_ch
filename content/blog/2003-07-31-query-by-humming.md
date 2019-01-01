@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-07-31 15:38:06+00:00
 layout: post
-link: http://blog.invisible.ch/2003/07/31/query-by-humming/
+link: http://invisible.ch/2003/07/31/query-by-humming/
 slug: query-by-humming
 tags: ["blog"]
 title: Query by Humming

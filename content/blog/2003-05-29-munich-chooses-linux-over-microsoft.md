@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-29 14:42:40+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/29/munich-chooses-linux-over-microsoft/
+link: http://invisible.ch/2003/05/29/munich-chooses-linux-over-microsoft/
 slug: munich-chooses-linux-over-microsoft
 tags: ["blog"]
 title: Munich chooses Linux over Microsoft

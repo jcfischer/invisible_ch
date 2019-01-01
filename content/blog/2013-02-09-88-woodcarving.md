@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-09 19:04:26+00:00
 layout: post
-link: http://blog.invisible.ch/2013/02/09/88-woodcarving/
+link: http://invisible.ch/2013/02/09/88-woodcarving/
 slug: 88-woodcarving
 tags: ["blog"]
 title: 88 - Woodcarving

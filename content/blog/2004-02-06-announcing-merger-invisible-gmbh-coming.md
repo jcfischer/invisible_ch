@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-02-06 16:29:01+00:00
 layout: post
-link: http://blog.invisible.ch/2004/02/06/announcing-merger-invisible-gmbh-coming/
+link: http://invisible.ch/2004/02/06/announcing-merger-invisible-gmbh-coming/
 slug: announcing-merger-invisible-gmbh-coming
 tags: ["blog"]
 title: 'Announcing merger: InVisible GmbH coming'
@@ -20,4 +20,4 @@ Both are what is called "Einzelfirmen" - they are companies that belong to indiv
 
 Well - it makes sense for our companies to merge. We announce the forming of the new company "InVisible GmbH" as of today.
 
-Unfortunately that means that the blog has to move to a new location, as you may have noticed, the new URL is [blog.invisible.ch](http://blog.invisible.ch/).
+Unfortunately that means that the blog has to move to a new location, as you may have noticed, the new URL is [invisible.ch](/).

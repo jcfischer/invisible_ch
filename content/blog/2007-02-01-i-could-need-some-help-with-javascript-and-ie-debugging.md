@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-02-01 11:23:40+00:00
 layout: post
-link: http://blog.invisible.ch/2007/02/01/i-could-need-some-help-with-javascript-and-ie-debugging/
+link: http://invisible.ch/2007/02/01/i-could-need-some-help-with-javascript-and-ie-debugging/
 slug: i-could-need-some-help-with-javascript-and-ie-debugging
 tags: ["blog"]
 title: I could need some help with Javascript and IE debugging

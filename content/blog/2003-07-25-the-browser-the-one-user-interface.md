@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-07-25 07:40:21+00:00
 layout: post
-link: http://blog.invisible.ch/2003/07/25/the-browser-the-one-user-interface/
+link: http://invisible.ch/2003/07/25/the-browser-the-one-user-interface/
 slug: the-browser-the-one-user-interface
 tags: ["blog"]
 title: The browser - the one user interface?

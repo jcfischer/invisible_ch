@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-08-06 17:47:50+00:00
 layout: post
-link: http://blog.invisible.ch/2003/08/06/note-to-self-check-out-syncml-and-mess/
+link: http://invisible.ch/2003/08/06/note-to-self-check-out-syncml-and-mess/
 slug: note-to-self-check-out-syncml-and-mess
 tags: ["blog"]
 title: 'Note To Self: Check out SyncML and MESS'

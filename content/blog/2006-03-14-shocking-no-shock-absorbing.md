@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-03-14 19:32:08+00:00
 layout: post
-link: http://blog.invisible.ch/2006/03/14/shocking-no-shock-absorbing/
+link: http://invisible.ch/2006/03/14/shocking-no-shock-absorbing/
 slug: shocking-no-shock-absorbing
 tags: ["blog"]
 title: Shocking - no - shock absorbing

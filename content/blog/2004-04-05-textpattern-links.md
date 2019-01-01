@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-04-05 10:08:02+00:00
 layout: post
-link: http://blog.invisible.ch/2004/04/05/textpattern-links/
+link: http://invisible.ch/2004/04/05/textpattern-links/
 slug: textpattern-links
 tags: ["blog"]
 title: Textpattern links

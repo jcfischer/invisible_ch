@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-03-14 22:27:37+00:00
 layout: post
-link: http://blog.invisible.ch/2006/03/14/installing-lotus-domino-654-in-debian-xen/
+link: http://invisible.ch/2006/03/14/installing-lotus-domino-654-in-debian-xen/
 slug: installing-lotus-domino-654-in-debian-xen
 tags: ["blog"]
 title: Installing Lotus Domino 6.5.4 in Debian XEN

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-11-20 11:40:23+00:00
 layout: post
-link: http://blog.invisible.ch/2003/11/20/made-it-through-the-ole-filter/
+link: http://invisible.ch/2003/11/20/made-it-through-the-ole-filter/
 slug: made-it-through-the-ole-filter
 tags: ["blog"]
 title: Made it through the OLE filter

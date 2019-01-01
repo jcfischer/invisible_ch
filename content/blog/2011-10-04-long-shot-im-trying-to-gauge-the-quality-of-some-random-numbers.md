@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-10-04 23:56:55+00:00
 layout: post
-link: http://blog.invisible.ch/2011/10/04/long-shot-im-trying-to-gauge-the-quality-of-some-random-numbers/
+link: http://invisible.ch/2011/10/04/long-shot-im-trying-to-gauge-the-quality-of-some-random-numbers/
 slug: long-shot-im-trying-to-gauge-the-quality-of-some-random-numbers
 tags: ["blog"]
 title: 'Long shot: I''m trying to gauge the quality of some "random" numbers...'

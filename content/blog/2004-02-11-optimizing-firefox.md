@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-02-11 11:33:39+00:00
 layout: post
-link: http://blog.invisible.ch/2004/02/11/optimizing-firefox/
+link: http://invisible.ch/2004/02/11/optimizing-firefox/
 slug: optimizing-firefox
 tags: ["blog"]
 title: Optimizing FireFox

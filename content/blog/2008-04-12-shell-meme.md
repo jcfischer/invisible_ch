@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2008-04-12 22:12:07+00:00
 layout: post
-link: http://blog.invisible.ch/2008/04/12/shell-meme/
+link: http://invisible.ch/2008/04/12/shell-meme/
 slug: shell-meme
 tags: ["blog"]
 title: Shell Meme
@@ -27,4 +27,4 @@ I [did this before][1]...
          6	rm
 
 
-[1]: http://blog.invisible.ch/2006/09/28/one-of-theses-memes/
+[1]: /2006/09/28/one-of-theses-memes/

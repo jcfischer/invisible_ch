@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-09 20:02:34+00:00
 layout: post
-link: http://blog.invisible.ch/2013/03/09/60-life-game-video/
+link: http://invisible.ch/2013/03/09/60-life-game-video/
 slug: 60-life-game-video
 tags: ["blog"]
 title: 60 - life - game - video

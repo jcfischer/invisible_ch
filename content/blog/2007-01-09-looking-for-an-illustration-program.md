@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-01-09 14:06:31+00:00
 layout: post
-link: http://blog.invisible.ch/2007/01/09/looking-for-an-illustration-program/
+link: http://invisible.ch/2007/01/09/looking-for-an-illustration-program/
 slug: looking-for-an-illustration-program
 tags: ["blog"]
 title: Looking for an illustration program

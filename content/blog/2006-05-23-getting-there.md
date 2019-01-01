@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-05-23 22:00:24+00:00
 layout: post
-link: http://blog.invisible.ch/2006/05/23/getting-there/
+link: http://invisible.ch/2006/05/23/getting-there/
 slug: getting-there
 tags: ["blog"]
 title: getting there
@@ -28,7 +28,7 @@ The lack of updates here are due to a variety of reasons:
  * I'm sure there's more...
 
 [1]: http://195.243.121.239/training/ausbildung/organisation/index.htm
-[2]: blog.invisible.ch/2006/05/01/ruby-on-rails-reference/
+[2]: invisible.ch/2006/05/01/ruby-on-rails-reference/
 [3]: http://reboot.dk/
 [4]: https://www.openbc.com/net/reboot/
 [5]: http://www.roell.net/weblog/archiv/2006/05/22/reboot_openbc.shtml

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-05-24 22:47:09+00:00
 layout: post
-link: http://blog.invisible.ch/2004/05/24/web-based-mac-se/
+link: http://invisible.ch/2004/05/24/web-based-mac-se/
 slug: web-based-mac-se
 tags: ["blog"]
 title: Web based Mac SE

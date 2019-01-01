@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-19 08:15:50+00:00
 layout: post
-link: http://blog.invisible.ch/2003/03/19/new-version-of-freenet-is-out/
+link: http://invisible.ch/2003/03/19/new-version-of-freenet-is-out/
 slug: new-version-of-freenet-is-out
 tags: ["blog"]
 title: New version of Freenet is out

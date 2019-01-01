@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-12-28 18:34:32+00:00
 layout: post
-link: http://blog.invisible.ch/2003/12/28/what-flower/
+link: http://invisible.ch/2003/12/28/what-flower/
 slug: what-flower
 tags: ["blog"]
 title: What flower

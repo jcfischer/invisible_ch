@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-11-01 11:15:59+00:00
 layout: post
-link: http://blog.invisible.ch/2004/11/01/moving-moving-moving/
+link: http://invisible.ch/2004/11/01/moving-moving-moving/
 slug: moving-moving-moving
 tags: ["blog"]
 title: Moving, moving, moving

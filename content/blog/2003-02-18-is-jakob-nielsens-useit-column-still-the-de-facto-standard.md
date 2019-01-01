@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-02-18 16:17:45+00:00
 layout: post
-link: http://blog.invisible.ch/2003/02/18/is-jakob-nielsens-useit-column-still-the-de-facto-standard/
+link: http://invisible.ch/2003/02/18/is-jakob-nielsens-useit-column-still-the-de-facto-standard/
 slug: is-jakob-nielsens-useit-column-still-the-de-facto-standard
 tags: ["blog"]
 title: Is Jakob Nielsen's UseIt column still the "de-facto" standard?

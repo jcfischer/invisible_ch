@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-04-19 20:33:36+00:00
 layout: post
-link: http://blog.invisible.ch/2013/04/19/19-online-learning/
+link: http://invisible.ch/2013/04/19/19-online-learning/
 slug: 19-online-learning
 tags: ["blog"]
 title: 19 - online learning

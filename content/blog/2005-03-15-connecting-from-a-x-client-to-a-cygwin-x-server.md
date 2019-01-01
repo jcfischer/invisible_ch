@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-03-15 11:31:33+00:00
 layout: post
-link: http://blog.invisible.ch/2005/03/15/connecting-from-a-x-client-to-a-cygwin-x-server/
+link: http://invisible.ch/2005/03/15/connecting-from-a-x-client-to-a-cygwin-x-server/
 slug: connecting-from-a-x-client-to-a-cygwin-x-server
 tags: ["blog"]
 title: connecting from a X-client to a cygwin X-server

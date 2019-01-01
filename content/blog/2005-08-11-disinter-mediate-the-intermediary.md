@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-08-11 15:16:14+00:00
 layout: post
-link: http://blog.invisible.ch/2005/08/11/disinter-mediate-the-intermediary/
+link: http://invisible.ch/2005/08/11/disinter-mediate-the-intermediary/
 slug: disinter-mediate-the-intermediary
 tags: ["blog"]
 title: Disinter-mediate the intermediary

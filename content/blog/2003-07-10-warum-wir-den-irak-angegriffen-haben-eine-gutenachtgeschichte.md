@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-07-10 00:34:55+00:00
 layout: post
-link: http://blog.invisible.ch/2003/07/10/warum-wir-den-irak-angegriffen-haben-eine-gutenachtgeschichte/
+link: http://invisible.ch/2003/07/10/warum-wir-den-irak-angegriffen-haben-eine-gutenachtgeschichte/
 slug: warum-wir-den-irak-angegriffen-haben-eine-gutenachtgeschichte
 tags: ["blog"]
 title: Warum wir den Irak angegriffen haben - eine Gutenachtgeschichte

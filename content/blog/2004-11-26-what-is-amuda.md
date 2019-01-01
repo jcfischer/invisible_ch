@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-11-26 08:30:07+00:00
 layout: post
-link: http://blog.invisible.ch/2004/11/26/what-is-amuda/
+link: http://invisible.ch/2004/11/26/what-is-amuda/
 slug: what-is-amuda
 tags: ["blog"]
 title: What is amuda?

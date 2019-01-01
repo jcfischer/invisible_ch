@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-10-06 14:29:07+00:00
 layout: post
-link: http://blog.invisible.ch/2003/10/06/the-frontend-of-the-application-is-wrong/
+link: http://invisible.ch/2003/10/06/the-frontend-of-the-application-is-wrong/
 slug: the-frontend-of-the-application-is-wrong
 tags: ["blog"]
 title: The Frontend of the application is wrong

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: false
 date: 2006-08-21 17:41:46+00:00
 layout: post
-link: http://blog.invisible.ch/2006/08/21/zurichrb-forming/
+link: http://invisible.ch/2006/08/21/zurichrb-forming/
 slug: zurichrb-forming
 tags: ["blog"]
 title: zurich.rb forming

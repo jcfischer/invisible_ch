@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-01-15 16:45:39+00:00
 layout: post
-link: http://blog.invisible.ch/2005/01/15/markov-chains-in-ruby/
+link: http://invisible.ch/2005/01/15/markov-chains-in-ruby/
 slug: markov-chains-in-ruby
 tags: ["blog"]
 title: Markov Chains in Ruby

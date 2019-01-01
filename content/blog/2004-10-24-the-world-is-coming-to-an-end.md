@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-10-24 21:31:28+00:00
 layout: post
-link: http://blog.invisible.ch/2004/10/24/the-world-is-coming-to-an-end/
+link: http://invisible.ch/2004/10/24/the-world-is-coming-to-an-end/
 slug: the-world-is-coming-to-an-end
 tags: ["blog"]
 title: The world is coming to an end

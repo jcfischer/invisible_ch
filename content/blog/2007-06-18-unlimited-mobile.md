@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-06-18 19:34:31+00:00
 layout: post
-link: http://blog.invisible.ch/2007/06/18/unlimited-mobile/
+link: http://invisible.ch/2007/06/18/unlimited-mobile/
 slug: unlimited-mobile
 tags: ["blog"]
 title: unlimited mobile
@@ -22,7 +22,7 @@ The CD comes with some Mac software that installs easily enough. Plugging the ca
 
 It just works. Even better, my copy of [Launch2Net][3] also recognizes the card and connected **without any configuration**. Impressive! I like the Launch2Net software better, so I dropped the bare-bones software that Swisscom bundled, and now I'm both living on the Edge and on UMTS/HDSPA where available.
 
-[1]: http://blog.invisible.ch/2005/04/16/living-on-the-edge/
+[1]: /2005/04/16/living-on-the-edge/
 [2]: http://www.swisscom-mobile.ch/scm/gek_unlimited_cards-de.aspx
 [3]: http://www.novamedia.de/d_pages/d_produkte_mac_l2n.html
 

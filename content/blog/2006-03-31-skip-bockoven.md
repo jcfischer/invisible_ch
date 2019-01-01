@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-03-31 04:05:11+00:00
 layout: post
-link: http://blog.invisible.ch/2006/03/31/skip-bockoven/
+link: http://invisible.ch/2006/03/31/skip-bockoven/
 slug: skip-bockoven
 tags: ["blog"]
 title: Skip Bockoven

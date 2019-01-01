@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-02-18 00:36:47+00:00
 layout: post
-link: http://blog.invisible.ch/2003/02/18/apache-slow-down-solved/
+link: http://invisible.ch/2003/02/18/apache-slow-down-solved/
 slug: apache-slow-down-solved
 tags: ["blog"]
 title: Apache slow down solved?

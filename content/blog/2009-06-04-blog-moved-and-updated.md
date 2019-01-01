@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2009-06-04 10:17:47+00:00
 layout: post
-link: http://blog.invisible.ch/2009/06/04/blog-moved-and-updated/
+link: http://invisible.ch/2009/06/04/blog-moved-and-updated/
 slug: blog-moved-and-updated
 tags: ["blog"]
 title: Blog moved and updated....

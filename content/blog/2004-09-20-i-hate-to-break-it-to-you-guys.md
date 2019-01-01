@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-09-20 21:55:49+00:00
 layout: post
-link: http://blog.invisible.ch/2004/09/20/i-hate-to-break-it-to-you-guys/
+link: http://invisible.ch/2004/09/20/i-hate-to-break-it-to-you-guys/
 slug: i-hate-to-break-it-to-you-guys
 tags: ["blog"]
 title: I hate to break it to you guys
@@ -45,15 +45,15 @@ Indeed, I think that my web site is a good match for your readers. I am glad to 
 
 It's with great pleasure, that I put a link to your service on my website. Let me also give you a couple of prominent links to content on my site, that will expand your readers minds:
 
-[Classical movie in ASCII format](http://blog.invisible.ch/archives/000115.html)  
+[Classical movie in ASCII format](/archives/000115.html)  
 
-[Usage of technology to transport images](http://blog.invisible.ch/archives/000170.html)  
+[Usage of technology to transport images](/archives/000170.html)  
 
-[Annotated Bush Speech](http://blog.invisible.ch/archives/000034.html)  
+[Annotated Bush Speech](/archives/000034.html)  
 
-[The truth behind advertising in personal ads](http://blog.invisible.ch/archives/000174.html)  
+[The truth behind advertising in personal ads](/archives/000174.html)  
 
-[Freenet](http://blog.invisible.ch/archives/000035.html)  
+[Freenet](/archives/000035.html)  
 
 
 > If you would like to be more involved with Family Safe Web, we have an

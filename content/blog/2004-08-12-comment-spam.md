@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-08-12 15:59:10+00:00
 layout: post
-link: http://blog.invisible.ch/2004/08/12/comment-spam/
+link: http://invisible.ch/2004/08/12/comment-spam/
 slug: comment-spam
 tags: ["blog"]
 title: Comment Spam

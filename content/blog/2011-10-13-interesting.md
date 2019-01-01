@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-10-13 08:58:34+00:00
 layout: post
-link: http://blog.invisible.ch/2011/10/13/interesting/
+link: http://invisible.ch/2011/10/13/interesting/
 slug: interesting
 tags: ["blog"]
 title: Interesting!

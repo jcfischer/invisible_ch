@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-13 05:49:01+00:00
 layout: post
-link: http://blog.invisible.ch/2003/03/13/how-to-start-a-linux-server/
+link: http://invisible.ch/2003/03/13/how-to-start-a-linux-server/
 slug: how-to-start-a-linux-server
 tags: ["blog"]
 title: How to start a linux server

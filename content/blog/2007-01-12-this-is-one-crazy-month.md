@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-01-12 21:48:25+00:00
 layout: post
-link: http://blog.invisible.ch/2007/01/12/this-is-one-crazy-month/
+link: http://invisible.ch/2007/01/12/this-is-one-crazy-month/
 slug: this-is-one-crazy-month
 tags: ["blog"]
 title: This is one crazy month
@@ -28,7 +28,7 @@ I have retreated to our [flat in the mountains][4] - thanks to my family who hav
 [1]: http://www.liftconference.com
 [2]: http://uncondition.blogspot.com/index.html
 [3]: http://en.wikipedia.org/wiki/Aikido
-[4]: http://blog.invisible.ch/index.php?s=visperterminen&searchbutton=Go%21
+[4]: /index.php?s=visperterminen&searchbutton=Go%21
 
 
 Technorati Tags: [aikido](http://www.technorati.com/tag/aikido), [rails](http://www.technorati.com/tag/rails), [visperterminen](http://www.technorati.com/tag/visperterminen), [work](http://www.technorati.com/tag/work)

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-02-04 12:54:58+00:00
 layout: post
-link: http://blog.invisible.ch/2005/02/04/minis-here/
+link: http://invisible.ch/2005/02/04/minis-here/
 slug: minis-here
 tags: ["blog"]
 title: Mini's here
@@ -41,8 +41,8 @@ _feel free to comment, I haven't done much research on those yet_
 
 I have the feeling, that this is not going to be the last MacMini (or Apple computer) I will be buying.
 
-[1]: http://blog.invisible.ch/archives/000360.html
-[2]: http://blog.invisible.ch/archives/000314.html
+[1]: /archives/000360.html
+[2]: /archives/000314.html
 [3]: http://www.smartplaylists.com
 [4]: http://www.rohrbach.de/Content/Karsten
 [5]: http://vowe.net

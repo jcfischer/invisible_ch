@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-06-11 14:35:59+00:00
 layout: post
-link: http://blog.invisible.ch/2004/06/11/not-enough-do-to/
+link: http://invisible.ch/2004/06/11/not-enough-do-to/
 slug: not-enough-do-to
 tags: ["blog"]
 title: Not enough do to?

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-12-10 19:01:26+00:00
 layout: post
-link: http://blog.invisible.ch/2006/12/10/radio-tyrus-calling/
+link: http://invisible.ch/2006/12/10/radio-tyrus-calling/
 slug: radio-tyrus-calling
 tags: ["blog"]
 title: Radio Tyrus Calling

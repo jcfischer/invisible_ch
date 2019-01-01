@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-07-06 22:21:53+00:00
 layout: post
-link: http://blog.invisible.ch/2004/07/06/amazon-bottom-up/
+link: http://invisible.ch/2004/07/06/amazon-bottom-up/
 slug: amazon-bottom-up
 tags: ["blog"]
 title: Amazon bottom up

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-11-01 22:55:08+00:00
 layout: post
-link: http://blog.invisible.ch/2004/11/01/hope-it-works-out/
+link: http://invisible.ch/2004/11/01/hope-it-works-out/
 slug: hope-it-works-out
 tags: ["blog"]
 title: Hope it works out

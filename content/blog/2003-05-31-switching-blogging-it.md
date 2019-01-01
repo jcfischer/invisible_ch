@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-31 12:30:11+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/31/switching-blogging-it/
+link: http://invisible.ch/2003/05/31/switching-blogging-it/
 slug: switching-blogging-it
 tags: ["blog"]
 title: Switching - blogging it

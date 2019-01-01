@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-07-21 12:36:03+00:00
 layout: post
-link: http://blog.invisible.ch/2003/07/21/finishing/
+link: http://invisible.ch/2003/07/21/finishing/
 slug: finishing
 tags: ["blog"]
 title: Finishing

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-08-03 23:09:26+00:00
 layout: post
-link: http://blog.invisible.ch/2004/08/03/a-better-notes-wiki/
+link: http://invisible.ch/2004/08/03/a-better-notes-wiki/
 slug: a-better-notes-wiki
 tags: ["blog"]
 title: A better Notes Wiki

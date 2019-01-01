@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-04-04 13:08:14+00:00
 layout: post
-link: http://blog.invisible.ch/2003/04/04/decapitating/
+link: http://invisible.ch/2003/04/04/decapitating/
 slug: decapitating
 tags: ["blog"]
 title: Decapitating

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-07-15 16:10:03+00:00
 layout: post
-link: http://blog.invisible.ch/2011/07/15/zweites-coding-dojo-erfolgreich/
+link: http://invisible.ch/2011/07/15/zweites-coding-dojo-erfolgreich/
 slug: zweites-coding-dojo-erfolgreich
 tags: ["blog"]
 title: Zweites Coding Dojo erfolgreich

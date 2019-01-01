@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-13 10:21:24+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/13/mozilla-for-webdevelopers/
+link: http://invisible.ch/2003/05/13/mozilla-for-webdevelopers/
 slug: mozilla-for-webdevelopers
 tags: ["blog"]
 title: Mozilla for Webdevelopers

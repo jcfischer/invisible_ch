@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-02-19 04:43:06+00:00
 layout: post
-link: http://blog.invisible.ch/2007/02/19/traveling-not-at-home/
+link: http://invisible.ch/2007/02/19/traveling-not-at-home/
 slug: traveling-not-at-home
 tags: ["blog"]
 title: traveling - not at home

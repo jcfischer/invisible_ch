@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-08 10:49:28+00:00
 layout: post
-link: http://blog.invisible.ch/2003/03/08/spoiled-by-speed/
+link: http://invisible.ch/2003/03/08/spoiled-by-speed/
 slug: spoiled-by-speed
 tags: ["blog"]
 title: Spoiled by Speed

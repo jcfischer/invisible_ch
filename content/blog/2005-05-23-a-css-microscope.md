@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-05-23 07:29:14+00:00
 layout: post
-link: http://blog.invisible.ch/2005/05/23/a-css-microscope/
+link: http://invisible.ch/2005/05/23/a-css-microscope/
 slug: a-css-microscope
 tags: ["blog"]
 title: A CSS microscope
@@ -17,7 +17,7 @@ If you are sometimes looking at a wonderful CSS design and wonder, how this was 
 
 
 
-[![Xyloscope](http://blog.invisible.ch/xyloscope-tm.jpg)](http://blog.invisible.ch/xyloscope.png)
+[![Xyloscope](/xyloscope-tm.jpg)](/xyloscope.png)
 
 
 

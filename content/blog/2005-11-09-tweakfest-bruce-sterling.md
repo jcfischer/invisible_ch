@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-09 17:21:04+00:00
 layout: post
-link: http://blog.invisible.ch/2005/11/09/tweakfest-bruce-sterling/
+link: http://invisible.ch/2005/11/09/tweakfest-bruce-sterling/
 slug: tweakfest-bruce-sterling
 tags: ["blog"]
 title: Tweakfest - Bruce Sterling
@@ -13,7 +13,7 @@ wordpress_id: 472
 ---
 
 
-**Update: **The [mp3 recording of the speech is online](http://blog.invisible.ch/archives/000482.html)
+**Update: **The [mp3 recording of the speech is online](/archives/000482.html)
 
 
 

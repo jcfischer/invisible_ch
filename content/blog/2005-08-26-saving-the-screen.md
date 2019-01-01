@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-08-26 07:56:20+00:00
 layout: post
-link: http://blog.invisible.ch/2005/08/26/saving-the-screen/
+link: http://invisible.ch/2005/08/26/saving-the-screen/
 slug: saving-the-screen
 tags: ["blog"]
 title: Saving the screen
@@ -17,7 +17,7 @@ Do androids dream? Is there a world out there?
 
 
 
-![149-128](http://blog.invisible.ch/149-128.jpg)
+![149-128](/149-128.jpg)
 
 
 

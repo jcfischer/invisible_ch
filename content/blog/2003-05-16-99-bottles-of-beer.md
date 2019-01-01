@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-16 14:56:55+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/16/99-bottles-of-beer/
+link: http://invisible.ch/2003/05/16/99-bottles-of-beer/
 slug: 99-bottles-of-beer
 tags: ["blog"]
 title: 99 Bottles of Beer

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-08-30 13:43:48+00:00
 layout: post
-link: http://blog.invisible.ch/2005/08/30/refactoring-rails-applications-or-why-tests-are-a-good-idea/
+link: http://invisible.ch/2005/08/30/refactoring-rails-applications-or-why-tests-are-a-good-idea/
 slug: refactoring-rails-applications-or-why-tests-are-a-good-idea
 tags: ["blog"]
 title: Refactoring Rails Applications or why tests are a good idea
@@ -13,7 +13,7 @@ wordpress_id: 454
 ---
 
 
-Somewhat of an add-on to the post "[Lotus Notes is not agile](http://blog.invisible.ch/archives/000452.html)". 
+Somewhat of an add-on to the post "[Lotus Notes is not agile](/archives/000452.html)". 
 
 
 

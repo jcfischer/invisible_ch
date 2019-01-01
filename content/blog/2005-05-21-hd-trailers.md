@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-05-21 15:20:30+00:00
 layout: post
-link: http://blog.invisible.ch/2005/05/21/hd-trailers/
+link: http://invisible.ch/2005/05/21/hd-trailers/
 slug: hd-trailers
 tags: ["blog"]
 title: HD Trailers

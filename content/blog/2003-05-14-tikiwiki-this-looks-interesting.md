@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-14 15:25:50+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/14/tikiwiki-this-looks-interesting/
+link: http://invisible.ch/2003/05/14/tikiwiki-this-looks-interesting/
 slug: tikiwiki-this-looks-interesting
 tags: ["blog"]
 title: TikiWiki - this looks interesting

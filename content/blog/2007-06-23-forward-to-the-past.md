@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-06-23 06:36:51+00:00
 layout: post
-link: http://blog.invisible.ch/2007/06/23/forward-to-the-past/
+link: http://invisible.ch/2007/06/23/forward-to-the-past/
 slug: forward-to-the-past
 tags: ["blog"]
 title: Forward to the past
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 623
 ---
 
-[![](files/forward2past.jpg)](http://blog.invisible.ch/files/OfflineArbeiten.pdf)This post is a follow up and an expansion to my presentation at [rails-konferenz.de][1] on the topic of "offline Rails applications". If you are not interested in lessons from history, technical details about replication etc. feel free to skip this...
+[![](files/forward2past.jpg)](/files/OfflineArbeiten.pdf)This post is a follow up and an expansion to my presentation at [rails-konferenz.de][1] on the topic of "offline Rails applications". If you are not interested in lessons from history, technical details about replication etc. feel free to skip this...
 
 The rage these days is twofold: The "Rich Internet Application" (RIA) and the ability to go off-line. There are a number of ways coming up, that promise you, that you can take (rich) web applications offline. A slew of products are coming out (AIR, Google Gears, [Slingshot][2], ...) that are tackling this problem.
 
@@ -61,7 +61,7 @@ The [slides of my presentation][7] are available online. A video of the presenta
 [4]: http://en.wikipedia.org/wiki/Not_Invented_Here
 [5]: http://en.wikipedia.org/wiki/Uuid
 [6]: http://neotrivium.com/blog/2006/12/4/autor_kaspar_schiess?img_pos=2
-[7]: http://blog.invisible.ch/files/OfflineArbeiten.pdf
+[7]: /files/OfflineArbeiten.pdf
 
 
 Technorati Tags: [domino](http://www.technorati.com/tag/domino), [joyent](http://www.technorati.com/tag/joyent), [lotus notes](http://www.technorati.com/tag/lotus notes), [ozzie](http://www.technorati.com/tag/ozzie), [uuid](http://www.technorati.com/tag/uuid), [rails-konferenz](http://www.technorati.com/tag/rails-konferenz), [replication](http://www.technorati.com/tag/replication), [slingshot](http://www.technorati.com/tag/slingshot)

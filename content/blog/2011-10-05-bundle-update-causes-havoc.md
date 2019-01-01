@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-10-05 08:26:16+00:00
 layout: post
-link: http://blog.invisible.ch/2011/10/05/bundle-update-causes-havoc/
+link: http://invisible.ch/2011/10/05/bundle-update-causes-havoc/
 slug: bundle-update-causes-havoc
 tags: ["blog"]
 title: Bundle update causes havoc

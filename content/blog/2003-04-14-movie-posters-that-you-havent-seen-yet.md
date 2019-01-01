@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-04-14 15:39:15+00:00
 layout: post
-link: http://blog.invisible.ch/2003/04/14/movie-posters-that-you-havent-seen-yet/
+link: http://invisible.ch/2003/04/14/movie-posters-that-you-havent-seen-yet/
 slug: movie-posters-that-you-havent-seen-yet
 tags: ["blog"]
 title: Movie Posters that you haven't seen yet

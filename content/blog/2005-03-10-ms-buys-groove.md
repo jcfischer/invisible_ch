@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-03-10 16:38:59+00:00
 layout: post
-link: http://blog.invisible.ch/2005/03/10/ms-buys-groove/
+link: http://invisible.ch/2005/03/10/ms-buys-groove/
 slug: ms-buys-groove
 tags: ["blog"]
 title: MS buys Groove

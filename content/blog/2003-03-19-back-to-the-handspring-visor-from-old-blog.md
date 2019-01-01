@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-19 23:11:43+00:00
 layout: post
-link: http://blog.invisible.ch/2003/03/19/back-to-the-handspring-visor-from-old-blog/
+link: http://invisible.ch/2003/03/19/back-to-the-handspring-visor-from-old-blog/
 slug: back-to-the-handspring-visor-from-old-blog
 tags: ["blog"]
 title: Back to the Handspring Visor (from old blog)

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-01-16 20:38:40+00:00
 layout: post
-link: http://blog.invisible.ch/2005/01/16/markov-entry/
+link: http://invisible.ch/2005/01/16/markov-entry/
 slug: markov-entry
 tags: ["blog"]
 title: Markov Entry
@@ -20,4 +20,4 @@ So, how does a [markov chain entry] [1] look like?
 Couldn't have said it better myself. This is a markov chain that has been trained by all my blog writings. 
 
 
-[1]: http://blog.invisible.ch/archives/000361.html
+[1]: /archives/000361.html

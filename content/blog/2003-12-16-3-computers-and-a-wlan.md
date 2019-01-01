@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-12-16 02:13:22+00:00
 layout: post
-link: http://blog.invisible.ch/2003/12/16/3-computers-and-a-wlan/
+link: http://invisible.ch/2003/12/16/3-computers-and-a-wlan/
 slug: 3-computers-and-a-wlan
 tags: ["blog"]
 title: 3 Computers and a WLAN

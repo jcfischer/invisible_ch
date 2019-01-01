@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-02-20 23:34:21+00:00
 layout: post
-link: http://blog.invisible.ch/2007/02/21/pr-blogging/
+link: http://invisible.ch/2007/02/21/pr-blogging/
 slug: pr-blogging
 tags: ["blog"]
 title: PR Blogging

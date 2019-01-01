@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-09-20 09:29:04+00:00
 layout: post
-link: http://blog.invisible.ch/2004/09/20/local-web-server-for-windows-with-search/
+link: http://invisible.ch/2004/09/20/local-web-server-for-windows-with-search/
 slug: local-web-server-for-windows-with-search
 tags: ["blog"]
 title: Local Web Server for Windows with search

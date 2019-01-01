@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-05 23:17:28+00:00
 layout: post
-link: http://blog.invisible.ch/2013/02/06/92-stockholm-syndrome/
+link: http://invisible.ch/2013/02/06/92-stockholm-syndrome/
 slug: 92-stockholm-syndrome
 tags: ["blog"]
 title: 92 - Stockholm Syndrome

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-26 13:27:48+00:00
 layout: post
-link: http://blog.invisible.ch/2003/09/26/the-caves-of-html/
+link: http://invisible.ch/2003/09/26/the-caves-of-html/
 slug: the-caves-of-html
 tags: ["blog"]
 title: The Caves of HTML

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-02 15:01:11+00:00
 layout: post
-link: http://blog.invisible.ch/2003/03/02/barix-exstreamer-and-streamsicle/
+link: http://invisible.ch/2003/03/02/barix-exstreamer-and-streamsicle/
 slug: barix-exstreamer-and-streamsicle
 tags: ["blog"]
 title: Barix Exstreamer and Streamsicle

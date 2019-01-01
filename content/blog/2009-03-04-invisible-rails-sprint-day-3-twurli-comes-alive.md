@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2009-03-04 19:28:31+00:00
 layout: post
-link: http://blog.invisible.ch/2009/03/04/invisible-rails-sprint-day-3-twurli-comes-alive/
+link: http://invisible.ch/2009/03/04/invisible-rails-sprint-day-3-twurli-comes-alive/
 slug: invisible-rails-sprint-day-3-twurli-comes-alive
 tags: ["blog"]
 title: InVisible Rails Sprint Day 3 - twur.li comes alive

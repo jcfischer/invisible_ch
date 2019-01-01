@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-09-28 21:53:00+00:00
 layout: post
-link: http://blog.invisible.ch/2006/09/28/one-of-theses-memes/
+link: http://invisible.ch/2006/09/28/one-of-theses-memes/
 slug: one-of-theses-memes
 tags: ["blog"]
 title: One of theses memes

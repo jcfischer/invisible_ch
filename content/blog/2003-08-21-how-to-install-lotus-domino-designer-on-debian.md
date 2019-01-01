@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-08-21 16:08:03+00:00
 layout: post
-link: http://blog.invisible.ch/2003/08/21/how-to-install-lotus-domino-designer-on-debian/
+link: http://invisible.ch/2003/08/21/how-to-install-lotus-domino-designer-on-debian/
 slug: how-to-install-lotus-domino-designer-on-debian
 tags: ["blog"]
 title: 'How-To: Install Lotus Domino Designer on Debian'

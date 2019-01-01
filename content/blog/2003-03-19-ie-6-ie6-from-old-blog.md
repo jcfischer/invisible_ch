@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-19 23:03:26+00:00
 layout: post
-link: http://blog.invisible.ch/2003/03/19/ie-6-ie6-from-old-blog/
+link: http://invisible.ch/2003/03/19/ie-6-ie6-from-old-blog/
 slug: ie-6-ie6-from-old-blog
 tags: ["blog"]
 title: IE 6 != IE6 (from old blog)

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-09-19 12:33:07+00:00
 layout: post
-link: http://blog.invisible.ch/2006/09/19/swissrug-zurichrb-meeting-2892006/
+link: http://invisible.ch/2006/09/19/swissrug-zurichrb-meeting-2892006/
 slug: swissrug-zurichrb-meeting-2892006
 tags: ["blog"]
 title: SwissRUG / zurich.rb meeting 28.9.2006

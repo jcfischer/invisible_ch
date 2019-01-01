@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-09-02 19:12:59+00:00
 layout: post
-link: http://blog.invisible.ch/2011/09/02/the-week-is-officially-over-but-theres-still-so-much-to-do/
+link: http://invisible.ch/2011/09/02/the-week-is-officially-over-but-theres-still-so-much-to-do/
 slug: the-week-is-officially-over-but-theres-still-so-much-to-do
 tags: ["blog"]
 title: The week is officially over, but there's still so much to do

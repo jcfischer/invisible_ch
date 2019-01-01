@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-07-25 11:32:30+00:00
 layout: post
-link: http://blog.invisible.ch/2003/07/25/reading-pattern-recognition/
+link: http://invisible.ch/2003/07/25/reading-pattern-recognition/
 slug: reading-pattern-recognition
 tags: ["blog"]
 title: 'Reading: Pattern Recognition'

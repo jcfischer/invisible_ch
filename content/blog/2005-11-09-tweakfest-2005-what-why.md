@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-09 13:32:27+00:00
 layout: post
-link: http://blog.invisible.ch/2005/11/09/tweakfest-2005-what-why/
+link: http://invisible.ch/2005/11/09/tweakfest-2005-what-why/
 slug: tweakfest-2005-what-why
 tags: ["blog"]
 title: Tweakfest 2005 - What / Why

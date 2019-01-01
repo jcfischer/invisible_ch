@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-05-13 09:17:56+00:00
 layout: post
-link: http://blog.invisible.ch/2004/05/13/dani-devnull/
+link: http://invisible.ch/2004/05/13/dani-devnull/
 slug: dani-devnull
 tags: ["blog"]
 title: Dani @ /dev/null

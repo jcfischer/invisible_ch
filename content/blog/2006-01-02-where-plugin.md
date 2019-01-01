@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: false
 date: 2006-01-02 20:37:53+00:00
 layout: post
-link: http://blog.invisible.ch/2006/01/02/where-plugin/
+link: http://invisible.ch/2006/01/02/where-plugin/
 slug: where-plugin
 tags: ["blog"]
 title: Where Plugin

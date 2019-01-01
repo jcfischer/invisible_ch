@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-10-05 08:19:39+00:00
 layout: post
-link: http://blog.invisible.ch/2011/10/05/some-thoughts-on-the-iphone-4s-2/
+link: http://invisible.ch/2011/10/05/some-thoughts-on-the-iphone-4s-2/
 slug: some-thoughts-on-the-iphone-4s-2
 tags: ["blog"]
 title: Some thoughts on the iPhone 4S

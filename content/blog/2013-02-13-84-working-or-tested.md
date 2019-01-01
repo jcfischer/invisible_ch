@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-13 22:01:08+00:00
 layout: post
-link: http://blog.invisible.ch/2013/02/13/84-working-or-tested/
+link: http://invisible.ch/2013/02/13/84-working-or-tested/
 slug: 84-working-or-tested
 tags: ["blog"]
 title: 84 - Working or Tested?

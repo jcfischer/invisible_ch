@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-07-08 07:03:51+00:00
 layout: post
-link: http://blog.invisible.ch/2003/07/08/on-sleeping/
+link: http://invisible.ch/2003/07/08/on-sleeping/
 slug: on-sleeping
 tags: ["blog"]
 title: On Sleeping

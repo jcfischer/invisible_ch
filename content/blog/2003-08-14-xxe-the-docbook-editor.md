@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-08-14 08:27:09+00:00
 layout: post
-link: http://blog.invisible.ch/2003/08/14/xxe-the-docbook-editor/
+link: http://invisible.ch/2003/08/14/xxe-the-docbook-editor/
 slug: xxe-the-docbook-editor
 tags: ["blog"]
 title: XXE - the Docbook Editor

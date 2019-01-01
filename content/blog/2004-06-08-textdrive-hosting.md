@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-06-08 16:23:31+00:00
 layout: post
-link: http://blog.invisible.ch/2004/06/08/textdrive-hosting/
+link: http://invisible.ch/2004/06/08/textdrive-hosting/
 slug: textdrive-hosting
 tags: ["blog"]
 title: Textdrive hosting

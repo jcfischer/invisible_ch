@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-08-21 16:09:09+00:00
 layout: post
-link: http://blog.invisible.ch/2006/08/21/ruby-on-rails-training-workshop-in-september/
+link: http://invisible.ch/2006/08/21/ruby-on-rails-training-workshop-in-september/
 slug: ruby-on-rails-training-workshop-in-september
 tags: ["blog"]
 title: Ruby on Rails Training / Workshop in September

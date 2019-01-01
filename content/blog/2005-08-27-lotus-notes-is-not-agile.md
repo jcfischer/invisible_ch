@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-08-27 05:38:24+00:00
 layout: post
-link: http://blog.invisible.ch/2005/08/27/lotus-notes-is-not-agile/
+link: http://invisible.ch/2005/08/27/lotus-notes-is-not-agile/
 slug: lotus-notes-is-not-agile
 tags: ["blog"]
 title: Lotus Notes is not agile

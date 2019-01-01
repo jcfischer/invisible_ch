@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-03-18 20:55:26+00:00
 layout: post
-link: http://blog.invisible.ch/2006/03/18/configuring-x-and-domino-server-on-debian-sarge-xen/
+link: http://invisible.ch/2006/03/18/configuring-x-and-domino-server-on-debian-sarge-xen/
 slug: configuring-x-and-domino-server-on-debian-sarge-xen
 tags: ["blog"]
 title: Configuring X and Domino Server on Debian Sarge XEN
@@ -43,7 +43,7 @@ Open problems:
 But at least, the Domino server is up and running...
 
 [1]: http://www-306.ibm.com/software/lotus/
-[2]: http://blog.invisible.ch/2006/03/14/installing-lotus-domino-654-in-debian-xen/
+[2]: /2006/03/14/installing-lotus-domino-654-in-debian-xen/
 [3]: http://www.debian-administration.org/articles/322
 [4]: http://sourceforge.net/projects/cotvnc/
 [5]: http://lists.suse.com/archive/suse-domino/2002-Dec/0011.html

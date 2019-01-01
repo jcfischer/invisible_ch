@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-08-24 05:47:46+00:00
 layout: post
-link: http://blog.invisible.ch/2005/08/24/google-knows-more/
+link: http://invisible.ch/2005/08/24/google-knows-more/
 slug: google-knows-more
 tags: ["blog"]
 title: Google knows more
@@ -17,7 +17,7 @@ This may be old news, but I just saw that Google does know quite a bit more abou
 
 
 
-[![Bild 1](http://blog.invisible.ch/Bild%201-tm.jpg)](http://blog.invisible.ch/Bild%201.png)
+[![Bild 1](/Bild%201-tm.jpg)](/Bild%201.png)
 
 
 

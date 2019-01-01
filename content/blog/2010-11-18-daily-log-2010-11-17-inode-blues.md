@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2010-11-18 06:55:31+00:00
 layout: post
-link: http://blog.invisible.ch/2010/11/18/daily-log-2010-11-17-inode-blues/
+link: http://invisible.ch/2010/11/18/daily-log-2010-11-17-inode-blues/
 slug: daily-log-2010-11-17-inode-blues
 tags: ["blog"]
 title: Daily Log, 2010-11-17, inode blues

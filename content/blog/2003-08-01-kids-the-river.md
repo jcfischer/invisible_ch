@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-08-01 11:23:18+00:00
 layout: post
-link: http://blog.invisible.ch/2003/08/01/kids-the-river/
+link: http://invisible.ch/2003/08/01/kids-the-river/
 slug: kids-the-river
 tags: ["blog"]
 title: Kids & the river

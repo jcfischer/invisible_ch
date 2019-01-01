@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-27 11:43:21+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/27/please-advise-me-on-new-gadget/
+link: http://invisible.ch/2003/05/27/please-advise-me-on-new-gadget/
 slug: please-advise-me-on-new-gadget
 tags: ["blog"]
 title: Please advise me on  new gadget

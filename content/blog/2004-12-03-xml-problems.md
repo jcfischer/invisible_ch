@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-12-03 09:00:06+00:00
 layout: post
-link: http://blog.invisible.ch/2004/12/03/xml-problems/
+link: http://invisible.ch/2004/12/03/xml-problems/
 slug: xml-problems
 tags: ["blog"]
 title: XML Problems

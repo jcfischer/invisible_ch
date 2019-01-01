@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-09-28 09:03:30+00:00
 layout: post
-link: http://blog.invisible.ch/2004/09/28/notes-agent-faq/
+link: http://invisible.ch/2004/09/28/notes-agent-faq/
 slug: notes-agent-faq
 tags: ["blog"]
 title: Notes Agent FAQ

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-05-08 19:25:29+00:00
 layout: post
-link: http://blog.invisible.ch/2006/05/08/programming-links/
+link: http://invisible.ch/2006/05/08/programming-links/
 slug: programming-links
 tags: ["blog"]
 title: Programming links

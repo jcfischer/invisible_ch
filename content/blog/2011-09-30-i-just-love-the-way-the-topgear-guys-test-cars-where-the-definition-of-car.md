@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-09-30 09:36:17+00:00
 layout: post
-link: http://blog.invisible.ch/2011/09/30/i-just-love-the-way-the-topgear-guys-test-cars-where-the-definition-of-car/
+link: http://invisible.ch/2011/09/30/i-just-love-the-way-the-topgear-guys-test-cars-where-the-definition-of-car/
 slug: i-just-love-the-way-the-topgear-guys-test-cars-where-the-definition-of-car
 tags: ["blog"]
 title: I just love the way the TopGear guys test cars (where the definition of "car"...

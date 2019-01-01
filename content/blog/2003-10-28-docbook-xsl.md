@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-10-28 10:53:07+00:00
 layout: post
-link: http://blog.invisible.ch/2003/10/28/docbook-xsl/
+link: http://invisible.ch/2003/10/28/docbook-xsl/
 slug: docbook-xsl
 tags: ["blog"]
 title: DocBook XSL

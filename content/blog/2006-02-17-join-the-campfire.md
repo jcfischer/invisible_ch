@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-02-17 13:42:08+00:00
 layout: post
-link: http://blog.invisible.ch/2006/02/17/join-the-campfire/
+link: http://invisible.ch/2006/02/17/join-the-campfire/
 slug: join-the-campfire
 tags: ["blog"]
 title: Join the campfire

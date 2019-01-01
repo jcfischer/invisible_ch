@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-09-29 15:19:42+00:00
 layout: post
-link: http://blog.invisible.ch/2005/09/29/table-of-contents/
+link: http://invisible.ch/2005/09/29/table-of-contents/
 slug: table-of-contents
 tags: ["blog"]
 title: Table of Contents

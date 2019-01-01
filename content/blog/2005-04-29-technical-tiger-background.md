@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-04-29 08:01:53+00:00
 layout: post
-link: http://blog.invisible.ch/2005/04/29/technical-tiger-background/
+link: http://invisible.ch/2005/04/29/technical-tiger-background/
 slug: technical-tiger-background
 tags: ["blog"]
 title: Technical Tiger Background

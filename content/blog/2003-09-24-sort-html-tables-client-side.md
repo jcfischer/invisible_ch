@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-24 11:14:02+00:00
 layout: post
-link: http://blog.invisible.ch/2003/09/24/sort-html-tables-client-side/
+link: http://invisible.ch/2003/09/24/sort-html-tables-client-side/
 slug: sort-html-tables-client-side
 tags: ["blog"]
 title: Sort HTML tables Client-Side

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-04-24 14:07:42+00:00
 layout: post
-link: http://blog.invisible.ch/2003/04/24/this-site-sped-up/
+link: http://invisible.ch/2003/04/24/this-site-sped-up/
 slug: this-site-sped-up
 tags: ["blog"]
 title: This site sped up

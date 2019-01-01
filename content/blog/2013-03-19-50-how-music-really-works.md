@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-19 19:50:04+00:00
 layout: post
-link: http://blog.invisible.ch/2013/03/19/50-how-music-really-works/
+link: http://invisible.ch/2013/03/19/50-how-music-really-works/
 slug: 50-how-music-really-works
 tags: ["blog"]
 title: 50 - how music really works
@@ -16,4 +16,4 @@ I have been ill the last few days, which has given me time to oscillate between 
 
 After reading it (and not fully understanding it yet) I have been able to doodle some chord progressions in GarageBand that actually sounded like they were musical in a way - a huge progress for me.
 
-I have caved in and bought the full 900 page book (for USD 22) in some DRM crippled Adobe crap format. Still - the content is really good, and in a way I hope to spend more time in bed reading it. (On the other hand, I'd really like to get back to work and stop having to drink "[infusion](http://blog.invisible.ch/2013/03/16/53-infusion/)")
+I have caved in and bought the full 900 page book (for USD 22) in some DRM crippled Adobe crap format. Still - the content is really good, and in a way I hope to spend more time in bed reading it. (On the other hand, I'd really like to get back to work and stop having to drink "[infusion](/2013/03/16/53-infusion/)")

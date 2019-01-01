@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-05 22:14:14+00:00
 layout: post
-link: http://blog.invisible.ch/2013/03/05/64-orange-network/
+link: http://invisible.ch/2013/03/05/64-orange-network/
 slug: 64-orange-network
 tags: ["blog"]
 title: 64 - orange network

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-04-21 07:26:32+00:00
 layout: post
-link: http://blog.invisible.ch/2005/04/21/trying-out-offline-editors/
+link: http://invisible.ch/2005/04/21/trying-out-offline-editors/
 slug: trying-out-offline-editors
 tags: ["blog"]
 title: Trying out offline editors

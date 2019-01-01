@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-02-19 09:26:21+00:00
 layout: post
-link: http://blog.invisible.ch/2003/02/19/securing-a-domino-application/
+link: http://invisible.ch/2003/02/19/securing-a-domino-application/
 slug: securing-a-domino-application
 tags: ["blog"]
 title: Securing a Domino Application

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-09-15 15:07:28+00:00
 layout: post
-link: http://blog.invisible.ch/2006/09/15/auf-zur-rails-konferenz/
+link: http://invisible.ch/2006/09/15/auf-zur-rails-konferenz/
 slug: auf-zur-rails-konferenz
 tags: ["blog"]
 title: Auf zur Rails-Konferenz

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-09-18 09:12:33+00:00
 layout: post
-link: http://blog.invisible.ch/2011/09/18/nochmal-ein-reshare-und-ja-irgendwann-kommt-dann-auch-wieder-mal-eigener-content/
+link: http://invisible.ch/2011/09/18/nochmal-ein-reshare-und-ja-irgendwann-kommt-dann-auch-wieder-mal-eigener-content/
 slug: nochmal-ein-reshare-und-ja-irgendwann-kommt-dann-auch-wieder-mal-eigener-content
 tags: ["blog"]
 title: Nochmal ein Reshare (und ja, irgendwann kommt dann auch wieder mal eigener

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-06-13 10:03:59+00:00
 layout: post
-link: http://blog.invisible.ch/2013/06/13/rescueing-a-non-booting-vm-under-openstack/
+link: http://invisible.ch/2013/06/13/rescueing-a-non-booting-vm-under-openstack/
 slug: rescueing-a-non-booting-vm-under-openstack
 tags: ["blog"]
 title: Rescueing a non booting VM under Openstack
@@ -16,7 +16,7 @@ So we are running an OpenStack installation based on Folsom, but with Ceph as ou
 
 One of the reasons, our systems fall over (we assume) is that we run quite disk heavy things on our VMs. After the update of one of the physical hosts to Raring, the "most important" virtual machine decided it wouldn't boot anymore:
 
-[![Dead virtual machine](http://blog.invisible.ch/wp-content/uploads/2013/06/Screen-Shot-2013-06-13-at-08.45.02-300x180.png)](http://blog.invisible.ch/wp-content/uploads/2013/06/Screen-Shot-2013-06-13-at-08.45.02.png)It could be, that this due to a different kernel on the physical machine, than on the host - although that seems highly unlikely. Anyway - what now? The usual forum links point to a situation, where you can either boot the system, or access the disk by booting into a rescue system - neither option works in a virtualized environment.
+[![Dead virtual machine](/wp-content/uploads/2013/06/Screen-Shot-2013-06-13-at-08.45.02-300x180.png)](/wp-content/uploads/2013/06/Screen-Shot-2013-06-13-at-08.45.02.png)It could be, that this due to a different kernel on the physical machine, than on the host - although that seems highly unlikely. Anyway - what now? The usual forum links point to a situation, where you can either boot the system, or access the disk by booting into a rescue system - neither option works in a virtualized environment.
 
 But, there is hope: You can mount the image and try to perform operations on it. The [OpenStack Operations Manual](http://www.valleytalk.org/wp-content/uploads/2013/03/OpenStackOperationsGuide.pdf) (p 106ff) has informations on how to mount a disk and read from it, if you want to write, you will have to do a bit more:\
 

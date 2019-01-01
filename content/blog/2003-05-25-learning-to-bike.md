@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-25 11:42:25+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/25/learning-to-bike/
+link: http://invisible.ch/2003/05/25/learning-to-bike/
 slug: learning-to-bike
 tags: ["blog"]
 title: Learning to bike

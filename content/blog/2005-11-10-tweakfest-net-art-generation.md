@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-10 16:27:59+00:00
 layout: post
-link: http://blog.invisible.ch/2005/11/10/tweakfest-net-art-generation/
+link: http://invisible.ch/2005/11/10/tweakfest-net-art-generation/
 slug: tweakfest-net-art-generation
 tags: ["blog"]
 title: Tweakfest - Net Art Generation

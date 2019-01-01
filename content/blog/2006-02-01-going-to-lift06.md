@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-02-01 05:49:43+00:00
 layout: post
-link: http://blog.invisible.ch/2006/02/01/going-to-lift06/
+link: http://invisible.ch/2006/02/01/going-to-lift06/
 slug: going-to-lift06
 tags: ["blog"]
 title: Going to Lift06
@@ -28,12 +28,12 @@ In true geek tradition ([reboot7][1], then [Tweakfest][2]) I'm heading of to [Li
 
 Of couse I also look forward to meeting all of the people I met in Denmark: [Henriette Weber Andersen][16], [Geoff Jones][19], and all the others)
 
-[1]: http://blog.invisible.ch/2005/06/10/a-near-religious-experience/
-[2]: http://blog.invisible.ch/2005/11/11/tweakfest-gedanken-zum-schluss/
+[1]: /2005/06/10/a-near-religious-experience/
+[2]: /2005/11/11/tweakfest-gedanken-zum-schluss/
 [3]: http://www.lift06.org
 [4]: http://www.ballpark.ch
 [5]: http://www.lift06.org/doku.php/people:speakers:cory_doctorow
-[6]: http://blog.invisible.ch/2005/11/09/tweakfest-bruce-sterling/
+[6]: /2005/11/09/tweakfest-bruce-sterling/
 [7]: http://www.lift06.org/doku.php/people:speakers:marc_francois_besson
 [8]: http://www.lift06.org/doku.php/people:speakers:regine_debatty
 [9]: http://www.lift06.org/doku.php/people:speakers:stefano_mastrogiacomo
@@ -42,7 +42,7 @@ Of couse I also look forward to meeting all of the people I met in Denmark: [Hen
 [12]: http://www.lift06.org/doku.php/people:speakers:sigurd_rinde
 [13]: http://www.thingamy.com/
 [14]: http://www.lift06.org/doku.php/people:speakers:euan_semple
-[15]: http://blog.invisible.ch/2005/06/09/the-score-is-even/
+[15]: /2005/06/09/the-score-is-even/
 [16]: http://www.toothlesstiger.net/
 [17]: http://www.lift06.org/doku.php/people:speakers:hughes_macleod
 [18]: http://www.lift06.org/doku.php/people:speakers:robert_scoble

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-11-12 10:34:49+00:00
 layout: post
-link: http://blog.invisible.ch/2003/11/12/time-flies/
+link: http://invisible.ch/2003/11/12/time-flies/
 slug: time-flies
 tags: ["blog"]
 title: Time flies

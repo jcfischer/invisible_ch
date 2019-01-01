@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-03-22 06:02:06+00:00
 layout: post
-link: http://blog.invisible.ch/2007/03/22/assert_select-and-url_for/
+link: http://invisible.ch/2007/03/22/assert_select-and-url_for/
 slug: assert_select-and-url_for
 tags: ["blog"]
 title: assert_select and url_for

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-15 05:28:27+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/15/back-from-the-past/
+link: http://invisible.ch/2003/05/15/back-from-the-past/
 slug: back-from-the-past
 tags: ["blog"]
 title: Back from the Past

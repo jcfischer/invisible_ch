@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-02-17 06:51:00+00:00
 layout: post
-link: http://blog.invisible.ch/2004/02/17/webdevelopers-toolkit-for-mozillafirefox/
+link: http://invisible.ch/2004/02/17/webdevelopers-toolkit-for-mozillafirefox/
 slug: webdevelopers-toolkit-for-mozillafirefox
 tags: ["blog"]
 title: WebDevelopers Toolkit for Mozilla/FireFox

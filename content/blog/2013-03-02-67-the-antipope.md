@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-02 20:47:34+00:00
 layout: post
-link: http://blog.invisible.ch/2013/03/02/67-the-antipope/
+link: http://invisible.ch/2013/03/02/67-the-antipope/
 slug: 67-the-antipope
 tags: ["blog"]
 title: 67 - the antipope

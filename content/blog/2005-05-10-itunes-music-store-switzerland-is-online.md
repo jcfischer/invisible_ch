@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-05-10 01:32:15+00:00
 layout: post
-link: http://blog.invisible.ch/2005/05/10/itunes-music-store-switzerland-is-online/
+link: http://invisible.ch/2005/05/10/itunes-music-store-switzerland-is-online/
 slug: itunes-music-store-switzerland-is-online
 tags: ["blog"]
 title: iTunes Music Store Switzerland is online
@@ -13,7 +13,7 @@ wordpress_id: 408
 ---
 
 
-[![Itms-Ch](http://blog.invisible.ch/itms-ch-tm.jpg)](http://blog.invisible.ch/itms-ch.png)
+[![Itms-Ch](/itms-ch-tm.jpg)](/itms-ch.png)
   
 It took a while, but now it's online: The swiss (and the scandinavian) itunes music stores. The price for a track is CHF 1.50 ( around 1 Euro or 1.2 US$ - quite expensive, but this is Switzerland, where the money comes from).
 

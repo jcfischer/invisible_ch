@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-05 05:52:12+00:00
 layout: post
-link: http://blog.invisible.ch/2005/06/05/dangerous-things/
+link: http://invisible.ch/2005/06/05/dangerous-things/
 slug: dangerous-things
 tags: ["blog"]
 title: Dangerous things

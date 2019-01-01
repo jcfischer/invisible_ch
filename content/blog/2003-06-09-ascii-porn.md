@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-06-09 20:39:35+00:00
 layout: post
-link: http://blog.invisible.ch/2003/06/09/ascii-porn/
+link: http://invisible.ch/2003/06/09/ascii-porn/
 slug: ascii-porn
 tags: ["blog"]
 title: ASCII Porn

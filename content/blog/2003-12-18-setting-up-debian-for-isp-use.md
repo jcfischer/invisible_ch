@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-12-18 14:45:30+00:00
 layout: post
-link: http://blog.invisible.ch/2003/12/18/setting-up-debian-for-isp-use/
+link: http://invisible.ch/2003/12/18/setting-up-debian-for-isp-use/
 slug: setting-up-debian-for-isp-use
 tags: ["blog"]
 title: Setting up Debian for ISP use

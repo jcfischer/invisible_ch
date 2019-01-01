@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-03-12 08:41:53+00:00
 layout: post
-link: http://blog.invisible.ch/2004/03/12/certifiying-an-expired-notes-id/
+link: http://invisible.ch/2004/03/12/certifiying-an-expired-notes-id/
 slug: certifiying-an-expired-notes-id
 tags: ["blog"]
 title: Certifiying an expired Notes ID

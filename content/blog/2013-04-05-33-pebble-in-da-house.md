@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-04-05 21:25:42+00:00
 layout: post
-link: http://blog.invisible.ch/2013/04/05/33-pebble-in-da-house/
+link: http://invisible.ch/2013/04/05/33-pebble-in-da-house/
 slug: 33-pebble-in-da-house
 tags: ["blog"]
 title: 33 - pebble in da house
@@ -12,13 +12,13 @@ type: post
 wordpress_id: 12801
 ---
 
-It was Kickstarter payback day today ([yet another one](http://blog.invisible.ch/2013/02/24/73-kickstarting/)) and two black [Pebbles](http://getpebble.com) arrived (I am still waiting for a red, a white and a gray one)
+It was Kickstarter payback day today ([yet another one](/2013/02/24/73-kickstarting/)) and two black [Pebbles](http://getpebble.com) arrived (I am still waiting for a red, a white and a gray one)
 
-[![Pebble box](http://blog.invisible.ch/wp-content/uploads/2013/04/image-e1365196775604-224x300.jpeg)](http://blog.invisible.ch/wp-content/uploads/2013/04/image-e1365196775604.jpeg)
+[![Pebble box](/wp-content/uploads/2013/04/image-e1365196775604-224x300.jpeg)](/wp-content/uploads/2013/04/image-e1365196775604.jpeg)
 
 
 
-[![photo](http://blog.invisible.ch/wp-content/uploads/2013/04/photo-e1365196803184-224x300.jpg)](http://blog.invisible.ch/wp-content/uploads/2013/04/photo-e1365196803184.jpg)
+[![photo](/wp-content/uploads/2013/04/photo-e1365196803184-224x300.jpg)](/wp-content/uploads/2013/04/photo-e1365196803184.jpg)
 
 
 

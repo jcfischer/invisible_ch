@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-05-24 16:44:09+00:00
 layout: post
-link: http://blog.invisible.ch/2004/05/24/textpattern-to-offer-webhosting/
+link: http://invisible.ch/2004/05/24/textpattern-to-offer-webhosting/
 slug: textpattern-to-offer-webhosting
 tags: ["blog"]
 title: TextPattern to offer webhosting

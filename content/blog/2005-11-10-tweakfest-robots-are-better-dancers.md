@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-10 10:42:20+00:00
 layout: post
-link: http://blog.invisible.ch/2005/11/10/tweakfest-robots-are-better-dancers/
+link: http://invisible.ch/2005/11/10/tweakfest-robots-are-better-dancers/
 slug: tweakfest-robots-are-better-dancers
 tags: ["blog"]
 title: Tweakfest - Robots are better Dancers

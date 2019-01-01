@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-23 20:33:36+00:00
 layout: post
-link: http://blog.invisible.ch/2013/02/23/75-augmentation/
+link: http://invisible.ch/2013/02/23/75-augmentation/
 slug: 75-augmentation
 tags: ["blog"]
 title: 74 - Augmentation

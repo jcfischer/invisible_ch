@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-08-26 13:24:00+00:00
 layout: post
-link: http://blog.invisible.ch/2005/08/26/active-timer/
+link: http://invisible.ch/2005/08/26/active-timer/
 slug: active-timer
 tags: ["blog"]
 title: Active Timer
@@ -17,7 +17,7 @@ What a nice little program! [Active Timer](http://osiris.laya.com/) keeps track 
 
 
 
-[![Activetimer](http://blog.invisible.ch/ActiveTimer-tm.jpg)](http://blog.invisible.ch/ActiveTimer.png)
+[![Activetimer](/ActiveTimer-tm.jpg)](/ActiveTimer.png)
 
 
 

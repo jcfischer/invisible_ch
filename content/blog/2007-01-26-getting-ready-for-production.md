@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-01-26 17:17:50+00:00
 layout: post
-link: http://blog.invisible.ch/2007/01/26/getting-ready-for-production/
+link: http://invisible.ch/2007/01/26/getting-ready-for-production/
 slug: getting-ready-for-production
 tags: ["blog"]
 title: Getting ready for production
@@ -70,7 +70,7 @@ And boy did that make a difference. The load time dropped down a lot, and servin
 Now we'll have to see, how the container holds up, when the masses are unleashed upon the application I'm writing...
 
 
-[1]: http://blog.invisible.ch/2007/01/12/this-is-one-crazy-month/
+[1]: /2007/01/12/this-is-one-crazy-month/
 [2]: http://www.shareasale.com/r.cfm?B=69506&U=196165&M=10198
 [3]: http://liftconference.com
 [4]: http://www.shareasale.com/r.cfm?B=57232&U=196165&M=10198

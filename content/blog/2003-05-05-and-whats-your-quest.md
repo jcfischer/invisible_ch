@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-05 16:04:58+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/05/and-whats-your-quest/
+link: http://invisible.ch/2003/05/05/and-whats-your-quest/
 slug: and-whats-your-quest
 tags: ["blog"]
 title: And what's your quest?

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-11-18 15:12:28+00:00
 layout: post
-link: http://blog.invisible.ch/2011/11/18/pictures-of-the-training-adrian-kosmacziewski-and-i-gave-this-week/
+link: http://invisible.ch/2011/11/18/pictures-of-the-training-adrian-kosmacziewski-and-i-gave-this-week/
 slug: pictures-of-the-training-adrian-kosmacziewski-and-i-gave-this-week
 tags: ["blog"]
 title: Pictures of the training Adrian Kosmacziewski and I gave this week

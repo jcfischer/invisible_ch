@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2012-05-16 07:45:08+00:00
 layout: post
-link: http://blog.invisible.ch/2012/05/16/rubin-auf-schiene-entwicklern/
+link: http://invisible.ch/2012/05/16/rubin-auf-schiene-entwicklern/
 slug: rubin-auf-schiene-entwicklern
 tags: ["blog"]
 title: Rubin auf Schiene Entwicklern

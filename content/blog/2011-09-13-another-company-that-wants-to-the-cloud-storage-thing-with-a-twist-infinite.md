@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-09-13 14:03:28+00:00
 layout: post
-link: http://blog.invisible.ch/2011/09/13/another-company-that-wants-to-the-cloud-storage-thing-with-a-twist-infinite/
+link: http://invisible.ch/2011/09/13/another-company-that-wants-to-the-cloud-storage-thing-with-a-twist-infinite/
 slug: another-company-that-wants-to-the-cloud-storage-thing-with-a-twist-infinite
 tags: ["blog"]
 title: 'Another company that want''s to the cloud storage thing - with a twist: Infinite...'

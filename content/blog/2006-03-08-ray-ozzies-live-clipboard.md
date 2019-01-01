@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-03-08 06:17:56+00:00
 layout: post
-link: http://blog.invisible.ch/2006/03/08/ray-ozzies-live-clipboard/
+link: http://invisible.ch/2006/03/08/ray-ozzies-live-clipboard/
 slug: ray-ozzies-live-clipboard
 tags: ["blog"]
 title: Ray Ozzie's Live Clipboard

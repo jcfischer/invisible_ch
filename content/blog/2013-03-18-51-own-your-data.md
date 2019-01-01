@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-18 22:39:39+00:00
 layout: post
-link: http://blog.invisible.ch/2013/03/18/51-own-your-data/
+link: http://invisible.ch/2013/03/18/51-own-your-data/
 slug: 51-own-your-data
 tags: ["blog"]
 title: 51 - own your data
@@ -14,7 +14,7 @@ wordpress_id: 12695
 
 Yesterday I had a brief Twitter [discussion](https://twitter.com/halfbyte/status/312878512405094401) with [@halfbyte](https://twitter.com/halfbyte) and [@stilkov](https://twitter.com/stilkov) about "owning your mail" .
 
-[![Screen Shot 2013-03-18 at 23.23.28](http://blog.invisible.ch/wp-content/uploads/2013/03/Screen-Shot-2013-03-18-at-23.23.28-195x300.png)](http://blog.invisible.ch/wp-content/uploads/2013/03/Screen-Shot-2013-03-18-at-23.23.28.png)
+[![Screen Shot 2013-03-18 at 23.23.28](/wp-content/uploads/2013/03/Screen-Shot-2013-03-18-at-23.23.28-195x300.png)](/wp-content/uploads/2013/03/Screen-Shot-2013-03-18-at-23.23.28.png)
 
 
 
@@ -26,4 +26,4 @@ But do we really have to install complicated servers in everyones homes and make
 
 Go check out what your NAS can do for you.
 
-(This entry also marks halfway in my [100 days blogging challenge](http://blog.invisible.ch/2013/01/28/100-days/) - only 50 more to go)
+(This entry also marks halfway in my [100 days blogging challenge](/2013/01/28/100-days/) - only 50 more to go)

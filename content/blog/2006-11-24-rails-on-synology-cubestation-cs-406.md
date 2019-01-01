@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-11-24 08:43:41+00:00
 layout: post
-link: http://blog.invisible.ch/2006/11/24/rails-on-synology-cubestation-cs-406/
+link: http://invisible.ch/2006/11/24/rails-on-synology-cubestation-cs-406/
 slug: rails-on-synology-cubestation-cs-406
 tags: ["blog"]
 title: Rails on Synology CubeStation CS-406
@@ -132,7 +132,7 @@ Oh yes - the [NLSU2][3] page has more [packages][4]. So far I have installed:
 
  
 
-[1]: http://blog.invisible.ch/2006/11/20/speaking/
+[1]: /2006/11/20/speaking/
 [2]: http://oinkzwurgl.org/diskstation
 [3]: http://www.nslu2-linux.org/wiki/DS101/HomePage
 [4]: http://www.nslu2-linux.org/wiki/Optware/Packages 

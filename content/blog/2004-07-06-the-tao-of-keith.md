@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-07-06 22:29:09+00:00
 layout: post
-link: http://blog.invisible.ch/2004/07/06/the-tao-of-keith/
+link: http://invisible.ch/2004/07/06/the-tao-of-keith/
 slug: the-tao-of-keith
 tags: ["blog"]
 title: The Tao of Keith

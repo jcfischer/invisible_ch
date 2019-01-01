@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-01-21 19:42:00+00:00
 layout: post
-link: http://blog.invisible.ch/2007/01/21/babysteps/
+link: http://invisible.ch/2007/01/21/babysteps/
 slug: babysteps
 tags: ["blog"]
 title: babysteps

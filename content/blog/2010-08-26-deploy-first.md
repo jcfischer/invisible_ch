@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2010-08-26 19:58:45+00:00
 layout: post
-link: http://blog.invisible.ch/2010/08/26/deploy-first/
+link: http://invisible.ch/2010/08/26/deploy-first/
 slug: deploy-first
 tags: ["blog"]
 title: Deploy first!

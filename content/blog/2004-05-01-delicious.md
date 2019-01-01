@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-05-01 23:26:03+00:00
 layout: post
-link: http://blog.invisible.ch/2004/05/01/delicious/
+link: http://invisible.ch/2004/05/01/delicious/
 slug: delicious
 tags: ["blog"]
 title: Delicious

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-08-05 00:45:38+00:00
 layout: post
-link: http://blog.invisible.ch/2003/08/05/mailinator/
+link: http://invisible.ch/2003/08/05/mailinator/
 slug: mailinator
 tags: ["blog"]
 title: Mailinator

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-04-06 21:08:21+00:00
 layout: post
-link: http://blog.invisible.ch/2013/04/06/32-frank-doran-shihan/
+link: http://invisible.ch/2013/04/06/32-frank-doran-shihan/
 slug: 32-frank-doran-shihan
 tags: ["blog"]
 title: 32 - frank doran shihan

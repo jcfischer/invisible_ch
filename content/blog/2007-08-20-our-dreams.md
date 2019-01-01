@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-08-20 19:19:50+00:00
 layout: post
-link: http://blog.invisible.ch/2007/08/20/our-dreams/
+link: http://invisible.ch/2007/08/20/our-dreams/
 slug: our-dreams
 tags: ["blog"]
 title: Our dreams

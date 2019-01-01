@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-01-16 09:48:19+00:00
 layout: post
-link: http://blog.invisible.ch/2006/01/16/worldwide-rails-training/
+link: http://invisible.ch/2006/01/16/worldwide-rails-training/
 slug: worldwide-rails-training
 tags: ["blog"]
 title: Worldwide Rails Training

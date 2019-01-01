@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-03-31 14:01:31+00:00
 layout: post
-link: http://blog.invisible.ch/2004/03/31/fun-with-mod_rewrite/
+link: http://invisible.ch/2004/03/31/fun-with-mod_rewrite/
 slug: fun-with-mod_rewrite
 tags: ["blog"]
 title: Fun with mod_rewrite

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-26 13:52:18+00:00
 layout: post
-link: http://blog.invisible.ch/2003/09/26/elevator-moods/
+link: http://invisible.ch/2003/09/26/elevator-moods/
 slug: elevator-moods
 tags: ["blog"]
 title: Elevator moods

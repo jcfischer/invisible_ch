@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-01-08 19:45:01+00:00
 layout: post
-link: http://blog.invisible.ch/2007/01/08/building-sshkeychain-as-an-intel-binary/
+link: http://invisible.ch/2007/01/08/building-sshkeychain-as-an-intel-binary/
 slug: building-sshkeychain-as-an-intel-binary
 tags: ["blog"]
 title: Building SSHKeychain as an Intel binary

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-08-08 08:35:07+00:00
 layout: post
-link: http://blog.invisible.ch/2003/08/08/renate-bulldozer-ratlos-sigs/
+link: http://invisible.ch/2003/08/08/renate-bulldozer-ratlos-sigs/
 slug: renate-bulldozer-ratlos-sigs
 tags: ["blog"]
 title: Renate "Bulldozer" Ratlos SIGs

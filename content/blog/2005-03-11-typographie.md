@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-03-11 11:23:14+00:00
 layout: post
-link: http://blog.invisible.ch/2005/03/11/typographie/
+link: http://invisible.ch/2005/03/11/typographie/
 slug: typographie
 tags: ["blog"]
 title: Typographie

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-06-30 17:16:06+00:00
 layout: post
-link: http://blog.invisible.ch/2007/06/30/slides-for-rails-konferenz-presentation/
+link: http://invisible.ch/2007/06/30/slides-for-rails-konferenz-presentation/
 slug: slides-for-rails-konferenz-presentation
 tags: ["blog"]
 title: Slides for Rails-Konferenz Presentation

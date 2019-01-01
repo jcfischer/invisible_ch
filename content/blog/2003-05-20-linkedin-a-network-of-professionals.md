@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-20 09:06:30+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/20/linkedin-a-network-of-professionals/
+link: http://invisible.ch/2003/05/20/linkedin-a-network-of-professionals/
 slug: linkedin-a-network-of-professionals
 tags: ["blog"]
 title: LinkedIn - a network of professionals

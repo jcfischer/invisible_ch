@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-11-22 01:45:13+00:00
 layout: post
-link: http://blog.invisible.ch/2003/11/22/conference-presentation-judo/
+link: http://invisible.ch/2003/11/22/conference-presentation-judo/
 slug: conference-presentation-judo
 tags: ["blog"]
 title: Conference Presentation Judo

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-04-18 22:28:23+00:00
 layout: post
-link: http://blog.invisible.ch/2006/04/18/da-vinci-code/
+link: http://invisible.ch/2006/04/18/da-vinci-code/
 slug: da-vinci-code
 tags: ["blog"]
 title: Da Vinci Code

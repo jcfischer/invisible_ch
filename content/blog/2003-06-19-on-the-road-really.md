@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-06-19 08:51:22+00:00
 layout: post
-link: http://blog.invisible.ch/2003/06/19/on-the-road-really/
+link: http://invisible.ch/2003/06/19/on-the-road-really/
 slug: on-the-road-really
 tags: ["blog"]
 title: on the road (really)

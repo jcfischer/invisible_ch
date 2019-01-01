@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-02-26 16:59:10+00:00
 layout: post
-link: http://blog.invisible.ch/2004/02/26/finding-side-effects-with-idea/
+link: http://invisible.ch/2004/02/26/finding-side-effects-with-idea/
 slug: finding-side-effects-with-idea
 tags: ["blog"]
 title: Finding side effects with IDEA
@@ -20,6 +20,6 @@ After some consideration, I decided to look at the code again. And [IDEA](http:/
 
 Place the cursor on any expression (in this case on the name of my private variable that got changes). Press CTRL-SHIFT-F7 and all occurences of that expression are highlighted in the editor. Scroll down, take a look and voila: there it was, an assignment to the variable in the wrong function.
 
-![idea-f7.gif](http://blog.invisible.ch/images/idea-f7.gif)
+![idea-f7.gif](/images/idea-f7.gif)
 
 As it always is: Good tools are a real asset!

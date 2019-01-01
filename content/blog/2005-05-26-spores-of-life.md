@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-05-26 09:03:38+00:00
 layout: post
-link: http://blog.invisible.ch/2005/05/26/spores-of-life/
+link: http://invisible.ch/2005/05/26/spores-of-life/
 slug: spores-of-life
 tags: ["blog"]
 title: Spores of life

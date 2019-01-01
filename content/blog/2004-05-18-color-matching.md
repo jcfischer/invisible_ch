@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-05-18 13:42:16+00:00
 layout: post
-link: http://blog.invisible.ch/2004/05/18/color-matching/
+link: http://invisible.ch/2004/05/18/color-matching/
 slug: color-matching
 tags: ["blog"]
 title: Color matching

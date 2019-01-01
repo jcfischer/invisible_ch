@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-05-08 16:36:05+00:00
 layout: post
-link: http://blog.invisible.ch/2004/05/08/shirt-origami/
+link: http://invisible.ch/2004/05/08/shirt-origami/
 slug: shirt-origami
 tags: ["blog"]
 title: Shirt Origami

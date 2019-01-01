@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-05-13 12:47:28+00:00
 layout: post
-link: http://blog.invisible.ch/2005/05/13/to-synchronize-or-not/
+link: http://invisible.ch/2005/05/13/to-synchronize-or-not/
 slug: to-synchronize-or-not
 tags: ["blog"]
 title: To synchronize or not

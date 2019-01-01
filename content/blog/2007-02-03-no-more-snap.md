@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-02-03 13:25:23+00:00
 layout: post
-link: http://blog.invisible.ch/2007/02/03/no-more-snap/
+link: http://invisible.ch/2007/02/03/no-more-snap/
 slug: no-more-snap
 tags: ["blog"]
 title: no more snap

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-12-29 15:29:42+00:00
 layout: post
-link: http://blog.invisible.ch/2006/12/29/two-greatest-mac-apps/
+link: http://invisible.ch/2006/12/29/two-greatest-mac-apps/
 slug: two-greatest-mac-apps
 tags: ["blog"]
 title: Two greatest Mac Apps

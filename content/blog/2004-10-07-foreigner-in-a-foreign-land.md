@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-10-07 09:03:25+00:00
 layout: post
-link: http://blog.invisible.ch/2004/10/07/foreigner-in-a-foreign-land/
+link: http://invisible.ch/2004/10/07/foreigner-in-a-foreign-land/
 slug: foreigner-in-a-foreign-land
 tags: ["blog"]
 title: Foreigner in a foreign land

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-01-29 11:33:59+00:00
 layout: post
-link: http://blog.invisible.ch/2004/01/29/belle-du-jour-with-atom-feed/
+link: http://invisible.ch/2004/01/29/belle-du-jour-with-atom-feed/
 slug: belle-du-jour-with-atom-feed
 tags: ["blog"]
 title: Belle du Jour with Atom Feed

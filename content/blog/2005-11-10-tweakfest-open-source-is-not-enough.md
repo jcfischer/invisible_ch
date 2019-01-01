@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-10 14:06:23+00:00
 layout: post
-link: http://blog.invisible.ch/2005/11/10/tweakfest-open-source-is-not-enough/
+link: http://invisible.ch/2005/11/10/tweakfest-open-source-is-not-enough/
 slug: tweakfest-open-source-is-not-enough
 tags: ["blog"]
 title: Tweakfest - Open Source is not enough

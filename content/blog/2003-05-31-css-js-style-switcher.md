@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-31 21:25:04+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/31/css-js-style-switcher/
+link: http://invisible.ch/2003/05/31/css-js-style-switcher/
 slug: css-js-style-switcher
 tags: ["blog"]
 title: CSS / JS Style Switcher

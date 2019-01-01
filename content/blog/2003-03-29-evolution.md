@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-29 21:27:31+00:00
 layout: post
-link: http://blog.invisible.ch/2003/03/29/evolution/
+link: http://invisible.ch/2003/03/29/evolution/
 slug: evolution
 tags: ["blog"]
 title: Evolution

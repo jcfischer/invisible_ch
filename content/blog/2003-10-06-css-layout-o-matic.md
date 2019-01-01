@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-10-06 15:38:19+00:00
 layout: post
-link: http://blog.invisible.ch/2003/10/06/css-layout-o-matic/
+link: http://invisible.ch/2003/10/06/css-layout-o-matic/
 slug: css-layout-o-matic
 tags: ["blog"]
 title: CSS Layout-O-matic

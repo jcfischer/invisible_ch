@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-11-04 09:15:25+00:00
 layout: post
-link: http://blog.invisible.ch/2006/11/04/back-from-rails-konferenzde/
+link: http://invisible.ch/2006/11/04/back-from-rails-konferenzde/
 slug: back-from-rails-konferenzde
 tags: ["blog"]
 title: Back from rails-konferenz.de

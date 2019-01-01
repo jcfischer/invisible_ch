@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-07-16 10:16:32+00:00
 layout: post
-link: http://blog.invisible.ch/2003/07/16/childs-sleep/
+link: http://invisible.ch/2003/07/16/childs-sleep/
 slug: childs-sleep
 tags: ["blog"]
 title: Childs sleep

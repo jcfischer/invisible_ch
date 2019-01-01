@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-13 07:32:46+00:00
 layout: post
-link: http://blog.invisible.ch/2005/06/13/excellent-summaries-of-reboot-presentations/
+link: http://invisible.ch/2005/06/13/excellent-summaries-of-reboot-presentations/
 slug: excellent-summaries-of-reboot-presentations
 tags: ["blog"]
 title: Excellent summaries of reboot presentations

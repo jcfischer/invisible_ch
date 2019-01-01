@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-05-02 21:18:54+00:00
 layout: post
-link: http://blog.invisible.ch/2013/05/02/9-recording-at-home/
+link: http://invisible.ch/2013/05/02/9-recording-at-home/
 slug: 9-recording-at-home
 tags: ["blog"]
 title: 9 - recording at home

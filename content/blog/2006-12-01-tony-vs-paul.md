@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-12-01 07:35:36+00:00
 layout: post
-link: http://blog.invisible.ch/2006/12/01/tony-vs-paul/
+link: http://invisible.ch/2006/12/01/tony-vs-paul/
 slug: tony-vs-paul
 tags: ["blog"]
 title: Tony vs. Paul

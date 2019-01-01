@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-21 16:17:27+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/21/css-tutorial/
+link: http://invisible.ch/2003/05/21/css-tutorial/
 slug: css-tutorial
 tags: ["blog"]
 title: CSS Tutorial

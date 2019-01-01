@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-03-26 17:10:18+00:00
 layout: post
-link: http://blog.invisible.ch/2007/03/26/when-tables-are-a-bad-idea/
+link: http://invisible.ch/2007/03/26/when-tables-are-a-bad-idea/
 slug: when-tables-are-a-bad-idea
 tags: ["blog"]
 title: When tables are a bad idea
@@ -21,7 +21,7 @@ Then last week, I met [Wolmer Facchin][2] who just jumped into rails and has bee
 Oh: Yes, you will be able to see that application... At [Tweakfest][3] at the end of may. 
 
 
-[1]: http://blog.invisible.ch/2007/02/01/i-could-need-some-help-with-javascript-and-ie-debugging/
+[1]: /2007/02/01/i-could-need-some-help-with-javascript-and-ie-debugging/
 [2]: http://cchin.ch
 [3]: http://www.tweakfest.ch
 

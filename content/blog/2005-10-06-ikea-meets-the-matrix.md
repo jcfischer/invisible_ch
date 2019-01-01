@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-10-06 15:06:54+00:00
 layout: post
-link: http://blog.invisible.ch/2005/10/06/ikea-meets-the-matrix/
+link: http://invisible.ch/2005/10/06/ikea-meets-the-matrix/
 slug: ikea-meets-the-matrix
 tags: ["blog"]
 title: Ikea meets the Matrix

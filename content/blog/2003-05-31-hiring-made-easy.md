@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-31 15:01:00+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/31/hiring-made-easy/
+link: http://invisible.ch/2003/05/31/hiring-made-easy/
 slug: hiring-made-easy
 tags: ["blog"]
 title: Hiring - made easy

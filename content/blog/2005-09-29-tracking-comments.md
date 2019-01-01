@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-09-29 08:30:37+00:00
 layout: post
-link: http://blog.invisible.ch/2005/09/29/tracking-comments/
+link: http://invisible.ch/2005/09/29/tracking-comments/
 slug: tracking-comments
 tags: ["blog"]
 title: Tracking comments

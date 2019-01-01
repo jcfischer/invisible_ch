@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-09-10 07:20:11+00:00
 layout: post
-link: http://blog.invisible.ch/2004/09/10/which-nethack-monster/
+link: http://invisible.ch/2004/09/10/which-nethack-monster/
 slug: which-nethack-monster
 tags: ["blog"]
 title: Which Nethack monster

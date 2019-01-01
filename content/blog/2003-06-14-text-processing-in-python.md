@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-06-14 16:37:20+00:00
 layout: post
-link: http://blog.invisible.ch/2003/06/14/text-processing-in-python/
+link: http://invisible.ch/2003/06/14/text-processing-in-python/
 slug: text-processing-in-python
 tags: ["blog"]
 title: Text Processing in Python

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-10-27 19:21:36+00:00
 layout: post
-link: http://blog.invisible.ch/2011/10/27/for-purely-scientific-reasons-another-reshare/
+link: http://invisible.ch/2011/10/27/for-purely-scientific-reasons-another-reshare/
 slug: for-purely-scientific-reasons-another-reshare
 tags: ["blog"]
 title: For purely scientific reasons - another reshare...

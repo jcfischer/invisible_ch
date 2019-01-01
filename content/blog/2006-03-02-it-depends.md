@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-03-02 11:15:25+00:00
 layout: post
-link: http://blog.invisible.ch/2006/03/02/it-depends/
+link: http://invisible.ch/2006/03/02/it-depends/
 slug: it-depends
 tags: ["blog"]
 title: It depends

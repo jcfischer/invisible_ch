@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-12-19 23:09:45+00:00
 layout: post
-link: http://blog.invisible.ch/2003/12/19/widgetopia-a-look-at-the-web-gui/
+link: http://invisible.ch/2003/12/19/widgetopia-a-look-at-the-web-gui/
 slug: widgetopia-a-look-at-the-web-gui
 tags: ["blog"]
 title: Widgetopia - a look at the web GUI

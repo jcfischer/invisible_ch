@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-04-30 09:18:14+00:00
 layout: post
-link: http://blog.invisible.ch/2004/04/30/happy-birthday-to-you/
+link: http://invisible.ch/2004/04/30/happy-birthday-to-you/
 slug: happy-birthday-to-you
 tags: ["blog"]
 title: happy birthday to you

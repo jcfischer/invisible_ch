@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-16 10:38:46+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/16/newbie-guide-to-cpan/
+link: http://invisible.ch/2003/05/16/newbie-guide-to-cpan/
 slug: newbie-guide-to-cpan
 tags: ["blog"]
 title: Newbie Guide to CPAN

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-05-24 11:18:21+00:00
 layout: post
-link: http://blog.invisible.ch/2004/05/24/fuck-you-very-much/
+link: http://invisible.ch/2004/05/24/fuck-you-very-much/
 slug: fuck-you-very-much
 tags: ["blog"]
 title: Fuck you very much

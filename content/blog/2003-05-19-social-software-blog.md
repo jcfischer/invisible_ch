@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-19 12:15:44+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/19/social-software-blog/
+link: http://invisible.ch/2003/05/19/social-software-blog/
 slug: social-software-blog
 tags: ["blog"]
 title: Social Software Blog

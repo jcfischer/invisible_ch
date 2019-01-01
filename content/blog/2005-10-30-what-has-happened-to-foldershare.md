@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-10-30 09:13:01+00:00
 layout: post
-link: http://blog.invisible.ch/2005/10/30/what-has-happened-to-foldershare/
+link: http://invisible.ch/2005/10/30/what-has-happened-to-foldershare/
 slug: what-has-happened-to-foldershare
 tags: ["blog"]
 title: What has happened to FolderShare?

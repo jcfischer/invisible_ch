@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-29 11:43:06+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/29/added-technorati-links/
+link: http://invisible.ch/2003/05/29/added-technorati-links/
 slug: added-technorati-links
 tags: ["blog"]
 title: Added Technorati Links

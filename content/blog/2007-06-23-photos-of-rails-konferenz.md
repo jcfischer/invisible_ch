@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-06-23 12:59:58+00:00
 layout: post
-link: http://blog.invisible.ch/2007/06/23/photos-of-rails-konferenz/
+link: http://invisible.ch/2007/06/23/photos-of-rails-konferenz/
 slug: photos-of-rails-konferenz
 tags: ["blog"]
 title: Photos of Rails-Konferenz

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-11-28 23:22:51+00:00
 layout: post
-link: http://blog.invisible.ch/2006/11/29/der-turmsegler/
+link: http://invisible.ch/2006/11/29/der-turmsegler/
 slug: der-turmsegler
 tags: ["blog"]
 title: Der Turmsegler

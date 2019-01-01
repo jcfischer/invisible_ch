@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2009-03-02 20:35:10+00:00
 layout: post
-link: http://blog.invisible.ch/2009/03/02/invisible-rails-sprint-day-1/
+link: http://invisible.ch/2009/03/02/invisible-rails-sprint-day-1/
 slug: invisible-rails-sprint-day-1
 tags: ["blog"]
 title: InVisible Rails Sprint, Day 1

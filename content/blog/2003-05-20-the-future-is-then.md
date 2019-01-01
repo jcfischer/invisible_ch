@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-20 06:02:20+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/20/the-future-is-then/
+link: http://invisible.ch/2003/05/20/the-future-is-then/
 slug: the-future-is-then
 tags: ["blog"]
 title: The Future is Then

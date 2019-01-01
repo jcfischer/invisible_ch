@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-09-07 16:47:02+00:00
 layout: post
-link: http://blog.invisible.ch/2006/09/07/free-music-free-books/
+link: http://invisible.ch/2006/09/07/free-music-free-books/
 slug: free-music-free-books
 tags: ["blog"]
 title: Free music, free books

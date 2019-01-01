@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-28 00:33:34+00:00
 layout: post
-link: http://blog.invisible.ch/2003/09/28/saving-a-dell/
+link: http://invisible.ch/2003/09/28/saving-a-dell/
 slug: saving-a-dell
 tags: ["blog"]
 title: Saving a Dell

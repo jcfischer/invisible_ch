@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-23 09:17:25+00:00
 layout: post
-link: http://blog.invisible.ch/2005/11/23/delicious-playtagger/
+link: http://invisible.ch/2005/11/23/delicious-playtagger/
 slug: delicious-playtagger
 tags: ["blog"]
 title: Del.icio.us PlayTagger

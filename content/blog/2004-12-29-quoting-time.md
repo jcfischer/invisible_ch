@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-12-29 19:52:29+00:00
 layout: post
-link: http://blog.invisible.ch/2004/12/29/quoting-time/
+link: http://invisible.ch/2004/12/29/quoting-time/
 slug: quoting-time
 tags: ["blog"]
 title: Quoting time

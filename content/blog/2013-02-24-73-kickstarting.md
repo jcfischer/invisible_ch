@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-24 19:13:31+00:00
 layout: post
-link: http://blog.invisible.ch/2013/02/24/73-kickstarting/
+link: http://invisible.ch/2013/02/24/73-kickstarting/
 slug: 73-kickstarting
 tags: ["blog"]
 title: 73 - Kickstarting

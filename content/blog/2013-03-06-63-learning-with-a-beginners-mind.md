@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-06 07:51:35+00:00
 layout: post
-link: http://blog.invisible.ch/2013/03/06/63-learning-with-a-beginners-mind/
+link: http://invisible.ch/2013/03/06/63-learning-with-a-beginners-mind/
 slug: 63-learning-with-a-beginners-mind
 tags: ["blog"]
 title: 63 - learning with a beginners mind

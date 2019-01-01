@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-06-06 05:25:50+00:00
 layout: post
-link: http://blog.invisible.ch/2006/06/06/dont-use-monolingual/
+link: http://invisible.ch/2006/06/06/dont-use-monolingual/
 slug: dont-use-monolingual
 tags: ["blog"]
 title: Dont. Use. MonoLingual.

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-04-25 22:50:11+00:00
 layout: post
-link: http://blog.invisible.ch/2013/04/25/15-schaufelberger-favre-fuhr/
+link: http://invisible.ch/2013/04/25/15-schaufelberger-favre-fuhr/
 slug: 15-schaufelberger-favre-fuhr
 tags: ["blog"]
 title: 15 - Schaufelberger, Favre, Fuhr
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 12865
 ---
 
-[![schauffelberger_favre_fuhr](http://blog.invisible.ch/wp-content/uploads/2013/04/schauffelberger_favre_fuhr-300x224.jpg)](http://blog.invisible.ch/wp-content/uploads/2013/04/schauffelberger_favre_fuhr.jpg)
+[![schauffelberger_favre_fuhr](/wp-content/uploads/2013/04/schauffelberger_favre_fuhr-300x224.jpg)](/wp-content/uploads/2013/04/schauffelberger_favre_fuhr.jpg)
 
 
 

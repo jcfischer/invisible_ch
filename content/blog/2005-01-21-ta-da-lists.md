@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-01-21 09:45:12+00:00
 layout: post
-link: http://blog.invisible.ch/2005/01/21/ta-da-lists/
+link: http://invisible.ch/2005/01/21/ta-da-lists/
 slug: ta-da-lists
 tags: ["blog"]
 title: Ta-Da Lists

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-15 17:10:20+00:00
 layout: post
-link: http://blog.invisible.ch/2013/02/15/82-wordpress-looses-connection-to-mysql-intermittently/
+link: http://invisible.ch/2013/02/15/82-wordpress-looses-connection-to-mysql-intermittently/
 slug: 82-wordpress-looses-connection-to-mysql-intermittently
 tags: ["blog"]
 title: 82 - Wordpress looses connection to MySql intermittently

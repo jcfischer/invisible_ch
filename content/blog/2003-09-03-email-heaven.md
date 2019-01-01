@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-03 12:24:48+00:00
 layout: post
-link: http://blog.invisible.ch/2003/09/03/email-heaven/
+link: http://invisible.ch/2003/09/03/email-heaven/
 slug: email-heaven
 tags: ["blog"]
 title: EMail heaven

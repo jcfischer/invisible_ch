@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-01 14:32:30+00:00
 layout: post
-link: http://blog.invisible.ch/2013/03/01/68-more-augmentation/
+link: http://invisible.ch/2013/03/01/68-more-augmentation/
 slug: 68-more-augmentation
 tags: ["blog"]
 title: 68 - more augmentation
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 12469
 ---
 
-My post on [augmentation](http://blog.invisible.ch/2013/02/23/75-augmentation/) a couple of days ago felt kind of unfinished. I couldn't really articulate how I feel about it - both very against and very excited about the possibilities of something like Google Glass.
+My post on [augmentation](/2013/02/23/75-augmentation/) a couple of days ago felt kind of unfinished. I couldn't really articulate how I feel about it - both very against and very excited about the possibilities of something like Google Glass.
 
 Thankfully, there are smarter people out there, and [@zapgadget](https://twitter.com/zapgadget/status/307487141859033088) tweeted about this: [Mark Hurst has written a good piece on the implications of something like Glass](http://creativegood.com/blog/the-google-glass-feature-no-one-is-talking-about/) - not for the wearer, but for everybody else, not wearing it:
 

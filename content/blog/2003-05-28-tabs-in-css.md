@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-28 00:13:35+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/28/tabs-in-css/
+link: http://invisible.ch/2003/05/28/tabs-in-css/
 slug: tabs-in-css
 tags: ["blog"]
 title: Tabs in CSS

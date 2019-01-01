@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-23 23:03:00+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/23/la-fille-du-limmatquai-ist-umgezogen/
+link: http://invisible.ch/2003/05/23/la-fille-du-limmatquai-ist-umgezogen/
 slug: la-fille-du-limmatquai-ist-umgezogen
 tags: ["blog"]
 title: La fille du limmatquai ist umgezogen

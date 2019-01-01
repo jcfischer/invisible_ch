@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-04-01 20:31:08+00:00
 layout: post
-link: http://blog.invisible.ch/2013/04/01/37-long-weekend/
+link: http://invisible.ch/2013/04/01/37-long-weekend/
 slug: 37-long-weekend
 tags: ["blog"]
 title: 37 - long weekend

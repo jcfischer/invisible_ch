@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-08-02 18:02:53+00:00
 layout: post
-link: http://blog.invisible.ch/2005/08/02/the-cult-of-the-mouse/
+link: http://invisible.ch/2005/08/02/the-cult-of-the-mouse/
 slug: the-cult-of-the-mouse
 tags: ["blog"]
 title: The cult of the mouse

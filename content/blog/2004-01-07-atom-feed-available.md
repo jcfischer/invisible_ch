@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-01-07 10:25:45+00:00
 layout: post
-link: http://blog.invisible.ch/2004/01/07/atom-feed-available/
+link: http://invisible.ch/2004/01/07/atom-feed-available/
 slug: atom-feed-available
 tags: ["blog"]
 title: Atom feed available

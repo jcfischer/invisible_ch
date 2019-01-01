@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-12-03 23:52:17+00:00
 layout: post
-link: http://blog.invisible.ch/2003/12/03/new-toys-and-time-to-remeber/
+link: http://invisible.ch/2003/12/03/new-toys-and-time-to-remeber/
 slug: new-toys-and-time-to-remeber
 tags: ["blog"]
 title: New Toys and time to remeber

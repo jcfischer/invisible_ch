@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-12-25 22:48:38+00:00
 layout: post
-link: http://blog.invisible.ch/2003/12/25/life-is-a-snapshot/
+link: http://invisible.ch/2003/12/25/life-is-a-snapshot/
 slug: life-is-a-snapshot
 tags: ["blog"]
 title: Life is a snapshot

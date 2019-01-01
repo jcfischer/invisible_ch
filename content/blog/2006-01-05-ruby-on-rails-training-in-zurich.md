@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-01-05 00:27:22+00:00
 layout: post
-link: http://blog.invisible.ch/2006/01/05/ruby-on-rails-training-in-zurich/
+link: http://invisible.ch/2006/01/05/ruby-on-rails-training-in-zurich/
 slug: ruby-on-rails-training-in-zurich
 tags: ["blog"]
 title: Ruby On Rails Training in Zurich

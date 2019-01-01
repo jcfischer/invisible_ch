@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-01-13 15:44:28+00:00
 layout: post
-link: http://blog.invisible.ch/2004/01/13/develop-with-pleasure/
+link: http://invisible.ch/2004/01/13/develop-with-pleasure/
 slug: develop-with-pleasure
 tags: ["blog"]
 title: Develop with Pleasure

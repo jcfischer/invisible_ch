@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-02-19 15:35:12+00:00
 layout: post
-link: http://blog.invisible.ch/2003/02/19/webmail-on-stereoids/
+link: http://invisible.ch/2003/02/19/webmail-on-stereoids/
 slug: webmail-on-stereoids
 tags: ["blog"]
 title: Webmail on stereoÃ¯ds

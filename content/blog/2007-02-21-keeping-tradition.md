@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-02-21 15:25:36+00:00
 layout: post
-link: http://blog.invisible.ch/2007/02/21/keeping-tradition/
+link: http://invisible.ch/2007/02/21/keeping-tradition/
 slug: keeping-tradition
 tags: ["blog"]
 title: Keeping tradition

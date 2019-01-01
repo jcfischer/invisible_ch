@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-02-06 12:10:44+00:00
 layout: post
-link: http://blog.invisible.ch/2007/02/06/usability-testing-for-all/
+link: http://invisible.ch/2007/02/06/usability-testing-for-all/
 slug: usability-testing-for-all
 tags: ["blog"]
 title: Usability Testing for all

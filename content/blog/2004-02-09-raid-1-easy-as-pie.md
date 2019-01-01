@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-02-09 18:46:13+00:00
 layout: post
-link: http://blog.invisible.ch/2004/02/09/raid-1-easy-as-pie/
+link: http://invisible.ch/2004/02/09/raid-1-easy-as-pie/
 slug: raid-1-easy-as-pie
 tags: ["blog"]
 title: RAID 1 - easy as pie
@@ -20,4 +20,4 @@ This server was down a bit during the day when I installed the new 3Ware RAID ID
 
 **RAID is simpler than it seems** Power up the computer, go to the RAIDs card BIOS, select the two drives, select create RAID1, select Done. The Linunx installation recognizes a 3Ware driver. At a root prompt "/dev/sda" which automagically loads the SCSI drivers (this RAID looks like a SCSI disk to the OS), fdisk to create partitions, mount it, mkreiserfs,  copy the data over, enter the new paths in /etc/fstab instead of the old ones, reboot - done.
 
-**You should update your blog** I know how to solve the [slowness of this server](http://blog.invisible.ch/archives/000061.html) I blogged about it - but I didn't enter all necessary information. Bad. The blog is my external memory, so I'd better keep it up to date.... (which I have done now)
+**You should update your blog** I know how to solve the [slowness of this server](/archives/000061.html) I blogged about it - but I didn't enter all necessary information. Bad. The blog is my external memory, so I'd better keep it up to date.... (which I have done now)

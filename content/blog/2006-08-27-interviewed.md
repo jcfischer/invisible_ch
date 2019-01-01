@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-08-27 17:53:09+00:00
 layout: post
-link: http://blog.invisible.ch/2006/08/27/interviewed/
+link: http://invisible.ch/2006/08/27/interviewed/
 slug: interviewed
 tags: ["blog"]
 title: interviewed

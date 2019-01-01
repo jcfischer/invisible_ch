@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-10-17 10:02:35+00:00
 layout: post
-link: http://blog.invisible.ch/2011/10/17/are-you-interested-in-learning-how-to-develop-mobile-web-application-in-html5-jquery/
+link: http://invisible.ch/2011/10/17/are-you-interested-in-learning-how-to-develop-mobile-web-application-in-html5-jquery/
 slug: are-you-interested-in-learning-how-to-develop-mobile-web-application-in-html5-jquery
 tags: ["blog"]
 title: Are you interested in learning how to develop mobile web application in HTML5,

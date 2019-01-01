@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-11-24 17:18:09+00:00
 layout: post
-link: http://blog.invisible.ch/2004/11/24/feeding-the-googlebot/
+link: http://invisible.ch/2004/11/24/feeding-the-googlebot/
 slug: feeding-the-googlebot
 tags: ["blog"]
 title: Feeding the GoogleBot

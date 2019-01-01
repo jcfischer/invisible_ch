@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-03-15 10:16:31+00:00
 layout: post
-link: http://blog.invisible.ch/2005/03/15/this-morning-at-the-train-station/
+link: http://invisible.ch/2005/03/15/this-morning-at-the-train-station/
 slug: this-morning-at-the-train-station
 tags: ["blog"]
 title: This morning at the train station

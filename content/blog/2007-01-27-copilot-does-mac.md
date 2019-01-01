@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-01-27 15:53:56+00:00
 layout: post
-link: http://blog.invisible.ch/2007/01/27/copilot-does-mac/
+link: http://invisible.ch/2007/01/27/copilot-does-mac/
 slug: copilot-does-mac
 tags: ["blog"]
 title: Copilot does Mac!

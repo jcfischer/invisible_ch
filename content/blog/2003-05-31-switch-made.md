@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-31 13:13:53+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/31/switch-made/
+link: http://invisible.ch/2003/05/31/switch-made/
 slug: switch-made
 tags: ["blog"]
 title: Switch made

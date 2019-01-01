@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-09-02 08:17:33+00:00
 layout: post
-link: http://blog.invisible.ch/2004/09/02/some-emacs-stuff/
+link: http://invisible.ch/2004/09/02/some-emacs-stuff/
 slug: some-emacs-stuff
 tags: ["blog"]
 title: Some EMACS stuff

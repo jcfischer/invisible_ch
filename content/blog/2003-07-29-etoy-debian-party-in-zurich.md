@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-07-29 10:04:00+00:00
 layout: post
-link: http://blog.invisible.ch/2003/07/29/etoy-debian-party-in-zurich/
+link: http://invisible.ch/2003/07/29/etoy-debian-party-in-zurich/
 slug: etoy-debian-party-in-zurich
 tags: ["blog"]
 title: etoy Debian Party in Zurich

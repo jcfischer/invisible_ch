@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2008-04-23 17:47:28+00:00
 layout: post
-link: http://blog.invisible.ch/2008/04/23/amateur-hour-at-techcrunch/
+link: http://invisible.ch/2008/04/23/amateur-hour-at-techcrunch/
 slug: amateur-hour-at-techcrunch
 tags: ["blog"]
 title: Amateur hour at Techcrunch

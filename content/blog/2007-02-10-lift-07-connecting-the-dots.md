@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-02-10 00:11:01+00:00
 layout: post
-link: http://blog.invisible.ch/2007/02/10/lift-07-connecting-the-dots/
+link: http://invisible.ch/2007/02/10/lift-07-connecting-the-dots/
 slug: lift-07-connecting-the-dots
 tags: ["blog"]
 title: Lift 07 - connecting the dots
@@ -36,7 +36,7 @@ On the web however, things look differently. There are lot's of single applicati
  
 
 
-[1]: http://blog.invisible.ch/2007/02/07/lift-07-workshops/
+[1]: /2007/02/07/lift-07-workshops/
 [2]: http://www.liftconference.com/2007/people/participant/245
 [3]: http://www.hole-in-the-wall.com/
 [4]: http://thingamy.typepad.com/

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-11-20 10:03:33+00:00
 layout: post
-link: http://blog.invisible.ch/2007/11/20/in-memoriam-viviane-schwyter/
+link: http://invisible.ch/2007/11/20/in-memoriam-viviane-schwyter/
 slug: in-memoriam-viviane-schwyter
 tags: ["blog"]
 title: In memoriam Viviane Schwyter

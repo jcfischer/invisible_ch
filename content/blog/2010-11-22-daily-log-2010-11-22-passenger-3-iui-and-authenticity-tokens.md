@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2010-11-22 16:47:59+00:00
 layout: post
-link: http://blog.invisible.ch/2010/11/22/daily-log-2010-11-22-passenger-3-iui-and-authenticity-tokens/
+link: http://invisible.ch/2010/11/22/daily-log-2010-11-22-passenger-3-iui-and-authenticity-tokens/
 slug: daily-log-2010-11-22-passenger-3-iui-and-authenticity-tokens
 tags: ["blog"]
 title: Daily-Log, 2010-11-22, Passenger 3, iUI and authenticity tokens

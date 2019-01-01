@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-02-06 17:52:33+00:00
 layout: post
-link: http://blog.invisible.ch/2007/02/06/you-are-coming-to-a-sad-realisation/
+link: http://invisible.ch/2007/02/06/you-are-coming-to-a-sad-realisation/
 slug: you-are-coming-to-a-sad-realisation
 tags: ["blog"]
 title: You are coming to a sad realisation...

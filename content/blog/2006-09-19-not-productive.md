@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-09-19 07:18:15+00:00
 layout: post
-link: http://blog.invisible.ch/2006/09/19/not-productive/
+link: http://invisible.ch/2006/09/19/not-productive/
 slug: not-productive
 tags: ["blog"]
 title: (Not) productive
@@ -22,7 +22,7 @@ Other than having this thought, yesterday I only put album covers to parts of my
 
 Productive?
 
-[1]: http://blog.invisible.ch/2006/08/02/if-not-today/
+[1]: /2006/08/02/if-not-today/
 [2]: http://vowe.net
 [3]: http://www.43things.com/things/view/220
 

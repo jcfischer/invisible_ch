@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-24 21:11:37+00:00
 layout: post
-link: http://blog.invisible.ch/2013/03/24/45-talking-stick/
+link: http://invisible.ch/2013/03/24/45-talking-stick/
 slug: 45-talking-stick
 tags: ["blog"]
 title: 45 - talking stick

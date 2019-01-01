@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-01-08 17:48:37+00:00
 layout: post
-link: http://blog.invisible.ch/2004/01/08/fake-paypal-mails/
+link: http://invisible.ch/2004/01/08/fake-paypal-mails/
 slug: fake-paypal-mails
 tags: ["blog"]
 title: Fake Paypal mails

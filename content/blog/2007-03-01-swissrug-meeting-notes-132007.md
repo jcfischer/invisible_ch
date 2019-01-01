@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-03-01 22:38:17+00:00
 layout: post
-link: http://blog.invisible.ch/2007/03/01/swissrug-meeting-notes-132007/
+link: http://invisible.ch/2007/03/01/swissrug-meeting-notes-132007/
 slug: swissrug-meeting-notes-132007
 tags: ["blog"]
 title: SwissRug Meeting Notes 1.3.2007

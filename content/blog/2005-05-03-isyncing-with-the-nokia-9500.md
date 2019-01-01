@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-05-03 11:54:15+00:00
 layout: post
-link: http://blog.invisible.ch/2005/05/03/isyncing-with-the-nokia-9500/
+link: http://invisible.ch/2005/05/03/isyncing-with-the-nokia-9500/
 slug: isyncing-with-the-nokia-9500
 tags: ["blog"]
 title: iSyncing with the Nokia 9500

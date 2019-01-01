@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-11-13 23:50:54+00:00
 layout: post
-link: http://blog.invisible.ch/2003/11/13/what-happened-to-linkedin/
+link: http://invisible.ch/2003/11/13/what-happened-to-linkedin/
 slug: what-happened-to-linkedin
 tags: ["blog"]
 title: What happened to LinkedIn?

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-05-06 11:41:46+00:00
 layout: post
-link: http://blog.invisible.ch/2013/05/06/7-getting-git-review-to-work/
+link: http://invisible.ch/2013/05/06/7-getting-git-review-to-work/
 slug: 7-getting-git-review-to-work
 tags: ["blog"]
 title: '7 - getting git review to work '

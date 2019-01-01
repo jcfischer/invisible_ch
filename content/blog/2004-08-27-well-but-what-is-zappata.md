@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-08-27 11:09:52+00:00
 layout: post
-link: http://blog.invisible.ch/2004/08/27/well-but-what-is-zappata/
+link: http://invisible.ch/2004/08/27/well-but-what-is-zappata/
 slug: well-but-what-is-zappata
 tags: ["blog"]
 title: Well, but what is ZAPPATA?

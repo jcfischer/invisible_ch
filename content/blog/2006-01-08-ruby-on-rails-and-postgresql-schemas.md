@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-01-08 09:11:51+00:00
 layout: post
-link: http://blog.invisible.ch/2006/01/08/ruby-on-rails-and-postgresql-schemas/
+link: http://invisible.ch/2006/01/08/ruby-on-rails-and-postgresql-schemas/
 slug: ruby-on-rails-and-postgresql-schemas
 tags: ["blog"]
 title: Ruby on Rails and PostgreSQL Schemas

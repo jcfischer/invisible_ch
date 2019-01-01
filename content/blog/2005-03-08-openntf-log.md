@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-03-08 20:43:16+00:00
 layout: post
-link: http://blog.invisible.ch/2005/03/08/openntf-log/
+link: http://invisible.ch/2005/03/08/openntf-log/
 slug: openntf-log
 tags: ["blog"]
 title: openNTF Log

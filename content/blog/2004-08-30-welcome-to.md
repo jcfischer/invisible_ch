@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-08-30 22:25:10+00:00
 layout: post
-link: http://blog.invisible.ch/2004/08/30/welcome-to/
+link: http://invisible.ch/2004/08/30/welcome-to/
 slug: welcome-to
 tags: ["blog"]
 title: Welcome to ...

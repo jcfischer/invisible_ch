@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-01-10 10:27:41+00:00
 layout: post
-link: http://blog.invisible.ch/2006/01/10/start-postgres-with-launchd-on-os-x/
+link: http://invisible.ch/2006/01/10/start-postgres-with-launchd-on-os-x/
 slug: start-postgres-with-launchd-on-os-x
 tags: ["blog"]
 title: Start postgres with launchd on OS X

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-11-09 17:23:13+00:00
 layout: post
-link: http://blog.invisible.ch/2004/11/09/av-fetishism/
+link: http://invisible.ch/2004/11/09/av-fetishism/
 slug: av-fetishism
 tags: ["blog"]
 title: AV fetishism

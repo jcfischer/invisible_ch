@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-02-28 15:02:56+00:00
 layout: post
-link: http://blog.invisible.ch/2005/02/28/find-out-which-process-is-listening-on-a-port/
+link: http://invisible.ch/2005/02/28/find-out-which-process-is-listening-on-a-port/
 slug: find-out-which-process-is-listening-on-a-port
 tags: ["blog"]
 title: Find out which process is listening on a port

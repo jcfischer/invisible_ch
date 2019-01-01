@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-09-11 21:02:42+00:00
 layout: post
-link: http://blog.invisible.ch/2011/09/11/some-of-the-first-sf-i-read-was-from-isaac-asimov-35-or-so-years-ago/
+link: http://invisible.ch/2011/09/11/some-of-the-first-sf-i-read-was-from-isaac-asimov-35-or-so-years-ago/
 slug: some-of-the-first-sf-i-read-was-from-isaac-asimov-35-or-so-years-ago
 tags: ["blog"]
 title: Some of the first SF I read was from Isaac Asimov, 35 or so years ago

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-08-26 09:55:26+00:00
 layout: post
-link: http://blog.invisible.ch/2004/08/26/links-installing-debian-on-dell-poweredge-1400/
+link: http://invisible.ch/2004/08/26/links-installing-debian-on-dell-poweredge-1400/
 slug: links-installing-debian-on-dell-poweredge-1400
 tags: ["blog"]
 title: 'Links: Installing Debian on Dell Poweredge 1400'

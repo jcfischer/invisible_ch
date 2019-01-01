@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-04-09 20:31:29+00:00
 layout: post
-link: http://blog.invisible.ch/2013/04/09/29-what-a-wonderful-world/
+link: http://invisible.ch/2013/04/09/29-what-a-wonderful-world/
 slug: 29-what-a-wonderful-world
 tags: ["blog"]
 title: 29 - what a wonderful world

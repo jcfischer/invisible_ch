@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-01-04 01:24:15+00:00
 layout: post
-link: http://blog.invisible.ch/2007/01/04/burning-feeds-part-2/
+link: http://invisible.ch/2007/01/04/burning-feeds-part-2/
 slug: burning-feeds-part-2
 tags: ["blog"]
 title: Burning Feeds (Part 2)

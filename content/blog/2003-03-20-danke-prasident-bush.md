@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-20 21:21:18+00:00
 layout: post
-link: http://blog.invisible.ch/2003/03/20/danke-prasident-bush/
+link: http://invisible.ch/2003/03/20/danke-prasident-bush/
 slug: danke-prasident-bush
 tags: ["blog"]
 title: Danke PrÃ¤sident Bush

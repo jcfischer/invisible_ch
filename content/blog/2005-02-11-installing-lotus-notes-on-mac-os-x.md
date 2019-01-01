@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-02-11 09:46:33+00:00
 layout: post
-link: http://blog.invisible.ch/2005/02/11/installing-lotus-notes-on-mac-os-x/
+link: http://invisible.ch/2005/02/11/installing-lotus-notes-on-mac-os-x/
 slug: installing-lotus-notes-on-mac-os-x
 tags: ["blog"]
 title: Installing Lotus Notes on Mac OS X

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-08-12 08:15:33+00:00
 layout: post
-link: http://blog.invisible.ch/2003/08/12/more-humane-interface/
+link: http://invisible.ch/2003/08/12/more-humane-interface/
 slug: more-humane-interface
 tags: ["blog"]
 title: More humane interface

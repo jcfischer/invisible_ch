@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-02 08:37:29+00:00
 layout: post
-link: http://blog.invisible.ch/2003/09/02/teletext-porn/
+link: http://invisible.ch/2003/09/02/teletext-porn/
 slug: teletext-porn
 tags: ["blog"]
 title: Teletext Porn

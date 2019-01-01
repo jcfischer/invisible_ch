@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-02-06 07:38:08+00:00
 layout: post
-link: http://blog.invisible.ch/2006/02/06/cocomment/
+link: http://invisible.ch/2006/02/06/cocomment/
 slug: cocomment
 tags: ["blog"]
 title: CoComment

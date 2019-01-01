@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-24 00:50:30+00:00
 layout: post
-link: http://blog.invisible.ch/2003/03/24/krieg-ist-nicht-chirurgisch/
+link: http://invisible.ch/2003/03/24/krieg-ist-nicht-chirurgisch/
 slug: krieg-ist-nicht-chirurgisch
 tags: ["blog"]
 title: Krieg ist nicht chirurgisch

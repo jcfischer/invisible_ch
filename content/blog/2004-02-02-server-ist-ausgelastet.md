@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-02-02 11:23:49+00:00
 layout: post
-link: http://blog.invisible.ch/2004/02/02/server-ist-ausgelastet/
+link: http://invisible.ch/2004/02/02/server-ist-ausgelastet/
 slug: server-ist-ausgelastet
 tags: ["blog"]
 title: Server ist ausgelastet...

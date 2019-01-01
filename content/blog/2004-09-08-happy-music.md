@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-09-08 17:25:13+00:00
 layout: post
-link: http://blog.invisible.ch/2004/09/08/happy-music/
+link: http://invisible.ch/2004/09/08/happy-music/
 slug: happy-music
 tags: ["blog"]
 title: Happy Music

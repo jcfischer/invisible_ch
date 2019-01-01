@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-11-15 17:09:20+00:00
 layout: post
-link: http://blog.invisible.ch/2006/11/15/deploying-with-capistrano/
+link: http://invisible.ch/2006/11/15/deploying-with-capistrano/
 slug: deploying-with-capistrano
 tags: ["blog"]
 title: Deploying with Capistrano

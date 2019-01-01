@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-09-14 09:17:26+00:00
 layout: post
-link: http://blog.invisible.ch/2007/09/14/new-pet-project/
+link: http://invisible.ch/2007/09/14/new-pet-project/
 slug: new-pet-project
 tags: ["blog"]
 title: new pet project :)

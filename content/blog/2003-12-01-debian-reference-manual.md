@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-12-01 20:59:33+00:00
 layout: post
-link: http://blog.invisible.ch/2003/12/01/debian-reference-manual/
+link: http://invisible.ch/2003/12/01/debian-reference-manual/
 slug: debian-reference-manual
 tags: ["blog"]
 title: Debian Reference Manual

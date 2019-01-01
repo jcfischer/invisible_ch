@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-09-15 07:58:26+00:00
 layout: post
-link: http://blog.invisible.ch/2011/09/15/wunderbare-bilder-von-unserem-planeten/
+link: http://invisible.ch/2011/09/15/wunderbare-bilder-von-unserem-planeten/
 slug: wunderbare-bilder-von-unserem-planeten
 tags: ["blog"]
 title: Wunderbare Bilder von unserem Planeten...

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-07-31 09:25:59+00:00
 layout: post
-link: http://blog.invisible.ch/2003/07/31/position-is-everything-css/
+link: http://invisible.ch/2003/07/31/position-is-everything-css/
 slug: position-is-everything-css
 tags: ["blog"]
 title: Position is Everything CSS

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-02-20 10:13:49+00:00
 layout: post
-link: http://blog.invisible.ch/2004/02/20/finding-a-url-in-a-text/
+link: http://invisible.ch/2004/02/20/finding-a-url-in-a-text/
 slug: finding-a-url-in-a-text
 tags: ["blog"]
 title: Finding a URL in a text

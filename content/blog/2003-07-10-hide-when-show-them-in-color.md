@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-07-10 17:18:08+00:00
 layout: post
-link: http://blog.invisible.ch/2003/07/10/hide-when-show-them-in-color/
+link: http://invisible.ch/2003/07/10/hide-when-show-them-in-color/
 slug: hide-when-show-them-in-color
 tags: ["blog"]
 title: Hide when - show them in color

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-04-04 09:46:59+00:00
 layout: post
-link: http://blog.invisible.ch/2003/04/04/bring-on-the-spanners/
+link: http://invisible.ch/2003/04/04/bring-on-the-spanners/
 slug: bring-on-the-spanners
 tags: ["blog"]
 title: Bring on the spanners.

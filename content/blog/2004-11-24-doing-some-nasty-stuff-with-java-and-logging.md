@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-11-24 17:14:40+00:00
 layout: post
-link: http://blog.invisible.ch/2004/11/24/doing-some-nasty-stuff-with-java-and-logging/
+link: http://invisible.ch/2004/11/24/doing-some-nasty-stuff-with-java-and-logging/
 slug: doing-some-nasty-stuff-with-java-and-logging
 tags: ["blog"]
 title: doing some nasty stuff with java and logging

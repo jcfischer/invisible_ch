@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-10-29 10:43:27+00:00
 layout: post
-link: http://blog.invisible.ch/2003/10/29/store-notes-attachments-with-the-correct-filename/
+link: http://invisible.ch/2003/10/29/store-notes-attachments-with-the-correct-filename/
 slug: store-notes-attachments-with-the-correct-filename
 tags: ["blog"]
 title: Store Notes Attachments with the correct filename

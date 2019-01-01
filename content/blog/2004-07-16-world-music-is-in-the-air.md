@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-07-16 19:22:40+00:00
 layout: post
-link: http://blog.invisible.ch/2004/07/16/world-music-is-in-the-air/
+link: http://invisible.ch/2004/07/16/world-music-is-in-the-air/
 slug: world-music-is-in-the-air
 tags: ["blog"]
 title: World Music is in the air

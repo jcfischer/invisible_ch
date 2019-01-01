@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-06-14 15:30:53+00:00
 layout: post
-link: http://blog.invisible.ch/2007/06/14/presenting-at-rails-konferenzde-in-frankfurt/
+link: http://invisible.ch/2007/06/14/presenting-at-rails-konferenzde-in-frankfurt/
 slug: presenting-at-rails-konferenzde-in-frankfurt
 tags: ["blog"]
 title: Presenting at Rails-Konferenz.de in Frankfurt

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-21 16:02:14+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/21/starship-sizes/
+link: http://invisible.ch/2003/05/21/starship-sizes/
 slug: starship-sizes
 tags: ["blog"]
 title: Starship Sizes

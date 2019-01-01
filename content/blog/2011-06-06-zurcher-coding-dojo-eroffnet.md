@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-06-06 07:32:28+00:00
 layout: post
-link: http://blog.invisible.ch/2011/06/06/zurcher-coding-dojo-eroffnet/
+link: http://invisible.ch/2011/06/06/zurcher-coding-dojo-eroffnet/
 slug: zurcher-coding-dojo-eroffnet
 tags: ["blog"]
 title: Zürcher Coding Dojo eröffnet

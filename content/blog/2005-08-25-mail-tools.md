@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-08-25 22:30:34+00:00
 layout: post
-link: http://blog.invisible.ch/2005/08/25/mail-tools/
+link: http://invisible.ch/2005/08/25/mail-tools/
 slug: mail-tools
 tags: ["blog"]
 title: Mail Tools

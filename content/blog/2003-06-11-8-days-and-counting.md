@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-06-11 09:16:18+00:00
 layout: post
-link: http://blog.invisible.ch/2003/06/11/8-days-and-counting/
+link: http://invisible.ch/2003/06/11/8-days-and-counting/
 slug: 8-days-and-counting
 tags: ["blog"]
 title: 8 Days and counting

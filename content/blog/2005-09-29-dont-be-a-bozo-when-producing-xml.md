@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-09-29 14:56:02+00:00
 layout: post
-link: http://blog.invisible.ch/2005/09/29/dont-be-a-bozo-when-producing-xml/
+link: http://invisible.ch/2005/09/29/dont-be-a-bozo-when-producing-xml/
 slug: dont-be-a-bozo-when-producing-xml
 tags: ["blog"]
 title: Don't be a bozo when producing XML

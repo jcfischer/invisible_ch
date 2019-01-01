@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-08-03 16:15:15+00:00
 layout: post
-link: http://blog.invisible.ch/2005/08/03/music-music-music/
+link: http://invisible.ch/2005/08/03/music-music-music/
 slug: music-music-music
 tags: ["blog"]
 title: Music, music, music

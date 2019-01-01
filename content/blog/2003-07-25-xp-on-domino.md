@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-07-25 18:54:25+00:00
 layout: post
-link: http://blog.invisible.ch/2003/07/25/xp-on-domino/
+link: http://invisible.ch/2003/07/25/xp-on-domino/
 slug: xp-on-domino
 tags: ["blog"]
 title: XP on Domino

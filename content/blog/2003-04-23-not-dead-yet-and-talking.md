@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-04-23 11:33:24+00:00
 layout: post
-link: http://blog.invisible.ch/2003/04/23/not-dead-yet-and-talking/
+link: http://invisible.ch/2003/04/23/not-dead-yet-and-talking/
 slug: not-dead-yet-and-talking
 tags: ["blog"]
 title: Not dead yet - and talking

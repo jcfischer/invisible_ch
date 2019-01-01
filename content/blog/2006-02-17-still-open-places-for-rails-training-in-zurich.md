@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-02-17 15:28:26+00:00
 layout: post
-link: http://blog.invisible.ch/2006/02/17/still-open-places-for-rails-training-in-zurich/
+link: http://invisible.ch/2006/02/17/still-open-places-for-rails-training-in-zurich/
 slug: still-open-places-for-rails-training-in-zurich
 tags: ["blog"]
 title: Still open places for Rails Training in Zurich

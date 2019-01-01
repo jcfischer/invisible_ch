@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-08-09 13:10:59+00:00
 layout: post
-link: http://blog.invisible.ch/2005/08/09/sqlite3-on-mac-os-x-trials-and-tribulations/
+link: http://invisible.ch/2005/08/09/sqlite3-on-mac-os-x-trials-and-tribulations/
 slug: sqlite3-on-mac-os-x-trials-and-tribulations
 tags: ["blog"]
 title: sqlite3 on Mac OS X -- trials and tribulations

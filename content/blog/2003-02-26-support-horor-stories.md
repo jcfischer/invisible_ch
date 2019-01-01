@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-02-26 14:38:19+00:00
 layout: post
-link: http://blog.invisible.ch/2003/02/26/support-horor-stories/
+link: http://invisible.ch/2003/02/26/support-horor-stories/
 slug: support-horor-stories
 tags: ["blog"]
 title: Support Horor Stories

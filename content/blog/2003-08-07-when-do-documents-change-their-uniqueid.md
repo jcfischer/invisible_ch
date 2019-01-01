@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-08-07 11:15:20+00:00
 layout: post
-link: http://blog.invisible.ch/2003/08/07/when-do-documents-change-their-uniqueid/
+link: http://invisible.ch/2003/08/07/when-do-documents-change-their-uniqueid/
 slug: when-do-documents-change-their-uniqueid
 tags: ["blog"]
 title: When do documents change their UniqueID?

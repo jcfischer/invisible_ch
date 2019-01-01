@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-10-19 22:33:17+00:00
 layout: post
-link: http://blog.invisible.ch/2003/10/19/no-more-comment-spam/
+link: http://invisible.ch/2003/10/19/no-more-comment-spam/
 slug: no-more-comment-spam
 tags: ["blog"]
 title: No more comment spam

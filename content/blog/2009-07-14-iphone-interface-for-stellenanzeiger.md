@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2009-07-14 21:53:22+00:00
 layout: post
-link: http://blog.invisible.ch/2009/07/14/iphone-interface-for-stellenanzeiger/
+link: http://invisible.ch/2009/07/14/iphone-interface-for-stellenanzeiger/
 slug: iphone-interface-for-stellenanzeiger
 tags: ["blog"]
 title: iPhone interface for Stellenanzeiger
@@ -16,7 +16,7 @@ The project we are working on for a job-search box in Switzerland ("[stellenanze
 We are constantly applying small fixes, reading more jobs (that would be a blog post all by itself), recognizing duplicates, handling very very weird internet sites etc.
 As a "fun" project, [Keith](http://invisible.ch/ueber-uns/team/keith-bingman/) wrote an iPhone web interface for the site: 
 
-![bild-3](http://blog.invisible.ch/wp-content/uploads/2009/07/bild-3-199x300.png)![bild-5](http://blog.invisible.ch/wp-content/uploads/2009/07/bild-5-199x300.png)
+![bild-3](/wp-content/uploads/2009/07/bild-3-199x300.png)![bild-5](/wp-content/uploads/2009/07/bild-5-199x300.png)
 
 This side project has been written with the [iUI framework](http://code.google.com/p/iui/) and after a few false starts, has been coming along very nicely.
 

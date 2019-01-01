@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-20 13:10:06+00:00
 layout: post
-link: http://blog.invisible.ch/2003/03/20/tyranny-of-email-and-warping/
+link: http://invisible.ch/2003/03/20/tyranny-of-email-and-warping/
 slug: tyranny-of-email-and-warping
 tags: ["blog"]
 title: Tyranny of email - and warping

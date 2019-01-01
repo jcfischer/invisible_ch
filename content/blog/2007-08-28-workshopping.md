@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-08-28 15:14:39+00:00
 layout: post
-link: http://blog.invisible.ch/2007/08/28/workshopping/
+link: http://invisible.ch/2007/08/28/workshopping/
 slug: workshopping
 tags: ["blog"]
 title: Workshopping

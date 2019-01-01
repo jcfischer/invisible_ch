@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2010-11-15 17:44:01+00:00
 layout: post
-link: http://blog.invisible.ch/2010/11/15/daily-log-2010-11-15-capybara-callbacks-with-some-phony-thrown-in/
+link: http://invisible.ch/2010/11/15/daily-log-2010-11-15-capybara-callbacks-with-some-phony-thrown-in/
 slug: daily-log-2010-11-15-capybara-callbacks-with-some-phony-thrown-in
 tags: ["blog"]
 title: Daily Log, 2010-11-15, Capybara & Callbacks (with some phony thrown in)

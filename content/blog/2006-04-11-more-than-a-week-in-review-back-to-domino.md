@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-04-11 19:14:07+00:00
 layout: post
-link: http://blog.invisible.ch/2006/04/11/more-than-a-week-in-review-back-to-domino/
+link: http://invisible.ch/2006/04/11/more-than-a-week-in-review-back-to-domino/
 slug: more-than-a-week-in-review-back-to-domino
 tags: ["blog"]
 title: 'More than a week in Review: Back to Domino'
@@ -23,7 +23,7 @@ It's been more than a week since the last [Week in Review][1] (a format I have s
 Right now, the sheer amount of work is almost overwhelming me. There's also some Ruby on Rails development that needs to be finished this month. Hopefully it will get a bit more quiet soon. The signs look bad though, it seems like the demand for our skills is rising...
 
 
-[1]: http://blog.invisible.ch/2006/03/29/the-week-in-review/
+[1]: /2006/03/29/the-week-in-review/
 [2]: http://www.37signals.com
 [3]: http://37signals.com/svn/archives2/fly_on_the_wall_too_many_web_developers_are_swatting_flies_with_bulldozers.php
 [4]: http://www.invisible.ch/static/47/rubyonrailsschulung

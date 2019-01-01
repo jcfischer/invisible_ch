@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-09-09 16:01:09+00:00
 layout: post
-link: http://blog.invisible.ch/2004/09/09/perlearning/
+link: http://invisible.ch/2004/09/09/perlearning/
 slug: perlearning
 tags: ["blog"]
 title: Perlearning

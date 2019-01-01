@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-12-04 10:12:46+00:00
 layout: post
-link: http://blog.invisible.ch/2003/12/04/languages-and-syntax/
+link: http://invisible.ch/2003/12/04/languages-and-syntax/
 slug: languages-and-syntax
 tags: ["blog"]
 title: Languages and Syntax

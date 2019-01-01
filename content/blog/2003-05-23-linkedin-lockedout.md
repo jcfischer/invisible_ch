@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-23 10:27:05+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/23/linkedin-lockedout/
+link: http://invisible.ch/2003/05/23/linkedin-lockedout/
 slug: linkedin-lockedout
 tags: ["blog"]
 title: LinkedIn LockedOut

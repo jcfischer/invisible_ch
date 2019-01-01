@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-07-14 06:15:47+00:00
 layout: post
-link: http://blog.invisible.ch/2003/07/14/its-on-its-way/
+link: http://invisible.ch/2003/07/14/its-on-its-way/
 slug: its-on-its-way
 tags: ["blog"]
 title: It's on it's way

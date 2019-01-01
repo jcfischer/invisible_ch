@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-10-25 09:13:43+00:00
 layout: post
-link: http://blog.invisible.ch/2011/10/25/maximiliano-firtman-presented-last-week-in-zurich-curtesy-of-httpaksoma-com/
+link: http://invisible.ch/2011/10/25/maximiliano-firtman-presented-last-week-in-zurich-curtesy-of-httpaksoma-com/
 slug: maximiliano-firtman-presented-last-week-in-zurich-curtesy-of-httpaksoma-com
 tags: ["blog"]
 title: +Maximiliano Firtman presented last week in Zurich, curtesy of http://aksoma.com...

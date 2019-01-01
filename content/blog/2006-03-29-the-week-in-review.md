@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-03-29 03:56:05+00:00
 layout: post
-link: http://blog.invisible.ch/2006/03/29/the-week-in-review/
+link: http://invisible.ch/2006/03/29/the-week-in-review/
 slug: the-week-in-review
 tags: ["blog"]
 title: The week in review
@@ -21,7 +21,7 @@ Ever since the [experiments with the Xen virtual server][1] (which run beautiful
 * I booked both flight and conference today: [Reboot 8.0][5] I'm coming. (And I'm looking forward to that immensely). [Henriette][6] [can I crash you][7]? Reboot7 last year seemed to me to be a turning point in my life. I am sure, that Reboot8 will have a similar impact on the way I look at life.
 
 
-[1]: http://blog.invisible.ch/2006/03/09/installing-xen-30-on-debian-sarge/
+[1]: /2006/03/09/installing-xen-30-on-debian-sarge/
 [2]: http://www.sgo.ch
 [3]: http://www.opernhaus.ch/d/index.php
 [4]: http://weblog.rubyonrails.org/articles/2006/03/28/rails-1-1-rjs-active-record-respond_to-integration-tests-and-500-other-things

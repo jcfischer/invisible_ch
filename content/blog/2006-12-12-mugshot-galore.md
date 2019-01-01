@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-12-12 19:28:33+00:00
 layout: post
-link: http://blog.invisible.ch/2006/12/12/mugshot-galore/
+link: http://invisible.ch/2006/12/12/mugshot-galore/
 slug: mugshot-galore
 tags: ["blog"]
 title: Mugshot Galore
@@ -14,7 +14,7 @@ wordpress_id: 576
 
 Who's that trying to hack my Mac?
 
-![](http://blog.invisible.ch/files/mugshot.jpg)
+![](/files/mugshot.jpg)
 
 use [authsight][1] and the built in iSight camera of your mac to grab a photo of anyone trying to log in with a wrong login/password.
 

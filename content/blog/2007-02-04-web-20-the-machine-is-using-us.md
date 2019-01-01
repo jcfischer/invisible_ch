@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-02-04 17:43:25+00:00
 layout: post
-link: http://blog.invisible.ch/2007/02/04/web-20-the-machine-is-using-us/
+link: http://invisible.ch/2007/02/04/web-20-the-machine-is-using-us/
 slug: web-20-the-machine-is-using-us
 tags: ["blog"]
 title: Web 2.0 ... The Machine is Us/ing Us

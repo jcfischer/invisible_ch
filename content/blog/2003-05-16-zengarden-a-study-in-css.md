@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-16 14:01:05+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/16/zengarden-a-study-in-css/
+link: http://invisible.ch/2003/05/16/zengarden-a-study-in-css/
 slug: zengarden-a-study-in-css
 tags: ["blog"]
 title: ZenGarden - a study in CSS

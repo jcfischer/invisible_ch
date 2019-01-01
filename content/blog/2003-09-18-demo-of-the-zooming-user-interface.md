@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-18 06:55:03+00:00
 layout: post
-link: http://blog.invisible.ch/2003/09/18/demo-of-the-zooming-user-interface/
+link: http://invisible.ch/2003/09/18/demo-of-the-zooming-user-interface/
 slug: demo-of-the-zooming-user-interface
 tags: ["blog"]
 title: Demo of the Zooming User Interface

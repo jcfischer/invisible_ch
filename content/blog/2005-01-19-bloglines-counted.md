@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-01-19 17:02:56+00:00
 layout: post
-link: http://blog.invisible.ch/2005/01/19/bloglines-counted/
+link: http://invisible.ch/2005/01/19/bloglines-counted/
 slug: bloglines-counted
 tags: ["blog"]
 title: Bloglines counted
@@ -20,4 +20,4 @@ I'd like to extend a warm welcome to all of you readers. Thanks for being here!
 
 
 [1]: http://www.bloglines.com
-[2]: http://blog.invisible.ch/archives/000115.html
+[2]: /archives/000115.html

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-21 21:44:48+00:00
 layout: post
-link: http://blog.invisible.ch/2013/03/21/48-tiny-tiny-rss-on-synology/
+link: http://invisible.ch/2013/03/21/48-tiny-tiny-rss-on-synology/
 slug: 48-tiny-tiny-rss-on-synology
 tags: ["blog"]
 title: 48 - Tiny Tiny RSS on Synology
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 12705
 ---
 
-In my quest to "[own my own data](http://blog.invisible.ch/2013/03/18/51-own-your-data/)" I spent the last few days to get an alternative to Google Reader going. I decided on trying [Tiny Tiny RSS](http://tt-rss.org/) instead of [Fever](http://feedafever.com/) mainly because TT-RSS is supported and in active development, while Fever (while looking more interesting) has been on hold for a few years and Shaun Inman basically hinted that he will not update or support it in the near future at least. Also, [Ràmon](http://blog.psy-q.ch/) has endorsed it...
+In my quest to "[own my own data](/2013/03/18/51-own-your-data/)" I spent the last few days to get an alternative to Google Reader going. I decided on trying [Tiny Tiny RSS](http://tt-rss.org/) instead of [Fever](http://feedafever.com/) mainly because TT-RSS is supported and in active development, while Fever (while looking more interesting) has been on hold for a few years and Shaun Inman basically hinted that he will not update or support it in the near future at least. Also, [Ràmon](http://blog.psy-q.ch/) has endorsed it...
 
 Here's a walk through of getting TT-RSS  running on my Synology NAS with Postgres as the database.
 

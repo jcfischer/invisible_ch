@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-16 18:43:27+00:00
 layout: post
-link: http://blog.invisible.ch/2013/02/16/81-the-eve-of-holidays/
+link: http://invisible.ch/2013/02/16/81-the-eve-of-holidays/
 slug: 81-the-eve-of-holidays
 tags: ["blog"]
 title: 81 - The eve of holidays

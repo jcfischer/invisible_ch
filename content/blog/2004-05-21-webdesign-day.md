@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-05-21 18:02:35+00:00
 layout: post
-link: http://blog.invisible.ch/2004/05/21/webdesign-day/
+link: http://invisible.ch/2004/05/21/webdesign-day/
 slug: webdesign-day
 tags: ["blog"]
 title: Webdesign day

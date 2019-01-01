@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-14 20:02:26+00:00
 layout: post
-link: http://blog.invisible.ch/2013/03/14/55-book-sprints/
+link: http://invisible.ch/2013/03/14/55-book-sprints/
 slug: 55-book-sprints
 tags: ["blog"]
 title: 55 - book sprints

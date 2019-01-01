@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2009-04-29 21:38:38+00:00
 layout: post
-link: http://blog.invisible.ch/2009/04/29/amazon-s3-heroku-and-the-paperclipped-assets-manager-for-radiant/
+link: http://invisible.ch/2009/04/29/amazon-s3-heroku-and-the-paperclipped-assets-manager-for-radiant/
 slug: amazon-s3-heroku-and-the-paperclipped-assets-manager-for-radiant
 tags: ["blog"]
 title: Amazon S3, Heroku and the Paperclipped Assets Manager for Radiant

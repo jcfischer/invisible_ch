@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-08-28 14:44:44+00:00
 layout: post
-link: http://blog.invisible.ch/2007/08/28/pcdenzfall-oder-flugzeuge-im-bauch/
+link: http://invisible.ch/2007/08/28/pcdenzfall-oder-flugzeuge-im-bauch/
 slug: pcdenzfall-oder-flugzeuge-im-bauch
 tags: ["blog"]
 title: PCdenzfall - oder Flugzeuge im Bauch

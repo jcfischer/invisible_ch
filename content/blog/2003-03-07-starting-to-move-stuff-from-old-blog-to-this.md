@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-07 10:32:21+00:00
 layout: post
-link: http://blog.invisible.ch/2003/03/07/starting-to-move-stuff-from-old-blog-to-this/
+link: http://invisible.ch/2003/03/07/starting-to-move-stuff-from-old-blog-to-this/
 slug: starting-to-move-stuff-from-old-blog-to-this
 tags: ["blog"]
 title: Starting to move stuff from old blog to this

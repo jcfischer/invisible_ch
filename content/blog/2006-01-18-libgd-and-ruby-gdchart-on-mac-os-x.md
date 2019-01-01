@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-01-18 17:32:28+00:00
 layout: post
-link: http://blog.invisible.ch/2006/01/18/libgd-and-ruby-gdchart-on-mac-os-x/
+link: http://invisible.ch/2006/01/18/libgd-and-ruby-gdchart-on-mac-os-x/
 slug: libgd-and-ruby-gdchart-on-mac-os-x
 tags: ["blog"]
 title: libgd and ruby-gdchart on Mac OS X

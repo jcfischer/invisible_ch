@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-01-19 16:03:09+00:00
 layout: post
-link: http://blog.invisible.ch/2006/01/19/comparing-apples-and-apples/
+link: http://invisible.ch/2006/01/19/comparing-apples-and-apples/
 slug: comparing-apples-and-apples
 tags: ["blog"]
 title: Comparing Apples and... Apples?

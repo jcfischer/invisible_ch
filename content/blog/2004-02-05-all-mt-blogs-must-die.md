@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-02-05 18:49:16+00:00
 layout: post
-link: http://blog.invisible.ch/2004/02/05/all-mt-blogs-must-die/
+link: http://invisible.ch/2004/02/05/all-mt-blogs-must-die/
 slug: all-mt-blogs-must-die
 tags: ["blog"]
 title: All MT Blogs must die

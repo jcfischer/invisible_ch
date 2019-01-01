@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-12-01 22:25:01+00:00
 layout: post
-link: http://blog.invisible.ch/2003/12/01/on-keywords/
+link: http://invisible.ch/2003/12/01/on-keywords/
 slug: on-keywords
 tags: ["blog"]
 title: On Keywords

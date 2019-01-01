@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-08-09 11:06:38+00:00
 layout: post
-link: http://blog.invisible.ch/2005/08/09/can-a-spam-filter-play-chess/
+link: http://invisible.ch/2005/08/09/can-a-spam-filter-play-chess/
 slug: can-a-spam-filter-play-chess
 tags: ["blog"]
 title: Can a spam filter play chess?
@@ -21,6 +21,6 @@ via [indy blog][6]
 [1]: http://dbacl.sourceforge.net
 [2]: http://dbacl.sourceforge.net/spam_chess.html
 [3]: http://matthias.leisi.net/
-[4]: http://blog.invisible.ch/archives/000361.html
-[5]: http://blog.invisible.ch/archives/000362.html
+[4]: /archives/000361.html
+[5]: /archives/000362.html
 [6]: http://blog.pxq.ch/item/447/

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-11-11 22:09:32+00:00
 layout: post
-link: http://blog.invisible.ch/2004/11/11/the-blue-packet/
+link: http://invisible.ch/2004/11/11/the-blue-packet/
 slug: the-blue-packet
 tags: ["blog"]
 title: The blue packet

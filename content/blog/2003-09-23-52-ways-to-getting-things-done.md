@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-23 21:06:55+00:00
 layout: post
-link: http://blog.invisible.ch/2003/09/23/52-ways-to-getting-things-done/
+link: http://invisible.ch/2003/09/23/52-ways-to-getting-things-done/
 slug: 52-ways-to-getting-things-done
 tags: ["blog"]
 title: 52 ways to getting things done

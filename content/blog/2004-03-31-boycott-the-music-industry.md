@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-03-31 12:29:37+00:00
 layout: post
-link: http://blog.invisible.ch/2004/03/31/boycott-the-music-industry/
+link: http://invisible.ch/2004/03/31/boycott-the-music-industry/
 slug: boycott-the-music-industry
 tags: ["blog"]
 title: Boycott the music industry

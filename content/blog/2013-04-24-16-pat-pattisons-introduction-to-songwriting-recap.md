@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-04-24 21:27:18+00:00
 layout: post
-link: http://blog.invisible.ch/2013/04/24/16-pat-pattisons-introduction-to-songwriting-recap/
+link: http://invisible.ch/2013/04/24/16-pat-pattisons-introduction-to-songwriting-recap/
 slug: 16-pat-pattisons-introduction-to-songwriting-recap
 tags: ["blog"]
 title: 16 - Pat Pattisons Introduction to Songwriting (recap)
@@ -14,7 +14,7 @@ wordpress_id: 12862
 
 Why do just one course at a time, when you can do two? The correct answer, of course, is that you should always be learning (I gave up on the third concurrent course though...)
 
-Concurrently with the [Music Production course I took](http://blog.invisible.ch/2013/04/23/17-music-production/) Pat Pattisons "[Introduction to Songwriting](https://www.coursera.org/course/songwriting)" class. As you know, I have been semi serious about playing guitar the last year, and been singing quite a bunch of the "standard" songs. Why not learn how they are written?
+Concurrently with the [Music Production course I took](/2013/04/23/17-music-production/) Pat Pattisons "[Introduction to Songwriting](https://www.coursera.org/course/songwriting)" class. As you know, I have been semi serious about playing guitar the last year, and been singing quite a bunch of the "standard" songs. Why not learn how they are written?
 
 Pats course focused on the tools to create Prosody. Prosody is "the patterns of rhythm and sound used in poetry" and in the case of lyrics and song, how they work together to create an ensemble that conveys emotion, feelings and moods. Pat distinguishes between stable and unstable moments and showed ho various tools (line length, number of lines in a verse/chorus, rhyme schemes, rhymes, phrasing of lines (on the front or back beat) and more can create a stable or unstable moment in a song.
 

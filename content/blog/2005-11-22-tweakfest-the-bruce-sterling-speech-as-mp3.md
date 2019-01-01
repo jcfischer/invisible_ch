@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-22 15:27:00+00:00
 layout: post
-link: http://blog.invisible.ch/2005/11/22/tweakfest-the-bruce-sterling-speech-as-mp3/
+link: http://invisible.ch/2005/11/22/tweakfest-the-bruce-sterling-speech-as-mp3/
 slug: tweakfest-the-bruce-sterling-speech-as-mp3
 tags: ["blog"]
 title: Tweakfest - The Bruce Sterling speech as mp3

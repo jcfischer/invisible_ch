@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-10-20 11:56:07+00:00
 layout: post
-link: http://blog.invisible.ch/2011/10/20/what-i-like-about-napster-on-the-sonos-themed-afternoons-one-song-dozens-of/
+link: http://invisible.ch/2011/10/20/what-i-like-about-napster-on-the-sonos-themed-afternoons-one-song-dozens-of/
 slug: what-i-like-about-napster-on-the-sonos-themed-afternoons-one-song-dozens-of
 tags: ["blog"]
 title: 'What I like about Napster on the Sonos: Themed afternoons - one song, dozens

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-09-28 15:10:33+00:00
 layout: post
-link: http://blog.invisible.ch/2006/09/28/textmate-footnotes-and-rjs-render-calls-dont-mix/
+link: http://invisible.ch/2006/09/28/textmate-footnotes-and-rjs-render-calls-dont-mix/
 slug: textmate-footnotes-and-rjs-render-calls-dont-mix
 tags: ["blog"]
 title: Textmate Footnotes and RJS render calls don't mix

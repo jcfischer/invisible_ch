@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-04 22:54:33+00:00
 layout: post
-link: http://blog.invisible.ch/2013/02/04/93-error-and-cause/
+link: http://invisible.ch/2013/02/04/93-error-and-cause/
 slug: 93-error-and-cause
 tags: ["blog"]
 title: 93 - Error and Cause

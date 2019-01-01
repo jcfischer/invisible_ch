@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-22 20:03:48+00:00
 layout: post
-link: http://blog.invisible.ch/2013/02/22/75-weisshorn-molinis/
+link: http://invisible.ch/2013/02/22/75-weisshorn-molinis/
 slug: 75-weisshorn-molinis
 tags: ["blog"]
 title: 75 - Weisshorn - Molinis
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 12214
 ---
 
-Today we did the tour from Weisshorn to Molinis, that [Adi hinted at earlier this week](http://blog.invisible.ch/2013/02/19/78-amazing/).
+Today we did the tour from Weisshorn to Molinis, that [Adi hinted at earlier this week](/2013/02/19/78-amazing/).
 
 We started around 13:00 and skied almost 9km with around 1700 height meters. The first part was wonderful deep powder, the second part down through the forest (steep and very steep). Zoë had no problems at all, Tobias on the Snowboard managed well but was beaten and tired, Doris skied technically perfect but got tired in the middle and fell a couple of times. Me? I was way over my limit (especially in the steep parts) and had more ground contact with the snow than in the last 10 years combined. But down we came, unhurt and proud.
 

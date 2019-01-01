@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-01-14 21:02:53+00:00
 layout: post
-link: http://blog.invisible.ch/2007/01/14/london-adventure/
+link: http://invisible.ch/2007/01/14/london-adventure/
 slug: london-adventure
 tags: ["blog"]
 title: London Adventure

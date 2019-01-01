@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-07-17 10:08:12+00:00
 layout: post
-link: http://blog.invisible.ch/2007/07/17/haml-17-and-gettext/
+link: http://invisible.ch/2007/07/17/haml-17-and-gettext/
 slug: haml-17-and-gettext
 tags: ["blog"]
 title: HAML 1.7 and Gettext

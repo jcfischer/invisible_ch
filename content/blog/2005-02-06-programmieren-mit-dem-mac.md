@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-02-06 00:34:51+00:00
 layout: post
-link: http://blog.invisible.ch/2005/02/06/programmieren-mit-dem-mac/
+link: http://invisible.ch/2005/02/06/programmieren-mit-dem-mac/
 slug: programmieren-mit-dem-mac
 tags: ["blog"]
 title: Programmieren mit dem Mac?

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-09-04 21:08:18+00:00
 layout: post
-link: http://blog.invisible.ch/2006/09/04/living-on-the-railsedge/
+link: http://invisible.ch/2006/09/04/living-on-the-railsedge/
 slug: living-on-the-railsedge
 tags: ["blog"]
 title: Living on the RailsEdge
@@ -21,7 +21,7 @@ And of course I'm taking the opportunity to update my [Rails Reference][2] to Ra
 Is there anything in particular you'd like to see covered in the next release of the reference? Let me know!
 
 [1]: http://wiki.rubyonrails.org/rails/pages/EdgeRails
-[2]: http://blog.invisible.ch/2006/05/01/ruby-on-rails-reference/
+[2]: /2006/05/01/ruby-on-rails-reference/
 
 
 Technorati Tags: [documentation](http://www.technorati.com/tag/documentation), [reference](http://www.technorati.com/tag/reference), [rails](http://www.technorati.com/tag/rails)

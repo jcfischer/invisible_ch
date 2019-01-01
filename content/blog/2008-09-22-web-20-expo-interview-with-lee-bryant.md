@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2008-09-22 14:56:12+00:00
 layout: post
-link: http://blog.invisible.ch/2008/09/22/web-20-expo-interview-with-lee-bryant/
+link: http://invisible.ch/2008/09/22/web-20-expo-interview-with-lee-bryant/
 slug: web-20-expo-interview-with-lee-bryant
 tags: ["blog"]
 title: Web 2.0 Expo - Interview with Lee Bryant

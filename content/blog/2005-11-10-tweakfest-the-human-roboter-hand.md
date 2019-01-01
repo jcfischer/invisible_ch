@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-10 11:00:53+00:00
 layout: post
-link: http://blog.invisible.ch/2005/11/10/tweakfest-the-human-roboter-hand/
+link: http://invisible.ch/2005/11/10/tweakfest-the-human-roboter-hand/
 slug: tweakfest-the-human-roboter-hand
 tags: ["blog"]
 title: Tweakfest - The Human Roboter Hand

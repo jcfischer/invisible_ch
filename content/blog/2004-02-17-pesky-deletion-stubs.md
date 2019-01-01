@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-02-17 09:15:15+00:00
 layout: post
-link: http://blog.invisible.ch/2004/02/17/pesky-deletion-stubs/
+link: http://invisible.ch/2004/02/17/pesky-deletion-stubs/
 slug: pesky-deletion-stubs
 tags: ["blog"]
 title: Pesky Deletion Stubs

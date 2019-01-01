@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-19 18:57:57+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/19/frank-zappa-quote-of-the-day/
+link: http://invisible.ch/2003/05/19/frank-zappa-quote-of-the-day/
 slug: frank-zappa-quote-of-the-day
 tags: ["blog"]
 title: Frank Zappa Quote of the day

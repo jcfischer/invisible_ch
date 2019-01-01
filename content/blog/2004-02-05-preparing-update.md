@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-02-05 11:50:45+00:00
 layout: post
-link: http://blog.invisible.ch/2004/02/05/preparing-update/
+link: http://invisible.ch/2004/02/05/preparing-update/
 slug: preparing-update
 tags: ["blog"]
 title: Preparing update

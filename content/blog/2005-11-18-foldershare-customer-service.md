@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-18 19:28:33+00:00
 layout: post
-link: http://blog.invisible.ch/2005/11/18/foldershare-customer-service/
+link: http://invisible.ch/2005/11/18/foldershare-customer-service/
 slug: foldershare-customer-service
 tags: ["blog"]
 title: Foldershare Customer Service

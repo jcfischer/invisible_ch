@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-04-08 10:58:51+00:00
 layout: post
-link: http://blog.invisible.ch/2003/04/08/atropin-dont-try-this-at-home/
+link: http://invisible.ch/2003/04/08/atropin-dont-try-this-at-home/
 slug: atropin-dont-try-this-at-home
 tags: ["blog"]
 title: Atropin - don't try this at home

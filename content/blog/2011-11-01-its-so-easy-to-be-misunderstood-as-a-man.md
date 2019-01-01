@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-11-01 12:18:19+00:00
 layout: post
-link: http://blog.invisible.ch/2011/11/01/its-so-easy-to-be-misunderstood-as-a-man/
+link: http://invisible.ch/2011/11/01/its-so-easy-to-be-misunderstood-as-a-man/
 slug: its-so-easy-to-be-misunderstood-as-a-man
 tags: ["blog"]
 title: It's so easy to be misunderstood as a man

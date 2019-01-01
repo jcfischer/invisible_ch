@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-04-24 09:15:34+00:00
 layout: post
-link: http://blog.invisible.ch/2003/04/24/ups-more-p800-applications-needed/
+link: http://invisible.ch/2003/04/24/ups-more-p800-applications-needed/
 slug: ups-more-p800-applications-needed
 tags: ["blog"]
 title: ups - more p800 applications needed

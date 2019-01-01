@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-07-16 10:58:59+00:00
 layout: post
-link: http://blog.invisible.ch/2004/07/16/rm-r-is-dangerous/
+link: http://invisible.ch/2004/07/16/rm-r-is-dangerous/
 slug: rm-r-is-dangerous
 tags: ["blog"]
 title: rm -r is dangerous

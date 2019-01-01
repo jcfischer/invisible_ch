@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-11-11 14:18:29+00:00
 layout: post
-link: http://blog.invisible.ch/2011/11/11/simplificator-and-invisible-team-up/
+link: http://invisible.ch/2011/11/11/simplificator-and-invisible-team-up/
 slug: simplificator-and-invisible-team-up
 tags: ["blog"]
 title: Simplificator and InVisible team up

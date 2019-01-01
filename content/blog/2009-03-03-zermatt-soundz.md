@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2009-03-03 20:30:42+00:00
 layout: post
-link: http://blog.invisible.ch/2009/03/03/zermatt-soundz/
+link: http://invisible.ch/2009/03/03/zermatt-soundz/
 slug: zermatt-soundz
 tags: ["blog"]
 title: Zermatt Soundz

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-15 15:01:21+00:00
 layout: post
-link: http://blog.invisible.ch/2003/03/15/kinder-philosophie/
+link: http://invisible.ch/2003/03/15/kinder-philosophie/
 slug: kinder-philosophie
 tags: ["blog"]
 title: Kinder Philosophie

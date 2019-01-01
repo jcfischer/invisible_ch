@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-07-30 11:48:32+00:00
 layout: post
-link: http://blog.invisible.ch/2003/07/30/twisted-python/
+link: http://invisible.ch/2003/07/30/twisted-python/
 slug: twisted-python
 tags: ["blog"]
 title: Twisted Python

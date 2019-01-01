@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-03-01 23:04:50+00:00
 layout: post
-link: http://blog.invisible.ch/2007/03/02/joyent-strongspace-and-my-samba-server/
+link: http://invisible.ch/2007/03/02/joyent-strongspace-and-my-samba-server/
 slug: joyent-strongspace-and-my-samba-server
 tags: ["blog"]
 title: Joyent, Strongspace and my Samba Server
@@ -29,7 +29,7 @@ Neat! And Joyent has just become much more usable. Now if they only would fix so
 [1]: http://www.shareasale.com/r.cfm?B=57232&U;=196165&M;=10198
 [2]: http://forum.joyent.com/viewtopic.php?id=959&p;=1
 [3]: http://www.shareasale.com/r.cfm?B=69507&U;=196165&M;=10198
-[4]: http://blog.invisible.ch/2005/10/06/back-up/
+[4]: /2005/10/06/back-up/
 
 
 

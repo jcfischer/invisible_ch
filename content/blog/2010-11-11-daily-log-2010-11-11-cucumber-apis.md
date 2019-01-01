@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2010-11-11 18:02:30+00:00
 layout: post
-link: http://blog.invisible.ch/2010/11/11/daily-log-2010-11-11-cucumber-apis/
+link: http://invisible.ch/2010/11/11/daily-log-2010-11-11-cucumber-apis/
 slug: daily-log-2010-11-11-cucumber-apis
 tags: ["blog"]
 title: Daily-Log, 2010-11-11 - Cucumber & APIs

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-06-14 13:56:50+00:00
 layout: post
-link: http://blog.invisible.ch/2003/06/14/the-right-thing/
+link: http://invisible.ch/2003/06/14/the-right-thing/
 slug: the-right-thing
 tags: ["blog"]
 title: The right thing

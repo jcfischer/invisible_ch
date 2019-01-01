@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-07 22:25:02+00:00
 layout: post
-link: http://blog.invisible.ch/2013/03/07/62-monkey-patching/
+link: http://invisible.ch/2013/03/07/62-monkey-patching/
 slug: 62-monkey-patching
 tags: ["blog"]
 title: 62 - monkey patching
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 12625
 ---
 
-When [I teach my students the beginning points of monkey patching](http://blog.invisible.ch/2013/02/26/71-teaching/) I usually get a gasp or two, a muttered curse and something like "I will never want to maintain something like that". Being the Ruby and Rails developer I am, I console them and tell them that in practice hardly anything bad happens, that Ruby gives you a sharp knife (instead of the plastic implements the Java people get dealt) etc. I also actually believe that this is so.
+When [I teach my students the beginning points of monkey patching](/2013/02/26/71-teaching/) I usually get a gasp or two, a muttered curse and something like "I will never want to maintain something like that". Being the Ruby and Rails developer I am, I console them and tell them that in practice hardly anything bad happens, that Ruby gives you a sharp knife (instead of the plastic implements the Java people get dealt) etc. I also actually believe that this is so.
 
 Today, Alvaro and I were setting up the Mobino stack on a new development machine, and the db:migrate step failed. (It had done so already when I setup Chengchen, but there I was in  a hurry and just installed a DB dump on his machine). Today however, we wanted to find out why it was failing.
 

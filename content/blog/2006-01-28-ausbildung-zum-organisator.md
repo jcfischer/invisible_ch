@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-01-28 21:16:11+00:00
 layout: post
-link: http://blog.invisible.ch/2006/01/28/ausbildung-zum-organisator/
+link: http://invisible.ch/2006/01/28/ausbildung-zum-organisator/
 slug: ausbildung-zum-organisator
 tags: ["blog"]
 title: Ausbildung zum Organisator

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-06-03 14:56:00+00:00
 layout: post
-link: http://blog.invisible.ch/2003/06/03/the-needle-in-the-haystack/
+link: http://invisible.ch/2003/06/03/the-needle-in-the-haystack/
 slug: the-needle-in-the-haystack
 tags: ["blog"]
 title: The needle in the haystack

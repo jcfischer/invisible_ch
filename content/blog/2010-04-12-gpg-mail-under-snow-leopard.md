@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2010-04-12 15:02:01+00:00
 layout: post
-link: http://blog.invisible.ch/2010/04/12/gpg-mail-under-snow-leopard/
+link: http://invisible.ch/2010/04/12/gpg-mail-under-snow-leopard/
 slug: gpg-mail-under-snow-leopard
 tags: ["blog"]
 title: GPG Mail under Snow Leopard

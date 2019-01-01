@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-08-15 11:48:30+00:00
 layout: post
-link: http://blog.invisible.ch/2003/08/15/debian-dell-links/
+link: http://invisible.ch/2003/08/15/debian-dell-links/
 slug: debian-dell-links
 tags: ["blog"]
 title: Debian & Dell Links

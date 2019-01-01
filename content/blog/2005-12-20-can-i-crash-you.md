@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-12-20 06:48:27+00:00
 layout: post
-link: http://blog.invisible.ch/2005/12/20/can-i-crash-you/
+link: http://invisible.ch/2005/12/20/can-i-crash-you/
 slug: can-i-crash-you
 tags: ["blog"]
 title: Can I crash you?

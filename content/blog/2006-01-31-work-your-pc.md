@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-01-31 13:59:09+00:00
 layout: post
-link: http://blog.invisible.ch/2006/01/31/work-your-pc/
+link: http://invisible.ch/2006/01/31/work-your-pc/
 slug: work-your-pc
 tags: ["blog"]
 title: Work your PC

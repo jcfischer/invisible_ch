@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-30 15:04:27+00:00
 layout: post
-link: http://blog.invisible.ch/2003/09/30/saving-a-dell-part-ii/
+link: http://invisible.ch/2003/09/30/saving-a-dell-part-ii/
 slug: saving-a-dell-part-ii
 tags: ["blog"]
 title: Saving a Dell, part II

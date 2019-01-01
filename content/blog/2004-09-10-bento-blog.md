@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-09-10 07:22:03+00:00
 layout: post
-link: http://blog.invisible.ch/2004/09/10/bento-blog/
+link: http://invisible.ch/2004/09/10/bento-blog/
 slug: bento-blog
 tags: ["blog"]
 title: Bento Blog

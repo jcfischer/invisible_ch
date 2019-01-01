@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-10 09:03:12+00:00
 layout: post
-link: http://blog.invisible.ch/2005/06/10/tech-conference/
+link: http://invisible.ch/2005/06/10/tech-conference/
 slug: tech-conference
 tags: ["blog"]
 title: Tech-Conference

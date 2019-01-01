@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-06-11 14:42:37+00:00
 layout: post
-link: http://blog.invisible.ch/2004/06/11/paper-prototyping/
+link: http://invisible.ch/2004/06/11/paper-prototyping/
 slug: paper-prototyping
 tags: ["blog"]
 title: Paper prototyping

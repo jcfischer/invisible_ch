@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-09-22 15:58:16+00:00
 layout: post
-link: http://blog.invisible.ch/2005/09/22/onlife-remembers-what-you-were-doing/
+link: http://invisible.ch/2005/09/22/onlife-remembers-what-you-were-doing/
 slug: onlife-remembers-what-you-were-doing
 tags: ["blog"]
 title: Onlife remembers what you were doing
@@ -29,7 +29,7 @@ Here's how that will look:
 
 
 
-[![Onlife](http://blog.invisible.ch/Onlife-tm.jpg)](http://blog.invisible.ch/Onlife.png)
+[![Onlife](/Onlife-tm.jpg)](/Onlife.png)
 
 
 

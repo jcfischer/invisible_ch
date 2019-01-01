@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-23 20:48:36+00:00
 layout: post
-link: http://blog.invisible.ch/2013/03/23/46-songwriting/
+link: http://invisible.ch/2013/03/23/46-songwriting/
 slug: 46-songwriting
 tags: ["blog"]
 title: 46 - songwriting

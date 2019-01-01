@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-09 20:08:53+00:00
 layout: post
-link: http://blog.invisible.ch/2005/11/09/tweakfest-big-brother-und-ein-ende-mit-schrecken/
+link: http://invisible.ch/2005/11/09/tweakfest-big-brother-und-ein-ende-mit-schrecken/
 slug: tweakfest-big-brother-und-ein-ende-mit-schrecken
 tags: ["blog"]
 title: Tweakfest - Big Brother und ein Ende mit Schrecken

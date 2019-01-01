@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-04-03 20:25:14+00:00
 layout: post
-link: http://blog.invisible.ch/2013/04/03/35-skeumorphism/
+link: http://invisible.ch/2013/04/03/35-skeumorphism/
 slug: 35-skeumorphism
 tags: ["blog"]
 title: 35 - skeumorphism
@@ -16,11 +16,11 @@ Every Apple user will have met [Skeumorphism](http://en.wikipedia.org/wiki/Skeuo
 
 The worst offenders in terms of skeumorphic interfaces however aren't coming from Cupertino - there are legion of software producers that build interfaces that mimic "reality" down to the shadows on the knobs. Check out these samples:
 
-[![Screen Shot 2013-04-03 at 22.12.19](http://blog.invisible.ch/wp-content/uploads/2013/04/Screen-Shot-2013-04-03-at-22.12.19-300x106.png)](http://blog.invisible.ch/wp-content/uploads/2013/04/Screen-Shot-2013-04-03-at-22.12.19.png)
+[![Screen Shot 2013-04-03 at 22.12.19](/wp-content/uploads/2013/04/Screen-Shot-2013-04-03-at-22.12.19-300x106.png)](/wp-content/uploads/2013/04/Screen-Shot-2013-04-03-at-22.12.19.png)
 
-[![Screen Shot 2013-04-03 at 22.12.44](http://blog.invisible.ch/wp-content/uploads/2013/04/Screen-Shot-2013-04-03-at-22.12.44-300x185.png)](http://blog.invisible.ch/wp-content/uploads/2013/04/Screen-Shot-2013-04-03-at-22.12.44.png)
+[![Screen Shot 2013-04-03 at 22.12.44](/wp-content/uploads/2013/04/Screen-Shot-2013-04-03-at-22.12.44-300x185.png)](/wp-content/uploads/2013/04/Screen-Shot-2013-04-03-at-22.12.44.png)
 
-[![Screen Shot 2013-04-03 at 22.11.05](http://blog.invisible.ch/wp-content/uploads/2013/04/Screen-Shot-2013-04-03-at-22.11.05-300x167.png)](http://blog.invisible.ch/wp-content/uploads/2013/04/Screen-Shot-2013-04-03-at-22.11.05.png)
+[![Screen Shot 2013-04-03 at 22.11.05](/wp-content/uploads/2013/04/Screen-Shot-2013-04-03-at-22.11.05-300x167.png)](/wp-content/uploads/2013/04/Screen-Shot-2013-04-03-at-22.11.05.png)
 
 
 
@@ -28,7 +28,7 @@ While these interfaces might look nice, I find them (in general) to be really di
 
 Luckily, there are alternatives (at least some). The [DAW](http://en.wikipedia.org/wiki/Digital_audio_workstation) I am using, [Reaper](http://www.reaper.fm/),  is very light on skeumorphism. Yes - the main tracking and mixing area has sliders like on a mixing board, but most other things are blessed with sensible input controls. Thanks for that!
 
-[![Screen Shot 2013-04-03 at 22.23.22](http://blog.invisible.ch/wp-content/uploads/2013/04/Screen-Shot-2013-04-03-at-22.23.22-300x184.png)](http://blog.invisible.ch/wp-content/uploads/2013/04/Screen-Shot-2013-04-03-at-22.23.22.png)
+[![Screen Shot 2013-04-03 at 22.23.22](/wp-content/uploads/2013/04/Screen-Shot-2013-04-03-at-22.23.22-300x184.png)](/wp-content/uploads/2013/04/Screen-Shot-2013-04-03-at-22.23.22.png)
 
 
 

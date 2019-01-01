@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-21 11:55:05+00:00
 layout: post
-link: http://blog.invisible.ch/2005/06/21/we-are-notinvisiblech/
+link: http://invisible.ch/2005/06/21/we-are-notinvisiblech/
 slug: we-are-notinvisiblech
 tags: ["blog"]
 title: We are not.invisible.ch

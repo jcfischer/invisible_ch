@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-01-01 16:17:18+00:00
 layout: post
-link: http://blog.invisible.ch/2006/01/01/brauchsam/
+link: http://invisible.ch/2006/01/01/brauchsam/
 slug: brauchsam
 tags: ["blog"]
 title: Brauchsam

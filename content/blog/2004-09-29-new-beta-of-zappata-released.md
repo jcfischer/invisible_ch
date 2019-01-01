@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-09-29 23:21:08+00:00
 layout: post
-link: http://blog.invisible.ch/2004/09/29/new-beta-of-zappata-released/
+link: http://invisible.ch/2004/09/29/new-beta-of-zappata-released/
 slug: new-beta-of-zappata-released
 tags: ["blog"]
 title: New Beta of ZAPPATA released

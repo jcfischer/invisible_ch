@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-10-07 13:03:56+00:00
 layout: post
-link: http://blog.invisible.ch/2004/10/07/secure-email/
+link: http://invisible.ch/2004/10/07/secure-email/
 slug: secure-email
 tags: ["blog"]
 title: Secure Email

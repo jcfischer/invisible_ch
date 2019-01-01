@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-06-05 21:31:17+00:00
 layout: post
-link: http://blog.invisible.ch/2006/06/05/re-booted-re-birthed-version-80/
+link: http://invisible.ch/2006/06/05/re-booted-re-birthed-version-80/
 slug: re-booted-re-birthed-version-80
 tags: ["blog"]
 title: re-booted - re-birthed version 8.0

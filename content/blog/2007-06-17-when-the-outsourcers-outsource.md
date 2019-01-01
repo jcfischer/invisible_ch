@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-06-17 18:08:46+00:00
 layout: post
-link: http://blog.invisible.ch/2007/06/17/when-the-outsourcers-outsource/
+link: http://invisible.ch/2007/06/17/when-the-outsourcers-outsource/
 slug: when-the-outsourcers-outsource
 tags: ["blog"]
 title: When the outsourcers outsource

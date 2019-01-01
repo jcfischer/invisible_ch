@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2008-10-06 12:07:52+00:00
 layout: post
-link: http://blog.invisible.ch/2008/10/06/more-privacy-on-the-net/
+link: http://invisible.ch/2008/10/06/more-privacy-on-the-net/
 slug: more-privacy-on-the-net
 tags: ["blog"]
 title: more privacy on the net
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 692
 ---
 
-Following up on my piece '[the private net](http://blog.invisible.ch/2008/10/01/the-private-net/)' from last week, some further thoughts on secure communications and a call to action:
+Following up on my piece '[the private net](/2008/10/01/the-private-net/)' from last week, some further thoughts on secure communications and a call to action:
 
 One secure way of communication, supposedly, is Skype. I have heard law enforcement people in Switzerland talk about their problems with Skype: They can't monitor and eavesdrop on the encrypted communication. But is it really true? Some people I have talked to suggest that the price EBay paid for Skype a few years ago was way way more, than the business was worth. Might it be, these people speculated, that US agencies had an interest to get Skype under US control?
 

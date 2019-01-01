@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-02-07 22:56:57+00:00
 layout: post
-link: http://blog.invisible.ch/2007/02/07/lift-07-workshops/
+link: http://invisible.ch/2007/02/07/lift-07-workshops/
 slug: lift-07-workshops
 tags: ["blog"]
 title: Lift 07 - Workshops

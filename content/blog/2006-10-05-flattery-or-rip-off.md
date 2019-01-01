@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-10-05 15:26:18+00:00
 layout: post
-link: http://blog.invisible.ch/2006/10/05/flattery-or-rip-off/
+link: http://invisible.ch/2006/10/05/flattery-or-rip-off/
 slug: flattery-or-rip-off
 tags: ["blog"]
 title: Flattery or rip-off?
@@ -35,7 +35,7 @@ The creative commons license and a link to this site have finally appeared on Be
 [Case closed][6] and removed unnecessary finger-pointing from my end.
 
 [1]: http://www.rubyonrailsblog.com/articles/2006/10/04/ruby-on-rails-cheat-sheet-collectors-edition
-[2]: http://blog.invisible.ch/2006/05/01/ruby-on-rails-reference/
+[2]: /2006/05/01/ruby-on-rails-reference/
 [3]: http://mikepence.wordpress.com/2006/05/24/benjamin-gorlicks-ruby-documentation-project-wins-google-summer-of-code-grant/
 [4]: http://weblog.rubyonrails.org/2006/6/2/collaborative-rails-api-documentation
 [5]: http://blog.nanorails.com/pages/rails_1.1_cheat_sheet

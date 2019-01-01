@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-08-13 14:03:04+00:00
 layout: post
-link: http://blog.invisible.ch/2005/08/13/unseen-video/
+link: http://invisible.ch/2005/08/13/unseen-video/
 slug: unseen-video
 tags: ["blog"]
 title: Unseen Video
@@ -17,7 +17,7 @@ You haven't seen this video yet (that's why it's called the [unseen video](http:
 
 
 [
-![Unseen-Movie](http://blog.invisible.ch/unseen-movie.jpg)](http://www.theunseenvideo.com/video/youmakemefeel.html)
+![Unseen-Movie](/unseen-movie.jpg)](http://www.theunseenvideo.com/video/youmakemefeel.html)
 
 
 

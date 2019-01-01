@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2009-06-03 20:28:56+00:00
 layout: post
-link: http://blog.invisible.ch/2009/06/03/materials-for-bdd-workshop/
+link: http://invisible.ch/2009/06/03/materials-for-bdd-workshop/
 slug: materials-for-bdd-workshop
 tags: ["blog"]
 title: Materials for BDD workshop

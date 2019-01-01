@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-12 08:44:05+00:00
 layout: post
-link: http://blog.invisible.ch/2005/06/12/thinking-on-three-levels/
+link: http://invisible.ch/2005/06/12/thinking-on-three-levels/
 slug: thinking-on-three-levels
 tags: ["blog"]
 title: Thinking on three levels

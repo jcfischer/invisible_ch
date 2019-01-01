@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-02-02 11:18:52+00:00
 layout: post
-link: http://blog.invisible.ch/2004/02/02/ui-gods-work/
+link: http://invisible.ch/2004/02/02/ui-gods-work/
 slug: ui-gods-work
 tags: ["blog"]
 title: UI gods @ work

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-28 17:50:09+00:00
 layout: post
-link: http://blog.invisible.ch/2013/03/28/41-federated-rabbits/
+link: http://invisible.ch/2013/03/28/41-federated-rabbits/
 slug: 41-federated-rabbits
 tags: ["blog"]
 title: 41 - federated rabbits

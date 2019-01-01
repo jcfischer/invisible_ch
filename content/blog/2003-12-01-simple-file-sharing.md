@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-12-01 23:52:27+00:00
 layout: post
-link: http://blog.invisible.ch/2003/12/01/simple-file-sharing/
+link: http://invisible.ch/2003/12/01/simple-file-sharing/
 slug: simple-file-sharing
 tags: ["blog"]
 title: Simple File Sharing

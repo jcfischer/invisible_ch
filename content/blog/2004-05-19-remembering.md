@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-05-19 16:23:31+00:00
 layout: post
-link: http://blog.invisible.ch/2004/05/19/remembering/
+link: http://invisible.ch/2004/05/19/remembering/
 slug: remembering
 tags: ["blog"]
 title: Remembering

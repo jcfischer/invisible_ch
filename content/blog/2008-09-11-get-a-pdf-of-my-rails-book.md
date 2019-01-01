@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2008-09-11 15:35:20+00:00
 layout: post
-link: http://blog.invisible.ch/2008/09/11/get-a-pdf-of-my-rails-book/
+link: http://invisible.ch/2008/09/11/get-a-pdf-of-my-rails-book/
 slug: get-a-pdf-of-my-rails-book
 tags: ["blog"]
 title: Get a PDF of my Rails book

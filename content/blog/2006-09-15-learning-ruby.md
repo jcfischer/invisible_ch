@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-09-15 15:27:49+00:00
 layout: post
-link: http://blog.invisible.ch/2006/09/15/learning-ruby/
+link: http://invisible.ch/2006/09/15/learning-ruby/
 slug: learning-ruby
 tags: ["blog"]
 title: learning Ruby

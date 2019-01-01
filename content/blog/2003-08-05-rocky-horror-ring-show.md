@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-08-05 00:20:28+00:00
 layout: post
-link: http://blog.invisible.ch/2003/08/05/rocky-horror-ring-show/
+link: http://invisible.ch/2003/08/05/rocky-horror-ring-show/
 slug: rocky-horror-ring-show
 tags: ["blog"]
 title: Rocky Horror Ring Show

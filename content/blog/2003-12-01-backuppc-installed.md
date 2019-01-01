@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-12-01 20:57:08+00:00
 layout: post
-link: http://blog.invisible.ch/2003/12/01/backuppc-installed/
+link: http://invisible.ch/2003/12/01/backuppc-installed/
 slug: backuppc-installed
 tags: ["blog"]
 title: BackupPC installed

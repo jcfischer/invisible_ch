@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-01-05 15:48:08+00:00
 layout: post
-link: http://blog.invisible.ch/2005/01/05/smallware/
+link: http://invisible.ch/2005/01/05/smallware/
 slug: smallware
 tags: ["blog"]
 title: SmallWare

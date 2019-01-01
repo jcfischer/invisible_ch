@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-01-01 21:49:33+00:00
 layout: post
-link: http://blog.invisible.ch/2007/01/01/five-things/
+link: http://invisible.ch/2007/01/01/five-things/
 slug: five-things
 tags: ["blog"]
 title: five things

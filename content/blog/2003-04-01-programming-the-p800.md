@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-04-01 17:10:12+00:00
 layout: post
-link: http://blog.invisible.ch/2003/04/01/programming-the-p800/
+link: http://invisible.ch/2003/04/01/programming-the-p800/
 slug: programming-the-p800
 tags: ["blog"]
 title: Programming the P800

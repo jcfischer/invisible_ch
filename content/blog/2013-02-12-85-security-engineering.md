@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-12 22:07:12+00:00
 layout: post
-link: http://blog.invisible.ch/2013/02/12/85-security-engineering/
+link: http://invisible.ch/2013/02/12/85-security-engineering/
 slug: 85-security-engineering
 tags: ["blog"]
 title: 85 - Security Engineering

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-11-28 23:33:42+00:00
 layout: post
-link: http://blog.invisible.ch/2006/11/29/java-c-php-or-ruby/
+link: http://invisible.ch/2006/11/29/java-c-php-or-ruby/
 slug: java-c-php-or-ruby
 tags: ["blog"]
 title: Java, C#, PHP or Ruby?

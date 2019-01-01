@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-09-25 08:11:19+00:00
 layout: post
-link: http://blog.invisible.ch/2007/09/25/sheep-shirts/
+link: http://invisible.ch/2007/09/25/sheep-shirts/
 slug: sheep-shirts
 tags: ["blog"]
 title: sheep-shirts

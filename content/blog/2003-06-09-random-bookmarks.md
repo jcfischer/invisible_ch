@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-06-09 13:55:48+00:00
 layout: post
-link: http://blog.invisible.ch/2003/06/09/random-bookmarks/
+link: http://invisible.ch/2003/06/09/random-bookmarks/
 slug: random-bookmarks
 tags: ["blog"]
 title: Random Bookmarks

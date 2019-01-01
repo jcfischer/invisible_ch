@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-09-23 15:25:48+00:00
 layout: post
-link: http://blog.invisible.ch/2004/09/23/subversion/
+link: http://invisible.ch/2004/09/23/subversion/
 slug: subversion
 tags: ["blog"]
 title: Subversion

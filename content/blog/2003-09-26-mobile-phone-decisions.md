@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-26 13:16:30+00:00
 layout: post
-link: http://blog.invisible.ch/2003/09/26/mobile-phone-decisions/
+link: http://invisible.ch/2003/09/26/mobile-phone-decisions/
 slug: mobile-phone-decisions
 tags: ["blog"]
 title: Mobile Phone Decisions

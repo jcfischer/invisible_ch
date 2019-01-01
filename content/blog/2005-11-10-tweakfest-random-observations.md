@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-10 09:51:34+00:00
 layout: post
-link: http://blog.invisible.ch/2005/11/10/tweakfest-random-observations/
+link: http://invisible.ch/2005/11/10/tweakfest-random-observations/
 slug: tweakfest-random-observations
 tags: ["blog"]
 title: Tweakfest - Random Observations

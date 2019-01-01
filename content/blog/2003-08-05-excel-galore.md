@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-08-05 07:04:54+00:00
 layout: post
-link: http://blog.invisible.ch/2003/08/05/excel-galore/
+link: http://invisible.ch/2003/08/05/excel-galore/
 slug: excel-galore
 tags: ["blog"]
 title: Excel Galore

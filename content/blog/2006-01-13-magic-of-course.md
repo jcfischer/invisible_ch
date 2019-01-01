@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-01-13 06:10:58+00:00
 layout: post
-link: http://blog.invisible.ch/2006/01/13/magic-of-course/
+link: http://invisible.ch/2006/01/13/magic-of-course/
 slug: magic-of-course
 tags: ["blog"]
 title: Magic? Of Course

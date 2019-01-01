@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-12-16 23:07:04+00:00
 layout: post
-link: http://blog.invisible.ch/2006/12/17/zfs-in-leopard/
+link: http://invisible.ch/2006/12/17/zfs-in-leopard/
 slug: zfs-in-leopard
 tags: ["blog"]
 title: ZFS in Leopard

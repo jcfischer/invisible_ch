@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-31 19:12:44+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/31/webbing-the-blogs/
+link: http://invisible.ch/2003/05/31/webbing-the-blogs/
 slug: webbing-the-blogs
 tags: ["blog"]
 title: Webbing the Blogs

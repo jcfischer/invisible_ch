@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-01-28 11:27:36+00:00
 layout: post
-link: http://blog.invisible.ch/2004/01/28/empty-blog-no-the-zen-of-working/
+link: http://invisible.ch/2004/01/28/empty-blog-no-the-zen-of-working/
 slug: empty-blog-no-the-zen-of-working
 tags: ["blog"]
 title: Empty Blog? No - the ZEN of working

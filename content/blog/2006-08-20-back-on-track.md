@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-08-20 14:41:01+00:00
 layout: post
-link: http://blog.invisible.ch/2006/08/20/back-on-track/
+link: http://invisible.ch/2006/08/20/back-on-track/
 slug: back-on-track
 tags: ["blog"]
 title: Back on Track
@@ -25,9 +25,9 @@ Bad news:
 * The bad weather in Denmark killed my Lumix LX-1. I'll have to see if a repair is affordable at a reasonable price or if it's time for a new camera
 
 [1]: http://henrietteweber.com/
-[2]: http://blog.invisible.ch/2006/06/20/painfully-quiet/
+[2]: /2006/06/20/painfully-quiet/
 [3]: http://www.myworld.privateweb.at/albaracka/albaracka_oil.htm
-[4]: http://blog.invisible.ch/2006/08/02/if-not-today/
+[4]: /2006/08/02/if-not-today/
 
 
 

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-14 06:30:57+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/14/p800-stopped-syncing/
+link: http://invisible.ch/2003/05/14/p800-stopped-syncing/
 slug: p800-stopped-syncing
 tags: ["blog"]
 title: P800 stopped syncing

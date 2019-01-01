@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-10-28 19:14:28+00:00
 layout: post
-link: http://blog.invisible.ch/2004/10/28/mobile-needs/
+link: http://invisible.ch/2004/10/28/mobile-needs/
 slug: mobile-needs
 tags: ["blog"]
 title: Mobile Needs

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-04-29 08:08:16+00:00
 layout: post
-link: http://blog.invisible.ch/2005/04/29/there-really-is-nothing-to-see/
+link: http://invisible.ch/2005/04/29/there-really-is-nothing-to-see/
 slug: there-really-is-nothing-to-see
 tags: ["blog"]
 title: There really is nothing to see

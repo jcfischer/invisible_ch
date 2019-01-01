@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-11-12 18:01:49+00:00
 layout: post
-link: http://blog.invisible.ch/2004/11/12/new-zappata-release-released/
+link: http://invisible.ch/2004/11/12/new-zappata-release-released/
 slug: new-zappata-release-released
 tags: ["blog"]
 title: New ZAPPATA release released

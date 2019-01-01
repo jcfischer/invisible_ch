@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-02-16 06:49:32+00:00
 layout: post
-link: http://blog.invisible.ch/2006/02/16/ajax-to-do-more-stuff/
+link: http://invisible.ch/2006/02/16/ajax-to-do-more-stuff/
 slug: ajax-to-do-more-stuff
 tags: ["blog"]
 title: Ajax to do more stuff?

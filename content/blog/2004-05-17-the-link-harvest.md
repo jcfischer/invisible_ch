@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-05-17 09:24:59+00:00
 layout: post
-link: http://blog.invisible.ch/2004/05/17/the-link-harvest/
+link: http://invisible.ch/2004/05/17/the-link-harvest/
 slug: the-link-harvest
 tags: ["blog"]
 title: The link harvest

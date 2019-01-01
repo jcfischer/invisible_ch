@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-15 15:05:36+00:00
 layout: post
-link: http://blog.invisible.ch/2003/03/15/the-right-tools/
+link: http://invisible.ch/2003/03/15/the-right-tools/
 slug: the-right-tools
 tags: ["blog"]
 title: The right tools

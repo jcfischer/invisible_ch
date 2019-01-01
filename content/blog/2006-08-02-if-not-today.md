@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-08-02 12:29:54+00:00
 layout: post
-link: http://blog.invisible.ch/2006/08/02/if-not-today/
+link: http://invisible.ch/2006/08/02/if-not-today/
 slug: if-not-today
 tags: ["blog"]
 title: if not today...

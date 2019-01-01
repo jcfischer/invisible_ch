@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-08-06 07:54:02+00:00
 layout: post
-link: http://blog.invisible.ch/2003/08/06/cpu-at-100-part-2-final/
+link: http://invisible.ch/2003/08/06/cpu-at-100-part-2-final/
 slug: cpu-at-100-part-2-final
 tags: ["blog"]
 title: CPU at 100% (Part 2 - final)

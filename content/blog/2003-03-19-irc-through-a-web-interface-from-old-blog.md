@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-19 23:06:15+00:00
 layout: post
-link: http://blog.invisible.ch/2003/03/19/irc-through-a-web-interface-from-old-blog/
+link: http://invisible.ch/2003/03/19/irc-through-a-web-interface-from-old-blog/
 slug: irc-through-a-web-interface-from-old-blog
 tags: ["blog"]
 title: IRC through a web interface (from old blog)

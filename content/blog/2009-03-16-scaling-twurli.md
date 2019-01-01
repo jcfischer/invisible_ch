@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2009-03-16 21:03:46+00:00
 layout: post
-link: http://blog.invisible.ch/2009/03/16/scaling-twurli/
+link: http://invisible.ch/2009/03/16/scaling-twurli/
 slug: scaling-twurli
 tags: ["blog"]
 title: scaling twurli

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2008-02-28 09:15:21+00:00
 layout: post
-link: http://blog.invisible.ch/2008/02/28/toyota-prius-zu-verkaufen/
+link: http://invisible.ch/2008/02/28/toyota-prius-zu-verkaufen/
 slug: toyota-prius-zu-verkaufen
 tags: ["blog"]
 title: Toyota Prius zu verkaufen
@@ -14,7 +14,7 @@ wordpress_id: 643
 
 Wir haben seit Februar 2005 einen Toyota Prius, der uns zuverlÃ¤ssig gedient hat. Wir benutzen ihn aber nicht sonderlich, leben gut erschlossen mir Ã¶ffentlichem Verkehr und das Wallis ist dank der NEAT mit dem Zug schneller zu erreichen als mit dem Auto.
 
-![](http://blog.invisible.ch/images/prius.jpg)
+![](/images/prius.jpg)
 
 Deshalb haben wir uns entschlossen, das Auto zu verkaufen:
 

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-07-28 13:04:26+00:00
 layout: post
-link: http://blog.invisible.ch/2003/07/28/darwinism-in-poetry/
+link: http://invisible.ch/2003/07/28/darwinism-in-poetry/
 slug: darwinism-in-poetry
 tags: ["blog"]
 title: Darwinism in Poetry

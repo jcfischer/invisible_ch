@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-01-03 21:49:55+00:00
 layout: post
-link: http://blog.invisible.ch/2007/01/03/betabitch/
+link: http://invisible.ch/2007/01/03/betabitch/
 slug: betabitch
 tags: ["blog"]
 title: Betabitch

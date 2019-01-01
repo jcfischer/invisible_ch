@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-04-03 23:19:25+00:00
 layout: post
-link: http://blog.invisible.ch/2004/04/03/blogger-meets-real-life-reader/
+link: http://invisible.ch/2004/04/03/blogger-meets-real-life-reader/
 slug: blogger-meets-real-life-reader
 tags: ["blog"]
 title: Blogger meets real life reader

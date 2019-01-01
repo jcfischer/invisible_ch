@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-02-11 11:20:58+00:00
 layout: post
-link: http://blog.invisible.ch/2005/02/11/burning-feeds/
+link: http://invisible.ch/2005/02/11/burning-feeds/
 slug: burning-feeds
 tags: ["blog"]
 title: burning Feeds

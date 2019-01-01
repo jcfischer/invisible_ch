@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-05-11 18:12:48+00:00
 layout: post
-link: http://blog.invisible.ch/2004/05/11/when-the-test-is-wrong-and-other-microsoft-stupidities/
+link: http://invisible.ch/2004/05/11/when-the-test-is-wrong-and-other-microsoft-stupidities/
 slug: when-the-test-is-wrong-and-other-microsoft-stupidities
 tags: ["blog"]
 title: When the test is wrong and other Microsoft stupidities

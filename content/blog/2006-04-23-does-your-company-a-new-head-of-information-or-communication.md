@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-04-23 12:14:48+00:00
 layout: post
-link: http://blog.invisible.ch/2006/04/23/does-your-company-a-new-head-of-information-or-communication/
+link: http://invisible.ch/2006/04/23/does-your-company-a-new-head-of-information-or-communication/
 slug: does-your-company-a-new-head-of-information-or-communication
 tags: ["blog"]
 title: Does your company need a new head of information or communication?

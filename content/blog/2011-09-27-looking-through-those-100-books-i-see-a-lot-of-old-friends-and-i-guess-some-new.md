@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-09-27 18:34:17+00:00
 layout: post
-link: http://blog.invisible.ch/2011/09/27/looking-through-those-100-books-i-see-a-lot-of-old-friends-and-i-guess-some-new/
+link: http://invisible.ch/2011/09/27/looking-through-those-100-books-i-see-a-lot-of-old-friends-and-i-guess-some-new/
 slug: looking-through-those-100-books-i-see-a-lot-of-old-friends-and-i-guess-some-new
 tags: ["blog"]
 title: looking through those 100 books I see a lot of old friends - and I guess some

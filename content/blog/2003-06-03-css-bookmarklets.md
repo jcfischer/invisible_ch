@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-06-03 15:01:47+00:00
 layout: post
-link: http://blog.invisible.ch/2003/06/03/css-bookmarklets/
+link: http://invisible.ch/2003/06/03/css-bookmarklets/
 slug: css-bookmarklets
 tags: ["blog"]
 title: CSS Bookmarklets

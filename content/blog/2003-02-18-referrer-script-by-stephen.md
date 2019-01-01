@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-02-18 15:09:27+00:00
 layout: post
-link: http://blog.invisible.ch/2003/02/18/referrer-script-by-stephen/
+link: http://invisible.ch/2003/02/18/referrer-script-by-stephen/
 slug: referrer-script-by-stephen
 tags: ["blog"]
 title: Referrer Script by Stephen

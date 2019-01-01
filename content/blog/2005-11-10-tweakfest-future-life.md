@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-10 09:52:13+00:00
 layout: post
-link: http://blog.invisible.ch/2005/11/10/tweakfest-future-life/
+link: http://invisible.ch/2005/11/10/tweakfest-future-life/
 slug: tweakfest-future-life
 tags: ["blog"]
 title: Tweakfest - Future Life

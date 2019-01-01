@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-04-23 22:05:37+00:00
 layout: post
-link: http://blog.invisible.ch/2013/04/23/17-music-production/
+link: http://invisible.ch/2013/04/23/17-music-production/
 slug: 17-music-production
 tags: ["blog"]
 title: 17 - music production
@@ -77,6 +77,6 @@ Assignment: Building a synthesizer
 ## Conclusion
 
 
-Compared to some of the other courses I have taken, this one was "easy". I still learnt heaps and had a lot of fun applying the lessons both when doing assignments and when working on my recordings - I feel that they have improved quite a bit. Of course, the path down music production is an expensive one - I feel the lust^h^h^h^h need for quite a bit of additional equipment in [my little studio](http://blog.invisible.ch/2013/04/21/18-home-studio/) - but most of it can safely wait...
+Compared to some of the other courses I have taken, this one was "easy". I still learnt heaps and had a lot of fun applying the lessons both when doing assignments and when working on my recordings - I feel that they have improved quite a bit. Of course, the path down music production is an expensive one - I feel the lust^h^h^h^h need for quite a bit of additional equipment in [my little studio](/2013/04/21/18-home-studio/) - but most of it can safely wait...
 
 I also gained a lot of appreciation for the job of a sound or mixing engineer, and have learnt to listen differently to the music recordings I am surrounded with. Full marks to [Loudon Stearns](http://loudonstearns.com/), Berklee and Coursera.  Would do it again (or rather - do the next one that could go into more depths)

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-25 19:42:37+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/25/quick-links/
+link: http://invisible.ch/2003/05/25/quick-links/
 slug: quick-links
 tags: ["blog"]
 title: Quick Links

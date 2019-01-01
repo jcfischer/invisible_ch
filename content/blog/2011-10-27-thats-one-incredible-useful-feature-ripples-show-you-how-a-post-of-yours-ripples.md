@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-10-27 18:48:38+00:00
 layout: post
-link: http://blog.invisible.ch/2011/10/27/thats-one-incredible-useful-feature-ripples-show-you-how-a-post-of-yours-ripples/
+link: http://invisible.ch/2011/10/27/thats-one-incredible-useful-feature-ripples-show-you-how-a-post-of-yours-ripples/
 slug: thats-one-incredible-useful-feature-ripples-show-you-how-a-post-of-yours-ripples
 tags: ["blog"]
 title: 'That''s one incredible useful feature: Ripples show you how a post of yours

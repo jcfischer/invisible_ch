@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-01-06 11:04:33+00:00
 layout: post
-link: http://blog.invisible.ch/2004/01/06/the-zen-of-skiing/
+link: http://invisible.ch/2004/01/06/the-zen-of-skiing/
 slug: the-zen-of-skiing
 tags: ["blog"]
 title: The ZEN of skiing

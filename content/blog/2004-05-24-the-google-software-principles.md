@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-05-24 22:08:59+00:00
 layout: post
-link: http://blog.invisible.ch/2004/05/24/the-google-software-principles/
+link: http://invisible.ch/2004/05/24/the-google-software-principles/
 slug: the-google-software-principles
 tags: ["blog"]
 title: The Google Software Principles

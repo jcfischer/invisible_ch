@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-08-08 01:25:08+00:00
 layout: post
-link: http://blog.invisible.ch/2003/08/08/reading-the-humane-interface/
+link: http://invisible.ch/2003/08/08/reading-the-humane-interface/
 slug: reading-the-humane-interface
 tags: ["blog"]
 title: 'Reading: The Humane Interface'

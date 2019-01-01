@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-23 22:37:15+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/23/domino-5-textfields-to-textareas/
+link: http://invisible.ch/2003/05/23/domino-5-textfields-to-textareas/
 slug: domino-5-textfields-to-textareas
 tags: ["blog"]
 title: Domino 5 -> Textfields to Textareas

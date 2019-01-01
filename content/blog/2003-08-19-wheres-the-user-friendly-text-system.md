@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-08-19 12:01:56+00:00
 layout: post
-link: http://blog.invisible.ch/2003/08/19/wheres-the-user-friendly-text-system/
+link: http://invisible.ch/2003/08/19/wheres-the-user-friendly-text-system/
 slug: wheres-the-user-friendly-text-system
 tags: ["blog"]
 title: Where's the user-friendly text system?

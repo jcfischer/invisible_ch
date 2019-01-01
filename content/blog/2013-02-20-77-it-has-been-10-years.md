@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-20 22:01:22+00:00
 layout: post
-link: http://blog.invisible.ch/2013/02/20/77-it-has-been-10-years/
+link: http://invisible.ch/2013/02/20/77-it-has-been-10-years/
 slug: 77-it-has-been-10-years
 tags: ["blog"]
 title: 77 - It has been 10 years
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 12149
 ---
 
-[10 years ago](http://blog.invisible.ch/2003/02/18/apache-slow-down-solved/) (actually 10 years and 2 days ago - but Wordpress missed the scheduled release date of this post, so here it is - manually published)
+[10 years ago](/2003/02/18/apache-slow-down-solved/) (actually 10 years and 2 days ago - but Wordpress missed the scheduled release date of this post, so here it is - manually published)
 
 And I had a blog before that (Moveable Type based) and still another one (written in Python). Sadly, they no longer exist...
 

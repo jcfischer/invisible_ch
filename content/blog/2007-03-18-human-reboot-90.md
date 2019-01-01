@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-03-18 22:35:26+00:00
 layout: post
-link: http://blog.invisible.ch/2007/03/18/human-reboot-90/
+link: http://invisible.ch/2007/03/18/human-reboot-90/
 slug: human-reboot-90
 tags: ["blog"]
 title: human? - reboot 9.0
@@ -16,7 +16,7 @@ wordpress_id: 612
 
 reboot 9.0 has a wonderful feature on it's website: After registering, participants are asked to tag themselves with up to 10 keywords. Later they can relate to other people, talks, ideas that share those keywords.
 
-![](http://blog.invisible.ch/files/reboot9.png)
+![](/files/reboot9.png)
 
 I chose those things in my [profile][2]:
 

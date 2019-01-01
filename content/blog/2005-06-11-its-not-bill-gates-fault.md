@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-11 14:27:05+00:00
 layout: post
-link: http://blog.invisible.ch/2005/06/11/its-not-bill-gates-fault/
+link: http://invisible.ch/2005/06/11/its-not-bill-gates-fault/
 slug: its-not-bill-gates-fault
 tags: ["blog"]
 title: It's not Bill Gates fault

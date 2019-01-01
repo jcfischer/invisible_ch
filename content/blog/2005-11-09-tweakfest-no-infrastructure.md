@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-09 11:33:53+00:00
 layout: post
-link: http://blog.invisible.ch/2005/11/09/tweakfest-no-infrastructure/
+link: http://invisible.ch/2005/11/09/tweakfest-no-infrastructure/
 slug: tweakfest-no-infrastructure
 tags: ["blog"]
 title: Tweakfest - no infrastructure

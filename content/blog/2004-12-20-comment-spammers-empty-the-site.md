@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-12-20 09:20:16+00:00
 layout: post
-link: http://blog.invisible.ch/2004/12/20/comment-spammers-empty-the-site/
+link: http://invisible.ch/2004/12/20/comment-spammers-empty-the-site/
 slug: comment-spammers-empty-the-site
 tags: ["blog"]
 title: Comment spammers empty the site

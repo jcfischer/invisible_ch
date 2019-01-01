@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-05 16:09:09+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/05/arial-im-arial-ahhhhhrrrrgggg/
+link: http://invisible.ch/2003/05/05/arial-im-arial-ahhhhhrrrrgggg/
 slug: arial-im-arial-ahhhhhrrrrgggg
 tags: ["blog"]
 title: Arial? I'm Arial - ahhhhhrrrrgggg

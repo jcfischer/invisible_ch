@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-04-12 19:18:11+00:00
 layout: post
-link: http://blog.invisible.ch/2003/04/12/p800-emulator-working-again/
+link: http://invisible.ch/2003/04/12/p800-emulator-working-again/
 slug: p800-emulator-working-again
 tags: ["blog"]
 title: P800 emulator working again

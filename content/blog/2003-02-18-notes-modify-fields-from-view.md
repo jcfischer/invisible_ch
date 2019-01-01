@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-02-18 16:31:20+00:00
 layout: post
-link: http://blog.invisible.ch/2003/02/18/notes-modify-fields-from-view/
+link: http://invisible.ch/2003/02/18/notes-modify-fields-from-view/
 slug: notes-modify-fields-from-view
 tags: ["blog"]
 title: 'Notes: Modify fields from view'

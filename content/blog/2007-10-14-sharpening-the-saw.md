@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-10-14 20:25:38+00:00
 layout: post
-link: http://blog.invisible.ch/2007/10/14/sharpening-the-saw/
+link: http://invisible.ch/2007/10/14/sharpening-the-saw/
 slug: sharpening-the-saw
 tags: ["blog"]
 title: Sharpening the saw

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-02-09 08:08:21+00:00
 layout: post
-link: http://blog.invisible.ch/2007/02/09/openid-gets-a-push/
+link: http://invisible.ch/2007/02/09/openid-gets-a-push/
 slug: openid-gets-a-push
 tags: ["blog"]
 title: OpenID gets a push

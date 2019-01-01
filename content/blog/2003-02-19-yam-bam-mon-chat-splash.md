@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-02-19 11:14:54+00:00
 layout: post
-link: http://blog.invisible.ch/2003/02/19/yam-bam-mon-chat-splash/
+link: http://invisible.ch/2003/02/19/yam-bam-mon-chat-splash/
 slug: yam-bam-mon-chat-splash
 tags: ["blog"]
 title: Yam! Bam! mon chat Splash

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-02-05 15:04:00+00:00
 layout: post
-link: http://blog.invisible.ch/2006/02/05/open-sourcing-what-next/
+link: http://invisible.ch/2006/02/05/open-sourcing-what-next/
 slug: open-sourcing-what-next
 tags: ["blog"]
 title: Open Sourcing - what next?
@@ -28,7 +28,7 @@ After talking to quite a few people about my idea of [open sourcing the course m
 I think the advantages far outweigh the drawbacks, so now I'm working on making this happen. I have to decide on a license and how best to share my work.
 
 
-[1]: http://blog.invisible.ch/2006/02/02/open-source-course-materials/
+[1]: /2006/02/02/open-source-course-materials/
 
 
 Technorati Tags: [opensource](http://www.technorati.com/tag/opensource), [rubyonrails](http://www.technorati.com/tag/rubyonrails), [training](http://www.technorati.com/tag/training)

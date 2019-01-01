@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2012-01-12 12:34:41+00:00
 layout: post
-link: http://blog.invisible.ch/2012/01/12/recondition-an-ssd/
+link: http://invisible.ch/2012/01/12/recondition-an-ssd/
 slug: recondition-an-ssd
 tags: ["blog"]
 title: Recondition an SSD

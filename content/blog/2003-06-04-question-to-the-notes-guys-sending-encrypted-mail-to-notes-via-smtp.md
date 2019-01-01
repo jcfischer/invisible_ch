@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-06-04 13:48:26+00:00
 layout: post
-link: http://blog.invisible.ch/2003/06/04/question-to-the-notes-guys-sending-encrypted-mail-to-notes-via-smtp/
+link: http://invisible.ch/2003/06/04/question-to-the-notes-guys-sending-encrypted-mail-to-notes-via-smtp/
 slug: question-to-the-notes-guys-sending-encrypted-mail-to-notes-via-smtp
 tags: ["blog"]
 title: 'Question to the Notes guys: sending encrypted mail to Notes via SMTP'

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-12-02 15:03:11+00:00
 layout: post
-link: http://blog.invisible.ch/2005/12/02/swiss-skypein-number/
+link: http://invisible.ch/2005/12/02/swiss-skypein-number/
 slug: swiss-skypein-number
 tags: ["blog"]
 title: Swiss SkypeIn number

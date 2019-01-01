@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-17 22:20:01+00:00
 layout: post
-link: http://blog.invisible.ch/2003/03/17/war-huh-what-is-it-good-for/
+link: http://invisible.ch/2003/03/17/war-huh-what-is-it-good-for/
 slug: war-huh-what-is-it-good-for
 tags: ["blog"]
 title: War - huh - what is it good for

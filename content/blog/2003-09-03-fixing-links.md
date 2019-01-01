@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-03 07:26:31+00:00
 layout: post
-link: http://blog.invisible.ch/2003/09/03/fixing-links/
+link: http://invisible.ch/2003/09/03/fixing-links/
 slug: fixing-links
 tags: ["blog"]
 title: Fixing links

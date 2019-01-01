@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-06 22:00:38+00:00
 layout: post
-link: http://blog.invisible.ch/2013/02/06/91-post-launchem/
+link: http://invisible.ch/2013/02/06/91-post-launchem/
 slug: 91-post-launchem
 tags: ["blog"]
 title: 91 - post launchem

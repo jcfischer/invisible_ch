@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-06-19 05:17:03+00:00
 layout: post
-link: http://blog.invisible.ch/2003/06/19/gone-in-two-hours/
+link: http://invisible.ch/2003/06/19/gone-in-two-hours/
 slug: gone-in-two-hours
 tags: ["blog"]
 title: Gone in two hours

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-04-29 21:37:20+00:00
 layout: post
-link: http://blog.invisible.ch/2013/04/29/12-improvisation/
+link: http://invisible.ch/2013/04/29/12-improvisation/
 slug: 12-improvisation
 tags: ["blog"]
 title: 12 - improvisation

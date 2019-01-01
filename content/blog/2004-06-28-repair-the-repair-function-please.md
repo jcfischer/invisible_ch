@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-06-28 21:12:16+00:00
 layout: post
-link: http://blog.invisible.ch/2004/06/28/repair-the-repair-function-please/
+link: http://invisible.ch/2004/06/28/repair-the-repair-function-please/
 slug: repair-the-repair-function-please
 tags: ["blog"]
 title: Repair the repair function please

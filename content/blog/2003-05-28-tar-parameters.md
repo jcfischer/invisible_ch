@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-28 10:53:46+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/28/tar-parameters/
+link: http://invisible.ch/2003/05/28/tar-parameters/
 slug: tar-parameters
 tags: ["blog"]
 title: TAR parameters

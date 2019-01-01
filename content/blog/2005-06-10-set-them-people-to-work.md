@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-10 17:09:49+00:00
 layout: post
-link: http://blog.invisible.ch/2005/06/10/set-them-people-to-work/
+link: http://invisible.ch/2005/06/10/set-them-people-to-work/
 slug: set-them-people-to-work
 tags: ["blog"]
 title: set them people to work

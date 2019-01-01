@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-07-16 06:53:55+00:00
 layout: post
-link: http://blog.invisible.ch/2003/07/16/adding-myriam-leisi-ohoven-to-google/
+link: http://invisible.ch/2003/07/16/adding-myriam-leisi-ohoven-to-google/
 slug: adding-myriam-leisi-ohoven-to-google
 tags: ["blog"]
 title: Adding Myriam Leisi Ohoven to Google

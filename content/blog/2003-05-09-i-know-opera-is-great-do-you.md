@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-09 17:39:45+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/09/i-know-opera-is-great-do-you/
+link: http://invisible.ch/2003/05/09/i-know-opera-is-great-do-you/
 slug: i-know-opera-is-great-do-you
 tags: ["blog"]
 title: I know Opera is great - do you?

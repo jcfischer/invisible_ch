@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-27 21:42:45+00:00
 layout: post
-link: http://blog.invisible.ch/2005/06/27/copycats-part-ii/
+link: http://invisible.ch/2005/06/27/copycats-part-ii/
 slug: copycats-part-ii
 tags: ["blog"]
 title: CopyCats part II
@@ -13,7 +13,7 @@ wordpress_id: 436
 ---
 
 
-Obviously, [Josh Petersen got in contact](http://joshp.typepad.com/15/2005/06/the_copycats_re.html) with the [CopyCats](http://blog.invisible.ch/archives/000435.html) of [aimido](http://www.aimido.de/). They responded and [Harald Schropfer](http://at.titu.de/), one of the missing advisors [made an appearance](http://www.43things.com/entries/view/100650#comments) on Josh's 43things list. The home page of Aimido now sports a "inspired by..." blurb which lists 43things and goes on like this: 
+Obviously, [Josh Petersen got in contact](http://joshp.typepad.com/15/2005/06/the_copycats_re.html) with the [CopyCats](/archives/000435.html) of [aimido](http://www.aimido.de/). They responded and [Harald Schropfer](http://at.titu.de/), one of the missing advisors [made an appearance](http://www.43things.com/entries/view/100650#comments) on Josh's 43things list. The home page of Aimido now sports a "inspired by..." blurb which lists 43things and goes on like this: 
 
 
 

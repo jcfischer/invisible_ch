@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-03-10 22:24:20+00:00
 layout: post
-link: http://blog.invisible.ch/2005/03/10/death-of-a-digital-identity/
+link: http://invisible.ch/2005/03/10/death-of-a-digital-identity/
 slug: death-of-a-digital-identity
 tags: ["blog"]
 title: Death of a Digital Identity

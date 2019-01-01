@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-27 12:19:39+00:00
 layout: post
-link: http://blog.invisible.ch/2003/03/27/new-mobile-on-the-way-links/
+link: http://invisible.ch/2003/03/27/new-mobile-on-the-way-links/
 slug: new-mobile-on-the-way-links
 tags: ["blog"]
 title: New mobile on the way - links

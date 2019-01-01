@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-06-14 15:37:21+00:00
 layout: post
-link: http://blog.invisible.ch/2004/06/14/trying-to-emulate-os-x/
+link: http://invisible.ch/2004/06/14/trying-to-emulate-os-x/
 slug: trying-to-emulate-os-x
 tags: ["blog"]
 title: Trying to emulate OS X

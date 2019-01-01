@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-09-22 13:12:53+00:00
 layout: post
-link: http://blog.invisible.ch/2004/09/22/handy-unix-commandlines/
+link: http://invisible.ch/2004/09/22/handy-unix-commandlines/
 slug: handy-unix-commandlines
 tags: ["blog"]
 title: Handy Unix commandlines

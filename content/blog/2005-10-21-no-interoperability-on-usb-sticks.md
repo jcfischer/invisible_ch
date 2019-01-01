@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-10-21 05:36:57+00:00
 layout: post
-link: http://blog.invisible.ch/2005/10/21/no-interoperability-on-usb-sticks/
+link: http://invisible.ch/2005/10/21/no-interoperability-on-usb-sticks/
 slug: no-interoperability-on-usb-sticks
 tags: ["blog"]
 title: No interoperability on USB sticks

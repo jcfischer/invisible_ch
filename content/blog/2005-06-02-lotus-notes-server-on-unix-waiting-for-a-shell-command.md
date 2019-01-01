@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-02 10:15:38+00:00
 layout: post
-link: http://blog.invisible.ch/2005/06/02/lotus-notes-server-on-unix-waiting-for-a-shell-command/
+link: http://invisible.ch/2005/06/02/lotus-notes-server-on-unix-waiting-for-a-shell-command/
 slug: lotus-notes-server-on-unix-waiting-for-a-shell-command
 tags: ["blog"]
 title: 'Lotus Notes server on unix: Waiting for a shell command'

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2008-11-25 20:53:47+00:00
 layout: post
-link: http://blog.invisible.ch/2008/11/25/the-pdf-is-available-for-purchase/
+link: http://invisible.ch/2008/11/25/the-pdf-is-available-for-purchase/
 slug: the-pdf-is-available-for-purchase
 tags: ["blog"]
 title: The PDF is available for purchase!

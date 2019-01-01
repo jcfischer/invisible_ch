@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-10-18 08:43:31+00:00
 layout: post
-link: http://blog.invisible.ch/2013/10/18/im-still-alive/
+link: http://invisible.ch/2013/10/18/im-still-alive/
 slug: im-still-alive
 tags: ["blog"]
 title: I'm still alive

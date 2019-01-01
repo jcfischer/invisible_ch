@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-03-28 13:57:05+00:00
 layout: post
-link: http://blog.invisible.ch/2004/03/28/pop-up-scenes/
+link: http://invisible.ch/2004/03/28/pop-up-scenes/
 slug: pop-up-scenes
 tags: ["blog"]
 title: Pop-up scenes

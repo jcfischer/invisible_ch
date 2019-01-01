@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-01-31 13:38:36+00:00
 layout: post
-link: http://blog.invisible.ch/2013/01/31/spam-comment-of-the-day/
+link: http://invisible.ch/2013/01/31/spam-comment-of-the-day/
 slug: spam-comment-of-the-day
 tags: ["blog"]
 title: Spam comment of the day
@@ -14,4 +14,4 @@ wordpress_id: 12105
 
 Notice the size of the scroll bar to the right....
 
-[caption id="attachment_12106" align="aligncenter" width="300"][![Spam Comment of the day](http://blog.invisible.ch/wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-14.35.16-300x168.png)](http://blog.invisible.ch/wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-14.35.16.png) Spam Comment of the day[/caption]
+[caption id="attachment_12106" align="aligncenter" width="300"][![Spam Comment of the day](/wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-14.35.16-300x168.png)](/wp-content/uploads/2013/01/Screen-Shot-2013-01-31-at-14.35.16.png) Spam Comment of the day[/caption]

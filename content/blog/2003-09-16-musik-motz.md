@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-16 20:28:06+00:00
 layout: post
-link: http://blog.invisible.ch/2003/09/16/musik-motz/
+link: http://invisible.ch/2003/09/16/musik-motz/
 slug: musik-motz
 tags: ["blog"]
 title: Musik Motz

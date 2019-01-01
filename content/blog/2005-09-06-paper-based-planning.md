@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-09-06 09:20:11+00:00
 layout: post
-link: http://blog.invisible.ch/2005/09/06/paper-based-planning/
+link: http://invisible.ch/2005/09/06/paper-based-planning/
 slug: paper-based-planning
 tags: ["blog"]
 title: Paper Based Planning

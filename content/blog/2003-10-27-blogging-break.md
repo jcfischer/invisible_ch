@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-10-27 22:51:55+00:00
 layout: post
-link: http://blog.invisible.ch/2003/10/27/blogging-break/
+link: http://invisible.ch/2003/10/27/blogging-break/
 slug: blogging-break
 tags: ["blog"]
 title: Blogging break

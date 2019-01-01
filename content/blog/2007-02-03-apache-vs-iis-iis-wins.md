@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-02-03 11:01:37+00:00
 layout: post
-link: http://blog.invisible.ch/2007/02/03/apache-vs-iis-iis-wins/
+link: http://invisible.ch/2007/02/03/apache-vs-iis-iis-wins/
 slug: apache-vs-iis-iis-wins
 tags: ["blog"]
 title: Apache vs. IIS - IIS wins!

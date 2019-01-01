@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-10-06 14:38:00+00:00
 layout: post
-link: http://blog.invisible.ch/2003/10/06/do-you-want-a-refurbished-p800/
+link: http://invisible.ch/2003/10/06/do-you-want-a-refurbished-p800/
 slug: do-you-want-a-refurbished-p800
 tags: ["blog"]
 title: Do you want a refurbished P800?

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-08 15:29:15+00:00
 layout: post
-link: http://blog.invisible.ch/2005/06/08/off-to-the-north/
+link: http://invisible.ch/2005/06/08/off-to-the-north/
 slug: off-to-the-north
 tags: ["blog"]
 title: off to the north

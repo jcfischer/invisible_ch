@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2008-03-14 16:24:11+00:00
 layout: post
-link: http://blog.invisible.ch/2008/03/14/intldatefield/
+link: http://invisible.ch/2008/03/14/intldatefield/
 slug: intldatefield
 tags: ["blog"]
 title: IntlDateField

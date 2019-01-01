@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-04-18 22:39:39+00:00
 layout: post
-link: http://blog.invisible.ch/2006/04/18/notes-on-xp-on-mac-rocks/
+link: http://invisible.ch/2006/04/18/notes-on-xp-on-mac-rocks/
 slug: notes-on-xp-on-mac-rocks
 tags: ["blog"]
 title: Notes on XP on Mac rocks

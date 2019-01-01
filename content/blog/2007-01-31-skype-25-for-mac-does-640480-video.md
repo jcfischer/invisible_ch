@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-01-31 17:50:21+00:00
 layout: post
-link: http://blog.invisible.ch/2007/01/31/skype-25-for-mac-does-640480-video/
+link: http://invisible.ch/2007/01/31/skype-25-for-mac-does-640480-video/
 slug: skype-25-for-mac-does-640480-video
 tags: ["blog"]
 title: skype 2.5 for mac does 640*480 video

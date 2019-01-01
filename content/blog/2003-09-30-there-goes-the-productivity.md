@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-30 15:12:23+00:00
 layout: post
-link: http://blog.invisible.ch/2003/09/30/there-goes-the-productivity/
+link: http://invisible.ch/2003/09/30/there-goes-the-productivity/
 slug: there-goes-the-productivity
 tags: ["blog"]
 title: There goes the productivity

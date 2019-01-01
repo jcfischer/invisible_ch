@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-06-14 16:32:38+00:00
 layout: post
-link: http://blog.invisible.ch/2004/06/14/the-answer-to-doc-searls/
+link: http://invisible.ch/2004/06/14/the-answer-to-doc-searls/
 slug: the-answer-to-doc-searls
 tags: ["blog"]
 title: The answer to Doc Searls

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-02-18 02:10:03+00:00
 layout: post
-link: http://blog.invisible.ch/2003/02/18/fix-error-handling-first/
+link: http://invisible.ch/2003/02/18/fix-error-handling-first/
 slug: fix-error-handling-first
 tags: ["blog"]
 title: Fix Error Handling First

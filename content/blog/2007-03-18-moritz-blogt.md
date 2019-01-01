@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-03-18 22:00:33+00:00
 layout: post
-link: http://blog.invisible.ch/2007/03/18/moritz-blogt/
+link: http://invisible.ch/2007/03/18/moritz-blogt/
 slug: moritz-blogt
 tags: ["blog"]
 title: Moritz blogt

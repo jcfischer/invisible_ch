@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-14 15:50:00+00:00
 layout: post
-link: http://blog.invisible.ch/2003/05/14/useful-p800-applications/
+link: http://invisible.ch/2003/05/14/useful-p800-applications/
 slug: useful-p800-applications
 tags: ["blog"]
 title: Useful P800 applications

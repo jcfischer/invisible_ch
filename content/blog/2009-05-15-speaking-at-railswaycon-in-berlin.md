@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2009-05-15 07:20:25+00:00
 layout: post
-link: http://blog.invisible.ch/2009/05/15/speaking-at-railswaycon-in-berlin/
+link: http://invisible.ch/2009/05/15/speaking-at-railswaycon-in-berlin/
 slug: speaking-at-railswaycon-in-berlin
 tags: ["blog"]
 title: Speaking at RailsWayCon in Berlin

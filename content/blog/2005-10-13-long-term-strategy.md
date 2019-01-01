@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-10-13 10:50:27+00:00
 layout: post
-link: http://blog.invisible.ch/2005/10/13/long-term-strategy/
+link: http://invisible.ch/2005/10/13/long-term-strategy/
 slug: long-term-strategy
 tags: ["blog"]
 title: Long term strategy

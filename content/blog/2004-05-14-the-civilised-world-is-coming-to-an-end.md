@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-05-14 13:10:57+00:00
 layout: post
-link: http://blog.invisible.ch/2004/05/14/the-civilised-world-is-coming-to-an-end/
+link: http://invisible.ch/2004/05/14/the-civilised-world-is-coming-to-an-end/
 slug: the-civilised-world-is-coming-to-an-end
 tags: ["blog"]
 title: The civilised world is coming to an end

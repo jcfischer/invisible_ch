@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-08-19 23:24:24+00:00
 layout: post
-link: http://blog.invisible.ch/2003/08/19/compiling-debian-on-inspiron-8200/
+link: http://invisible.ch/2003/08/19/compiling-debian-on-inspiron-8200/
 slug: compiling-debian-on-inspiron-8200
 tags: ["blog"]
 title: Compiling Debian on Inspiron 8200

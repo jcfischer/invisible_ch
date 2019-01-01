@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-09-13 08:54:34+00:00
 layout: post
-link: http://blog.invisible.ch/2006/09/13/flying-has-been-more-expensive/
+link: http://invisible.ch/2006/09/13/flying-has-been-more-expensive/
 slug: flying-has-been-more-expensive
 tags: ["blog"]
 title: Flying has been more expensive

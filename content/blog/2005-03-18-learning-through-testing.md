@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-03-18 10:32:39+00:00
 layout: post
-link: http://blog.invisible.ch/2005/03/18/learning-through-testing/
+link: http://invisible.ch/2005/03/18/learning-through-testing/
 slug: learning-through-testing
 tags: ["blog"]
 title: Learning through testing

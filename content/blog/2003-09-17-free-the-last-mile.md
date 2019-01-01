@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-17 23:45:47+00:00
 layout: post
-link: http://blog.invisible.ch/2003/09/17/free-the-last-mile/
+link: http://invisible.ch/2003/09/17/free-the-last-mile/
 slug: free-the-last-mile
 tags: ["blog"]
 title: Free the last mile

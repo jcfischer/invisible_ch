@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-12-13 11:59:37+00:00
 layout: post
-link: http://blog.invisible.ch/2005/12/13/learning-sql/
+link: http://invisible.ch/2005/12/13/learning-sql/
 slug: learning-sql
 tags: ["blog"]
 title: Learning SQL

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-11-26 16:07:29+00:00
 layout: post
-link: http://blog.invisible.ch/2004/11/26/openbcjoin/
+link: http://invisible.ch/2004/11/26/openbcjoin/
 slug: openbcjoin
 tags: ["blog"]
 title: OpenBC.join()

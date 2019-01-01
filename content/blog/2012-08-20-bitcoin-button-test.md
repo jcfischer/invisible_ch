@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2012-08-20 15:24:36+00:00
 layout: post
-link: http://blog.invisible.ch/2012/08/20/bitcoin-button-test/
+link: http://invisible.ch/2012/08/20/bitcoin-button-test/
 slug: bitcoin-button-test
 tags: ["blog"]
 title: BitCoin button test

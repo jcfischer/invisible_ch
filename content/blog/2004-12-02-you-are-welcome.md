@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-12-02 13:24:46+00:00
 layout: post
-link: http://blog.invisible.ch/2004/12/02/you-are-welcome/
+link: http://invisible.ch/2004/12/02/you-are-welcome/
 slug: you-are-welcome
 tags: ["blog"]
 title: You are welcome

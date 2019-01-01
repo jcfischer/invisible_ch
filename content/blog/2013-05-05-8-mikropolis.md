@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-05-05 21:01:02+00:00
 layout: post
-link: http://blog.invisible.ch/2013/05/05/8-mikropolis/
+link: http://invisible.ch/2013/05/05/8-mikropolis/
 slug: 8-mikropolis
 tags: ["blog"]
 title: 8 - mikropolis

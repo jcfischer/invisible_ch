@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-17 22:50:16+00:00
 layout: post
-link: http://blog.invisible.ch/2013/03/17/52-stephan-eicher/
+link: http://invisible.ch/2013/03/17/52-stephan-eicher/
 slug: 52-stephan-eicher
 tags: ["blog"]
 title: 52 - Stephan Eicher
