@@ -4,6 +4,7 @@ author: ["Jens-Christian Fischer"]
 date: 2018-12-30T08:53:41+01:00
 categories: ["musings"]
 tags: [general]
+type: post
 ---
 
 After a hiatus of many, many years in the blogosphere; after a growing dissatisfaction

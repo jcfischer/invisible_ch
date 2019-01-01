@@ -6,6 +6,7 @@ tags: ["hugo", "tech"]
 categories: ["code"]
 resources: []
 title: "Choosing a Platform for this new site"
+type: post
 ---
 
 I wanted to bring back from the dead my old website, which was running on an old version

@@ -7,6 +7,7 @@ image: 'img/crystal_caves.jpg'
 categories: ["music"]
 tags: ["music", "album"]
 resources: []
+type: post
 ---
 
 Crystal Caves is a concept album I have been thinking off for over a year and started to work

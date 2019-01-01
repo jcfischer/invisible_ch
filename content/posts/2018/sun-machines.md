@@ -6,6 +6,7 @@ categories: ["art"]
 tags: ["duo", "experimental"]
 language: en
 slug:
+type: post
 ---
 
 This is the experimental duo that I have with [Dragica Kahlina](http://kahlina.com/). We met 

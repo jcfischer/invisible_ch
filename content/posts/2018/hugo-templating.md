@@ -9,8 +9,6 @@ slug:
 type: post
 ---
 
-# Hugo templating
-
 I spent most of the time setting up this new blog deciding on which template to use. I settled
 on [Casper-Two](https://themes.gohugo.io/hugo-casper-two/) but had to make changes literally minutes
 after I started using it. I created a fork, [hugo-chaschper](https://github.com/jcfischer/hugo-chaschper) 
@@ -21,6 +19,7 @@ and made the following changes:
   have started to remove the one I don't use)
 * Added support for [IndieWeb](https://indieweb.org/) and [IndieAuth](https://indieauth.com/). I followed
   the post [IndieWebify Your Hugo Website](https://www.amitgawande.com/indiewebify-hugo-website/)
+* Support for [Webmentions](https://www.amitgawande.com/display-webmentions/) using code from [Amits Blot Template](https://github.com/am1t/blot-musings)
   
 Things to do:
 
@@ -29,7 +28,7 @@ Things to do:
 * Re-surrect the original CSS file so that I can change it
 * CSS adaptions
 * Atom feed
-* [Webmentions](https://www.amitgawande.com/display-webmentions/)?
+* ?
 * [POSSE](https://indieweb.org/POSSE) - I will probably use [IFTTT](https://ifttt.com) for this
 * 'Elsewhere' 
 * Reading time

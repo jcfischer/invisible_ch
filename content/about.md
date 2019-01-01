@@ -15,4 +15,6 @@ happy with their walled garden approach to content.
 I am a developer, musician, cloud & infrastructure operator, artist, maker. I live
 in Zurich, Switzerland and have way to many interests.
 
+This site respects your [privacy](/pages/privacy)
+
 

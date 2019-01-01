@@ -7,6 +7,7 @@ image: 'img/ambient_explorations.jpg'
 categories: ["music"]
 tags: ["music", "album"]
 resources: []
+type: post
 ---
 
 Ambient Explorations is a series of four instant composition pieces. The only 
