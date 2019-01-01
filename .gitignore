@@ -1,3 +1,6 @@
 .idea/*
 public/*
+.DSStore
+resources/_gen/*
+
 
