@@ -28,15 +28,15 @@ Selected readings from times gone by:
 * [77 - It has been 10 years](2013/02/20/77-it-has-been-10-years/) - Celebrating my 10 year anniversary of blogging
 * [Some thoughts on the iPhone 4s](/2011/10/05/some-thoughts-on-the-iphone-4s/) - The 4s still holds a dear place in my heart
 * [About this new thing](/2010/06/12/about-this-new-thing/) - about my first iPad, back in June 2010
-* [The private net](2008/10/01/the-private-net/) - 10 years ago I already was wary of the power of Google and other larger companies. We haven't made a lot of progress, it seems
-* [Done](http://localhost:1313/2008/04/10/done/) - 10. April 2008 I finished writing my book on Ruby on Rails
+* [The private net](/2008/10/01/the-private-net/) - 10 years ago I already was wary of the power of Google and other larger companies. We haven't made a lot of progress, it seems
+* [Done](/2008/04/10/done/) - 10. April 2008 I finished writing my book on Ruby on Rails
 * [Lift 07 Connecting the dots](/2007/02/10/lift-07-connecting-the-dots/) - Reflections on the Lift '07 conference (I do miss those early year trips to Geneva)
 * [Babysteps](/2007/01/21/babysteps/) - shout out to Henriette
 * [Turmsegler](/2006/11/28/der-turmsegler/) - My friend Benjamin started his blog "Turmsegler" in 2006
 * [Signed the Agile Manifesto](/2006/09/28/signed-the-agile-manifesto/) - I signed in 2006
 * [Re-booted - version 8](/2006/06/05/re-booted-re-birthed-version-80/) - Reflections on Reboot 8 in 2006 (Another conference I dearly miss)
 * [Magic? Of course!](/2006/01/13/magic-of-course/) - Real Magic!
-* [Brauchsam](2006/01/01/brauchsam/) - Kindermund
+* [Brauchsam](/2006/01/01/brauchsam/) - Kindermund
 * [Lift Off](/2005/10/30/lift-off/) - the start of the Liftconference - sadly the linked domain is peddling spam now
 * [Lotus Notes is not agile](/2005/08/27/lotus-notes-is-not-agile/) - but still alive, 14 years later
 * [Thinking on three levels](/2005/06/12/thinking-on-three-levels/), 
@@ -52,14 +52,14 @@ Selected readings from times gone by:
 * [InVisible GmbH](/2004/02/06/announcing-merger-invisible-gmbh-coming/) - again, 15 years ago, my wife and I started our common company
 * [The Zen of skiing](/2004/01/06/the-zen-of-skiing/) - I still think about this, every time I am on downhill skis
 * [Free the last mile](/2003/09/17/free-the-last-mile/) - Back in 2003, I paid CHF 195 / month for 512/512 KbS internet. I was not happy
-* [VOIP](2003/09/13/voip/) - first mention of Skype
+* [VOIP](/2003/09/13/voip/) - first mention of Skype
 * [Erster Sex und SM Kontaktanzeigen](/2003/09/12/erster-sex-und-sm-kontaktanzeigen/) - probably the post that got most search hits over the duration of my blog
 * [Reading the Humane Interface](/2003/08/08/reading-the-humane-interface/) - Jef Raskin himself commented on this review of his book. Still a great book
-* [The browser, the one user interface](2003/07/25/the-browser-the-one-user-interface/) - I was wrong, Tim Bray was right
-* [LinkedIn - Locked Out](2003/05/23/linkedin-lockedout/) - LinkedIn - I think, I was user nr 4000something
+* [The browser, the one user interface](/2003/07/25/the-browser-the-one-user-interface/) - I was wrong, Tim Bray was right
+* [LinkedIn - Locked Out](/2003/05/23/linkedin-lockedout/) - LinkedIn - I think, I was user nr 4000something
 * [Back from the past](/2003/05/15/back-from-the-past/) - I wrote the first Wiki in Lotus Notes (Ben Poole improved it significantly later)
 * [Atropin](/2003/04/08/atropin-dont-try-this-at-home/) - oh my, dont try this at home
-* [Kinderphilosophie](2003/03/15/kinder-philosophie/) - by now, my son has his own princess
-* [Apache Slow Down solved](2003/02/18/apache-slow-down-solved/) - the very first blog entry (2003-02-18) that has survived. I blogged earlier (maybe a year or two)
+* [Kinderphilosophie](/2003/03/15/kinder-philosophie/) - by now, my son has his own princess
+* [Apache Slow Down solved](/2003/02/18/apache-slow-down-solved/) - the very first blog entry (2003-02-18) that has survived. I blogged earlier (maybe a year or two)
 
 
