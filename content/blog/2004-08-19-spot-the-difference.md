@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-08-19 13:05:24+00:00
 layout: post
-link: http://invisible.ch/2004/08/19/spot-the-difference/
+link: https://invisible.ch/2004/08/19/spot-the-difference/
 slug: spot-the-difference
 tags: ["blog"]
 title: Spot the difference

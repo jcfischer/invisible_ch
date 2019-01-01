@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-01-28 21:11:40+00:00
 layout: post
-link: http://invisible.ch/2006/01/28/change-of-development-methodology/
+link: https://invisible.ch/2006/01/28/change-of-development-methodology/
 slug: change-of-development-methodology
 tags: ["blog"]
 title: Change of development methodology....
@@ -17,8 +17,8 @@ I was [wrong][1] [all][2] these years. I should repent and go to the [Waterfall2
 
 [1]: /2005/08/27/lotus-notes-is-not-agile/
 [2]: /2005/08/30/refactoring-rails-applications-or-why-tests-are-a-good-idea/
-[3]: http://www.waterfall2006.com
+[3]: https://www.waterfall2006.com
 
 
 
-Technorati Tags: [agile](http://www.technorati.com/tag/agile), [conference](http://www.technorati.com/tag/conference), [waterfall](http://www.technorati.com/tag/waterfall)
+Technorati Tags: [agile](https://www.technorati.com/tag/agile), [conference](https://www.technorati.com/tag/conference), [waterfall](https://www.technorati.com/tag/waterfall)

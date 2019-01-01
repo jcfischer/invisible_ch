@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-08-30 13:43:48+00:00
 layout: post
-link: http://invisible.ch/2005/08/30/refactoring-rails-applications-or-why-tests-are-a-good-idea/
+link: https://invisible.ch/2005/08/30/refactoring-rails-applications-or-why-tests-are-a-good-idea/
 slug: refactoring-rails-applications-or-why-tests-are-a-good-idea
 tags: ["blog"]
 title: Refactoring Rails Applications or why tests are a good idea
@@ -17,7 +17,7 @@ Somewhat of an add-on to the post "[Lotus Notes is not agile](/archives/000452.h
 
 
 
-The project I'm working on with the good folks of [sourcepole](http://sourcepole.ch/), is a network monitoring tool. We are using [Ruby on Rails](http://rubyonrails.org/) to build a web frontend to some Ruby Network monitoring-fu. The network topology is stored in a database, and in our first delivery we got the fundamental database design wrong. So I spent half a day thinking about a new database model and spent the remainder of the day to build a quick spike to test if the new database model would be able to sustain the requirements. This remaining day was spent over the weekend with much cursing and muttering, but finally it seemed to work.
+The project I'm working on with the good folks of [sourcepole](https://sourcepole.ch/), is a network monitoring tool. We are using [Ruby on Rails](https://rubyonrails.org/) to build a web frontend to some Ruby Network monitoring-fu. The network topology is stored in a database, and in our first delivery we got the fundamental database design wrong. So I spent half a day thinking about a new database model and spent the remainder of the day to build a quick spike to test if the new database model would be able to sustain the requirements. This remaining day was spent over the weekend with much cursing and muttering, but finally it seemed to work.
 
 
 
@@ -50,4 +50,4 @@ The power of unit & functional tests made this major piece of surgery possible w
 
 
 
-Technorati Tags: [agile](http://technorati.com/tag/agile), [automatisch](http://technorati.com/tag/automatisch), [development](http://technorati.com/tag/development), [domino](http://technorati.com/tag/domino), [lotus notes](http://technorati.com/tag/lotus notes), [rails](http://technorati.com/tag/rails), [refactoring](http://technorati.com/tag/refactoring), [testing](http://technorati.com/tag/testing), [unittest](http://technorati.com/tag/unittest)
+Technorati Tags: [agile](https://technorati.com/tag/agile), [automatisch](https://technorati.com/tag/automatisch), [development](https://technorati.com/tag/development), [domino](https://technorati.com/tag/domino), [lotus notes](https://technorati.com/tag/lotus notes), [rails](https://technorati.com/tag/rails), [refactoring](https://technorati.com/tag/refactoring), [testing](https://technorati.com/tag/testing), [unittest](https://technorati.com/tag/unittest)

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-11-11 14:18:29+00:00
 layout: post
-link: http://invisible.ch/2011/11/11/simplificator-and-invisible-team-up/
+link: https://invisible.ch/2011/11/11/simplificator-and-invisible-team-up/
 slug: simplificator-and-invisible-team-up
 tags: ["blog"]
 title: Simplificator and InVisible team up
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 10222
 ---
 
-Today is a great day! I'm happy to announce that we are teaming up with our friends at [Simplificator GmbH](http://simplificator.com) and will be part of their team, as of today. Lukas, Pascal and I go back a long time - we have been through some "interesting" projects and learnt how to work with each other. In the process we got to know and respect each other and became friends. 
+Today is a great day! I'm happy to announce that we are teaming up with our friends at [Simplificator GmbH](https://simplificator.com) and will be part of their team, as of today. Lukas, Pascal and I go back a long time - we have been through some "interesting" projects and learnt how to work with each other. In the process we got to know and respect each other and became friends. 
 
 Now that our two companies have become one, we are a Rails development power-house in Zurich with plans to build great software and to extend the software development training that we have been doing over the last years.
 

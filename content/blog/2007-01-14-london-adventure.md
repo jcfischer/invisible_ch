@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-01-14 21:02:53+00:00
 layout: post
-link: http://invisible.ch/2007/01/14/london-adventure/
+link: https://invisible.ch/2007/01/14/london-adventure/
 slug: london-adventure
 tags: ["blog"]
 title: London Adventure
@@ -18,7 +18,7 @@ Mein Freund Michael und seine Freundin Monica sind vor ein paar Monaten temporar
 
 Bitte sehr: [London Adventure][1]
 
-[1]: http://michael.zogg.net/blog/blog.html
+[1]: https://michael.zogg.net/blog/blog.html
 
 
-Technorati Tags: [blog](http://www.technorati.com/tag/blog), [london](http://www.technorati.com/tag/london)
+Technorati Tags: [blog](https://www.technorati.com/tag/blog), [london](https://www.technorati.com/tag/london)

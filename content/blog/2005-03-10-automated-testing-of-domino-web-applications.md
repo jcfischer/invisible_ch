@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-03-10 22:32:39+00:00
 layout: post
-link: http://invisible.ch/2005/03/10/automated-testing-of-domino-web-applications/
+link: https://invisible.ch/2005/03/10/automated-testing-of-domino-web-applications/
 slug: automated-testing-of-domino-web-applications
 tags: ["blog"]
 title: Automated Testing of (Domino) Web Applications
@@ -28,5 +28,5 @@ Selenium will go into all of my Notes applications and using it should increase 
 
 **Update:** Fixed the link to the download
 
-[1]: http://selenium.thoughtworks.com
+[1]: https://selenium.thoughtworks.com
 [2]: /files/NotesSelenium-0.1.zip

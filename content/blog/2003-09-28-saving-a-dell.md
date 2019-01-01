@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-28 00:33:34+00:00
 layout: post
-link: http://invisible.ch/2003/09/28/saving-a-dell/
+link: https://invisible.ch/2003/09/28/saving-a-dell/
 slug: saving-a-dell
 tags: ["blog"]
 title: Saving a Dell
@@ -22,7 +22,7 @@ Well - time has come to move faster. This laptop needs to see the interior of a 
 
 Knoppix to the rescue! (Avid readers know that I have Debian installed on this machine, but I never managed to build a kernel that recognizes my external FW disk, so even that option was out...)
 
-I brought out my [Knoppix](http://www.knoppix.org) CD and booted from it. Of course it wouldn't recognize the FireWire HDD either (and no - it didn't recognize it as a USB disk too). Some reading on the Knoppix forums led me to the secret sauce:
+I brought out my [Knoppix](https://www.knoppix.org) CD and booted from it. Of course it wouldn't recognize the FireWire HDD either (and no - it didn't recognize it as a USB disk too). Some reading on the Knoppix forums led me to the secret sauce:
 
 Drop to a Root console
 

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-03-06 20:54:38+00:00
 layout: post
-link: http://invisible.ch/2005/03/06/smtp-cheat-sheet/
+link: https://invisible.ch/2005/03/06/smtp-cheat-sheet/
 slug: smtp-cheat-sheet
 tags: ["blog"]
 title: SMTP Cheat Sheet

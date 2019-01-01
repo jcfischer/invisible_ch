@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-09-11 21:02:42+00:00
 layout: post
-link: http://invisible.ch/2011/09/11/some-of-the-first-sf-i-read-was-from-isaac-asimov-35-or-so-years-ago/
+link: https://invisible.ch/2011/09/11/some-of-the-first-sf-i-read-was-from-isaac-asimov-35-or-so-years-ago/
 slug: some-of-the-first-sf-i-read-was-from-isaac-asimov-35-or-so-years-ago
 tags: ["blog"]
 title: Some of the first SF I read was from Isaac Asimov, 35 or so years ago
@@ -20,10 +20,10 @@ What a great mind he has! As someone who currently is "learning" and studying, h
 
 
 <blockquote>Isaac Asimov predicts today's Internet years before there was an http - 1988 interview - you'll love it.  
-[Isaac Asimov on Bill Moyers World of Ideas pt 2](http://www.youtube.com/watch?v=CJAIERgWhZQ)</blockquote>
+[Isaac Asimov on Bill Moyers World of Ideas pt 2](https://www.youtube.com/watch?v=CJAIERgWhZQ)</blockquote>
 
 **Google+:** [View post on Google+](https://plus.google.com/109789939743085010576/posts/Q7EZr3NRb8E)
 
   
   
-_Post imported by Google+Blog.  Created By [Daniel Treadwell](http://minimali.se/)._
+_Post imported by Google+Blog.  Created By [Daniel Treadwell](https://minimali.se/)._

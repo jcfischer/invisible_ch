@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-12-03 09:00:06+00:00
 layout: post
-link: http://invisible.ch/2004/12/03/xml-problems/
+link: https://invisible.ch/2004/12/03/xml-problems/
 slug: xml-problems
 tags: ["blog"]
 title: XML Problems
@@ -16,4 +16,4 @@ wordpress_id: 353
 
 
 
-Nice summary. This comes from an article: [Python is not Java](http://dirtsimple.org/2004/12/python-is-not-java.html) that has some other stuff that people coming from Java need to unlearn.
+Nice summary. This comes from an article: [Python is not Java](https://dirtsimple.org/2004/12/python-is-not-java.html) that has some other stuff that people coming from Java need to unlearn.

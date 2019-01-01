@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2008-10-01 20:28:49+00:00
 layout: post
-link: http://invisible.ch/2008/10/01/the-private-net/
+link: https://invisible.ch/2008/10/01/the-private-net/
 slug: the-private-net
 tags: ["blog"]
 title: the private net
@@ -160,12 +160,12 @@ smelling and looking offers from corporations like Google. I would hope, that mo
 
 
 
-[1]: http://iphone-essentials.ch
-[2]: http://joyent.com
-[3]: http://zimbra.com
-[4]: http://cuil.com
-[5]: http://yacy.net
-[6]: http://77.95.121.149:8080
-[7]: http://freenetproject.org
-[8]: http://www.zappatanetworks.com
-[9]: http://en.oreilly.com/webexberlin2008/public/content/home
+[1]: https://iphone-essentials.ch
+[2]: https://joyent.com
+[3]: https://zimbra.com
+[4]: https://cuil.com
+[5]: https://yacy.net
+[6]: https://77.95.121.149:8080
+[7]: https://freenetproject.org
+[8]: https://www.zappatanetworks.com
+[9]: https://en.oreilly.com/webexberlin2008/public/content/home

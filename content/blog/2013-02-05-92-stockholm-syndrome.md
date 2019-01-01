@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-05 23:17:28+00:00
 layout: post
-link: http://invisible.ch/2013/02/06/92-stockholm-syndrome/
+link: https://invisible.ch/2013/02/06/92-stockholm-syndrome/
 slug: 92-stockholm-syndrome
 tags: ["blog"]
 title: 92 - Stockholm Syndrome
@@ -12,9 +12,9 @@ type: post
 wordpress_id: 12139
 ---
 
-The [Stockholm Syndrome ](http://en.wikipedia.org/wiki/Stockholm_syndrome)is described as when hostages evolve sympathy or empathy with their captors.
+The [Stockholm Syndrome ](https://en.wikipedia.org/wiki/Stockholm_syndrome)is described as when hostages evolve sympathy or empathy with their captors.
 
-That's what I felt yesterday evening, hours before an email went out to 1000 participants of the [Lift Conference](http://liftconference.com) in Geneva where we are showcasing [Mobino as the official mobile payment provider](http://liftconference.com/news/2013/02/03/private-launch-mobino-mobile-payment-solution-lift13) - and we found a critical bug in our iOS app that was sent to review to Apple a good week before.
+That's what I felt yesterday evening, hours before an email went out to 1000 participants of the [Lift Conference](https://liftconference.com) in Geneva where we are showcasing [Mobino as the official mobile payment provider](https://liftconference.com/news/2013/02/03/private-launch-mobino-mobile-payment-solution-lift13) - and we found a critical bug in our iOS app that was sent to review to Apple a good week before.
 
 If all goes well, Apple currently takes around 6 days to review and approve an application for the iOS AppStore. We counted on being reviewed and approved yesterday evening, with another day to spare (the conference starts tomorrow). Worst case, we still had the old version in the AppStore that was missing one noteable feature, but still was fully functional and usable. Then however, one of our customer found a problem. And it turned out, that this problem was much much bigger than it first seemed like. In effect, it would have prevented everybody with an iPhone set to regional settings that use a comma for decimal separation to crash. And two countries that have this are France and Germany. Not good. Especially because the crash happened in the version that was available and the one that was in review.
 

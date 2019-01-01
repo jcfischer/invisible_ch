@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-06-05 21:31:17+00:00
 layout: post
-link: http://invisible.ch/2006/06/05/re-booted-re-birthed-version-80/
+link: https://invisible.ch/2006/06/05/re-booted-re-birthed-version-80/
 slug: re-booted-re-birthed-version-80
 tags: ["blog"]
 title: re-booted - re-birthed version 8.0
@@ -42,28 +42,28 @@ History lessons was the first part of this. The history of the Renaissance, the 
 More on what I have taken away from the conference in a next post
  
 
-[1]: http://reboot.dk
-[2]: http://reboot.dk/wiki/General_Intellect_-_or_the_Renaissance_of_Karl_Marx
-[3]: http://reboot.dk/wiki/Crafter_Economics
-[4]: http://reboot.dk/wiki/Play
-[5]: http://reboot.dk/wiki/Let%27s_reboot_democracy
-[6]: http://www.benhammersley.com/Ben/Blog/637DD488-4A51-492C-807E-C9D8996DC972.html
-[7]: http://reboot.dk/wiki/The_Railways
-[8]: http://canicrash.org/
-[9]: http://henrietteweber.com/
-[10]: http://reboot.dk/wiki/Beyond_Tagging:_User-Generated_Information_Architecture
-[11]: http://www.stoweboyd.com/message/2006/02/the_revolution_.html
-[12]: http://reboot.dk/wiki/The_Grey_Commons
-[13]: http://reboot.dk/wiki/From_Improbable_to_Unstoppable:_a_brief_history_of_the_World_Wide_Web
-[14]: http://reboot.dk/wiki/User:JFG
-[15]: http://uncondition.blogspot.com
-[16]: http://uncondition.blogspot.com/2006/05/what-is-intellectual-property-in-time.html
-[17]: http://reboot.dk/wiki/In_Praise_Of_The_Hyperlink
-[18]: http://adactio.com/articles/1132/
-[19]: http://joyeur.com/2006/05/29/copenhagen-meetup-this-saturday
-[20]: http://reboot.dk/wiki/What_social_software_can_learn_from_Homer%2C_Dickens%2C_and_Marvel_Comics
+[1]: https://reboot.dk
+[2]: https://reboot.dk/wiki/General_Intellect_-_or_the_Renaissance_of_Karl_Marx
+[3]: https://reboot.dk/wiki/Crafter_Economics
+[4]: https://reboot.dk/wiki/Play
+[5]: https://reboot.dk/wiki/Let%27s_reboot_democracy
+[6]: https://www.benhammersley.com/Ben/Blog/637DD488-4A51-492C-807E-C9D8996DC972.html
+[7]: https://reboot.dk/wiki/The_Railways
+[8]: https://canicrash.org/
+[9]: https://henrietteweber.com/
+[10]: https://reboot.dk/wiki/Beyond_Tagging:_User-Generated_Information_Architecture
+[11]: https://www.stoweboyd.com/message/2006/02/the_revolution_.html
+[12]: https://reboot.dk/wiki/The_Grey_Commons
+[13]: https://reboot.dk/wiki/From_Improbable_to_Unstoppable:_a_brief_history_of_the_World_Wide_Web
+[14]: https://reboot.dk/wiki/User:JFG
+[15]: https://uncondition.blogspot.com
+[16]: https://uncondition.blogspot.com/2006/05/what-is-intellectual-property-in-time.html
+[17]: https://reboot.dk/wiki/In_Praise_Of_The_Hyperlink
+[18]: https://adactio.com/articles/1132/
+[19]: https://joyeur.com/2006/05/29/copenhagen-meetup-this-saturday
+[20]: https://reboot.dk/wiki/What_social_software_can_learn_from_Homer%2C_Dickens%2C_and_Marvel_Comics
 
 
 
 
-Technorati Tags: [reboot](http://www.technorati.com/tag/reboot), [reboot8](http://www.technorati.com/tag/reboot8), [social change](http://www.technorati.com/tag/social change)
+Technorati Tags: [reboot](https://www.technorati.com/tag/reboot), [reboot8](https://www.technorati.com/tag/reboot8), [social change](https://www.technorati.com/tag/social change)

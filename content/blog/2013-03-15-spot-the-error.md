@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-15 08:09:31+00:00
 layout: post
-link: http://invisible.ch/2013/03/15/spot-the-error/
+link: https://invisible.ch/2013/03/15/spot-the-error/
 slug: spot-the-error
 tags: ["blog"]
 title: 54 - spot the error

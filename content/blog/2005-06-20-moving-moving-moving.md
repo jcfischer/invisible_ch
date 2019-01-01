@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-20 20:36:17+00:00
 layout: post
-link: http://invisible.ch/2005/06/20/moving-moving-moving/
+link: https://invisible.ch/2005/06/20/moving-moving-moving/
 slug: moving-moving-moving
 tags: ["blog"]
 title: Moving, moving, moving

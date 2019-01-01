@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2008-03-14 16:24:11+00:00
 layout: post
-link: http://invisible.ch/2008/03/14/intldatefield/
+link: https://invisible.ch/2008/03/14/intldatefield/
 slug: intldatefield
 tags: ["blog"]
 title: IntlDateField
@@ -44,13 +44,13 @@ Now you can:
 Repository
 ----------
 
-[http://github.com/jcfischer/intldatefield/tree/master][1]
+[https://github.com/jcfischer/intldatefield/tree/master][1]
 
 Copyright (c) 2008 Jens-Christian Fischer, [InVisible GmbH][2], released under the MIT license
 
 
-[1]: http://github.com/jcfischer/intldatefield/tree/master
+[1]: https://github.com/jcfischer/intldatefield/tree/master
 [2]: httb://www.invisible.ch
 
 
-Technorati Tags: [rails](http://www.technorati.com/tag/rails)
+Technorati Tags: [rails](https://www.technorati.com/tag/rails)

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-09 11:33:53+00:00
 layout: post
-link: http://invisible.ch/2005/11/09/tweakfest-no-infrastructure/
+link: https://invisible.ch/2005/11/09/tweakfest-no-infrastructure/
 slug: tweakfest-no-infrastructure
 tags: ["blog"]
 title: Tweakfest - no infrastructure
@@ -27,4 +27,4 @@ Could it be, that "reality of modern conferences" haven't arrived in Zurich yet?
 
 
 
-Technorati Tags: [tweakfest05](http://technorati.com/tag/tweakfest05)
+Technorati Tags: [tweakfest05](https://technorati.com/tag/tweakfest05)

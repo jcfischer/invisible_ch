@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-04-26 16:37:51+00:00
 layout: post
-link: http://invisible.ch/2003/04/26/testing-weblogscom-ping/
+link: https://invisible.ch/2003/04/26/testing-weblogscom-ping/
 slug: testing-weblogscom-ping
 tags: ["blog"]
 title: testing weblogs.com ping

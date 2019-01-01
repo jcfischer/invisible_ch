@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-11-28 23:33:42+00:00
 layout: post
-link: http://invisible.ch/2006/11/29/java-c-php-or-ruby/
+link: https://invisible.ch/2006/11/29/java-c-php-or-ruby/
 slug: java-c-php-or-ruby
 tags: ["blog"]
 title: Java, C#, PHP or Ruby?
@@ -19,8 +19,8 @@ The panel discussion with a Java, a C# and a PHP proponent went equally well. I 
 Anyone from the audience reading this and want to give feedback?
 
 
-[1]: http://www.tekzone.ch
-[2]: http://www.tekzone.ch/downloads/index.html
+[1]: https://www.tekzone.ch
+[2]: https://www.tekzone.ch/downloads/index.html
 
 
-Technorati Tags: [c#](http://www.technorati.com/tag/c#), [java](http://www.technorati.com/tag/java), [php](http://www.technorati.com/tag/php), [ruby](http://www.technorati.com/tag/ruby), [tekzone](http://www.technorati.com/tag/tekzone)
+Technorati Tags: [c#](https://www.technorati.com/tag/c#), [java](https://www.technorati.com/tag/java), [php](https://www.technorati.com/tag/php), [ruby](https://www.technorati.com/tag/ruby), [tekzone](https://www.technorati.com/tag/tekzone)

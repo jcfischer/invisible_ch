@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-25 22:59:50+00:00
 layout: post
-link: http://invisible.ch/2013/02/25/72-a-regex-puzzle/
+link: https://invisible.ch/2013/02/25/72-a-regex-puzzle/
 slug: 72-a-regex-puzzle
 tags: ["blog"]
 title: 72 - a regex puzzle
@@ -12,9 +12,9 @@ type: post
 wordpress_id: 12452
 ---
 
-Via [Ned Batchelder](http://nedbatchelder.com/blog/201302/a_regular_crossword.html) comes this wonderful Regular Expression Puzzle
+Via [Ned Batchelder](https://nedbatchelder.com/blog/201302/a_regular_crossword.html) comes this wonderful Regular Expression Puzzle
 
-[![regular_crossword](/wp-content/uploads/2013/02/regular_crossword.png)](http://www.coinheist.com/rubik/a_regular_crossword/grid.pdf) (Click for PDF version)
+[![regular_crossword](/wp-content/uploads/2013/02/regular_crossword.png)](https://www.coinheist.com/rubik/a_regular_crossword/grid.pdf) (Click for PDF version)
 
 Each cell is constrained by three regular expressions, and according to the author of the puzzle, there is one unique solution to it.
 

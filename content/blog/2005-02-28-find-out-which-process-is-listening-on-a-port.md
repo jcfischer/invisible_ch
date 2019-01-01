@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-02-28 15:02:56+00:00
 layout: post
-link: http://invisible.ch/2005/02/28/find-out-which-process-is-listening-on-a-port/
+link: https://invisible.ch/2005/02/28/find-out-which-process-is-listening-on-a-port/
 slug: find-out-which-process-is-listening-on-a-port
 tags: ["blog"]
 title: Find out which process is listening on a port
@@ -22,4 +22,4 @@ If you need to find out which process is listening on a certain port, use the fo
 
 On Solaris, you need to have compiled lsof that you can get from [Sunfreeware.com][1]
 
-[1]: http://www.sunfreeware.com
+[1]: https://www.sunfreeware.com

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-02-09 18:46:13+00:00
 layout: post
-link: http://invisible.ch/2004/02/09/raid-1-easy-as-pie/
+link: https://invisible.ch/2004/02/09/raid-1-easy-as-pie/
 slug: raid-1-easy-as-pie
 tags: ["blog"]
 title: RAID 1 - easy as pie

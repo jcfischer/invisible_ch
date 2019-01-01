@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-02-17 06:51:00+00:00
 layout: post
-link: http://invisible.ch/2004/02/17/webdevelopers-toolkit-for-mozillafirefox/
+link: https://invisible.ch/2004/02/17/webdevelopers-toolkit-for-mozillafirefox/
 slug: webdevelopers-toolkit-for-mozillafirefox
 tags: ["blog"]
 title: WebDevelopers Toolkit for Mozilla/FireFox
@@ -16,4 +16,4 @@ Here's collection of a lot of useful bookmarklets / links for the webdeveloper. 
 
 Works with Mozilla and Firefox.
 
-[Webdeveloper Plugin](http://chrispederick.myacen.com/work/firefox/webdeveloper/"). Get it!
+[Webdeveloper Plugin](https://chrispederick.myacen.com/work/firefox/webdeveloper/"). Get it!

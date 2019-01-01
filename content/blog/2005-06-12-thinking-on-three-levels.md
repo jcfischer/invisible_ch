@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-12 08:44:05+00:00
 layout: post
-link: http://invisible.ch/2005/06/12/thinking-on-three-levels/
+link: https://invisible.ch/2005/06/12/thinking-on-three-levels/
 slug: thinking-on-three-levels
 tags: ["blog"]
 title: Thinking on three levels
@@ -32,7 +32,7 @@ reboot got me really tired. Reflecting on this, there are a number of factors to
   * Thinking about what to write for german c't who expects an article about the conference
 
 
-  * Thinking about how to apply the things I heard to my professional life, both the company InVisible, and projects like [Zappata](http://www.zappatanetworks.com/) and [Amuda](http://www.amuda.ch) that sadly flounder at this time
+  * Thinking about how to apply the things I heard to my professional life, both the company InVisible, and projects like [Zappata](https://www.zappatanetworks.com/) and [Amuda](https://www.amuda.ch) that sadly flounder at this time
 
 
 
@@ -44,4 +44,4 @@ The interesting thing is, that almost all sessions I attended were relevant to a
 After coming home, I had some long discussions with my wife, who is much more skeptical on all things technical. She made some extremely good comments about the governance of the web. I will have to think about that a bit, and will be writing about that soon.
 
 
-Technorati Tags: [reboot7](http://technorati.com/tag/reboot7)
+Technorati Tags: [reboot7](https://technorati.com/tag/reboot7)

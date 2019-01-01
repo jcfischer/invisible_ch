@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-18 19:28:33+00:00
 layout: post
-link: http://invisible.ch/2005/11/18/foldershare-customer-service/
+link: https://invisible.ch/2005/11/18/foldershare-customer-service/
 slug: foldershare-customer-service
 tags: ["blog"]
 title: Foldershare Customer Service
@@ -13,7 +13,7 @@ wordpress_id: 481
 ---
 
 
-After the question about "[what happend to Foldershare](http:///archives/000466.html)" got answered (Microsoft bought it), the Mac version is [back online](http://www.foldershare.com/download/index.php?), the only thing left, that left me wondering, was the question what was going to happen to the US$ 100 I spent just a week before the acquisition on the Foldershare professional service. 
+After the question about "[what happend to Foldershare](https:///archives/000466.html)" got answered (Microsoft bought it), the Mac version is [back online](https://www.foldershare.com/download/index.php?), the only thing left, that left me wondering, was the question what was going to happen to the US$ 100 I spent just a week before the acquisition on the Foldershare professional service. 
 
 
 
@@ -39,4 +39,4 @@ Great!
 
 
 
-Technorati Tags: [foldershare](http://technorati.com/tag/foldershare), [mac](http://technorati.com/tag/mac), [collaboration](http://technorati.com/tag/collaboration)
+Technorati Tags: [foldershare](https://technorati.com/tag/foldershare), [mac](https://technorati.com/tag/mac), [collaboration](https://technorati.com/tag/collaboration)

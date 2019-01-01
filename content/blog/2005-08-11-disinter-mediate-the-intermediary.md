@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-08-11 15:16:14+00:00
 layout: post
-link: http://invisible.ch/2005/08/11/disinter-mediate-the-intermediary/
+link: https://invisible.ch/2005/08/11/disinter-mediate-the-intermediary/
 slug: disinter-mediate-the-intermediary
 tags: ["blog"]
 title: Disinter-mediate the intermediary
@@ -27,4 +27,4 @@ All in all, this seems very well thought out. Only available in the UK (at the m
 
 
 
-Technorati Tags: [bank](http://technorati.com/tag/bank), [borrow](http://technorati.com/tag/borrow), [lend](http://technorati.com/tag/lend), [middleman](http://technorati.com/tag/middleman)
+Technorati Tags: [bank](https://technorati.com/tag/bank), [borrow](https://technorati.com/tag/borrow), [lend](https://technorati.com/tag/lend), [middleman](https://technorati.com/tag/middleman)

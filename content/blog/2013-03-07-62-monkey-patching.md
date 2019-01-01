@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-07 22:25:02+00:00
 layout: post
-link: http://invisible.ch/2013/03/07/62-monkey-patching/
+link: https://invisible.ch/2013/03/07/62-monkey-patching/
 slug: 62-monkey-patching
 tags: ["blog"]
 title: 62 - monkey patching

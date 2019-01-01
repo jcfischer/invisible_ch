@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-04-29 08:08:16+00:00
 layout: post
-link: http://invisible.ch/2005/04/29/there-really-is-nothing-to-see/
+link: https://invisible.ch/2005/04/29/there-really-is-nothing-to-see/
 slug: there-really-is-nothing-to-see
 tags: ["blog"]
 title: There really is nothing to see
@@ -17,11 +17,11 @@ I was visiting Benno, my friend who got both a PowerBook for himself and an iBoo
 
 
 
-I laughed and said, that he wouldn't need it. To this he answered, that there were indeed viriii for the Mac. I challenged him to name one. He [googled](http://www.google.com/search?q=virus+mac+os+x&sourceid=opera&num=0&ie=utf-8&oe=utf-8) and the very first entry said "Why there are no viruses for the Mac".
+I laughed and said, that he wouldn't need it. To this he answered, that there were indeed viriii for the Mac. I challenged him to name one. He [googled](https://www.google.com/search?q=virus+mac+os+x&sourceid=opera&num=0&ie=utf-8&oe=utf-8) and the very first entry said "Why there are no viruses for the Mac".
 
 
 
-A couple of minutes later I read "[Move along, nothing to see here](http://vowe.net/archives/005826.html)" at vowe's flying circus.
+A couple of minutes later I read "[Move along, nothing to see here](https://vowe.net/archives/005826.html)" at vowe's flying circus.
 
 
 
@@ -32,4 +32,4 @@ He then proceeded to deinstall the whole Norton crap (which took an ungodly amou
 Living without fear is a great feeling!
 
 
-Technorati Tags: [mac](http://technorati.com/tag/mac)
+Technorati Tags: [mac](https://technorati.com/tag/mac)

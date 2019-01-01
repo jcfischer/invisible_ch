@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-09-14 09:17:26+00:00
 layout: post
-link: http://invisible.ch/2007/09/14/new-pet-project/
+link: https://invisible.ch/2007/09/14/new-pet-project/
 slug: new-pet-project
 tags: ["blog"]
 title: new pet project :)
@@ -19,5 +19,5 @@ While we wait for the iPhone in Switzerland:
 
 Go yonder and spread the link love!
 
-[1]: http://www.iphone-essentials.ch
-[2]: http://www.iphone-essentials.org
+[1]: https://www.iphone-essentials.ch
+[2]: https://www.iphone-essentials.org

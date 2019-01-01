@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-10-14 20:25:38+00:00
 layout: post
-link: http://invisible.ch/2007/10/14/sharpening-the-saw/
+link: https://invisible.ch/2007/10/14/sharpening-the-saw/
 slug: sharpening-the-saw
 tags: ["blog"]
 title: Sharpening the saw
@@ -64,16 +64,16 @@ Enjoy!
 
 
 
-[1]: http://pebbles.schattenlauf.de/layout.php
-[2]: http://www.techcrunch.com/2007/09/30/randy-pausch-really-achieving-your-childhood-dreams/
-[3]: http://www.weinromantikhotel.com/
-[4]: http://maps.google.com/maps?client=opera&rls=en&sourceid=opera&ie=UTF-8&oe=utf-8&um=1&q=cap+europe&near=Stra%C3%9Fburg,+France&fb=1&view=text&latlng=48591139,7753232,7137051045379704412
-[5]: http://www.hotel-le-marechal.com/
-[6]: http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard
-[7]: http://de.wikipedia.org/wiki/NEO-Tastaturlayout
-[8]: http://www.cs.cmu.edu/~pausch/news/index.html
+[1]: https://pebbles.schattenlauf.de/layout.php
+[2]: https://www.techcrunch.com/2007/09/30/randy-pausch-really-achieving-your-childhood-dreams/
+[3]: https://www.weinromantikhotel.com/
+[4]: https://maps.google.com/maps?client=opera&rls=en&sourceid=opera&ie=UTF-8&oe=utf-8&um=1&q=cap+europe&near=Stra%C3%9Fburg,+France&fb=1&view=text&latlng=48591139,7753232,7137051045379704412
+[5]: https://www.hotel-le-marechal.com/
+[6]: https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard
+[7]: https://de.wikipedia.org/wiki/NEO-Tastaturlayout
+[8]: https://www.cs.cmu.edu/~pausch/news/index.html
 
 
 
 
-Technorati Tags: [covey](http://www.technorati.com/tag/covey), [keyboard](http://www.technorati.com/tag/keyboard), [neo](http://www.technorati.com/tag/neo), [dvorak](http://www.technorati.com/tag/dvorak), [randypausch](http://www.technorati.com/tag/randypausch), [saw](http://www.technorati.com/tag/saw), [stanleyjordan](http://www.technorati.com/tag/stanleyjordan), [victorwooten](http://www.technorati.com/tag/victorwooten)
+Technorati Tags: [covey](https://www.technorati.com/tag/covey), [keyboard](https://www.technorati.com/tag/keyboard), [neo](https://www.technorati.com/tag/neo), [dvorak](https://www.technorati.com/tag/dvorak), [randypausch](https://www.technorati.com/tag/randypausch), [saw](https://www.technorati.com/tag/saw), [stanleyjordan](https://www.technorati.com/tag/stanleyjordan), [victorwooten](https://www.technorati.com/tag/victorwooten)

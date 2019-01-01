@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-08-21 16:09:09+00:00
 layout: post
-link: http://invisible.ch/2006/08/21/ruby-on-rails-training-workshop-in-september/
+link: https://invisible.ch/2006/08/21/ruby-on-rails-training-workshop-in-september/
 slug: ruby-on-rails-training-workshop-in-september
 tags: ["blog"]
 title: Ruby on Rails Training / Workshop in September
@@ -22,7 +22,7 @@ After one public and two internal workshops, it's time to announce the second pu
 
 This is a more of a workshop, than a frontal training and the participants will get a complete web application up and running. Inquire at .
 
-[1]: http://www.invisible.ch/static/47/rubyonrailsschulung
+[1]: https://www.invisible.ch/static/47/rubyonrailsschulung
 
 
-Technorati Tags: [rails](http://www.technorati.com/tag/rails), [rubyonrails](http://www.technorati.com/tag/rubyonrails), [training](http://www.technorati.com/tag/training)
+Technorati Tags: [rails](https://www.technorati.com/tag/rails), [rubyonrails](https://www.technorati.com/tag/rubyonrails), [training](https://www.technorati.com/tag/training)

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-09 20:08:53+00:00
 layout: post
-link: http://invisible.ch/2005/11/09/tweakfest-big-brother-und-ein-ende-mit-schrecken/
+link: https://invisible.ch/2005/11/09/tweakfest-big-brother-und-ein-ende-mit-schrecken/
 slug: tweakfest-big-brother-und-ein-ende-mit-schrecken
 tags: ["blog"]
 title: Tweakfest - Big Brother und ein Ende mit Schrecken
@@ -21,7 +21,7 @@ Die Debattierenden waren wirklich nett zueinander, sagten nicht viel neues und s
 
 
 
-Ich habe mehr erwartet. Mehr Diskurs, mehr Gefahren, mehr Moglichkeiten. Einzig Peter Regli schwang als Ex-Geheimdienstchef ernsthaft die Fahne fur mehr Sicherheit durch mehr Überwachung, konnte aber von den anderen Teilnehmern nicht ernstlich angegriffen werden. Die [Bellasi Affare](http://www.weltwoche.ch/artikel/?AssetID=4123&amp;CategoryID=60) mit dem anschliessenden Medien- und Rhetorik Training hatte doch auch ihre positiven Seiten...
+Ich habe mehr erwartet. Mehr Diskurs, mehr Gefahren, mehr Moglichkeiten. Einzig Peter Regli schwang als Ex-Geheimdienstchef ernsthaft die Fahne fur mehr Sicherheit durch mehr Überwachung, konnte aber von den anderen Teilnehmern nicht ernstlich angegriffen werden. Die [Bellasi Affare](https://www.weltwoche.ch/artikel/?AssetID=4123&amp;CategoryID=60) mit dem anschliessenden Medien- und Rhetorik Training hatte doch auch ihre positiven Seiten...
 
 
 
@@ -39,4 +39,4 @@ Ich habe den Rest des Abends ohne Elektronik im Schosse der Familie verbracht un
 
 
 
-Technorati Tags: [switzerland](http://technorati.com/tag/switzerland), [tweakfest05](http://technorati.com/tag/tweakfest05)
+Technorati Tags: [switzerland](https://technorati.com/tag/switzerland), [tweakfest05](https://technorati.com/tag/tweakfest05)

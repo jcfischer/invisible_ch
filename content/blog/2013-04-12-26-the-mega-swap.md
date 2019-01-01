@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-04-12 21:48:30+00:00
 layout: post
-link: http://invisible.ch/2013/04/12/26-the-mega-swap/
+link: https://invisible.ch/2013/04/12/26-the-mega-swap/
 slug: 26-the-mega-swap
 tags: ["blog"]
 title: 26 - the mega swap

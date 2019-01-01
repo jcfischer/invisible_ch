@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: false
 date: 2005-01-25 12:22:23+00:00
 layout: post
-link: http://invisible.ch/2005/01/25/no-comments/
+link: https://invisible.ch/2005/01/25/no-comments/
 slug: no-comments
 tags: ["blog"]
 title: No Comments
@@ -19,5 +19,5 @@ You'll see 404's if you click on Comments or if you try to post one.
 Sorry for the inconvenience.
 
 
-[1]: http://www.jayallen.org/comment_spam/forums/index.php?showtopic=461
-[2]: http://forum.textdrive.com/viewtopic.php?id=1932
+[1]: https://www.jayallen.org/comment_spam/forums/index.php?showtopic=461
+[2]: https://forum.textdrive.com/viewtopic.php?id=1932

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-10-01 19:53:13+00:00
 layout: post
-link: http://invisible.ch/2011/10/01/makeopendata-zeigt-an-wofur-meine-steuerfranken-in-zurich-verschwinden/
+link: https://invisible.ch/2011/10/01/makeopendata-zeigt-an-wofur-meine-steuerfranken-in-zurich-verschwinden/
 slug: makeopendata-zeigt-an-wofur-meine-steuerfranken-in-zurich-verschwinden
 tags: ["blog"]
 title: MakeOpenData zeigt an, wofür meine Steuerfranken in Zürich verschwinden
@@ -28,7 +28,7 @@ Kann ich mit leben.
 												
 
 
-												[Where Did My Taxes Go?](http://wheredidmytaxesgo.nelm.io/)  
+												[Where Did My Taxes Go?](https://wheredidmytaxesgo.nelm.io/)  
 
 												Where Did My Taxes Go? City of Zürich 2010. Civil Status Single Married. Income. Assets CHF. Annual Taxes. CHF. This Money Lasted The City For. sec. Tweet. What is this? This was done during the MakeO...  
 
@@ -41,4 +41,4 @@ Kann ich mit leben.
 
   
   
-_Post imported by Google+Blog.  Created By [Daniel Treadwell](http://minimali.se/)._
+_Post imported by Google+Blog.  Created By [Daniel Treadwell](https://minimali.se/)._

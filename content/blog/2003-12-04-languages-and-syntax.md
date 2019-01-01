@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-12-04 10:12:46+00:00
 layout: post
-link: http://invisible.ch/2003/12/04/languages-and-syntax/
+link: https://invisible.ch/2003/12/04/languages-and-syntax/
 slug: languages-and-syntax
 tags: ["blog"]
 title: Languages and Syntax
@@ -22,4 +22,4 @@ But I hate writing them. I'm constantly switching between languages (at the mome
   * a thousand other small thing
 
 
-Here's help: [Syntax across languages](http://merd.net/pixel/language-study/syntax-across-languages/). Thanks!
+Here's help: [Syntax across languages](https://merd.net/pixel/language-study/syntax-across-languages/). Thanks!

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-15 20:55:27+00:00
 layout: post
-link: http://invisible.ch/2003/09/15/more-skype/
+link: https://invisible.ch/2003/09/15/more-skype/
 slug: more-skype
 tags: ["blog"]
 title: More Skype
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 176
 ---
 
-After over a day where no-one called me  I finally persuaded two friends of me to give [Skype](http://www.skype.com), the "internet telephony program" a try.
+After over a day where no-one called me  I finally persuaded two friends of me to give [Skype](https://www.skype.com), the "internet telephony program" a try.
 
 Installed, made a connection, started talking and nearly fell out of my chair.
 

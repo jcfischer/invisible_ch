@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2008-06-24 21:06:34+00:00
 layout: post
-link: http://invisible.ch/2008/06/24/re-booting/
+link: https://invisible.ch/2008/06/24/re-booting/
 slug: re-booting
 tags: ["blog"]
 title: re-booting
@@ -14,7 +14,7 @@ wordpress_id: 679
 
 Time passes. You wait.
 
-[![](http://farm4.static.flickr.com/3276/2578642766_f77ebfdebb_t.jpg)](http://flickr.com/photos/scoop/2578642766/in/set-72157605613692917/)
+[![](https://farm4.static.flickr.com/3276/2578642766_f77ebfdebb_t.jpg)](https://flickr.com/photos/scoop/2578642766/in/set-72157605613692917/)
 
 More time passes. 
 
@@ -36,17 +36,17 @@ Just the most important things:
 
 
 
-[1]: http://www.flickr.com/photos/jcfischer/sets/72157605287261400/
-[2]: http://rails-konferenz.de
-[3]: http://flickr.com/photos/scoop/sets/72157605613692917/
-[4]: http://rails-praxis.de
-[5]: http://rails-praxis.de/files
-[6]: http://headshift.com/about/our-people.php
-[7]: http://www.headshift.com/mt/mt-cp.cgi?__mode=view&blog_id=3&id=13
-[8]: http://www.invisible.ch
-[9]: http://reboot.dk
+[1]: https://www.flickr.com/photos/jcfischer/sets/72157605287261400/
+[2]: https://rails-konferenz.de
+[3]: https://flickr.com/photos/scoop/sets/72157605613692917/
+[4]: https://rails-praxis.de
+[5]: https://rails-praxis.de/files
+[6]: https://headshift.com/about/our-people.php
+[7]: https://www.headshift.com/mt/mt-cp.cgi?__mode=view&blog_id=3&id=13
+[8]: https://www.invisible.ch
+[9]: https://reboot.dk
 
 
 
 
-Technorati Tags: [book](http://www.technorati.com/tag/book), [denmark](http://www.technorati.com/tag/denmark), [reboot10](http://www.technorati.com/tag/reboot10), [rails-konferenz](http://www.technorati.com/tag/rails-konferenz), [rubyonrails](http://www.technorati.com/tag/rubyonrails)
+Technorati Tags: [book](https://www.technorati.com/tag/book), [denmark](https://www.technorati.com/tag/denmark), [reboot10](https://www.technorati.com/tag/reboot10), [rails-konferenz](https://www.technorati.com/tag/rails-konferenz), [rubyonrails](https://www.technorati.com/tag/rubyonrails)

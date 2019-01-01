@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-02-21 05:22:54+00:00
 layout: post
-link: http://invisible.ch/2006/02/21/thirty-nine/
+link: https://invisible.ch/2006/02/21/thirty-nine/
 slug: thirty-nine
 tags: ["blog"]
 title: Thirty Nine

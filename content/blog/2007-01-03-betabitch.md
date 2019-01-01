@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-01-03 21:49:55+00:00
 layout: post
-link: http://invisible.ch/2007/01/03/betabitch/
+link: https://invisible.ch/2007/01/03/betabitch/
 slug: betabitch
 tags: ["blog"]
 title: Betabitch
@@ -17,9 +17,9 @@ wordpress_id: 580
 Feel free to join us in suggesting bitch-worthy sites, agree or disagree with us. We look forward to hearing from you.
 
 
-[1]: http://henrietteweber.com
-[2]: http://blog.betabitch.com
+[1]: https://henrietteweber.com
+[2]: https://blog.betabitch.com
 
 
 
-Technorati Tags: [beta](http://www.technorati.com/tag/beta), [betabitch](http://www.technorati.com/tag/betabitch)
+Technorati Tags: [beta](https://www.technorati.com/tag/beta), [betabitch](https://www.technorati.com/tag/betabitch)

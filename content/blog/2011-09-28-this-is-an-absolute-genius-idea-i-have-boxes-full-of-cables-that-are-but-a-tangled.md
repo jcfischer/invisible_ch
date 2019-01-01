@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-09-28 09:23:24+00:00
 layout: post
-link: http://invisible.ch/2011/09/28/this-is-an-absolute-genius-idea-i-have-boxes-full-of-cables-that-are-but-a-tangled/
+link: https://invisible.ch/2011/09/28/this-is-an-absolute-genius-idea-i-have-boxes-full-of-cables-that-are-but-a-tangled/
 slug: this-is-an-absolute-genius-idea-i-have-boxes-full-of-cables-that-are-but-a-tangled
 tags: ["blog"]
 title: This is an absolute genius idea - I have boxes full of cables that are but
@@ -29,4 +29,4 @@ Oh, wow. On top of the last two posts ([https://plus.google.com/u/0/103765013042
 
   
   
-_Post imported by Google+Blog.  Created By [Daniel Treadwell](http://minimali.se/)._
+_Post imported by Google+Blog.  Created By [Daniel Treadwell](https://minimali.se/)._

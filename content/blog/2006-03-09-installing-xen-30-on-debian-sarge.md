@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-03-09 20:50:41+00:00
 layout: post
-link: http://invisible.ch/2006/03/09/installing-xen-30-on-debian-sarge/
+link: https://invisible.ch/2006/03/09/installing-xen-30-on-debian-sarge/
 slug: installing-xen-30-on-debian-sarge
 tags: ["blog"]
 title: Installing XEN 3.0 on Debian Sarge
@@ -59,16 +59,16 @@ This is the "step by step" account of how to install [XEN 3.0][2] on it
 
 Random Xen Documentation:
 
-* [http://linuxwiki.de/Xen][4]
+* [https://linuxwiki.de/Xen][4]
 
 [1]: /2004/08/30/welcome-to/
-[2]: http://www.xensource.com
-[3]: http://www.debian-administration.org/articles/304
-[4]: http://linuxwiki.de/Xen
-[5]: http://www.gnu.org/software/parted/manual/html_chapter/parted_2.html
-[6]: http://www.steve.org.uk/Software/xen-tools/
-[7]: http://www.suse.de/~garloff/linux/xen/images/
-[8]: http://www.pug.org/index.php/Xen-Installation
+[2]: https://www.xensource.com
+[3]: https://www.debian-administration.org/articles/304
+[4]: https://linuxwiki.de/Xen
+[5]: https://www.gnu.org/software/parted/manual/html_chapter/parted_2.html
+[6]: https://www.steve.org.uk/Software/xen-tools/
+[7]: https://www.suse.de/~garloff/linux/xen/images/
+[8]: https://www.pug.org/index.php/Xen-Installation
 
 
 
@@ -76,4 +76,4 @@ Random Xen Documentation:
 
 
 
-Technorati Tags: [debian](http://www.technorati.com/tag/debian), [sauron](http://www.technorati.com/tag/sauron), [xen](http://www.technorati.com/tag/xen)
+Technorati Tags: [debian](https://www.technorati.com/tag/debian), [sauron](https://www.technorati.com/tag/sauron), [xen](https://www.technorati.com/tag/xen)

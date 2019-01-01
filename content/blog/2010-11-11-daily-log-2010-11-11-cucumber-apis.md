@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2010-11-11 18:02:30+00:00
 layout: post
-link: http://invisible.ch/2010/11/11/daily-log-2010-11-11-cucumber-apis/
+link: https://invisible.ch/2010/11/11/daily-log-2010-11-11-cucumber-apis/
 slug: daily-log-2010-11-11-cucumber-apis
 tags: ["blog"]
 title: Daily-Log, 2010-11-11 - Cucumber & APIs
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 872
 ---
 
-We are using a lot of distributed Sinatra and Rails3 applications in our [Mobino](http://mobino.com) project. They speak HTTP-REST and JSON with each other. Because we are using Cucumber and RSpec, we also have some high level integration tests for the APIs. 
+We are using a lot of distributed Sinatra and Rails3 applications in our [Mobino](https://mobino.com) project. They speak HTTP-REST and JSON with each other. Because we are using Cucumber and RSpec, we also have some high level integration tests for the APIs. 
 
 Today I started on cleaning up an API in the Rails app. I wrote a cucumber step to invoke the API. It took me a while to figure out the magic incantation to make the controller retrieve the parameters as JSON: Here's the relevant part of the step_definition:
 
@@ -48,5 +48,5 @@ Another nice thing I discovered today was the **Transform** in Cucumber. It allo
 
 `
 
-More details on this technique over on the [Cucumber Wiki:Step Argument Transforms](https://github.com/aslakhellesoy/cucumber/wiki/Step-Argument-Transforms) and an [Engine Yard blog post](http://www.engineyard.com/blog/2009/cucumber-step-argument-transforms/).
+More details on this technique over on the [Cucumber Wiki:Step Argument Transforms](https://github.com/aslakhellesoy/cucumber/wiki/Step-Argument-Transforms) and an [Engine Yard blog post](https://www.engineyard.com/blog/2009/cucumber-step-argument-transforms/).
 

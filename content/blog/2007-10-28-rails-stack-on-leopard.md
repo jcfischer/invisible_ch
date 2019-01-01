@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-10-28 20:29:52+00:00
 layout: post
-link: http://invisible.ch/2007/10/28/rails-stack-on-leopard/
+link: https://invisible.ch/2007/10/28/rails-stack-on-leopard/
 slug: rails-stack-on-leopard
 tags: ["blog"]
 title: Rails Stack on Leopard
@@ -105,13 +105,13 @@ Home stretch... Based on [Carl Gaywoods instructions][10], here are the commands
 
 
 
-[1]: http://nullstyle.com/2007/10/27/how-to-build-imagemagick-and-install-rmagick-with-macports-on-mac-os-x-leopard/
-[2]: http://dev.mysql.com/downloads/mysql/5.0.html
-[3]: http://svn.macosforge.org/repository/macports/downloads/MacPorts-1.5.0/
-[4]: http://www.simplisticcomplexity.com/2007/10/27/start-and-stop-mysql-in-mac-os-x-10-5-leopard#comments
-[5]: http://angry-fly.com/index.cfm/2007/10/26/Fix-for-MySQL-on-Leopard
-[6]: http://trac.macosforge.org/projects/ruby/wiki/WhatsNewInLeopard
-[7]: http://leenux.org.uk/dtrace-patches/dtrace-with-postgres-on-osx/
-[8]: http://www.nabble.com/Compiling-postgresql82-on-Leopard-t4697604.html
-[9]: http://www.gelens.org/2007/10/29/postgresql_in_leopard_using_ma
-[10]: http://www.carlgaywood.co.uk/blog/installing-ruby-on-rails-with-postgresql
+[1]: https://nullstyle.com/2007/10/27/how-to-build-imagemagick-and-install-rmagick-with-macports-on-mac-os-x-leopard/
+[2]: https://dev.mysql.com/downloads/mysql/5.0.html
+[3]: https://svn.macosforge.org/repository/macports/downloads/MacPorts-1.5.0/
+[4]: https://www.simplisticcomplexity.com/2007/10/27/start-and-stop-mysql-in-mac-os-x-10-5-leopard#comments
+[5]: https://angry-fly.com/index.cfm/2007/10/26/Fix-for-MySQL-on-Leopard
+[6]: https://trac.macosforge.org/projects/ruby/wiki/WhatsNewInLeopard
+[7]: https://leenux.org.uk/dtrace-patches/dtrace-with-postgres-on-osx/
+[8]: https://www.nabble.com/Compiling-postgresql82-on-Leopard-t4697604.html
+[9]: https://www.gelens.org/2007/10/29/postgresql_in_leopard_using_ma
+[10]: https://www.carlgaywood.co.uk/blog/installing-ruby-on-rails-with-postgresql

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-05-08 16:36:05+00:00
 layout: post
-link: http://invisible.ch/2004/05/08/shirt-origami/
+link: https://invisible.ch/2004/05/08/shirt-origami/
 slug: shirt-origami
 tags: ["blog"]
 title: Shirt Origami
@@ -14,9 +14,9 @@ wordpress_id: 270
 
 The weekend is my reserved for washing. A family with two small children brings together quite an impressive array of dirty clothes during one week. In our family unit, I'm the one tasked with the weekly fight againt entropy and dirt. It's not my favorite pastime, but I actually enjoy being down in the cellar and folding our clothes. It's a quiet hour, good for thinking, listening to the iPod and calming down, after a weekend with two very active kids.
 
-Thanks to [Isotopp]( ) I found the text on [ideengeberin.de](http://ideengeberin.de/blog/artikel-17.html) (you are going into my blog-roll, Nicole) to a link from the M-E-X blog on [shirt folding, japanese style](http://www.m-e-x.de/blog/archive/001712.html). There's a video on it, that explains a very simple method of folding a shirt. After seeing it, I tried it - and had my first t-shirt folded in 5 seconds.
+Thanks to [Isotopp]( ) I found the text on [ideengeberin.de](https://ideengeberin.de/blog/artikel-17.html) (you are going into my blog-roll, Nicole) to a link from the M-E-X blog on [shirt folding, japanese style](https://www.m-e-x.de/blog/archive/001712.html). There's a video on it, that explains a very simple method of folding a shirt. After seeing it, I tried it - and had my first t-shirt folded in 5 seconds.
 
-There's a [german description](http://beissholz.de/pivot/artikel-368.html#body) on how to actually do the folding (linked from the M-E-X log) but for the pleasure of our non-german speaking community, here's my english description.
+There's a [german description](https://beissholz.de/pivot/artikel-368.html#body) on how to actually do the folding (linked from the M-E-X log) but for the pleasure of our non-german speaking community, here's my english description.
 
 
 

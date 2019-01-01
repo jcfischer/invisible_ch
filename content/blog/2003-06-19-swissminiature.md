@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-06-19 13:15:27+00:00
 layout: post
-link: http://invisible.ch/2003/06/19/swissminiature/
+link: https://invisible.ch/2003/06/19/swissminiature/
 slug: swissminiature
 tags: ["blog"]
 title: SwissMiniature

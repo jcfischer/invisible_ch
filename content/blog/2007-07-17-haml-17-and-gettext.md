@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-07-17 10:08:12+00:00
 layout: post
-link: http://invisible.ch/2007/07/17/haml-17-and-gettext/
+link: https://invisible.ch/2007/07/17/haml-17-and-gettext/
 slug: haml-17-and-gettext
 tags: ["blog"]
 title: HAML 1.7 and Gettext
@@ -29,4 +29,4 @@ add the attr_reader line. Then scroll down in the file until you see the followi
     def precompiled
       $stderr.puts <
 
-Technorati Tags: [gettext](http://www.technorati.com/tag/gettext), [haml](http://www.technorati.com/tag/haml), [rails](http://www.technorati.com/tag/rails)
+Technorati Tags: [gettext](https://www.technorati.com/tag/gettext), [haml](https://www.technorati.com/tag/haml), [rails](https://www.technorati.com/tag/rails)

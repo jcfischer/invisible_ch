@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-06 22:00:38+00:00
 layout: post
-link: http://invisible.ch/2013/02/06/91-post-launchem/
+link: https://invisible.ch/2013/02/06/91-post-launchem/
 slug: 91-post-launchem
 tags: ["blog"]
 title: 91 - post launchem
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 12142
 ---
 
-[Lift 13](http://liftconference.com) started today - early for Alvaro and me, who took the [Roeschtigrabenexpress](https://twitter.com/search?q=%23roesti13) from Zurich to Geneva. Thanks Glenn and [stimmt AG](https://twitter.com/search?q=%23roesti13) for a wonderful ride.
+[Lift 13](https://liftconference.com) started today - early for Alvaro and me, who took the [Roeschtigrabenexpress](https://twitter.com/search?q=%23roesti13) from Zurich to Geneva. Thanks Glenn and [stimmt AG](https://twitter.com/search?q=%23roesti13) for a wonderful ride.
 
 The rest of the day is kind of blurry in my mind. We launched, took money from people, fixed a few small issues, and generally studied how the people reacted to Mobino.
 

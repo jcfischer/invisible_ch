@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-04-16 19:23:28+00:00
 layout: post
-link: http://invisible.ch/2005/04/16/living-on-the-edge/
+link: https://invisible.ch/2005/04/16/living-on-the-edge/
 slug: living-on-the-edge
 tags: ["blog"]
 title: Living on the EDGE
@@ -20,4 +20,4 @@ And of course there is no internet connectivity. Trying to war-drive the village
 
 Working in the quiet, without my family is very productive but the weather has been gray, raining and snowing. I was hoping to do some hiking too - now I just worked (and that of course helps to pay the bills from Swisscom -- and others)
 
-[1]: http://www.visperterminen.ch
+[1]: https://www.visperterminen.ch

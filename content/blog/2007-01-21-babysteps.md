@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-01-21 19:42:00+00:00
 layout: post
-link: http://invisible.ch/2007/01/21/babysteps/
+link: https://invisible.ch/2007/01/21/babysteps/
 slug: babysteps
 tags: ["blog"]
 title: babysteps
@@ -18,9 +18,9 @@ While talking to my friend [Henriette][1] about the problems of getting things d
 
 It's a life philosophy - and true
 
-[1]: http://henrietteweber.com
-[2]: http://www.wired.com/wired/archive/14.11/sixwords.html
+[1]: https://henrietteweber.com
+[2]: https://www.wired.com/wired/archive/14.11/sixwords.html
 
 
 
-Technorati Tags: [philosophy](http://www.technorati.com/tag/philosophy), [projectmanagement](http://www.technorati.com/tag/projectmanagement)
+Technorati Tags: [philosophy](https://www.technorati.com/tag/philosophy), [projectmanagement](https://www.technorati.com/tag/projectmanagement)

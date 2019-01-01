@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-01-04 01:24:15+00:00
 layout: post
-link: http://invisible.ch/2007/01/04/burning-feeds-part-2/
+link: https://invisible.ch/2007/01/04/burning-feeds-part-2/
 slug: burning-feeds-part-2
 tags: ["blog"]
 title: Burning Feeds (Part 2)
@@ -23,7 +23,7 @@ to retrieve my feeds. I haven't been able to coerce mod_rewrite to handle that n
 Any ideas on how to handle that?
 
 
-[1]: http://www.feedburner.com
+[1]: https://www.feedburner.com
 
 
-Technorati Tags: [feedburner](http://www.technorati.com/tag/feedburner)
+Technorati Tags: [feedburner](https://www.technorati.com/tag/feedburner)

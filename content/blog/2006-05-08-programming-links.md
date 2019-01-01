@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-05-08 19:25:29+00:00
 layout: post
-link: http://invisible.ch/2006/05/08/programming-links/
+link: https://invisible.ch/2006/05/08/programming-links/
 slug: programming-links
 tags: ["blog"]
 title: Programming links
@@ -19,10 +19,10 @@ There's so much to do and so little time, so I leave you with a few links to rec
  * [observe OS X filesystem events][3] -- looks useful
  * [Signs you are a bad programmer][4] -- I plead guilty to having had some of those attributes
 
-[1]: http://www.xprogramming.com/xpmag/jatBaseball.htm
-[2]: http://www.paulgraham.com/startuplessons.html
-[3]: http://aplawrence.com/MacOSX/fseventer.html
-[4]: http://damienkatz.net/2006/05/signs_youre_a_c.html
+[1]: https://www.xprogramming.com/xpmag/jatBaseball.htm
+[2]: https://www.paulgraham.com/startuplessons.html
+[3]: https://aplawrence.com/MacOSX/fseventer.html
+[4]: https://damienkatz.net/2006/05/signs_youre_a_c.html
 
 
-Technorati Tags: [mac](http://www.technorati.com/tag/mac), [programming](http://www.technorati.com/tag/programming), [startup](http://www.technorati.com/tag/startup), [xp](http://www.technorati.com/tag/xp)
+Technorati Tags: [mac](https://www.technorati.com/tag/mac), [programming](https://www.technorati.com/tag/programming), [startup](https://www.technorati.com/tag/startup), [xp](https://www.technorati.com/tag/xp)

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-09-14 07:10:04+00:00
 layout: post
-link: http://invisible.ch/2011/09/14/wonderful/
+link: https://invisible.ch/2011/09/14/wonderful/
 slug: wonderful
 tags: ["blog"]
 title: wonderful!
@@ -26,4 +26,4 @@ wonderful!
 
   
   
-_Post imported by Google+Blog.  Created By [Daniel Treadwell](http://minimali.se/)._
+_Post imported by Google+Blog.  Created By [Daniel Treadwell](https://minimali.se/)._

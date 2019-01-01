@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-01-01 21:49:33+00:00
 layout: post
-link: http://invisible.ch/2007/01/01/five-things/
+link: https://invisible.ch/2007/01/01/five-things/
 slug: five-things
 tags: ["blog"]
 title: five things
@@ -29,21 +29,21 @@ Let's see, who is going to be on the receiving end of this?
 
 [Benjamin][2], [Tanja][3], [Matthias][4], [Sig][6] and [Ben][7]
 
-[1]: http://uncondition.blogspot.com/2007/01/tag-five-things-that-you-did-not-know.html
-[2]: http://turmsegler.net
-[3]: http://www.nja.ch
-[4]: http://matthias.leisi.net
-[5]: http://en.wikipedia.org/wiki/Mustique
-[6]: http://thingamy.typepad.com/sigs_blog/
-[7]: http://www.benpoole.com/
-[8]: http://www.vintagecalculators.com/html/sharp_pc1211_tandy_trs80_pc1.html
-[9]: http://en.wikipedia.org/wiki/Oric
-[10]: http://en.wikipedia.org/wiki/ZX_Spectrum
-[11]: http://en.wikipedia.org/wiki/Commodore_64
-[12]: http://en.wikipedia.org/wiki/Atari_ST
+[1]: https://uncondition.blogspot.com/2007/01/tag-five-things-that-you-did-not-know.html
+[2]: https://turmsegler.net
+[3]: https://www.nja.ch
+[4]: https://matthias.leisi.net
+[5]: https://en.wikipedia.org/wiki/Mustique
+[6]: https://thingamy.typepad.com/sigs_blog/
+[7]: https://www.benpoole.com/
+[8]: https://www.vintagecalculators.com/html/sharp_pc1211_tandy_trs80_pc1.html
+[9]: https://en.wikipedia.org/wiki/Oric
+[10]: https://en.wikipedia.org/wiki/ZX_Spectrum
+[11]: https://en.wikipedia.org/wiki/Commodore_64
+[12]: https://en.wikipedia.org/wiki/Atari_ST
 
 
 
 
 
-Technorati Tags: [5things](http://www.technorati.com/tag/5things), [tag](http://www.technorati.com/tag/tag)
+Technorati Tags: [5things](https://www.technorati.com/tag/5things), [tag](https://www.technorati.com/tag/tag)

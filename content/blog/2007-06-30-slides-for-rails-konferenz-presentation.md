@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-06-30 17:16:06+00:00
 layout: post
-link: http://invisible.ch/2007/06/30/slides-for-rails-konferenz-presentation/
+link: https://invisible.ch/2007/06/30/slides-for-rails-konferenz-presentation/
 slug: slides-for-rails-konferenz-presentation
 tags: ["blog"]
 title: Slides for Rails-Konferenz Presentation
@@ -19,9 +19,9 @@ And here's the deck I used at [rails-konferenz.de][3] - enjoy
 
 
 
-[1]: http://www.slideshare.com
-[2]: http://www.slideshare.net/jcfischer
-[3]: http://www.rails-konferenz.de
+[1]: https://www.slideshare.com
+[2]: https://www.slideshare.net/jcfischer
+[3]: https://www.rails-konferenz.de
 
 
-Technorati Tags: [presenting](http://www.technorati.com/tag/presenting), [slidehare](http://www.technorati.com/tag/slidehare), [rails-konferenz](http://www.technorati.com/tag/rails-konferenz), [slides](http://www.technorati.com/tag/slides)
+Technorati Tags: [presenting](https://www.technorati.com/tag/presenting), [slidehare](https://www.technorati.com/tag/slidehare), [rails-konferenz](https://www.technorati.com/tag/rails-konferenz), [slides](https://www.technorati.com/tag/slides)

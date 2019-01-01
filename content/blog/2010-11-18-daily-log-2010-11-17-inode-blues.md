@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2010-11-18 06:55:31+00:00
 layout: post
-link: http://invisible.ch/2010/11/18/daily-log-2010-11-17-inode-blues/
+link: https://invisible.ch/2010/11/18/daily-log-2010-11-17-inode-blues/
 slug: daily-log-2010-11-17-inode-blues
 tags: ["blog"]
 title: Daily Log, 2010-11-17, inode blues
@@ -22,9 +22,9 @@ A few weeks ago we upgraded the RAM on our main server. At that point, I discove
 
 `
 error.
-I suspected that we had run out of inodes, but hadn't yet seen that situation before so I didn't know what to look for. A bit of googling led me to the post: [No space left on device - running out of inodes](http://www.ivankuznetsov.com/2010/02/no-space-left-on-device-running-out-of-inodes.html). A quick `df -i` showed me indeed that there were no inodes left on the backup device.
+I suspected that we had run out of inodes, but hadn't yet seen that situation before so I didn't know what to look for. A bit of googling led me to the post: [No space left on device - running out of inodes](https://www.ivankuznetsov.com/2010/02/no-space-left-on-device-running-out-of-inodes.html). A quick `df -i` showed me indeed that there were no inodes left on the backup device.
 
-Unfortunately I couldn't just follow the suggestion of Ivan and delete small files. We use [rsnapshot](http://rsnapshot.org/) for backups  - and that creates a lot of small files (namely the links between the different backup sets). The only solution thus is to create more inodes when the filesystem is generated. Our 256 GB backup disk has 16 million inodes. I'll try with some more millions next, that should be enough...
+Unfortunately I couldn't just follow the suggestion of Ivan and delete small files. We use [rsnapshot](https://rsnapshot.org/) for backups  - and that creates a lot of small files (namely the links between the different backup sets). The only solution thus is to create more inodes when the filesystem is generated. Our 256 GB backup disk has 16 million inodes. I'll try with some more millions next, that should be enough...
 
 I created a new iscsi backup disk on our dedicated backup device (a Synology 209+) and created the filesystem with the following magic incantation:
 

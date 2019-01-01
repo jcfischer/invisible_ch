@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-08-27 05:38:24+00:00
 layout: post
-link: http://invisible.ch/2005/08/27/lotus-notes-is-not-agile/
+link: https://invisible.ch/2005/08/27/lotus-notes-is-not-agile/
 slug: lotus-notes-is-not-agile
 tags: ["blog"]
 title: Lotus Notes is not agile
@@ -13,7 +13,7 @@ wordpress_id: 452
 ---
 
 
-[Julian Robichaux](http://www.nsftools.com/) has a recent article "[Agile Development is not for me](http://www.nsftools.com/blog/blog-08-2005.htm#08-24-05)". As you can guess from the title, he's not in the agile camp:
+[Julian Robichaux](https://www.nsftools.com/) has a recent article "[Agile Development is not for me](https://www.nsftools.com/blog/blog-08-2005.htm#08-24-05)". As you can guess from the title, he's not in the agile camp:
 
 
 <blockquote>
@@ -43,7 +43,7 @@ And there lies the problem. Agile development embraces change, because there are
 
 
 
-And that's where other development environments really, really shine. When I code in Java, I use [IntelliJ IDEA](http://www.jetbrains.com/idea/) as an IDE. It's refactoring support is outstanding. It allows me to constantly adapt my code to the way I feel it must be at any given moment. Named something wrong? Change it and be 100% sure that the changes are reflected across all relevant parts of the application. Try that in Notes. Think a field name is wrong? Good luck hunting all the references to it in the tangled mess of forms, views. lookup formulae, Javascript, Lotus Script, hidden forms, computed text and god knows what other goodies the good people at Iris have given us. Yes, there are tools that help: [Teamstudios](http://www.teamstudio.com/) [Configurator](http://www.teamstudio.com/tsv3/teamstudio.nsf/pages/180607DADB22C52585256BF000620156?opendocument&cc=us) is the tool I pay for every year to do Notes development.
+And that's where other development environments really, really shine. When I code in Java, I use [IntelliJ IDEA](https://www.jetbrains.com/idea/) as an IDE. It's refactoring support is outstanding. It allows me to constantly adapt my code to the way I feel it must be at any given moment. Named something wrong? Change it and be 100% sure that the changes are reflected across all relevant parts of the application. Try that in Notes. Think a field name is wrong? Good luck hunting all the references to it in the tangled mess of forms, views. lookup formulae, Javascript, Lotus Script, hidden forms, computed text and god knows what other goodies the good people at Iris have given us. Yes, there are tools that help: [Teamstudios](https://www.teamstudio.com/) [Configurator](https://www.teamstudio.com/tsv3/teamstudio.nsf/pages/180607DADB22C52585256BF000620156?opendocument&cc=us) is the tool I pay for every year to do Notes development.
 
 
 
@@ -65,4 +65,4 @@ Refactoring & unit tests will make sure, that the rest of the application (UI an
 
 
 
-Technorati Tags: [agile](http://technorati.com/tag/agile), [arbeitstechnik](http://technorati.com/tag/arbeitstechnik), [domino](http://technorati.com/tag/domino), [lotus notes](http://technorati.com/tag/lotus notes), [development](http://technorati.com/tag/development), [refactoring](http://technorati.com/tag/refactoring), [testing](http://technorati.com/tag/testing), [unittest](http://technorati.com/tag/unittest)
+Technorati Tags: [agile](https://technorati.com/tag/agile), [arbeitstechnik](https://technorati.com/tag/arbeitstechnik), [domino](https://technorati.com/tag/domino), [lotus notes](https://technorati.com/tag/lotus notes), [development](https://technorati.com/tag/development), [refactoring](https://technorati.com/tag/refactoring), [testing](https://technorati.com/tag/testing), [unittest](https://technorati.com/tag/unittest)

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-10 10:42:20+00:00
 layout: post
-link: http://invisible.ch/2005/11/10/tweakfest-robots-are-better-dancers/
+link: https://invisible.ch/2005/11/10/tweakfest-robots-are-better-dancers/
 slug: tweakfest-robots-are-better-dancers
 tags: ["blog"]
 title: Tweakfest - Robots are better Dancers
@@ -13,7 +13,7 @@ wordpress_id: 475
 ---
 
 
-Fuminori Yamasaki, CEO [iXs Research Corporation](http://www.ixs.co.jp)
+Fuminori Yamasaki, CEO [iXs Research Corporation](https://www.ixs.co.jp)
 
 
 
@@ -69,4 +69,4 @@ The quest for the purpose is still open. This is the real case for a solution lo
 
 
 
-Technorati Tags: [robots](http://technorati.com/tag/robots), [tweakfest05](http://technorati.com/tag/tweakfest05)
+Technorati Tags: [robots](https://technorati.com/tag/robots), [tweakfest05](https://technorati.com/tag/tweakfest05)

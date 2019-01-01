@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-07-06 22:21:53+00:00
 layout: post
-link: http://invisible.ch/2004/07/06/amazon-bottom-up/
+link: https://invisible.ch/2004/07/06/amazon-bottom-up/
 slug: amazon-bottom-up
 tags: ["blog"]
 title: Amazon bottom up
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 296
 ---
 
-What happens if you sort Amazon reviews bottom up? You get [classics](http://www.waxy.org/archive/2004/07/01/amazonco.shtml).
+What happens if you sort Amazon reviews bottom up? You get [classics](https://www.waxy.org/archive/2004/07/01/amazonco.shtml).
 
 
 <blockquote>"I found Mr. Davis' playing to be laughable at best. Finally, it's irritating; and confusing that so many people laud it."  
@@ -22,4 +22,4 @@ and many, many more</blockquote>
 
 
 
-[via [Photo Matt](http://photomatt.net/)]
+[via [Photo Matt](https://photomatt.net/)]

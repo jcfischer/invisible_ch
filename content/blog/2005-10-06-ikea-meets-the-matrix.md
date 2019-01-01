@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-10-06 15:06:54+00:00
 layout: post
-link: http://invisible.ch/2005/10/06/ikea-meets-the-matrix/
+link: https://invisible.ch/2005/10/06/ikea-meets-the-matrix/
 slug: ikea-meets-the-matrix
 tags: ["blog"]
 title: Ikea meets the Matrix
@@ -13,10 +13,10 @@ wordpress_id: 462
 ---
 
 
-[Dream Kitchen](http://www.ikea.com/ms/sv_SE/kampanj/fy06_dromkok/dromkok.html)
+[Dream Kitchen](https://www.ikea.com/ms/sv_SE/kampanj/fy06_dromkok/dromkok.html)
 
 
 
 
 
-Technorati Tags: [ikea](http://technorati.com/tag/ikea), [kitchen](http://technorati.com/tag/kitchen), [matrix](http://technorati.com/tag/matrix), [advertising](http://technorati.com/tag/advertising)
+Technorati Tags: [ikea](https://technorati.com/tag/ikea), [kitchen](https://technorati.com/tag/kitchen), [matrix](https://technorati.com/tag/matrix), [advertising](https://technorati.com/tag/advertising)

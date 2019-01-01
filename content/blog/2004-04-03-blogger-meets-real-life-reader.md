@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-04-03 23:19:25+00:00
 layout: post
-link: http://invisible.ch/2004/04/03/blogger-meets-real-life-reader/
+link: https://invisible.ch/2004/04/03/blogger-meets-real-life-reader/
 slug: blogger-meets-real-life-reader
 tags: ["blog"]
 title: Blogger meets real life reader
@@ -21,6 +21,6 @@ I knew Tanja through the web and mail and tonight we were at her place for dinne
 This feels so totally strange. It's like someone intruded into my private sphere. But then &emdash; I write on a public blog, for public consumption, so this shouldn't come as a surprise at all.
 
 I guess I have to get used to this... Anyway, Tanja: It was nice meeting you and here are the links I promised you:
-[vowe](http://vowe.net/), [don](http://don.antville.org/) and [flightrisk](http://shes.aflightrisk.org/)
+[vowe](https://vowe.net/), [don](https://don.antville.org/) and [flightrisk](https://shes.aflightrisk.org/)
 
 Chasper: thanks for the WiFi connection, dinner and coffee.

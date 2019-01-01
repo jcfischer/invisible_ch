@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-03-22 06:02:06+00:00
 layout: post
-link: http://invisible.ch/2007/03/22/assert_select-and-url_for/
+link: https://invisible.ch/2007/03/22/assert_select-and-url_for/
 slug: assert_select-and-url_for
 tags: ["blog"]
 title: assert_select and url_for
@@ -22,7 +22,7 @@ So in order to overcome that limitation, you'd need to
 
         assert_select "form[action=?]", @controller.url_for( :action => 'foo' )
 
-which doesn't throw an error, but doesn't work either, because `url_for` insists on adding **http://test.host/** to the generated URL. Of course, that's not what's in the form you have generated. What you need to do, is to add the parameter `:only_path  => true` to the `url_for` call:
+which doesn't throw an error, but doesn't work either, because `url_for` insists on adding **https://test.host/** to the generated URL. Of course, that's not what's in the form you have generated. What you need to do, is to add the parameter `:only_path  => true` to the `url_for` call:
 
         assert_select "form[action=?]", @controller.url_for( :action => 'foo', : only_path  => true )
 
@@ -44,12 +44,12 @@ into the setup method in your functional test, and your set to use:
 
 as you intended.
 
-[1]: http://www.rails-konferenz.de/2006/redner/jens-christian-fischer/
-[2]: http://blog.labnotes.org/2006/07/30/assert_select-rails-core-and-handling-lists-and-tables/
-[3]: http://labnotes.org/svn/public/ruby/rails_plugins/assert_select/cheat/assert_select.html
+[1]: https://www.rails-konferenz.de/2006/redner/jens-christian-fischer/
+[2]: https://blog.labnotes.org/2006/07/30/assert_select-rails-core-and-handling-lists-and-tables/
+[3]: https://labnotes.org/svn/public/ruby/rails_plugins/assert_select/cheat/assert_select.html
 
 
 
 
 
-Technorati Tags: [rails](http://www.technorati.com/tag/rails), [ruby](http://www.technorati.com/tag/ruby), [rubyonrails](http://www.technorati.com/tag/rubyonrails), [testing](http://www.technorati.com/tag/testing)
+Technorati Tags: [rails](https://www.technorati.com/tag/rails), [ruby](https://www.technorati.com/tag/ruby), [rubyonrails](https://www.technorati.com/tag/rubyonrails), [testing](https://www.technorati.com/tag/testing)

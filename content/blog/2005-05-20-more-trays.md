@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-05-20 16:19:53+00:00
 layout: post
-link: http://invisible.ch/2005/05/20/more-trays/
+link: https://invisible.ch/2005/05/20/more-trays/
 slug: more-trays
 tags: ["blog"]
 title: More trays?
@@ -26,4 +26,4 @@ Installation of the printer drives went fine (as long as you call a 67% success 
 
 
 
-Technorati Tags: [mac](http://technorati.com/tag/mac)
+Technorati Tags: [mac](https://technorati.com/tag/mac)

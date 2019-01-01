@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-10-27 22:51:55+00:00
 layout: post
-link: http://invisible.ch/2003/10/27/blogging-break/
+link: https://invisible.ch/2003/10/27/blogging-break/
 slug: blogging-break
 tags: ["blog"]
 title: Blogging break
@@ -14,7 +14,7 @@ wordpress_id: 197
 
 In case you hadn't noticed... I'm on a blogging break. I have been very busy the last weeks and I had to cut down the time I read other peoples blogs. It seems that the act of not reading a blog leads to also not writing a blog.
 
-I have a couple of new things to talk about (Tungsten T3, SonyEricsson T610, Posting Multipart/form-data from Perl to Notes, the SMTP server in Domino 5.0.11 and it's handling of CRLF on inbound mails, the wild success that I'm having with [Ben's Midas LSX](http://www.geniisoft.com/) and a couple of other things - or rather - things that shouldn't be talked about (*)) but I'm just to tired...
+I have a couple of new things to talk about (Tungsten T3, SonyEricsson T610, Posting Multipart/form-data from Perl to Notes, the SMTP server in Domino 5.0.11 and it's handling of CRLF on inbound mails, the wild success that I'm having with [Ben's Midas LSX](https://www.geniisoft.com/) and a couple of other things - or rather - things that shouldn't be talked about (*)) but I'm just to tired...
 
 I'll be back
 

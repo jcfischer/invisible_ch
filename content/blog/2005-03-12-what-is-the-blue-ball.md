@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-03-12 06:54:40+00:00
 layout: post
-link: http://invisible.ch/2005/03/12/what-is-the-blue-ball/
+link: https://invisible.ch/2005/03/12/what-is-the-blue-ball/
 slug: what-is-the-blue-ball
 tags: ["blog"]
 title: What is the blue ball?

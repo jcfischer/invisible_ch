@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-06-14 16:32:38+00:00
 layout: post
-link: http://invisible.ch/2004/06/14/the-answer-to-doc-searls/
+link: https://invisible.ch/2004/06/14/the-answer-to-doc-searls/
 slug: the-answer-to-doc-searls
 tags: ["blog"]
 title: The answer to Doc Searls
@@ -12,9 +12,9 @@ type: post
 wordpress_id: 290
 ---
 
-I stumbled over [Doc Searls "re-mail"](http://doc.weblogs.com/discuss/msgReader$4809) entry, where he reflects on an earlier entry, about  _RSS is opt-in authenticated Email_ and the answer he's gotten on that.
+I stumbled over [Doc Searls "re-mail"](https://doc.weblogs.com/discuss/msgReader$4809) entry, where he reflects on an earlier entry, about  _RSS is opt-in authenticated Email_ and the answer he's gotten on that.
 
-Interesting! [ZAPPATA](http://zappatanetworks.com/) started out as a collaboration tool that would use the technologies from the syndication world ( RSS/Atom, polling ) to build a decentralised collaboration tool.  And we built it and it worked.
+Interesting! [ZAPPATA](https://zappatanetworks.com/) started out as a collaboration tool that would use the technologies from the syndication world ( RSS/Atom, polling ) to build a decentralised collaboration tool.  And we built it and it worked.
 
 Doc Searls says:
 

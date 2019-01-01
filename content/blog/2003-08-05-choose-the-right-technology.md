@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-08-05 23:00:13+00:00
 layout: post
-link: http://invisible.ch/2003/08/05/choose-the-right-technology/
+link: https://invisible.ch/2003/08/05/choose-the-right-technology/
 slug: choose-the-right-technology
 tags: ["blog"]
 title: Choose the right technology

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2008-04-12 22:12:07+00:00
 layout: post
-link: http://invisible.ch/2008/04/12/shell-meme/
+link: https://invisible.ch/2008/04/12/shell-meme/
 slug: shell-meme
 tags: ["blog"]
 title: Shell Meme

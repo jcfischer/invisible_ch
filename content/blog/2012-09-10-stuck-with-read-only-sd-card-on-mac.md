@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2012-09-10 11:04:09+00:00
 layout: post
-link: http://invisible.ch/2012/09/10/stuck-with-read-only-sd-card-on-mac/
+link: https://invisible.ch/2012/09/10/stuck-with-read-only-sd-card-on-mac/
 slug: stuck-with-read-only-sd-card-on-mac
 tags: ["blog"]
 title: Stuck with read-only SD card on Mac

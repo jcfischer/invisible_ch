@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-02-26 16:59:10+00:00
 layout: post
-link: http://invisible.ch/2004/02/26/finding-side-effects-with-idea/
+link: https://invisible.ch/2004/02/26/finding-side-effects-with-idea/
 slug: finding-side-effects-with-idea
 tags: ["blog"]
 title: Finding side effects with IDEA
@@ -16,7 +16,7 @@ I was on a bug hunt the last couple of hours. When I looked at a web page served
 
 Nada - I could see that the second time, the content size was reduced to a couple of bytes. But no clue who did that to me.
 
-After some consideration, I decided to look at the code again. And [IDEA](http://www.intellij.com) helped me spot the problem in 30 seconds: 
+After some consideration, I decided to look at the code again. And [IDEA](https://www.intellij.com) helped me spot the problem in 30 seconds: 
 
 Place the cursor on any expression (in this case on the name of my private variable that got changes). Press CTRL-SHIFT-F7 and all occurences of that expression are highlighted in the editor. Scroll down, take a look and voila: there it was, an assignment to the variable in the wrong function.
 

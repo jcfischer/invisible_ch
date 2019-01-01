@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-03-15 11:31:33+00:00
 layout: post
-link: http://invisible.ch/2005/03/15/connecting-from-a-x-client-to-a-cygwin-x-server/
+link: https://invisible.ch/2005/03/15/connecting-from-a-x-client-to-a-cygwin-x-server/
 slug: connecting-from-a-x-client-to-a-cygwin-x-server
 tags: ["blog"]
 title: connecting from a X-client to a cygwin X-server
@@ -25,6 +25,6 @@ from the *my-outsourced-brain-dept*:
 If all goes well, it will show up on your screen. If you get a "Xlib: connection to ":0.0" refused by server" error message, you have forgot to disable the security by typing xhost +.
 
 
-[1]: http://www.cygwin.com
-[2]: http://x.cygwin.com/docs/ug/using.html
-[3]: http://www.chiark.greenend.org.uk/~sgtatham/putty/
+[1]: https://www.cygwin.com
+[2]: https://x.cygwin.com/docs/ug/using.html
+[3]: https://www.chiark.greenend.org.uk/~sgtatham/putty/

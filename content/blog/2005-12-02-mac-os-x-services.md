@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-12-02 19:35:41+00:00
 layout: post
-link: http://invisible.ch/2005/12/02/mac-os-x-services/
+link: https://invisible.ch/2005/12/02/mac-os-x-services/
 slug: mac-os-x-services
 tags: ["blog"]
 title: Mac OS X Services
@@ -13,7 +13,7 @@ wordpress_id: 486
 ---
 
 
-R. had told me about this strange "Services" menu in OS X, but I never really bothered to look deeper into it. The article "[Mac OS X Services (the menu you never go to)](http://highschoolblows.blogspot.com/2005/11/mac-os-x-services-menu-you-never-go-to.html)" told me a bit more about the things possible, when text is selected...
+R. had told me about this strange "Services" menu in OS X, but I never really bothered to look deeper into it. The article "[Mac OS X Services (the menu you never go to)](https://highschoolblows.blogspot.com/2005/11/mac-os-x-services-menu-you-never-go-to.html)" told me a bit more about the things possible, when text is selected...
 
 
 
@@ -41,7 +41,7 @@ R. had told me about this strange "Services" menu in OS X, but I never really bo
 
 
 
-Many programs install additional services ([Ecto](http://ecto.kung-foo.tv/), [Skype](http://www.skype.com/), [TextMate](http://www.macromates.com/), [Emacs](http://de.wikipedia.org/wiki/Emacs), [Opera](http://www.opera.com/), [Quicksilver](http://quicksilver.blacktree.com/)) and there are more services on the internet (for example at [DEVONtechnologies](http://www.devon-technologies.com/products/freeware/services.php)) where the great TextServices comes from.
+Many programs install additional services ([Ecto](https://ecto.kung-foo.tv/), [Skype](https://www.skype.com/), [TextMate](https://www.macromates.com/), [Emacs](https://de.wikipedia.org/wiki/Emacs), [Opera](https://www.opera.com/), [Quicksilver](https://quicksilver.blacktree.com/)) and there are more services on the internet (for example at [DEVONtechnologies](https://www.devon-technologies.com/products/freeware/services.php)) where the great TextServices comes from.
 
 
 
@@ -51,4 +51,4 @@ Makes the Mac even more useful
 
 
 
-Technorati Tags: [arbeitstechnik](http://www.technorati.com/tag/arbeitstechnik), [mac](http://www.technorati.com/tag/mac), [services](http://www.technorati.com/tag/services)
+Technorati Tags: [arbeitstechnik](https://www.technorati.com/tag/arbeitstechnik), [mac](https://www.technorati.com/tag/mac), [services](https://www.technorati.com/tag/services)

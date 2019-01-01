@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-03-29 03:56:05+00:00
 layout: post
-link: http://invisible.ch/2006/03/29/the-week-in-review/
+link: https://invisible.ch/2006/03/29/the-week-in-review/
 slug: the-week-in-review
 tags: ["blog"]
 title: The week in review
@@ -22,15 +22,15 @@ Ever since the [experiments with the Xen virtual server][1] (which run beautiful
 
 
 [1]: /2006/03/09/installing-xen-30-on-debian-sarge/
-[2]: http://www.sgo.ch
-[3]: http://www.opernhaus.ch/d/index.php
-[4]: http://weblog.rubyonrails.org/articles/2006/03/28/rails-1-1-rjs-active-record-respond_to-integration-tests-and-500-other-things
-[5]: http://www.reboot.dk
-[6]: http://henrietteweber.com/
-[7]: http://www.canicrash.org/
-[8]: http://clarkware.com/cgi/blosxom/2006/03/28#Rails11
+[2]: https://www.sgo.ch
+[3]: https://www.opernhaus.ch/d/index.php
+[4]: https://weblog.rubyonrails.org/articles/2006/03/28/rails-1-1-rjs-active-record-respond_to-integration-tests-and-500-other-things
+[5]: https://www.reboot.dk
+[6]: https://henrietteweber.com/
+[7]: https://www.canicrash.org/
+[8]: https://clarkware.com/cgi/blosxom/2006/03/28#Rails11
 
 
 
 
-Technorati Tags: [ausbildung](http://www.technorati.com/tag/ausbildung), [conference](http://www.technorati.com/tag/conference), [crash](http://www.technorati.com/tag/crash), [organisator](http://www.technorati.com/tag/organisator), [reboot](http://www.technorati.com/tag/reboot), [reboot8](http://www.technorati.com/tag/reboot8), [sgo](http://www.technorati.com/tag/sgo), [xen](http://www.technorati.com/tag/xen)
+Technorati Tags: [ausbildung](https://www.technorati.com/tag/ausbildung), [conference](https://www.technorati.com/tag/conference), [crash](https://www.technorati.com/tag/crash), [organisator](https://www.technorati.com/tag/organisator), [reboot](https://www.technorati.com/tag/reboot), [reboot8](https://www.technorati.com/tag/reboot8), [sgo](https://www.technorati.com/tag/sgo), [xen](https://www.technorati.com/tag/xen)

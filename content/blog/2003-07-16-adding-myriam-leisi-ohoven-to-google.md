@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-07-16 06:53:55+00:00
 layout: post
-link: http://invisible.ch/2003/07/16/adding-myriam-leisi-ohoven-to-google/
+link: https://invisible.ch/2003/07/16/adding-myriam-leisi-ohoven-to-google/
 slug: adding-myriam-leisi-ohoven-to-google
 tags: ["blog"]
 title: Adding Myriam Leisi Ohoven to Google
@@ -17,4 +17,4 @@ I checked - it knows nothing at all.
 Time to change that...
 Ohh - you wanted more information on Myriam? Where she lives? The pictures from her marriage? Private details? 
 Ahh - but you have to know her better to get to know these things...
-_Update:_Try [this search](http://www.google.com/search?q=myriam+leisi) to see how fast Google can be: Less than 24 between entering it and Google being aware of Myriam...
+_Update:_Try [this search](https://www.google.com/search?q=myriam+leisi) to see how fast Google can be: Less than 24 between entering it and Google being aware of Myriam...

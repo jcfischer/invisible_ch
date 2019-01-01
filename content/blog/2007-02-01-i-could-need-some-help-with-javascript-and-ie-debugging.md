@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-02-01 11:23:40+00:00
 layout: post
-link: http://invisible.ch/2007/02/01/i-could-need-some-help-with-javascript-and-ie-debugging/
+link: https://invisible.ch/2007/02/01/i-could-need-some-help-with-javascript-and-ie-debugging/
 slug: i-could-need-some-help-with-javascript-and-ie-debugging
 tags: ["blog"]
 title: I could need some help with Javascript and IE debugging
@@ -23,4 +23,4 @@ If you are that person, please contact me at [jcf@invisible.ch](mailto:jcf@invis
 
 
 
-Technorati Tags: [ie](http://www.technorati.com/tag/ie), [internet explorer](http://www.technorati.com/tag/internet explorer), [javascript](http://www.technorati.com/tag/javascript), [debugging](http://www.technorati.com/tag/debugging), [puppy](http://www.technorati.com/tag/puppy), [rails](http://www.technorati.com/tag/rails)
+Technorati Tags: [ie](https://www.technorati.com/tag/ie), [internet explorer](https://www.technorati.com/tag/internet explorer), [javascript](https://www.technorati.com/tag/javascript), [debugging](https://www.technorati.com/tag/debugging), [puppy](https://www.technorati.com/tag/puppy), [rails](https://www.technorati.com/tag/rails)

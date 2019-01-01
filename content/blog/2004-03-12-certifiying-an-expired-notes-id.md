@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-03-12 08:41:53+00:00
 layout: post
-link: http://invisible.ch/2004/03/12/certifiying-an-expired-notes-id/
+link: https://invisible.ch/2004/03/12/certifiying-an-expired-notes-id/
 slug: certifiying-an-expired-notes-id
 tags: ["blog"]
 title: Certifiying an expired Notes ID
@@ -38,4 +38,4 @@ The following steps must be performed:
 12. Status window displays: "Updating address book entry for username/org", then "Successfully updated address book entry for username/org" and finally "Username/org successfully certified."
 
 
-[source: [Recertify an expired user ID](http://www-10.lotus.com/ldd/46dom.nsf/55c38d716d632d9b8525689b005ba1c0/f9adecb11dbcb64185256b650051bac8?OpenDocument&Highlight=0,certify,expired,id) ]
+[source: [Recertify an expired user ID](https://www-10.lotus.com/ldd/46dom.nsf/55c38d716d632d9b8525689b005ba1c0/f9adecb11dbcb64185256b650051bac8?OpenDocument&Highlight=0,certify,expired,id) ]

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-06-28 21:12:16+00:00
 layout: post
-link: http://invisible.ch/2004/06/28/repair-the-repair-function-please/
+link: https://invisible.ch/2004/06/28/repair-the-repair-function-please/
 slug: repair-the-repair-function-please
 tags: ["blog"]
 title: Repair the repair function please
@@ -38,6 +38,6 @@ Continued to work.
 
 Slowly trying to come to grips with the notion of having to re-install XP and a gazillion applications.
 
-Looked at [this store](http://store.apple.com/), looked at the bank account, sighed.
+Looked at [this store](https://store.apple.com/), looked at the bank account, sighed.
 
 Tried to find a duplex unit for a HP color LaserJet -- but that is a story for another day.

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-02-19 11:14:54+00:00
 layout: post
-link: http://invisible.ch/2003/02/19/yam-bam-mon-chat-splash/
+link: https://invisible.ch/2003/02/19/yam-bam-mon-chat-splash/
 slug: yam-bam-mon-chat-splash
 tags: ["blog"]
 title: Yam! Bam! mon chat Splash
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 13
 ---
 
-Flash from the past... Reading [A List Apart on flexible layouts](http://www.alistapart.com/stories/flexiblelayouts/), following to the [A donkey on the edge](http://www.donkeyontheedge.com/ala.html) blog of the author of said article the song below hit me... Oh yes! I remember "Plastic Bertrand".  Unfortunately, Dug's blog doesn't seem to have Permalinks, so I copied the text of the song here... 
+Flash from the past... Reading [A List Apart on flexible layouts](https://www.alistapart.com/stories/flexiblelayouts/), following to the [A donkey on the edge](https://www.donkeyontheedge.com/ala.html) blog of the author of said article the song below hit me... Oh yes! I remember "Plastic Bertrand".  Unfortunately, Dug's blog doesn't seem to have Permalinks, so I copied the text of the song here... 
 
 Enjoy!
 <!-- more -->

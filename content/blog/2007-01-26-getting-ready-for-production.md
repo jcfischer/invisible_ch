@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-01-26 17:17:50+00:00
 layout: post
-link: http://invisible.ch/2007/01/26/getting-ready-for-production/
+link: https://invisible.ch/2007/01/26/getting-ready-for-production/
 slug: getting-ready-for-production
 tags: ["blog"]
 title: Getting ready for production
@@ -71,13 +71,13 @@ Now we'll have to see, how the container holds up, when the masses are unleashed
 
 
 [1]: /2007/01/12/this-is-one-crazy-month/
-[2]: http://www.shareasale.com/r.cfm?B=69506&U=196165&M=10198
-[3]: http://liftconference.com
-[4]: http://www.shareasale.com/r.cfm?B=57232&U=196165&M=10198
-[5]: http://forum.textdrive.com/viewforum.php?id=37
-[6]: http://nginx.net/
-[7]: http://www.brainspl.at/articles/2006/09/12/new-nginx-conf-with-rails-caching
+[2]: https://www.shareasale.com/r.cfm?B=69506&U=196165&M=10198
+[3]: https://liftconference.com
+[4]: https://www.shareasale.com/r.cfm?B=57232&U=196165&M=10198
+[5]: https://forum.textdrive.com/viewforum.php?id=37
+[6]: https://nginx.net/
+[7]: https://www.brainspl.at/articles/2006/09/12/new-nginx-conf-with-rails-caching
 
 
 
-Technorati Tags: [joyent](http://www.technorati.com/tag/joyent), [nginx](http://www.technorati.com/tag/nginx), [textdrive](http://www.technorati.com/tag/textdrive), [rails](http://www.technorati.com/tag/rails), [smf](http://www.technorati.com/tag/smf), [solaris](http://www.technorati.com/tag/solaris)
+Technorati Tags: [joyent](https://www.technorati.com/tag/joyent), [nginx](https://www.technorati.com/tag/nginx), [textdrive](https://www.technorati.com/tag/textdrive), [rails](https://www.technorati.com/tag/rails), [smf](https://www.technorati.com/tag/smf), [solaris](https://www.technorati.com/tag/solaris)

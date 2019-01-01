@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-06-23 06:36:51+00:00
 layout: post
-link: http://invisible.ch/2007/06/23/forward-to-the-past/
+link: https://invisible.ch/2007/06/23/forward-to-the-past/
 slug: forward-to-the-past
 tags: ["blog"]
 title: Forward to the past
@@ -55,13 +55,13 @@ So where does all of this leave us? Are the off-line database/web applications d
 The [slides of my presentation][7] are available online. A video of the presentation is forthcoming.
 
 
-[1]: http://www.rails-konferenz.de
-[2]: http://www.joyent.com/slingshot
-[3]: http://www.37signals.com/svn/posts/347-youre-not-on-a-fucking-plane-and-if-you-are-it-doesnt-matter
-[4]: http://en.wikipedia.org/wiki/Not_Invented_Here
-[5]: http://en.wikipedia.org/wiki/Uuid
-[6]: http://neotrivium.com/blog/2006/12/4/autor_kaspar_schiess?img_pos=2
+[1]: https://www.rails-konferenz.de
+[2]: https://www.joyent.com/slingshot
+[3]: https://www.37signals.com/svn/posts/347-youre-not-on-a-fucking-plane-and-if-you-are-it-doesnt-matter
+[4]: https://en.wikipedia.org/wiki/Not_Invented_Here
+[5]: https://en.wikipedia.org/wiki/Uuid
+[6]: https://neotrivium.com/blog/2006/12/4/autor_kaspar_schiess?img_pos=2
 [7]: /files/OfflineArbeiten.pdf
 
 
-Technorati Tags: [domino](http://www.technorati.com/tag/domino), [joyent](http://www.technorati.com/tag/joyent), [lotus notes](http://www.technorati.com/tag/lotus notes), [ozzie](http://www.technorati.com/tag/ozzie), [uuid](http://www.technorati.com/tag/uuid), [rails-konferenz](http://www.technorati.com/tag/rails-konferenz), [replication](http://www.technorati.com/tag/replication), [slingshot](http://www.technorati.com/tag/slingshot)
+Technorati Tags: [domino](https://www.technorati.com/tag/domino), [joyent](https://www.technorati.com/tag/joyent), [lotus notes](https://www.technorati.com/tag/lotus notes), [ozzie](https://www.technorati.com/tag/ozzie), [uuid](https://www.technorati.com/tag/uuid), [rails-konferenz](https://www.technorati.com/tag/rails-konferenz), [replication](https://www.technorati.com/tag/replication), [slingshot](https://www.technorati.com/tag/slingshot)

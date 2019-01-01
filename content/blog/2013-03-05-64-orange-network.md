@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-05 22:14:14+00:00
 layout: post
-link: http://invisible.ch/2013/03/05/64-orange-network/
+link: https://invisible.ch/2013/03/05/64-orange-network/
 slug: 64-orange-network
 tags: ["blog"]
 title: 64 - orange network
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 12620
 ---
 
-Today I was [invited to a friendly talk with two Orange network engineer](http://blog-orangech.com/2013/01/17/orange-ladt-euch-zu-einer-netz-diskussion-ein/)s to talk about - tada - the Orange Cellular network in Switzerland. [@Stephtara](http://climbtothestars.org/) had facilitated this meetup for bloggers and members of the Orange community and Orange brought in two engineers that are working on the actual network. In a really interesting roundtable discussion, we were able to fire off lots of (technical) questions about cellular networks in general and the Orange network in particular.
+Today I was [invited to a friendly talk with two Orange network engineer](https://blog-orangech.com/2013/01/17/orange-ladt-euch-zu-einer-netz-diskussion-ein/)s to talk about - tada - the Orange Cellular network in Switzerland. [@Stephtara](https://climbtothestars.org/) had facilitated this meetup for bloggers and members of the Orange community and Orange brought in two engineers that are working on the actual network. In a really interesting roundtable discussion, we were able to fire off lots of (technical) questions about cellular networks in general and the Orange network in particular.
 
 We had interesting 90 minutes and I personally learnt loads about the cellular networks in Switzerland.
 

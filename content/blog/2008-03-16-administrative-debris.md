@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2008-03-16 06:33:10+00:00
 layout: post
-link: http://invisible.ch/2008/03/16/administrative-debris/
+link: https://invisible.ch/2008/03/16/administrative-debris/
 slug: administrative-debris
 tags: ["blog"]
 title: Administrative Debris
@@ -30,8 +30,8 @@ I will have to let that sink in for a while and try to incorporate it into my ne
 
 
 [1]: /2008/03/12/the-flow-2008-03-12/
-[2]: http://tomayko.com/writings/administrative-debris
-[3]: http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00036T
+[2]: https://tomayko.com/writings/administrative-debris
+[3]: https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00036T
 
 
-Technorati Tags: [design](http://www.technorati.com/tag/design), [information](http://www.technorati.com/tag/information)
+Technorati Tags: [design](https://www.technorati.com/tag/design), [information](https://www.technorati.com/tag/information)

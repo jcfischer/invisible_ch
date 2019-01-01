@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-07-25 18:54:25+00:00
 layout: post
-link: http://invisible.ch/2003/07/25/xp-on-domino/
+link: https://invisible.ch/2003/07/25/xp-on-domino/
 slug: xp-on-domino
 tags: ["blog"]
 title: XP on Domino
@@ -12,9 +12,9 @@ type: post
 wordpress_id: 137
 ---
 
-Ben Poole mentions [Testing 1,2,3](http://www.benpoole.com/80256B44004A7C14/perm!open&link=200307251046) in the Notes/Domino context (of course taken from the [Xtreme Programming](http://www.xprogramming.com/) school of thought. He links to [Duffbert's XP experiences](http://hostit1.connectria.com/twduff/home.nsf/plinks/TDUF-5PQGH9).
+Ben Poole mentions [Testing 1,2,3](https://www.benpoole.com/80256B44004A7C14/perm!open&link=200307251046) in the Notes/Domino context (of course taken from the [Xtreme Programming](https://www.xprogramming.com/) school of thought. He links to [Duffbert's XP experiences](https://hostit1.connectria.com/twduff/home.nsf/plinks/TDUF-5PQGH9).
 
-Let me chime in with my experience on [TestingFirst](http://www.c2.com/cgi/wiki?TestingFirst) with Notes. I worked on a large Domino project last year with a team of 5 other people. I tried to get some XP into the group (but failed - there just wasn't enough interest from the other team members... another story).
+Let me chime in with my experience on [TestingFirst](https://www.c2.com/cgi/wiki?TestingFirst) with Notes. I worked on a large Domino project last year with a team of 5 other people. I tried to get some XP into the group (but failed - there just wasn't enough interest from the other team members... another story).
 
 From an earlier project I had a NotesUnit Lotusscript class that I expanded and made usable. 
 I tried to use it - I tried hard, really hard. Ultimately I just gave up on using it.

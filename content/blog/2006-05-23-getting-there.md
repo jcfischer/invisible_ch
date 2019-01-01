@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-05-23 22:00:24+00:00
 layout: post
-link: http://invisible.ch/2006/05/23/getting-there/
+link: https://invisible.ch/2006/05/23/getting-there/
 slug: getting-there
 tags: ["blog"]
 title: getting there
@@ -27,12 +27,12 @@ The lack of updates here are due to a variety of reasons:
  * setting up my wife's new [MacBook][6] (what a gorgeous little machine)
  * I'm sure there's more...
 
-[1]: http://195.243.121.239/training/ausbildung/organisation/index.htm
+[1]: https://195.243.121.239/training/ausbildung/organisation/index.htm
 [2]: invisible.ch/2006/05/01/ruby-on-rails-reference/
-[3]: http://reboot.dk/
+[3]: https://reboot.dk/
 [4]: https://www.openbc.com/net/reboot/
-[5]: http://www.roell.net/weblog/archiv/2006/05/22/reboot_openbc.shtml
-[6]: http://www.apple.com/macbook/gallery/
+[5]: https://www.roell.net/weblog/archiv/2006/05/22/reboot_openbc.shtml
+[6]: https://www.apple.com/macbook/gallery/
 
 
-Technorati Tags: [apple](http://www.technorati.com/tag/apple), [arbeit](http://www.technorati.com/tag/arbeit), [ausbildung](http://www.technorati.com/tag/ausbildung), [business](http://www.technorati.com/tag/business), [conference](http://www.technorati.com/tag/conference), [lotus notes](http://www.technorati.com/tag/lotus notes), [mac](http://www.technorati.com/tag/mac), [reboot](http://www.technorati.com/tag/reboot), [rubyonrails](http://www.technorati.com/tag/rubyonrails), [sgo](http://www.technorati.com/tag/sgo), [travel](http://www.technorati.com/tag/travel)
+Technorati Tags: [apple](https://www.technorati.com/tag/apple), [arbeit](https://www.technorati.com/tag/arbeit), [ausbildung](https://www.technorati.com/tag/ausbildung), [business](https://www.technorati.com/tag/business), [conference](https://www.technorati.com/tag/conference), [lotus notes](https://www.technorati.com/tag/lotus notes), [mac](https://www.technorati.com/tag/mac), [reboot](https://www.technorati.com/tag/reboot), [rubyonrails](https://www.technorati.com/tag/rubyonrails), [sgo](https://www.technorati.com/tag/sgo), [travel](https://www.technorati.com/tag/travel)

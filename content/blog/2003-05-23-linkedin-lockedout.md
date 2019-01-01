@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-23 10:27:05+00:00
 layout: post
-link: http://invisible.ch/2003/05/23/linkedin-lockedout/
+link: https://invisible.ch/2003/05/23/linkedin-lockedout/
 slug: linkedin-lockedout
 tags: ["blog"]
 title: LinkedIn LockedOut
@@ -12,13 +12,13 @@ type: post
 wordpress_id: 89
 ---
 
-One week after I [found out](http://www.invisible.ch/archives/000074.html) about [LinkedIn](http://www.linkedin.com) and promptly started to invite a number of my business contacts.
+One week after I [found out](https://www.invisible.ch/archives/000074.html) about [LinkedIn](https://www.linkedin.com) and promptly started to invite a number of my business contacts.
 
 So far, this hasn't led to me being part of a "the total is greater than the sum of it's part's" network. In fact, I'm part of a 5 person network with me being the most well connected person in it.
 
 So what's wrong, what went wrong?
 
-During the first two days of being a LinkedIn member, I sent out 38 invitations with an indivdual text, describing in my words the benefits of such a system and links to the [Many-to-many](http://www.corante.com/many) list and to my homepage. Most of the people are regulars of mine, some of them I dug up for the occasion (People I've been in school with for example). 
+During the first two days of being a LinkedIn member, I sent out 38 invitations with an indivdual text, describing in my words the benefits of such a system and links to the [Many-to-many](https://www.corante.com/many) list and to my homepage. Most of the people are regulars of mine, some of them I dug up for the occasion (People I've been in school with for example). 
 
 I got three emails back, and all in all 5 people joined my network. No reaction from the others (if you disregard two "out of office" messages). Why so few?
 
@@ -46,7 +46,7 @@ I lean towards the last three points, but let's examin them in order:
 
 ad 1) That should be easy to confirm or reject: Call them (mailing them might be a bad idea now ;-) 
 
-ad 2) Except for [vowe](http://vowe.net) I know of nobody in my contact list that actively reads blogs. So nobody has been exposed to the chatter and excitement the last few weeks about LinkedIn.
+ad 2) Except for [vowe](https://vowe.net) I know of nobody in my contact list that actively reads blogs. So nobody has been exposed to the chatter and excitement the last few weeks about LinkedIn.
 
 ad 3) What value is one fax machine? None at all - if there isn't another fax machine on the other end. Same with networks. What is the value of a network with just one hub with 2-3 connectiosn? Close to zero. Coupled with 3 (below) there is little incentive to join something unknown. But maybe that's the point of LinkedIn - somewhere I read that it should be "exclusive" (or is that spelled "elite"?). It seems that you have to belong to the digerati to get value from it...
 

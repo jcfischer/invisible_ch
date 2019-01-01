@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-10-13 09:25:39+00:00
 layout: post
-link: http://invisible.ch/2004/10/13/i-have-seen-the-future-and-its/
+link: https://invisible.ch/2004/10/13/i-have-seen-the-future-and-its/
 slug: i-have-seen-the-future-and-its
 tags: ["blog"]
 title: I have seen the future and it's....

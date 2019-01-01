@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-04-24 21:27:18+00:00
 layout: post
-link: http://invisible.ch/2013/04/24/16-pat-pattisons-introduction-to-songwriting-recap/
+link: https://invisible.ch/2013/04/24/16-pat-pattisons-introduction-to-songwriting-recap/
 slug: 16-pat-pattisons-introduction-to-songwriting-recap
 tags: ["blog"]
 title: 16 - Pat Pattisons Introduction to Songwriting (recap)
@@ -106,7 +106,7 @@ The assignment for this week was to take last weeks song and review it for chan
 ## Conclusion
 
 
-This course has thaught me a lot about the technical side of writing songs. I don't claim that I can actually create good songs now, but I feel that I have glimpsed at quite a few tools that I can train on how to use. I guess it is similar to photography: The good pictures will come after you have taken a couple of thousand bad pictures. On the discussion forums of the class, I saw a pointer to the [50/90 challenge](http://fiftyninety.fawmers.org/) - write 50 songs in 90 days. That is way more challenging than writing 100 blog posts in 100 days and the little devil in me actually is thinking of participating in the next round that starts in July...
+This course has thaught me a lot about the technical side of writing songs. I don't claim that I can actually create good songs now, but I feel that I have glimpsed at quite a few tools that I can train on how to use. I guess it is similar to photography: The good pictures will come after you have taken a couple of thousand bad pictures. On the discussion forums of the class, I saw a pointer to the [50/90 challenge](https://fiftyninety.fawmers.org/) - write 50 songs in 90 days. That is way more challenging than writing 100 blog posts in 100 days and the little devil in me actually is thinking of participating in the next round that starts in July...
 
 In the meantime I have learnt to listen to songs differently and I have been able to identify things that work to create Prosody and things that could maybe have been done differntly.
 

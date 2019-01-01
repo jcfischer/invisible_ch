@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-10-05 08:26:16+00:00
 layout: post
-link: http://invisible.ch/2011/10/05/bundle-update-causes-havoc/
+link: https://invisible.ch/2011/10/05/bundle-update-causes-havoc/
 slug: bundle-update-causes-havoc
 tags: ["blog"]
 title: Bundle update causes havoc
@@ -14,7 +14,7 @@ wordpress_id: 908
 
 You know the feeling - you do a quick "bundle update" and all hell breaks loose? I knew you do.
 
-I updated rspec from 2.5 to 2.6 in one of my projects, and it also updated the nifty [faker](http://faker.rubyforge.org/) gem we use for generating test data.
+I updated rspec from 2.5 to 2.6 in one of my projects, and it also updated the nifty [faker](https://faker.rubyforge.org/) gem we use for generating test data.
 
 Of course, this broke a couple of hundred tests with the following message:
 

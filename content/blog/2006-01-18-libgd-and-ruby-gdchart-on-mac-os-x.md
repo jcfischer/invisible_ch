@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-01-18 17:32:28+00:00
 layout: post
-link: http://invisible.ch/2006/01/18/libgd-and-ruby-gdchart-on-mac-os-x/
+link: https://invisible.ch/2006/01/18/libgd-and-ruby-gdchart-on-mac-os-x/
 slug: libgd-and-ruby-gdchart-on-mac-os-x
 tags: ["blog"]
 title: libgd and ruby-gdchart on Mac OS X
@@ -84,8 +84,8 @@ This has gotten ruby-gdchart to work on my installation. However, the example fi
 
 
 
-[1]: http://www.whytheluckystiff.net/ruby/pickaxe/html/ext_ruby.html#S5
+[1]: https://www.whytheluckystiff.net/ruby/pickaxe/html/ext_ruby.html#S5
 
 
 
-Technorati Tags: [development](http://www.technorati.com/tag/development), [gdlib](http://www.technorati.com/tag/gdlib), [mac](http://www.technorati.com/tag/mac), [rubyonrails](http://www.technorati.com/tag/rubyonrails)
+Technorati Tags: [development](https://www.technorati.com/tag/development), [gdlib](https://www.technorati.com/tag/gdlib), [mac](https://www.technorati.com/tag/mac), [rubyonrails](https://www.technorati.com/tag/rubyonrails)

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-02-16 06:49:32+00:00
 layout: post
-link: http://invisible.ch/2006/02/16/ajax-to-do-more-stuff/
+link: https://invisible.ch/2006/02/16/ajax-to-do-more-stuff/
 slug: ajax-to-do-more-stuff
 tags: ["blog"]
 title: Ajax to do more stuff?
@@ -18,10 +18,10 @@ Tim Bray over at Ongoing talks about [AJAX Performance][1]. His point being, tha
 
 That sounds like a really interesting idea. In my Rails applications I see a lot of time spent in the renderer, not in the database portion. Maybe something to look at, when I get back from the mountains...
 
-[![](http://static.flickr.com/25/99713878_71c5054bcf_m.jpg)](http://www.flickr.com/photos/jcfischer/99713878/)
+[![](https://static.flickr.com/25/99713878_71c5054bcf_m.jpg)](https://www.flickr.com/photos/jcfischer/99713878/)
 
 
-[1]: http://www.tbray.org/ongoing/When/200x/2006/02/14/AJAX-Performance
+[1]: https://www.tbray.org/ongoing/When/200x/2006/02/14/AJAX-Performance
 
 
-Technorati Tags: [ajax](http://www.technorati.com/tag/ajax), [performance](http://www.technorati.com/tag/performance), [rubyonrails](http://www.technorati.com/tag/rubyonrails)
+Technorati Tags: [ajax](https://www.technorati.com/tag/ajax), [performance](https://www.technorati.com/tag/performance), [rubyonrails](https://www.technorati.com/tag/rubyonrails)

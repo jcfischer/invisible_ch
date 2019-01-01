@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-27 21:22:44+00:00
 layout: post
-link: http://invisible.ch/2013/02/27/70-constraints/
+link: https://invisible.ch/2013/02/27/70-constraints/
 slug: 70-constraints
 tags: ["blog"]
 title: 70 - constraints

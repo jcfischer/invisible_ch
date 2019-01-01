@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-26 13:16:30+00:00
 layout: post
-link: http://invisible.ch/2003/09/26/mobile-phone-decisions/
+link: https://invisible.ch/2003/09/26/mobile-phone-decisions/
 slug: mobile-phone-decisions
 tags: ["blog"]
 title: Mobile Phone Decisions
@@ -20,8 +20,8 @@ So I'm in a state of dilemma now:
 
   * bite the bullet, repair the P800 and stay with it - not caring about the warts it has
   * Bite the bullet, repair the P800 and then sell it on ebay and get:
-    * A [Treo600](http://www.handspring.com/treo600/index.jhtml) (meaning that I have to change my contract to a new provider (which is going to cost me quite a sum) and I don't have Bluetooth
-    * Buy a [Palm T3](http://vowe.net/archives/003612.html) which seems to be just around the corner, and a cheap mobile phone (T68i)
+    * A [Treo600](https://www.handspring.com/treo600/index.jhtml) (meaning that I have to change my contract to a new provider (which is going to cost me quite a sum) and I don't have Bluetooth
+    * Buy a [Palm T3](https://vowe.net/archives/003612.html) which seems to be just around the corner, and a cheap mobile phone (T68i)
   * Something entirely different?
 
 What would you recommend?

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-10 11:00:53+00:00
 layout: post
-link: http://invisible.ch/2005/11/10/tweakfest-the-human-roboter-hand/
+link: https://invisible.ch/2005/11/10/tweakfest-the-human-roboter-hand/
 slug: tweakfest-the-human-roboter-hand
 tags: ["blog"]
 title: Tweakfest - The Human Roboter Hand
@@ -35,4 +35,4 @@ They are working on the full circle: not only controlling the hand by "intention
 
 
 
-Technorati Tags: [robots](http://technorati.com/tag/robots), [tweakfest05](http://technorati.com/tag/tweakfest05)
+Technorati Tags: [robots](https://technorati.com/tag/robots), [tweakfest05](https://technorati.com/tag/tweakfest05)

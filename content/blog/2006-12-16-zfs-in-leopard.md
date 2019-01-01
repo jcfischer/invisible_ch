@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-12-16 23:07:04+00:00
 layout: post
-link: http://invisible.ch/2006/12/17/zfs-in-leopard/
+link: https://invisible.ch/2006/12/17/zfs-in-leopard/
 slug: zfs-in-leopard
 tags: ["blog"]
 title: ZFS in Leopard
@@ -18,11 +18,11 @@ It [seems that ZFS is going to be included][1]. This is great news. I've been re
 
 I'm thrilled by this news. It seems that there is no comparable filesystem around at the moment. It's great to see, that Apple includes selected pieces of really great software from other vendors like Sun. 
 
-[1]: http://mac4ever.com/news/27485/zettabyte_sur_leopard/
-[2]: http://en.wikipedia.org/wiki/Zfs
-[3]: http://www.joyent.com
-[4]: http://www.cuddletech.com/blog/index.php
+[1]: https://mac4ever.com/news/27485/zettabyte_sur_leopard/
+[2]: https://en.wikipedia.org/wiki/Zfs
+[3]: https://www.joyent.com
+[4]: https://www.cuddletech.com/blog/index.php
 
 
 
-Technorati Tags: [apple](http://www.technorati.com/tag/apple), [leopard](http://www.technorati.com/tag/leopard), [sun](http://www.technorati.com/tag/sun), [zfs](http://www.technorati.com/tag/zfs)
+Technorati Tags: [apple](https://www.technorati.com/tag/apple), [leopard](https://www.technorati.com/tag/leopard), [sun](https://www.technorati.com/tag/sun), [zfs](https://www.technorati.com/tag/zfs)

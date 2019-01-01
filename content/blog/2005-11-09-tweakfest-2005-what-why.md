@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-09 13:32:27+00:00
 layout: post
-link: http://invisible.ch/2005/11/09/tweakfest-2005-what-why/
+link: https://invisible.ch/2005/11/09/tweakfest-2005-what-why/
 slug: tweakfest-2005-what-why
 tags: ["blog"]
 title: Tweakfest 2005 - What / Why
@@ -55,4 +55,4 @@ New forms of delivery of content. Creative commons. Intellectual Property. Tripl
 
 
 
-Technorati Tags: [tweakfest05](http://technorati.com/tag/tweakfest05)
+Technorati Tags: [tweakfest05](https://technorati.com/tag/tweakfest05)

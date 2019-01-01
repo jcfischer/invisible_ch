@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-09-28 22:15:29+00:00
 layout: post
-link: http://invisible.ch/2006/09/28/first-swissrug-meeting-success/
+link: https://invisible.ch/2006/09/28/first-swissrug-meeting-success/
 slug: first-swissrug-meeting-success
 tags: ["blog"]
 title: first swissRUG meeting success
@@ -24,9 +24,9 @@ Resources:
 * [SwissRUG Website][2]
 * [rubyonrails.ch][3]
 
-[1]: http://newfoundedpower.com/mailman/listinfo/swissrug_newfoundedpower.com
-[2]: http://www.swissrug.ch
-[3]: http://www.rubyonrails.ch
+[1]: https://newfoundedpower.com/mailman/listinfo/swissrug_newfoundedpower.com
+[2]: https://www.swissrug.ch
+[3]: https://www.rubyonrails.ch
 
 
-Technorati Tags: [rails](http://www.technorati.com/tag/rails), [ruby](http://www.technorati.com/tag/ruby), [rubyonrails](http://www.technorati.com/tag/rubyonrails), [swissrug](http://www.technorati.com/tag/swissrug), [zurich.rb](http://www.technorati.com/tag/zurich.rb)
+Technorati Tags: [rails](https://www.technorati.com/tag/rails), [ruby](https://www.technorati.com/tag/ruby), [rubyonrails](https://www.technorati.com/tag/rubyonrails), [swissrug](https://www.technorati.com/tag/swissrug), [zurich.rb](https://www.technorati.com/tag/zurich.rb)

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-02-20 23:34:21+00:00
 layout: post
-link: http://invisible.ch/2007/02/21/pr-blogging/
+link: https://invisible.ch/2007/02/21/pr-blogging/
 slug: pr-blogging
 tags: ["blog"]
 title: PR Blogging
@@ -33,16 +33,16 @@ Oh je
 **Update**: Hugh schreibt es sogar mehr als deutlich in einem neuen Artikel: [using blogs to boos the bottome line][9]. Lesen, verstehen, befolgen!
 
 
-[1]: http://klauseck.typepad.com/
-[2]: http://klauseck.typepad.com/prblogger/2007/02/shorttipps_fr_d.html
-[3]: http://turmsegler.net
-[4]: http://www.nja.ch
-[5]: http://gapingvoid.com/
-[6]: http://henrietteweber.com/2007/02/19/past-present-and-future-of-web/
-[7]: http://henrietteweber.com
-[8]: http://henrietteweber.com/2007/02/20/a-very-slow-transition-to-1st-life/
-[9]: http://www.gapingvoid.com/Moveable_Type/archives/003748.html
+[1]: https://klauseck.typepad.com/
+[2]: https://klauseck.typepad.com/prblogger/2007/02/shorttipps_fr_d.html
+[3]: https://turmsegler.net
+[4]: https://www.nja.ch
+[5]: https://gapingvoid.com/
+[6]: https://henrietteweber.com/2007/02/19/past-present-and-future-of-web/
+[7]: https://henrietteweber.com
+[8]: https://henrietteweber.com/2007/02/20/a-very-slow-transition-to-1st-life/
+[9]: https://www.gapingvoid.com/Moveable_Type/archives/003748.html
 
 
 
-Technorati Tags: [blog](http://www.technorati.com/tag/blog), [marketing](http://www.technorati.com/tag/marketing), [web](http://www.technorati.com/tag/web)
+Technorati Tags: [blog](https://www.technorati.com/tag/blog), [marketing](https://www.technorati.com/tag/marketing), [web](https://www.technorati.com/tag/web)

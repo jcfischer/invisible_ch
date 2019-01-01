@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-31 13:13:53+00:00
 layout: post
-link: http://invisible.ch/2003/05/31/switch-made/
+link: https://invisible.ch/2003/05/31/switch-made/
 slug: switch-made
 tags: ["blog"]
 title: Switch made
@@ -13,7 +13,7 @@ wordpress_id: 105
 ---
 
 It worked ;-)
-I had to fumble a bit to get LILO to work with my harddisks, but I found a [helpful description](http://www.linuxtag.org/cgi-bin/yabb/YaBB.pl?board=knoppix-de;action=display;num=1045345401;start=3) over on the [Knoppix  Formums](http://www.linuxtag.org/cgi-bin/yabb/YaBB.pl) that did the trick for me...
+I had to fumble a bit to get LILO to work with my harddisks, but I found a [helpful description](https://www.linuxtag.org/cgi-bin/yabb/YaBB.pl?board=knoppix-de;action=display;num=1045345401;start=3) over on the [Knoppix  Formums](https://www.linuxtag.org/cgi-bin/yabb/YaBB.pl) that did the trick for me...
 
 More small things that needed fixing:
 

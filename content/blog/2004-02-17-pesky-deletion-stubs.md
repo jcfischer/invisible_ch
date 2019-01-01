@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-02-17 09:15:15+00:00
 layout: post
-link: http://invisible.ch/2004/02/17/pesky-deletion-stubs/
+link: https://invisible.ch/2004/02/17/pesky-deletion-stubs/
 slug: pesky-deletion-stubs
 tags: ["blog"]
 title: Pesky Deletion Stubs
@@ -18,7 +18,7 @@ Babysitting the process, dropping in occasional log messages (something the orig
 
 Some searching on Notes.net points to deletion stubs as a possible problem. Now - how to get rid of them?
 
-Enter [Delstubs](http://www.nsftools.com/tools/delstubs.htm) by [Julian's NSFTools.com](http://www.nsftools.com/).
+Enter [Delstubs](https://www.nsftools.com/tools/delstubs.htm) by [Julian's NSFTools.com](https://www.nsftools.com/).
 
 Here's the result from the first run:
 `3924920 of 3924920 records searched

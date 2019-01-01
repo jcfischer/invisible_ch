@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-20 21:27:57+00:00
 layout: post
-link: http://invisible.ch/2013/03/20/49-tea-and-schnapps/
+link: https://invisible.ch/2013/03/20/49-tea-and-schnapps/
 slug: 49-tea-and-schnapps
 tags: ["blog"]
 title: 49 - tea and schnapps

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-09-07 16:47:02+00:00
 layout: post
-link: http://invisible.ch/2006/09/07/free-music-free-books/
+link: https://invisible.ch/2006/09/07/free-music-free-books/
 slug: free-music-free-books
 tags: ["blog"]
 title: Free music, free books
@@ -21,13 +21,13 @@ Reading up on Magnatune, I happpend on [BookMooch][6], another project of the Ma
 I love the idea and have started to go through my [collection of books I no longer need][7] - maybe there's something you'd like?
 
 
-[1]: http://www.roell.net/weblog/archiv/2006/09/07/magnatune_freie_onlinemusik.shtml
-[2]: http://www.roell.net
-[3]: http://www.magnatune.com
-[4]: http://www.creativecommons.org
-[5]: http://magnatune.com/artists/albums/droptrio-bigdipper/
-[6]: http://bookmooch.com
-[7]: http://bookmooch.com/m/bio/jcfischer
+[1]: https://www.roell.net/weblog/archiv/2006/09/07/magnatune_freie_onlinemusik.shtml
+[2]: https://www.roell.net
+[3]: https://www.magnatune.com
+[4]: https://www.creativecommons.org
+[5]: https://magnatune.com/artists/albums/droptrio-bigdipper/
+[6]: https://bookmooch.com
+[7]: https://bookmooch.com/m/bio/jcfischer
 
 
-Technorati Tags: [book](http://www.technorati.com/tag/book), [bookmooch](http://www.technorati.com/tag/bookmooch), [books](http://www.technorati.com/tag/books), [creativecommons](http://www.technorati.com/tag/creativecommons), [free](http://www.technorati.com/tag/free), [freedom](http://www.technorati.com/tag/freedom), [magnatune](http://www.technorati.com/tag/magnatune), [music](http://www.technorati.com/tag/music)
+Technorati Tags: [book](https://www.technorati.com/tag/book), [bookmooch](https://www.technorati.com/tag/bookmooch), [books](https://www.technorati.com/tag/books), [creativecommons](https://www.technorati.com/tag/creativecommons), [free](https://www.technorati.com/tag/free), [freedom](https://www.technorati.com/tag/freedom), [magnatune](https://www.technorati.com/tag/magnatune), [music](https://www.technorati.com/tag/music)

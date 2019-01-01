@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-24 09:21:03+00:00
 layout: post
-link: http://invisible.ch/2003/03/24/cooks-resignation-speech/
+link: https://invisible.ch/2003/03/24/cooks-resignation-speech/
 slug: cooks-resignation-speech
 tags: ["blog"]
 title: Cook's resignation speech
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 44
 ---
 
-I haven't had a chance to read until just now - and I'm deeply impressed how Robin Cook expressed his views on the war, on Britains role and on some of the background. Read [the speech](http://news.bbc.co.uk/2/hi/uk_news/politics/2859431.stm), at BBC's site.
+I haven't had a chance to read until just now - and I'm deeply impressed how Robin Cook expressed his views on the war, on Britains role and on some of the background. Read [the speech](https://news.bbc.co.uk/2/hi/uk_news/politics/2859431.stm), at BBC's site.
 
 
 

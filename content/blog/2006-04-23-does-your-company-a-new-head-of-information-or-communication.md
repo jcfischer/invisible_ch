@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-04-23 12:14:48+00:00
 layout: post
-link: http://invisible.ch/2006/04/23/does-your-company-a-new-head-of-information-or-communication/
+link: https://invisible.ch/2006/04/23/does-your-company-a-new-head-of-information-or-communication/
 slug: does-your-company-a-new-head-of-information-or-communication
 tags: ["blog"]
 title: Does your company need a new head of information or communication?
@@ -21,4 +21,4 @@ Contact me to get his email adress or CV
 
 
 
-Technorati Tags: [bank](http://www.technorati.com/tag/bank), [communication](http://www.technorati.com/tag/communication), [corporate](http://www.technorati.com/tag/corporate), [information](http://www.technorati.com/tag/information), [work](http://www.technorati.com/tag/work)
+Technorati Tags: [bank](https://www.technorati.com/tag/bank), [communication](https://www.technorati.com/tag/communication), [corporate](https://www.technorati.com/tag/corporate), [information](https://www.technorati.com/tag/information), [work](https://www.technorati.com/tag/work)

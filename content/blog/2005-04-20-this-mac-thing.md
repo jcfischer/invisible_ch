@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-04-20 19:21:26+00:00
 layout: post
-link: http://invisible.ch/2005/04/20/this-mac-thing/
+link: https://invisible.ch/2005/04/20/this-mac-thing/
 slug: this-mac-thing
 tags: ["blog"]
 title: This Mac thing
@@ -13,7 +13,7 @@ wordpress_id: 400
 ---
 
 
-I admit it. I have [switched](http://www.apple.com/switch). The [Mac Mini](/archives/000375.html) was just the beginning, since last week I have a 15" PowerBook. I really, really like it. I will not bore you to death with all the details of why the Mac is better -- you have heard those things before. 
+I admit it. I have [switched](https://www.apple.com/switch). The [Mac Mini](/archives/000375.html) was just the beginning, since last week I have a 15" PowerBook. I really, really like it. I will not bore you to death with all the details of why the Mac is better -- you have heard those things before. 
 
 
 
@@ -25,7 +25,7 @@ Also, and this is the interesting part of this post (I think): Today, a friend o
 
 
 
-The Mac has to be seen to be believed. I was pushed over the edge, after [rsz](http://alt.textdrive.com/) showed me his new 15" PowerBook. This could be the start of something big....
+The Mac has to be seen to be believed. I was pushed over the edge, after [rsz](https://alt.textdrive.com/) showed me his new 15" PowerBook. This could be the start of something big....
 
 
 

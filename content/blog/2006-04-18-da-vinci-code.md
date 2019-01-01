@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-04-18 22:28:23+00:00
 layout: post
-link: http://invisible.ch/2006/04/18/da-vinci-code/
+link: https://invisible.ch/2006/04/18/da-vinci-code/
 slug: da-vinci-code
 tags: ["blog"]
 title: Da Vinci Code
@@ -23,4 +23,4 @@ Dialogue sucked, motivation of the people highly doubtful, characterisation bad,
 If you haven't read it yet, do yourself a favor and skip it. If you want to read a good (but sometimes really longish) conspiracy theory, read Umberto Eco's "Foucault's Pendulum".
 
 
-Technorati Tags: [book](http://www.technorati.com/tag/book), [da-vinci-code](http://www.technorati.com/tag/da-vinci-code), [review](http://www.technorati.com/tag/review), [reboot](http://www.technorati.com/tag/reboot), [umberto-eco](http://www.technorati.com/tag/umberto-eco)
+Technorati Tags: [book](https://www.technorati.com/tag/book), [da-vinci-code](https://www.technorati.com/tag/da-vinci-code), [review](https://www.technorati.com/tag/review), [reboot](https://www.technorati.com/tag/reboot), [umberto-eco](https://www.technorati.com/tag/umberto-eco)

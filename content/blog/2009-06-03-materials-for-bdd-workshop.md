@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2009-06-03 20:28:56+00:00
 layout: post
-link: http://invisible.ch/2009/06/03/materials-for-bdd-workshop/
+link: https://invisible.ch/2009/06/03/materials-for-bdd-workshop/
 slug: materials-for-bdd-workshop
 tags: ["blog"]
 title: Materials for BDD workshop
@@ -24,9 +24,9 @@ Other people have written up their experiences, read [Sören][2], [Benjamin][4] 
 The conference itself was great too - exceptionally good presentations - I'm looking forward to next year.
 
 
-[1]: http://invisible.ch/portfolio/wir-unterwegs/bdd-workshop/
-[2]: http://www.jrubyonrails.de/2009/05/aktuelles-von-der-railswaycon.html
-[3]: http://railslove.com/weblog/2009/05/30/railswaycon-09-in-berlin-ruckblick/
-[4]: http://www.topicmapslab.de/news/tmlab_at_railswaycon2009
-[5]: http://www.pomodorotechnique.com/
-[6]: http://www.jetbrains.com/ruby/index.html
+[1]: https://invisible.ch/portfolio/wir-unterwegs/bdd-workshop/
+[2]: https://www.jrubyonrails.de/2009/05/aktuelles-von-der-railswaycon.html
+[3]: https://railslove.com/weblog/2009/05/30/railswaycon-09-in-berlin-ruckblick/
+[4]: https://www.topicmapslab.de/news/tmlab_at_railswaycon2009
+[5]: https://www.pomodorotechnique.com/
+[6]: https://www.jetbrains.com/ruby/index.html

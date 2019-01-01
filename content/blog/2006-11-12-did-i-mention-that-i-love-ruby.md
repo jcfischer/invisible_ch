@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-11-12 18:18:17+00:00
 layout: post
-link: http://invisible.ch/2006/11/12/did-i-mention-that-i-love-ruby/
+link: https://invisible.ch/2006/11/12/did-i-mention-that-i-love-ruby/
 slug: did-i-mention-that-i-love-ruby
 tags: ["blog"]
 title: Did I mention that I love Ruby?
@@ -29,4 +29,4 @@ Now the question is: Is x in either Array a or b?
 Beautiful! (or is there a better way?)
 
 
-Technorati Tags: [ruby](http://www.technorati.com/tag/ruby)
+Technorati Tags: [ruby](https://www.technorati.com/tag/ruby)

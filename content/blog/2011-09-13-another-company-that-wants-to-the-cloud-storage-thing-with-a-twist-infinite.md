@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-09-13 14:03:28+00:00
 layout: post
-link: http://invisible.ch/2011/09/13/another-company-that-wants-to-the-cloud-storage-thing-with-a-twist-infinite/
+link: https://invisible.ch/2011/09/13/another-company-that-wants-to-the-cloud-storage-thing-with-a-twist-infinite/
 slug: another-company-that-wants-to-the-cloud-storage-thing-with-a-twist-infinite
 tags: ["blog"]
 title: 'Another company that want''s to the cloud storage thing - with a twist: Infinite...'
@@ -42,4 +42,4 @@ Let's see if this can contest dropbox...
 
   
   
-_Post imported by Google+Blog.  Created By [Daniel Treadwell](http://minimali.se/)._
+_Post imported by Google+Blog.  Created By [Daniel Treadwell](https://minimali.se/)._

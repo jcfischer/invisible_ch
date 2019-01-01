@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-05-24 09:19:14+00:00
 layout: post
-link: http://invisible.ch/2007/05/24/flow-tweakfest/
+link: https://invisible.ch/2007/05/24/flow-tweakfest/
 slug: flow-tweakfest
 tags: ["blog"]
 title: flow @ TweakFest
@@ -24,8 +24,8 @@ You are cordially invited to check it out, please don't break anything, or if yo
 
 See you on [flow.tweakfest.ch][2]
 
-[1]: http://www.tweakfest.ch
-[2]: http://flow.tweakfest.ch 
+[1]: https://www.tweakfest.ch
+[2]: https://flow.tweakfest.ch 
 
 
-Technorati Tags: [rubyonrails](http://www.technorati.com/tag/rubyonrails), [tweakfest07](http://www.technorati.com/tag/tweakfest07)
+Technorati Tags: [rubyonrails](https://www.technorati.com/tag/rubyonrails), [tweakfest07](https://www.technorati.com/tag/tweakfest07)

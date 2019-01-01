@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-07-26 21:57:10+00:00
 layout: post
-link: http://invisible.ch/2005/07/26/lotus-domino-server-with-odbc-connection/
+link: https://invisible.ch/2005/07/26/lotus-domino-server-with-odbc-connection/
 slug: lotus-domino-server-with-odbc-connection
 tags: ["blog"]
 title: Lotus Domino Server with ODBC connection
@@ -51,4 +51,4 @@ Hopefully this text helps somebody against deciding to use Notes and ODBC driver
 
 
 
-Technorati Tags: [lotus notes](http://technorati.com/tag/lotus notes), [domino](http://technorati.com/tag/domino), [odbc](http://technorati.com/tag/odbc)
+Technorati Tags: [lotus notes](https://technorati.com/tag/lotus notes), [domino](https://technorati.com/tag/domino), [odbc](https://technorati.com/tag/odbc)

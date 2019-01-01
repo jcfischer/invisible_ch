@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-12-16 02:13:22+00:00
 layout: post
-link: http://invisible.ch/2003/12/16/3-computers-and-a-wlan/
+link: https://invisible.ch/2003/12/16/3-computers-and-a-wlan/
 slug: 3-computers-and-a-wlan
 tags: ["blog"]
 title: 3 Computers and a WLAN
@@ -27,4 +27,4 @@ Installing the access point (D-Link AP2000) and finding the DHCP setting for it'
 
 All in all - a really enjoyable experience...
 
-And - it does tell you something about [ZAPPATA](http://www.zappatanetworks.com/) [Personal Groupware](http://www.zappatanetworks.com/)
+And - it does tell you something about [ZAPPATA](https://www.zappatanetworks.com/) [Personal Groupware](https://www.zappatanetworks.com/)

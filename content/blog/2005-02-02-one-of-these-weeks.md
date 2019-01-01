@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-02-02 17:16:32+00:00
 layout: post
-link: http://invisible.ch/2005/02/02/one-of-these-weeks/
+link: https://invisible.ch/2005/02/02/one-of-these-weeks/
 slug: one-of-these-weeks
 tags: ["blog"]
 title: One of these weeks
@@ -31,9 +31,9 @@ On the positive side
 * We're going to the theater tonight to see [Homo Faber][6]
 * Friday night without kids (but a new car)
 
-[1]: http://www.ubuntulinux.org
-[2]: http://43things.com/things/view/169
-[3]: http://www.prius.ch
+[1]: https://www.ubuntulinux.org
+[2]: https://43things.com/things/view/169
+[3]: https://www.prius.ch
 [4]: /archives/000266.html
 [5]: /archives/000360.html
-[6]: http://www.schauspielhaus.ch/www/107_430.asp?PlayID=19
+[6]: https://www.schauspielhaus.ch/www/107_430.asp?PlayID=19

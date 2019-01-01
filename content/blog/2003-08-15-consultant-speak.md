@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-08-15 13:42:09+00:00
 layout: post
-link: http://invisible.ch/2003/08/15/consultant-speak/
+link: https://invisible.ch/2003/08/15/consultant-speak/
 slug: consultant-speak
 tags: ["blog"]
 title: Consultant Speak

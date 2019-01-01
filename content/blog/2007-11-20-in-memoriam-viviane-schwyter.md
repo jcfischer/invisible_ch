@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-11-20 10:03:33+00:00
 layout: post
-link: http://invisible.ch/2007/11/20/in-memoriam-viviane-schwyter/
+link: https://invisible.ch/2007/11/20/in-memoriam-viviane-schwyter/
 slug: in-memoriam-viviane-schwyter
 tags: ["blog"]
 title: In memoriam Viviane Schwyter
@@ -19,5 +19,5 @@ I got the news from a friend this morning. Viviane, my girlfriend before I met a
 We lost contact after I got married, and unfortunately Viviane didn't come to our mutual friends party a couple of weeks ago. 
 
 
-[1]: http://www.hawaiiweb.com/molokai/sites_to_see/HaipuapuaFalls.htm
-[2]: http://www.brissago.ch/
+[1]: https://www.hawaiiweb.com/molokai/sites_to_see/HaipuapuaFalls.htm
+[2]: https://www.brissago.ch/

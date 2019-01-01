@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-06-03 14:56:00+00:00
 layout: post
-link: http://invisible.ch/2003/06/03/the-needle-in-the-haystack/
+link: https://invisible.ch/2003/06/03/the-needle-in-the-haystack/
 slug: the-needle-in-the-haystack
 tags: ["blog"]
 title: The needle in the haystack
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 111
 ---
 
-Over at the MIT, the researchers are looking for needles in the [Haystack](http://haystack.lcs.mit.edu/index.html). The blurb reads interesting:
+Over at the MIT, the researchers are looking for needles in the [Haystack](https://haystack.lcs.mit.edu/index.html). The blurb reads interesting:
 
 
 <blockquote>_the universal information client_

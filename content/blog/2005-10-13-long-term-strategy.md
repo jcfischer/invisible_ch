@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-10-13 10:50:27+00:00
 layout: post
-link: http://invisible.ch/2005/10/13/long-term-strategy/
+link: https://invisible.ch/2005/10/13/long-term-strategy/
 slug: long-term-strategy
 tags: ["blog"]
 title: Long term strategy
@@ -13,11 +13,11 @@ wordpress_id: 463
 ---
 
 
-That's what I thought when I read the ongoing announcments (and the howling of the frustrated pro-users) over at [Mac Essentials](http://www.mac-essentials.de) yesterday.
+That's what I thought when I read the ongoing announcments (and the howling of the frustrated pro-users) over at [Mac Essentials](https://www.mac-essentials.de) yesterday.
 
 
 
-Of course it would be nice to have new multi-core PowerMacs or PowerBooks. But few people would care. The announcements of the new [iMac](http://www.apple.com/imac/) with it's [gadgets](http://www.apple.com/de/imac/isight.html), [FrontRow](http://www.apple.com/imac/frontrow.html) and of course the iPod (with video) and iTMS with video and TV-shows appeal to more people. A lot more.
+Of course it would be nice to have new multi-core PowerMacs or PowerBooks. But few people would care. The announcements of the new [iMac](https://www.apple.com/imac/) with it's [gadgets](https://www.apple.com/de/imac/isight.html), [FrontRow](https://www.apple.com/imac/frontrow.html) and of course the iPod (with video) and iTMS with video and TV-shows appeal to more people. A lot more.
 
 
 
@@ -63,4 +63,4 @@ Apple is doing the right thing. The PowerMacs will follow. But there's no need t
 
 
 
-Technorati Tags: [iMac](http://technorati.com/tag/iMac), [iPod](http://technorati.com/tag/iPod), [living](http://technorati.com/tag/living), [mac](http://technorati.com/tag/mac), [iTunes](http://technorati.com/tag/iTunes), [strategy](http://technorati.com/tag/strategy)
+Technorati Tags: [iMac](https://technorati.com/tag/iMac), [iPod](https://technorati.com/tag/iPod), [living](https://technorati.com/tag/living), [mac](https://technorati.com/tag/mac), [iTunes](https://technorati.com/tag/iTunes), [strategy](https://technorati.com/tag/strategy)

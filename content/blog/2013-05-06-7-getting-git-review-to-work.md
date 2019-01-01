@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-05-06 11:41:46+00:00
 layout: post
-link: http://invisible.ch/2013/05/06/7-getting-git-review-to-work/
+link: https://invisible.ch/2013/05/06/7-getting-git-review-to-work/
 slug: 7-getting-git-review-to-work
 tags: ["blog"]
 title: '7 - getting git review to work '
@@ -14,7 +14,7 @@ wordpress_id: 12891
 
 Contributing to a large OS project ([OpenStack](https://github.com/openstack)) means to jump through a lot of hoops to get the necessary agreements in place and tools installed.
 
-OpenStack uses [Gerrit](http://en.wikipedia.org/wiki/Gerrit_(software)) for code reviews, and recommends to use git-review for easier review workflow.
+OpenStack uses [Gerrit](https://en.wikipedia.org/wiki/Gerrit_(software)) for code reviews, and recommends to use git-review for easier review workflow.
 
 The installation is explained in the [documentation](https://wiki.openstack.org/wiki/Documentation/HowTo) and it could be as easy as:
 
@@ -29,7 +29,7 @@ However that didn't work for me - I was stuck with:
     git: 'review' is not a git command. See 'git --help'.
 
 
-I use [homebrew](http://mxcl.github.io/homebrew/) to install local packages, so the probable cause was some wrong path. It turns out, that pip installs the git-review binary in a non PATH path:
+I use [homebrew](https://mxcl.github.io/homebrew/) to install local packages, so the probable cause was some wrong path. It turns out, that pip installs the git-review binary in a non PATH path:
 
     
     ~ ⮀ sudo pip install git-review
@@ -61,10 +61,10 @@ and things started to work. More information on gerrit and the workflows to use 
 
 
 	
-  * [http://www.mediawiki.org/wiki/Gerrit/git-review](http://www.mediawiki.org/wiki/Gerrit/git-review)
+  * [https://www.mediawiki.org/wiki/Gerrit/git-review](https://www.mediawiki.org/wiki/Gerrit/git-review)
 
 
 	
-  * [http://www.mediawiki.org/wiki/Gerrit/Tutorial](http://www.mediawiki.org/wiki/Gerrit/Tutorial)
+  * [https://www.mediawiki.org/wiki/Gerrit/Tutorial](https://www.mediawiki.org/wiki/Gerrit/Tutorial)
 
 

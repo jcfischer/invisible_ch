@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-04-11 19:14:07+00:00
 layout: post
-link: http://invisible.ch/2006/04/11/more-than-a-week-in-review-back-to-domino/
+link: https://invisible.ch/2006/04/11/more-than-a-week-in-review-back-to-domino/
 slug: more-than-a-week-in-review-back-to-domino
 tags: ["blog"]
 title: 'More than a week in Review: Back to Domino'
@@ -24,14 +24,14 @@ Right now, the sheer amount of work is almost overwhelming me. There's also some
 
 
 [1]: /2006/03/29/the-week-in-review/
-[2]: http://www.37signals.com
-[3]: http://37signals.com/svn/archives2/fly_on_the_wall_too_many_web_developers_are_swatting_flies_with_bulldozers.php
-[4]: http://www.invisible.ch/static/47/rubyonrailsschulung
-[5]: http://www-142.ibm.com/software/workplace/products/product5.nsf/wdocs/workplaceservicesexpresshome
-[6]: http://www.apple.com/chde/macbookpro/
-[7]: http://prototype.conio.net/
-[8]: http://www.ektron.com/ewebeditproxml.aspx
-[9]: http://www.fckeditor.net/
+[2]: https://www.37signals.com
+[3]: https://37signals.com/svn/archives2/fly_on_the_wall_too_many_web_developers_are_swatting_flies_with_bulldozers.php
+[4]: https://www.invisible.ch/static/47/rubyonrailsschulung
+[5]: https://www-142.ibm.com/software/workplace/products/product5.nsf/wdocs/workplaceservicesexpresshome
+[6]: https://www.apple.com/chde/macbookpro/
+[7]: https://prototype.conio.net/
+[8]: https://www.ektron.com/ewebeditproxml.aspx
+[9]: https://www.fckeditor.net/
 
 
-Technorati Tags: [apple](http://www.technorati.com/tag/apple), [collaboration](http://www.technorati.com/tag/collaboration), [corporate](http://www.technorati.com/tag/corporate), [development](http://www.technorati.com/tag/development), [domino](http://www.technorati.com/tag/domino), [lotus notes](http://www.technorati.com/tag/lotus notes), [mac](http://www.technorati.com/tag/mac), [notebook](http://www.technorati.com/tag/notebook), [rubyonrails](http://www.technorati.com/tag/rubyonrails)
+Technorati Tags: [apple](https://www.technorati.com/tag/apple), [collaboration](https://www.technorati.com/tag/collaboration), [corporate](https://www.technorati.com/tag/corporate), [development](https://www.technorati.com/tag/development), [domino](https://www.technorati.com/tag/domino), [lotus notes](https://www.technorati.com/tag/lotus notes), [mac](https://www.technorati.com/tag/mac), [notebook](https://www.technorati.com/tag/notebook), [rubyonrails](https://www.technorati.com/tag/rubyonrails)

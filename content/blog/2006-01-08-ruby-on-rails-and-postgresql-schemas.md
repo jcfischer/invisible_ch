@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-01-08 09:11:51+00:00
 layout: post
-link: http://invisible.ch/2006/01/08/ruby-on-rails-and-postgresql-schemas/
+link: https://invisible.ch/2006/01/08/ruby-on-rails-and-postgresql-schemas/
 slug: ruby-on-rails-and-postgresql-schemas
 tags: ["blog"]
 title: Ruby on Rails and PostgreSQL Schemas
@@ -165,7 +165,7 @@ This is caused by the *models(:first)* call in test_truth. I just stripped those
 This "small change" in the db schema took me more than two days to rectify in the rails application. So yes, Rails is an environment, that makes you incredible productive. But when you run into legacy databases (or databases that don't quite follow the way Rails thinks they should be) be prepared to spend some time on beating rails into submission :-)
 
 
-[1]: http://nubyonrails.topfunky.com/articles/2005/12/27/dump-or-slurp-yaml-reference-data
+[1]: https://nubyonrails.topfunky.com/articles/2005/12/27/dump-or-slurp-yaml-reference-data
 
 
-Technorati Tags: [development](http://www.technorati.com/tag/development), [postgresql](http://www.technorati.com/tag/postgresql), [rubyonrails](http://www.technorati.com/tag/rubyonrails)
+Technorati Tags: [development](https://www.technorati.com/tag/development), [postgresql](https://www.technorati.com/tag/postgresql), [rubyonrails](https://www.technorati.com/tag/rubyonrails)

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-10-21 05:36:57+00:00
 layout: post
-link: http://invisible.ch/2005/10/21/no-interoperability-on-usb-sticks/
+link: https://invisible.ch/2005/10/21/no-interoperability-on-usb-sticks/
 slug: no-interoperability-on-usb-sticks
 tags: ["blog"]
 title: No interoperability on USB sticks
@@ -35,4 +35,4 @@ Wakeup call to corporate IT: There are computers out in the wild, that won't run
 
 
 
-Technorati Tags: [interoperability](http://technorati.com/tag/interoperability), [mac](http://technorati.com/tag/mac), [corporate](http://technorati.com/tag/corporate), [usbstick](http://technorati.com/tag/usbstick), [windows](http://technorati.com/tag/windows)
+Technorati Tags: [interoperability](https://technorati.com/tag/interoperability), [mac](https://technorati.com/tag/mac), [corporate](https://technorati.com/tag/corporate), [usbstick](https://technorati.com/tag/usbstick), [windows](https://technorati.com/tag/windows)

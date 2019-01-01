@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-18 22:39:39+00:00
 layout: post
-link: http://invisible.ch/2013/03/18/51-own-your-data/
+link: https://invisible.ch/2013/03/18/51-own-your-data/
 slug: 51-own-your-data
 tags: ["blog"]
 title: 51 - own your data
@@ -18,7 +18,7 @@ Yesterday I had a brief Twitter [discussion](https://twitter.com/halfbyte/status
 
 
 
-I think the issue is much more important than just mail - it is about owning your data (and [moeffju has written more about it here ](http://moeffju.net/blog/own-your-data)- in german though). Projects like Ebend Moglens [Freedombox](http://freedomplug.org/) are (or in that case, were) a great idea - but don't seem to reach enough traction to be viable and realistic.
+I think the issue is much more important than just mail - it is about owning your data (and [moeffju has written more about it here ](https://moeffju.net/blog/own-your-data)- in german though). Projects like Ebend Moglens [Freedombox](https://freedomplug.org/) are (or in that case, were) a great idea - but don't seem to reach enough traction to be viable and realistic.
 
 I believe we need to own our own data, and we should have computers or servers in our homes that make it easy for us to store files, mail, rss feeds securely and independently of the "big corporations". Yes, it might be more expensive, yes there might be some hassle involved, but as the history has shown, we can't rely on the likes of Google to trust our data - their commercial interestes aren't aligned with ours.
 

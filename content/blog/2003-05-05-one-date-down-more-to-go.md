@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-05 10:49:41+00:00
 layout: post
-link: http://invisible.ch/2003/05/05/one-date-down-more-to-go/
+link: https://invisible.ch/2003/05/05/one-date-down-more-to-go/
 slug: one-date-down-more-to-go
 tags: ["blog"]
 title: One date down - more to go

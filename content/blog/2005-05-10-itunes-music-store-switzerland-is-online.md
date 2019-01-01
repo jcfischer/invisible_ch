@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-05-10 01:32:15+00:00
 layout: post
-link: http://invisible.ch/2005/05/10/itunes-music-store-switzerland-is-online/
+link: https://invisible.ch/2005/05/10/itunes-music-store-switzerland-is-online/
 slug: itunes-music-store-switzerland-is-online
 tags: ["blog"]
 title: iTunes Music Store Switzerland is online
@@ -19,9 +19,9 @@ It took a while, but now it's online: The swiss (and the scandinavian) itunes mu
 
 
 
-Also, [version 4.8](http://www.apple.com/itunes/download/) of iTunes itself is available, and it's playing videos now.
+Also, [version 4.8](https://www.apple.com/itunes/download/) of iTunes itself is available, and it's playing videos now.
 
 
 
-Now if only the quality of the downloads would be better - [allofmp3.com](http://allofmp3.com) is much more advanced in this regard. (I'll leave the legality discussions for the moment)
+Now if only the quality of the downloads would be better - [allofmp3.com](https://allofmp3.com) is much more advanced in this regard. (I'll leave the legality discussions for the moment)
 

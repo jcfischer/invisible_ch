@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-03-16 11:53:13+00:00
 layout: post
-link: http://invisible.ch/2005/03/16/web-services/
+link: https://invisible.ch/2005/03/16/web-services/
 slug: web-services
 tags: ["blog"]
 title: Web services
@@ -27,17 +27,17 @@ If you are interested in the blogs I'm reading, feel free to [look at my public 
 The next step for me I guess is to understand what [flickr][6] is going to give me - so far I haven't seen the light on that one. Also not convinced on [Tadalists][7] a small, simple and easy application to manage to-do lists (check out my [public to-blog list][9] for one example use). [Basecamp][8] is great, but I haven't convinced my co-workers the value of using it yet.
 
 
-[1]: http://www.sifry.com/alerts/archives/000298.html
-[2]: http://www.bloglines.com
-[3]: http://del.icio.us
-[4]: http://bloglines.com/public/jcfischer
-[5]: http://del.icio.us/jaycee
-[6]: http://flickr.com
-[7]: http://www.tadalists.com
-[8]: http://www.basecamphq.com
-[9]: http://invisible.tadalist.com/lists/show/6829
-[10]: http://www.43things.com
-[11]: http://www.43things.com/people/view/jcfischer
-[12]: http://www.openbc.com
-[13]: http://www.linkedin.com
-[14]: http://www.openbc.com/go/invuid/JensChristian_Fischer
+[1]: https://www.sifry.com/alerts/archives/000298.html
+[2]: https://www.bloglines.com
+[3]: https://del.icio.us
+[4]: https://bloglines.com/public/jcfischer
+[5]: https://del.icio.us/jaycee
+[6]: https://flickr.com
+[7]: https://www.tadalists.com
+[8]: https://www.basecamphq.com
+[9]: https://invisible.tadalist.com/lists/show/6829
+[10]: https://www.43things.com
+[11]: https://www.43things.com/people/view/jcfischer
+[12]: https://www.openbc.com
+[13]: https://www.linkedin.com
+[14]: https://www.openbc.com/go/invuid/JensChristian_Fischer

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-10-30 09:13:01+00:00
 layout: post
-link: http://invisible.ch/2005/10/30/what-has-happened-to-foldershare/
+link: https://invisible.ch/2005/10/30/what-has-happened-to-foldershare/
 slug: what-has-happened-to-foldershare
 tags: ["blog"]
 title: What has happened to FolderShare?
@@ -57,4 +57,4 @@ And their service has become free. Looks like I just burned $100. Oh well. Maybe
 
 
 
-Technorati Tags: [business](http://technorati.com/tag/business), [foldershare](http://technorati.com/tag/foldershare), [mac](http://technorati.com/tag/mac), [zappata](http://technorati.com/tag/zappata)
+Technorati Tags: [business](https://technorati.com/tag/business), [foldershare](https://technorati.com/tag/foldershare), [mac](https://technorati.com/tag/mac), [zappata](https://technorati.com/tag/zappata)

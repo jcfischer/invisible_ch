@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-03-26 17:10:18+00:00
 layout: post
-link: http://invisible.ch/2007/03/26/when-tables-are-a-bad-idea/
+link: https://invisible.ch/2007/03/26/when-tables-are-a-bad-idea/
 slug: when-tables-are-a-bad-idea
 tags: ["blog"]
 title: When tables are a bad idea
@@ -22,8 +22,8 @@ Oh: Yes, you will be able to see that application... At [Tweakfest][3] at the en
 
 
 [1]: /2007/02/01/i-could-need-some-help-with-javascript-and-ie-debugging/
-[2]: http://cchin.ch
-[3]: http://www.tweakfest.ch
+[2]: https://cchin.ch
+[3]: https://www.tweakfest.ch
 
 
-Technorati Tags: [css](http://www.technorati.com/tag/css), [ie](http://www.technorati.com/tag/ie), [internet explorer](http://www.technorati.com/tag/internet explorer), [tweakfest07](http://www.technorati.com/tag/tweakfest07), [rails](http://www.technorati.com/tag/rails)
+Technorati Tags: [css](https://www.technorati.com/tag/css), [ie](https://www.technorati.com/tag/ie), [internet explorer](https://www.technorati.com/tag/internet explorer), [tweakfest07](https://www.technorati.com/tag/tweakfest07), [rails](https://www.technorati.com/tag/rails)

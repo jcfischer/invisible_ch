@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-03-10 12:20:21+00:00
 layout: post
-link: http://invisible.ch/2004/03/10/looking-for-a-all-in-one-office-printerscannerfax/
+link: https://invisible.ch/2004/03/10/looking-for-a-all-in-one-office-printerscannerfax/
 slug: looking-for-a-all-in-one-office-printerscannerfax
 tags: ["blog"]
 title: Looking for a all-in-one office printer/scanner/fax

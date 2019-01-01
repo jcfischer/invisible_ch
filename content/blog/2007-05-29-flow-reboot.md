@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-05-29 20:04:14+00:00
 layout: post
-link: http://invisible.ch/2007/05/29/flow-reboot/
+link: https://invisible.ch/2007/05/29/flow-reboot/
 slug: flow-reboot
 tags: ["blog"]
 title: flow @ reboot
@@ -22,8 +22,8 @@ I witnessed this power the first time at reboot 7.0 when spontaneous collaborati
 
 I'd like to give something to the reboot crowd - an experiment in chatting. [chat.invisible.ch][1] is a chat system without rooms, but with tags - where discussions can focus and defocus - not in rooms, but in connected ideas.
 
-[1]: http://chat.invisible.ch
+[1]: https://chat.invisible.ch
 
 
 
-Technorati Tags: [chat](http://www.technorati.com/tag/chat), [flow](http://www.technorati.com/tag/flow), [reboot](http://www.technorati.com/tag/reboot), [reboot9](http://www.technorati.com/tag/reboot9)
+Technorati Tags: [chat](https://www.technorati.com/tag/chat), [flow](https://www.technorati.com/tag/flow), [reboot](https://www.technorati.com/tag/reboot), [reboot9](https://www.technorati.com/tag/reboot9)

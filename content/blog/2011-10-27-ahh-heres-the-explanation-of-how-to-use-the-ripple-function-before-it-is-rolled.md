@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-10-27 19:19:30+00:00
 layout: post
-link: http://invisible.ch/2011/10/27/ahh-heres-the-explanation-of-how-to-use-the-ripple-function-before-it-is-rolled/
+link: https://invisible.ch/2011/10/27/ahh-heres-the-explanation-of-how-to-use-the-ripple-function-before-it-is-rolled/
 slug: ahh-heres-the-explanation-of-how-to-use-the-ripple-function-before-it-is-rolled
 tags: ["blog"]
 title: Ahh - here's the explanation of how to use the Ripple function before it is
@@ -57,4 +57,4 @@ Example: /posts/WaxKcm4eCCA
 
   
   
-_Post imported by Google+Blog.  Created By [Daniel Treadwell](http://minimali.se/)._
+_Post imported by Google+Blog.  Created By [Daniel Treadwell](https://minimali.se/)._

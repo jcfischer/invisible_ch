@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-10-13 08:58:34+00:00
 layout: post
-link: http://invisible.ch/2011/10/13/interesting/
+link: https://invisible.ch/2011/10/13/interesting/
 slug: interesting
 tags: ["blog"]
 title: Interesting!
@@ -26,4 +26,4 @@ Interesting!
 
   
   
-_Post imported by Google+Blog.  Created By [Daniel Treadwell](http://minimali.se/)._
+_Post imported by Google+Blog.  Created By [Daniel Treadwell](https://minimali.se/)._

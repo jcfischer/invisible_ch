@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-03 08:33:49+00:00
 layout: post
-link: http://invisible.ch/2005/06/03/some-telemarketers/
+link: https://invisible.ch/2005/06/03/some-telemarketers/
 slug: some-telemarketers
 tags: ["blog"]
 title: Some telemarketers....

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-02-05 18:49:16+00:00
 layout: post
-link: http://invisible.ch/2004/02/05/all-mt-blogs-must-die/
+link: https://invisible.ch/2004/02/05/all-mt-blogs-must-die/
 slug: all-mt-blogs-must-die
 tags: ["blog"]
 title: All MT Blogs must die
@@ -25,4 +25,4 @@ Espresso (double), Windows, city, primary, atheist...
 
 You decide on the rest ;-)
 
-[read rant](http://www.kuro5hin.org/story/2004/2/2/171117/8823) [ via [hannes](http://hannes.kaywa.com/)]
+[read rant](https://www.kuro5hin.org/story/2004/2/2/171117/8823) [ via [hannes](https://hannes.kaywa.com/)]

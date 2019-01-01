@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-03-18 22:00:33+00:00
 layout: post
-link: http://invisible.ch/2007/03/18/moritz-blogt/
+link: https://invisible.ch/2007/03/18/moritz-blogt/
 slug: moritz-blogt
 tags: ["blog"]
 title: Moritz blogt
@@ -18,7 +18,7 @@ Bravo Moritz, das gibt mir ein klein wenig mehr das Gefuhl, dass es Politiker gi
 
 Weiterhin viel Erfolg und gutes Gelingen!
 
-[1]: http://moritzleuenberger.blueblog.ch/
+[1]: https://moritzleuenberger.blueblog.ch/
 
 
-Technorati Tags: [moritzleuenberger](http://www.technorati.com/tag/moritzleuenberger), [politik](http://www.technorati.com/tag/politik), [bundesrat](http://www.technorati.com/tag/bundesrat)
+Technorati Tags: [moritzleuenberger](https://www.technorati.com/tag/moritzleuenberger), [politik](https://www.technorati.com/tag/politik), [bundesrat](https://www.technorati.com/tag/bundesrat)

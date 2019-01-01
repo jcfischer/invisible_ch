@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2010-06-12 21:03:29+00:00
 layout: post
-link: http://invisible.ch/2010/06/12/about-this-new-thing/
+link: https://invisible.ch/2010/06/12/about-this-new-thing/
 slug: about-this-new-thing
 tags: ["blog"]
 title: about this new thing

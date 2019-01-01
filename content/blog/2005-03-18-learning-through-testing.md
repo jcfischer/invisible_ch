@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-03-18 10:32:39+00:00
 layout: post
-link: http://invisible.ch/2005/03/18/learning-through-testing/
+link: https://invisible.ch/2005/03/18/learning-through-testing/
 slug: learning-through-testing
 tags: ["blog"]
 title: Learning through testing
@@ -18,5 +18,5 @@ Writing the unit tests, he explores a bit of the language. Also, there's a writt
 
 I find this an extremely compelling way of learning a language and keeping track of what you know, so I guess this will go into my: "Things to try out" stack.
 
-[1]: http://www.clarkware.com/
-[2]: http://www.clarkware.com/cgi/blosxom/2005/03/18#RLT1
+[1]: https://www.clarkware.com/
+[2]: https://www.clarkware.com/cgi/blosxom/2005/03/18#RLT1

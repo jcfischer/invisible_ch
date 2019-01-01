@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-02-07 22:56:57+00:00
 layout: post
-link: http://invisible.ch/2007/02/07/lift-07-workshops/
+link: https://invisible.ch/2007/02/07/lift-07-workshops/
 slug: lift-07-workshops
 tags: ["blog"]
 title: Lift 07 - Workshops
@@ -18,11 +18,11 @@ The day started of with a visit to CERN and their building of the LHC ([Large Ha
 
 After that, we went down 100 meters and visited one of the ATLAS detectors....
 
-[![](http://farm1.static.flickr.com/137/383113152_97a64d87f6_m.jpg)](http://www.flickr.com/photos/jcfischer/383113152/)
+[![](https://farm1.static.flickr.com/137/383113152_97a64d87f6_m.jpg)](https://www.flickr.com/photos/jcfischer/383113152/)
 
 Words fail to convey the size of this thing...
 
-[![](http://farm1.static.flickr.com/179/383113051_c75dea4c85_m.jpg)](http://www.flickr.com/photos/jcfischer/383113051/) [![](http://farm1.static.flickr.com/164/383112842_cf9574d2f7_m.jpg)](http://www.flickr.com/photos/jcfischer/383112842/)
+[![](https://farm1.static.flickr.com/179/383113051_c75dea4c85_m.jpg)](https://www.flickr.com/photos/jcfischer/383113051/) [![](https://farm1.static.flickr.com/164/383112842_cf9574d2f7_m.jpg)](https://www.flickr.com/photos/jcfischer/383112842/)
 
 Bruno Giusani has a [more thorough report from his visit a couple of days ago][3]
 
@@ -31,15 +31,15 @@ After a delicious Pizza with [David][7] and [Philippe][8], I went to [Stowe Boyd
 Drinks and food, talk and laughter for the rest of the evening. What a great bunch of people you are...
 
 
-[1]: http://www.liftconference.com
-[2]: http://public.web.cern.ch/Public/Content/Chapters/AboutCERN/CERNFuture/CERNFuture-en.html
-[3]: http://www.lunchoverip.com/2007/01/lhr_in_the_part.html
-[4]: http://www.stoweboyd.com
-[5]: http://climbtothestars.org/
-[6]: http://climbtothestars.org/archives/2007/02/07/stowe-boyd-building-social-applications/
-[7]: http://dwcama.wordpress.com
-[8]: http://www.kerignard.com/
+[1]: https://www.liftconference.com
+[2]: https://public.web.cern.ch/Public/Content/Chapters/AboutCERN/CERNFuture/CERNFuture-en.html
+[3]: https://www.lunchoverip.com/2007/01/lhr_in_the_part.html
+[4]: https://www.stoweboyd.com
+[5]: https://climbtothestars.org/
+[6]: https://climbtothestars.org/archives/2007/02/07/stowe-boyd-building-social-applications/
+[7]: https://dwcama.wordpress.com
+[8]: https://www.kerignard.com/
 
 
 
-Technorati Tags: [cern](http://www.technorati.com/tag/cern), [lhc](http://www.technorati.com/tag/lhc), [lift07](http://www.technorati.com/tag/lift07), [socialapplications](http://www.technorati.com/tag/socialapplications)
+Technorati Tags: [cern](https://www.technorati.com/tag/cern), [lhc](https://www.technorati.com/tag/lhc), [lift07](https://www.technorati.com/tag/lift07), [socialapplications](https://www.technorati.com/tag/socialapplications)

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-01-18 15:47:29+00:00
 layout: post
-link: http://invisible.ch/2005/01/18/xp-practicing-group-zurich/
+link: https://invisible.ch/2005/01/18/xp-practicing-group-zurich/
 slug: xp-practicing-group-zurich
 tags: ["blog"]
 title: XP Practicing Group Zurich
@@ -21,7 +21,7 @@ I'm willing to organise an event (maybe one evening every month) where everybody
 
 Programming languages of choice? I'd say Ruby and/or Java. Who's in?
 
-[1]: http://www.extremeprogramming.org/
-[2]: http://onestepback.org/index.cgi/Tech/Ruby/XpCincyAndRuby.rdoc
-[3]: http://www.c2.com/cgi/wiki?ExtremeHacking
-[4]: http://www.c2.com/cgi/wiki?XpAdoptersGroupSwitzerland
+[1]: https://www.extremeprogramming.org/
+[2]: https://onestepback.org/index.cgi/Tech/Ruby/XpCincyAndRuby.rdoc
+[3]: https://www.c2.com/cgi/wiki?ExtremeHacking
+[4]: https://www.c2.com/cgi/wiki?XpAdoptersGroupSwitzerland

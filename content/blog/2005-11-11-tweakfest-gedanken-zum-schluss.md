@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-11 10:22:22+00:00
 layout: post
-link: http://invisible.ch/2005/11/11/tweakfest-gedanken-zum-schluss/
+link: https://invisible.ch/2005/11/11/tweakfest-gedanken-zum-schluss/
 slug: tweakfest-gedanken-zum-schluss
 tags: ["blog"]
 title: Tweakfest - Gedanken zum Schluss
@@ -47,7 +47,7 @@ Was mir total fehlte war das Gefuhl von Gemeinschaft. Bei der reboot Konferenz i
 
 
 
-Vom Marketing her ware sicher auch mehr zu machen gewesen. In der [Blogosphere](http://www.technorati.com/search/tweakfest) habe ich nur ganz wenige Erwahnungen von Tweakfest gefunden ([Nicolas Nova](http://tecfa.unige.ch/perso/staf/nova/blog/2005/11/09/a-day-in-zurich/), [Benjamin J.J. Voigt](http://www.shamiro.ch/Comments+On+Tweakfest.aspx) sowie [miss.gunst](http://www.homemade-labor.ch/weblog/archives/2005/11/tweakfest.html) )
+Vom Marketing her ware sicher auch mehr zu machen gewesen. In der [Blogosphere](https://www.technorati.com/search/tweakfest) habe ich nur ganz wenige Erwahnungen von Tweakfest gefunden ([Nicolas Nova](https://tecfa.unige.ch/perso/staf/nova/blog/2005/11/09/a-day-in-zurich/), [Benjamin J.J. Voigt](https://www.shamiro.ch/Comments+On+Tweakfest.aspx) sowie [miss.gunst](https://www.homemade-labor.ch/weblog/archives/2005/11/tweakfest.html) )
 
 
 
@@ -59,10 +59,10 @@ In der Eroffnungsansprache der Tweakfest Organisatoren wurde bereits auf zukunfi
 
 
 
-Und ich, ich freue mich auf [Lift06 in Genf](http://www.lift06.org/), im Februar 2006!
+Und ich, ich freue mich auf [Lift06 in Genf](https://www.lift06.org/), im Februar 2006!
 
 
 
 
 
-Technorati Tags: [tweakfest05](http://technorati.com/tag/tweakfest05)
+Technorati Tags: [tweakfest05](https://technorati.com/tag/tweakfest05)

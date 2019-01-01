@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-11-24 08:43:41+00:00
 layout: post
-link: http://invisible.ch/2006/11/24/rails-on-synology-cubestation-cs-406/
+link: https://invisible.ch/2006/11/24/rails-on-synology-cubestation-cs-406/
 slug: rails-on-synology-cubestation-cs-406
 tags: ["blog"]
 title: Rails on Synology CubeStation CS-406
@@ -38,7 +38,7 @@ Bingo!
 Again - from Oinkzwrurgels document:
 
     CubeStation> cd /tmp
-    CubeStation> wget http://oinkzwurgl.org/dl.php?file=bootstrap-ppc.tar.gz
+    CubeStation> wget https://oinkzwurgl.org/dl.php?file=bootstrap-ppc.tar.gz
     ...
     CubeStation> cd /
     CubeStation> tar -xzvf /tmp/bootstrap-ppc.tar.gz 
@@ -107,7 +107,7 @@ If all goes well, the rails command should create the directory structure for a 
     CubeStation> cd cube
     CubeStation> ruby script/server
 
-starts Webrick and you can access your page through the webbrowser at http://192.168.x.y:3000
+starts Webrick and you can access your page through the webbrowser at https://192.168.x.y:3000
 
 Tata.
 
@@ -133,6 +133,6 @@ Oh yes - the [NLSU2][3] page has more [packages][4]. So far I have installed:
  
 
 [1]: /2006/11/20/speaking/
-[2]: http://oinkzwurgl.org/diskstation
-[3]: http://www.nslu2-linux.org/wiki/DS101/HomePage
-[4]: http://www.nslu2-linux.org/wiki/Optware/Packages 
+[2]: https://oinkzwurgl.org/diskstation
+[3]: https://www.nslu2-linux.org/wiki/DS101/HomePage
+[4]: https://www.nslu2-linux.org/wiki/Optware/Packages 

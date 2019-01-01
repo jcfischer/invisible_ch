@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-13 21:58:27+00:00
 layout: post
-link: http://invisible.ch/2013/03/13/56-pair-programming/
+link: https://invisible.ch/2013/03/13/56-pair-programming/
 slug: 56-pair-programming
 tags: ["blog"]
 title: 56 - pair programming
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 12648
 ---
 
-Much has been spoken about the pros and cons of [pair programming](http://en.wikipedia.org/wiki/Pair_programming). I have had the good fortune to pair program with some great programmers ([Flöre](http://florianhanke.com/) and [Kaspar](http://www.absurd.li/) come to mind) but it has always been difficult in the settings I worked in to actually do regular pair programming. I facilitated a couple of [coding dojos](http://zurichdojo.ch) (I know, I know - should do more...)
+Much has been spoken about the pros and cons of [pair programming](https://en.wikipedia.org/wiki/Pair_programming). I have had the good fortune to pair program with some great programmers ([Flöre](https://florianhanke.com/) and [Kaspar](https://www.absurd.li/) come to mind) but it has always been difficult in the settings I worked in to actually do regular pair programming. I facilitated a couple of [coding dojos](https://zurichdojo.ch) (I know, I know - should do more...)
 
 I'm not going to rehash all the  pros and cons of pair programming, and this entry is not going to be a learned discussion of it - just my experiences.
 

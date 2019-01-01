@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-10-27 18:48:38+00:00
 layout: post
-link: http://invisible.ch/2011/10/27/thats-one-incredible-useful-feature-ripples-show-you-how-a-post-of-yours-ripples/
+link: https://invisible.ch/2011/10/27/thats-one-incredible-useful-feature-ripples-show-you-how-a-post-of-yours-ripples/
 slug: thats-one-incredible-useful-feature-ripples-show-you-how-a-post-of-yours-ripples
 tags: ["blog"]
 title: 'That''s one incredible useful feature: Ripples show you how a post of yours
@@ -24,4 +24,4 @@ That's one incredible useful feature: Ripples show you how a post of yours rippl
 
   
   
-_Post imported by Google+Blog.  Created By [Daniel Treadwell](http://minimali.se/)._
+_Post imported by Google+Blog.  Created By [Daniel Treadwell](https://minimali.se/)._

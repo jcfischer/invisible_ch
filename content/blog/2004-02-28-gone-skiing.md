@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-02-28 11:20:11+00:00
 layout: post
-link: http://invisible.ch/2004/02/28/gone-skiing/
+link: https://invisible.ch/2004/02/28/gone-skiing/
 slug: gone-skiing
 tags: ["blog"]
 title: Gone skiing

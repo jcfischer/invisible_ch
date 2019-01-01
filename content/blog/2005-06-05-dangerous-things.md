@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-05 05:52:12+00:00
 layout: post
-link: http://invisible.ch/2005/06/05/dangerous-things/
+link: https://invisible.ch/2005/06/05/dangerous-things/
 slug: dangerous-things
 tags: ["blog"]
 title: Dangerous things
@@ -13,7 +13,7 @@ wordpress_id: 419
 ---
 
 
-The[ list of the 10 most dangerous books of the 19th and 20th](http://www.humaneventsonline.com/article.php?id=7591) century disturbs me no end. Sure, it's easy to dismiss it by looking at the organization that created that list, but I wonder how influential that institution really is.
+The[ list of the 10 most dangerous books of the 19th and 20th](https://www.humaneventsonline.com/article.php?id=7591) century disturbs me no end. Sure, it's easy to dismiss it by looking at the organization that created that list, but I wonder how influential that institution really is.
 
 
 

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-04-21 07:26:32+00:00
 layout: post
-link: http://invisible.ch/2005/04/21/trying-out-offline-editors/
+link: https://invisible.ch/2005/04/21/trying-out-offline-editors/
 slug: trying-out-offline-editors
 tags: ["blog"]
 title: Trying out offline editors
@@ -21,7 +21,7 @@ I was toying with the idea of running a Lotus Domino based blog, but inertia has
 
 
 
-And all of a sudden, Tim Bray evaluates a couple of off-line blog composers (I'm sure they can do a lot of other fancy things as well). Right now, I'm trying [ecto](http://ecto.kung-foo.tv/) and [MarsEdit](http://ranchero.com/). They both work out of the box with my MT setup. I will alternate posting for the next couple of days to see, which one is more to my liking. 
+And all of a sudden, Tim Bray evaluates a couple of off-line blog composers (I'm sure they can do a lot of other fancy things as well). Right now, I'm trying [ecto](https://ecto.kung-foo.tv/) and [MarsEdit](https://ranchero.com/). They both work out of the box with my MT setup. I will alternate posting for the next couple of days to see, which one is more to my liking. 
 
 
 

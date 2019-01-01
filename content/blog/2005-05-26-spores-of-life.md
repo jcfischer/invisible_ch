@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-05-26 09:03:38+00:00
 layout: post
-link: http://invisible.ch/2005/05/26/spores-of-life/
+link: https://invisible.ch/2005/05/26/spores-of-life/
 slug: spores-of-life
 tags: ["blog"]
 title: Spores of life
@@ -13,11 +13,11 @@ wordpress_id: 415
 ---
 
 
-R. sent me a [link to a transcript](http://www.gamespy.com/articles/595/595975p1.html?fromint=1) of Will Wright's presentation of Spore, an evolutionary game, a couple of months ago.
+R. sent me a [link to a transcript](https://www.gamespy.com/articles/595/595975p1.html?fromint=1) of Will Wright's presentation of Spore, an evolutionary game, a couple of months ago.
   
 
   
-I was stunned by the descriptions. Today I found a link to a[ video of the actual presentation and demo of Spore](http://www.pqhp.com/cmp/gdctv/). 
+I was stunned by the descriptions. Today I found a link to a[ video of the actual presentation and demo of Spore](https://www.pqhp.com/cmp/gdctv/). 
   
 
   

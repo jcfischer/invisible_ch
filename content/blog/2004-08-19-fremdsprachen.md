@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-08-19 00:00:20+00:00
 layout: post
-link: http://invisible.ch/2004/08/19/fremdsprachen/
+link: https://invisible.ch/2004/08/19/fremdsprachen/
 slug: fremdsprachen
 tags: ["blog"]
 title: Fremdsprachen

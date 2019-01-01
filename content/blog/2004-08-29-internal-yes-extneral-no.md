@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-08-29 21:40:18+00:00
 layout: post
-link: http://invisible.ch/2004/08/29/internal-yes-extneral-no/
+link: https://invisible.ch/2004/08/29/internal-yes-extneral-no/
 slug: internal-yes-extneral-no
 tags: ["blog"]
 title: Internal YES, extneral NO

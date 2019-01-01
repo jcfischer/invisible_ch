@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-04-15 21:48:27+00:00
 layout: post
-link: http://invisible.ch/2013/04/15/23-garden-working/
+link: https://invisible.ch/2013/04/15/23-garden-working/
 slug: 23-garden-working
 tags: ["blog"]
 title: 23 - garden working

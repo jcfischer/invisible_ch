@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-06-19 05:17:03+00:00
 layout: post
-link: http://invisible.ch/2003/06/19/gone-in-two-hours/
+link: https://invisible.ch/2003/06/19/gone-in-two-hours/
 slug: gone-in-two-hours
 tags: ["blog"]
 title: Gone in two hours
@@ -18,7 +18,7 @@ Geek alert: Using a Notes View to build Javascript hashtables - sadly, I'm proba
 
 Anyway - the living room is littered with stuff to take to the holidays. I have to clean up one more Domino form and then wake the rest of the family and then we're off to Italy.
 
-The CD with the italy card from [Navigon](http://www.navigon.de) arrived yesterday by courier. I had ordered it three weeks ago and wrote an email on monday where it was. An online shop with a non-working email server ate my order. The kind folks at Navigon then rushed me the CD by UPS - on their cost. Thank you! It arrived and your navigation program for PDA's is really great. It has given my Ipaq the possibility to demonstrate it's usefullness at least in one area. As faithful readers know, I [switched back from Ipaq to Visor](http://www.invisible.ch/archives/000038.html) (and now to the [P800](http://www.invisible.ch/archives/000047.html))
+The CD with the italy card from [Navigon](https://www.navigon.de) arrived yesterday by courier. I had ordered it three weeks ago and wrote an email on monday where it was. An online shop with a non-working email server ate my order. The kind folks at Navigon then rushed me the CD by UPS - on their cost. Thank you! It arrived and your navigation program for PDA's is really great. It has given my Ipaq the possibility to demonstrate it's usefullness at least in one area. As faithful readers know, I [switched back from Ipaq to Visor](https://www.invisible.ch/archives/000038.html) (and now to the [P800](https://www.invisible.ch/archives/000047.html))
 
 Enough of these ramblings - time to finish the code and then ...
 Pasta, pizze, frutte di mare, vino, sole

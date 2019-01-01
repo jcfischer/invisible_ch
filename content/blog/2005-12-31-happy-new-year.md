@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-12-31 16:33:07+00:00
 layout: post
-link: http://invisible.ch/2005/12/31/happy-new-year/
+link: https://invisible.ch/2005/12/31/happy-new-year/
 slug: happy-new-year
 tags: ["blog"]
 title: Happy new year
@@ -20,4 +20,4 @@ Snow covered trees in Visperterminen
 
 
 
-Technorati Tags: [visperterminen](http://www.technorati.com/tag/visperterminen)
+Technorati Tags: [visperterminen](https://www.technorati.com/tag/visperterminen)

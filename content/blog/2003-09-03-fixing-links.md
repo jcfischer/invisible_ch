@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-03 07:26:31+00:00
 layout: post
-link: http://invisible.ch/2003/09/03/fixing-links/
+link: https://invisible.ch/2003/09/03/fixing-links/
 slug: fixing-links
 tags: ["blog"]
 title: Fixing links
@@ -25,12 +25,12 @@ To add to the confusion, the users had been busy creating links between new docu
 
 Basically we were running headlong into a mess... The deadline for fixing all of this? A mere two weeks.
 
-So what did I do? As a first measure, I wanted to know how bad the situation really was: I spent a lot of money on [Linkchecker from TeamStudio](http://www.teamstudio.com/tsv3/teamstudio.nsf/pages/32B5601CEADD607685256C210045CEDB?opendocument&cc=us). (I like the TeamStudio tools and have been using them for years. My all time favorite is [Configurator](http://www.teamstudio.com/tsv3/teamstudio.nsf/pages/180607DADB22C52585256BF000620156?opendocument&cc=us) which allows me to do search/replace across a whole database - but I use it to find all occurences of a string mostly)
+So what did I do? As a first measure, I wanted to know how bad the situation really was: I spent a lot of money on [Linkchecker from TeamStudio](https://www.teamstudio.com/tsv3/teamstudio.nsf/pages/32B5601CEADD607685256C210045CEDB?opendocument&cc=us). (I like the TeamStudio tools and have been using them for years. My all time favorite is [Configurator](https://www.teamstudio.com/tsv3/teamstudio.nsf/pages/180607DADB22C52585256BF000620156?opendocument&cc=us) which allows me to do search/replace across a whole database - but I use it to find all occurences of a string mostly)
 Anyway: Linkchecker showed me 15'000+ broken links... Ups!
 Not good. Not at all good.
 In order to get these kinds of problems out of the way, I decided to implement a new linking scheme. Because we were going to not use the Notes client for readers in the future anyway, I could do a URL based link scheme. Every document got a new UniqueID (@Unique) and can now be referenced by that.
-Then I got a copy of [Ben Langhinrichs](http://www.geniisoft.com/showcase.nsf/GeniiBlog) [Midas LSX for Richtext](http://www.geniisoft.com/showcase.nsf/MidasLSX) that allows almost any kind of manipulation of RichText and all the kind of embedded things in it.
+Then I got a copy of [Ben Langhinrichs](https://www.geniisoft.com/showcase.nsf/GeniiBlog) [Midas LSX for Richtext](https://www.geniisoft.com/showcase.nsf/MidasLSX) that allows almost any kind of manipulation of RichText and all the kind of embedded things in it.
 Ben helped me with very fast email support and a couple of hours later I had a short agent that found the doclinks and converted them to URL links, doing text formatting (blue underlined) on the way.
 The result?
 I'm left with 72 broken links - that are really broken. And LinkChecker points me to them. 
-It's as I [always say](http://www.invisible.ch/archives/000032.html): Get the right tools for the job!
+It's as I [always say](https://www.invisible.ch/archives/000032.html): Get the right tools for the job!

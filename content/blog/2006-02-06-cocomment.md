@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-02-06 07:38:08+00:00
 layout: post
-link: http://invisible.ch/2006/02/06/cocomment/
+link: https://invisible.ch/2006/02/06/cocomment/
 slug: cocomment
 tags: ["blog"]
 title: CoComment
@@ -20,8 +20,8 @@ Great stuff, highly recommended. So far, in private beta and requires invitation
 
 
 
-[1]: http://www.cocomment.com
-[2]: http://www.ballpark.ch
+[1]: https://www.cocomment.com
+[2]: https://www.ballpark.ch
 
 
-Technorati Tags: [blog](http://www.technorati.com/tag/blog), [comments](http://www.technorati.com/tag/comments)
+Technorati Tags: [blog](https://www.technorati.com/tag/blog), [comments](https://www.technorati.com/tag/comments)

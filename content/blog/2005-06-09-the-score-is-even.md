@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-09 23:29:05+00:00
 layout: post
-link: http://invisible.ch/2005/06/09/the-score-is-even/
+link: https://invisible.ch/2005/06/09/the-score-is-even/
 slug: the-score-is-even
 tags: ["blog"]
 title: The score is even
@@ -26,7 +26,7 @@ Sitting in the breakfast lounge at reboot, I made two interesting observations:
 
 
 
-Continuous images through [flickr's reboot7 tag](http://www.flickr.com/photos/tags/reboot7/)
+Continuous images through [flickr's reboot7 tag](https://www.flickr.com/photos/tags/reboot7/)
 
 
 
@@ -35,34 +35,34 @@ People met at yesterdays meet-up include.
 
 
 
-  * [Sig Rinde](http://thingamy.typepad.com/)
+  * [Sig Rinde](https://thingamy.typepad.com/)
 
 
-  * [Hugh McLeod](http://gapingvoid.com/)
+  * [Hugh McLeod](https://gapingvoid.com/)
 
 
-  * [Michael Heilenmann](http://www.binarybonsai.com/)
+  * [Michael Heilenmann](https://www.binarybonsai.com/)
 
 
-  * [Martin Roell](http://www.roell.net/weblog/)
+  * [Martin Roell](https://www.roell.net/weblog/)
 
 
-  * [Jurgen Ahting](http://www.is-rating.de/)
+  * [Jurgen Ahting](https://www.is-rating.de/)
 
 
   * Nana
 
 
-  * [Laurent Haug](http://bohellz.blogspot.com/) (and his most excellent [reboot coverage](http://www.ballpark.ch/blog/?s=reboot) on [ballpark.ch](http://www.ballpark.ch/))
+  * [Laurent Haug](https://bohellz.blogspot.com/) (and his most excellent [reboot coverage](https://www.ballpark.ch/blog/?s=reboot) on [ballpark.ch](https://www.ballpark.ch/))
 
 
-  * [Henrietta Weber Andersen](http://henriette.prograes.com/blog/)
+  * [Henrietta Weber Andersen](https://henriette.prograes.com/blog/)
 
 
-  * [Geoff Jones](http://www.geoffjones.com/)
+  * [Geoff Jones](https://www.geoffjones.com/)
 
 
-  * [Rachel Clarke](http://www.bibrik.com/)
+  * [Rachel Clarke](https://www.bibrik.com/)
 
 
   * and many many more
@@ -77,4 +77,4 @@ And now it's off to the confercene itself. It it's anything like the start, it's
 **Updated** with more links
 
 
-Technorati Tags: [reboot7](http://technorati.com/tag/reboot7)
+Technorati Tags: [reboot7](https://technorati.com/tag/reboot7)

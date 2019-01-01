@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-10 17:09:49+00:00
 layout: post
-link: http://invisible.ch/2005/06/10/set-them-people-to-work/
+link: https://invisible.ch/2005/06/10/set-them-people-to-work/
 slug: set-them-people-to-work
 tags: ["blog"]
 title: set them people to work
@@ -40,4 +40,4 @@ Collaborative competitions. Tapping into the brain power of reboot participants.
 The mind boggles.
 
 
-Technorati Tags: [reboot7](http://technorati.com/tag/reboot7)
+Technorati Tags: [reboot7](https://technorati.com/tag/reboot7)

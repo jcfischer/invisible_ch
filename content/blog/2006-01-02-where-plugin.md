@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: false
 date: 2006-01-02 20:37:53+00:00
 layout: post
-link: http://invisible.ch/2006/01/02/where-plugin/
+link: https://invisible.ch/2006/01/02/where-plugin/
 slug: where-plugin
 tags: ["blog"]
 title: Where Plugin
@@ -43,7 +43,7 @@ or in a combined form:
     $ruby script/plugin discover
     $ruby script/plugin install -x where
 
-The subversion repository is located at [http://invisible.ch/svn/projects/plugins/where][3]
+The subversion repository is located at [https://invisible.ch/svn/projects/plugins/where][3]
 
 
 ## Usage
@@ -100,9 +100,9 @@ v. 0.2 (svn 36), 2.1.2006
 Comments, ideas etc. very welcome
 
 
-[1]: http://wiki.rubyonrails.com/rails/pages/Plugins
-[2]: http://brainspl.at/
-[3]: http://invisible.ch/svn/projects/plugins/where
+[1]: https://wiki.rubyonrails.com/rails/pages/Plugins
+[2]: https://brainspl.at/
+[3]: https://invisible.ch/svn/projects/plugins/where
 
 
-Technorati Tags: [rubyonrails](http://www.technorati.com/tag/rubyonrails), [sql](http://www.technorati.com/tag/sql)
+Technorati Tags: [rubyonrails](https://www.technorati.com/tag/rubyonrails), [sql](https://www.technorati.com/tag/sql)

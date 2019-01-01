@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-06-17 18:08:46+00:00
 layout: post
-link: http://invisible.ch/2007/06/17/when-the-outsourcers-outsource/
+link: https://invisible.ch/2007/06/17/when-the-outsourcers-outsource/
 slug: when-the-outsourcers-outsource
 tags: ["blog"]
 title: When the outsourcers outsource
@@ -20,4 +20,4 @@ I find it sad, that the off-shoring country no 1 is trying to off-shore their wo
 
 
 
-Technorati Tags: [offshoring](http://www.technorati.com/tag/offshoring), [outsourcing](http://www.technorati.com/tag/outsourcing)
+Technorati Tags: [offshoring](https://www.technorati.com/tag/offshoring), [outsourcing](https://www.technorati.com/tag/outsourcing)

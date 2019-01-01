@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-23 22:37:15+00:00
 layout: post
-link: http://invisible.ch/2003/05/23/domino-5-textfields-to-textareas/
+link: https://invisible.ch/2003/05/23/domino-5-textfields-to-textareas/
 slug: domino-5-textfields-to-textareas
 tags: ["blog"]
 title: Domino 5 -> Textfields to Textareas
@@ -16,7 +16,7 @@ One of the really cumbersome things in Domino development is the constant strugg
 
 Case in point: I have a textfield, but I want to let the user edit the text in a textarea. Domino only displays textareas for RichText fields - which is not at all what I want.
 
-On Notes.net there was a [partial solution](http://www-10.lotus.com/ldd/46dom.nsf/55c38d716d632d9b8525689b005ba1c0/d711e4fa7486fff385256b06004ffc5e?OpenDocument&Highlight=0,textf%3Feld,textarea)... 
+On Notes.net there was a [partial solution](https://www-10.lotus.com/ldd/46dom.nsf/55c38d716d632d9b8525689b005ba1c0/d711e4fa7486fff385256b06004ffc5e?OpenDocument&Highlight=0,textf%3Feld,textarea)... 
 
 Here's the complete one...
 <!-- more -->

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-03-01 16:12:40+00:00
 layout: post
-link: http://invisible.ch/2007/03/01/9-beet-stretch/
+link: https://invisible.ch/2007/03/01/9-beet-stretch/
 slug: 9-beet-stretch
 tags: ["blog"]
 title: 9 Beet Stretch
@@ -18,9 +18,9 @@ You get [9 Beet Stretch][1]. Interesting music!
 
 
 
-[1]: http://www.park.nl/park_cms/public/index.php?thisarticle=118
-[2]: http://en.wikipedia.org/wiki/Beethoven
-[3]: http://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)
+[1]: https://www.park.nl/park_cms/public/index.php?thisarticle=118
+[2]: https://en.wikipedia.org/wiki/Beethoven
+[3]: https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven)
 
 
-Technorati Tags: [music](http://www.technorati.com/tag/music), [beethoven](http://www.technorati.com/tag/beethoven)
+Technorati Tags: [music](https://www.technorati.com/tag/music), [beethoven](https://www.technorati.com/tag/beethoven)

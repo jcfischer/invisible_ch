@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2008-02-28 09:15:21+00:00
 layout: post
-link: http://invisible.ch/2008/02/28/toyota-prius-zu-verkaufen/
+link: https://invisible.ch/2008/02/28/toyota-prius-zu-verkaufen/
 slug: toyota-prius-zu-verkaufen
 tags: ["blog"]
 title: Toyota Prius zu verkaufen
@@ -39,4 +39,4 @@ Anschauen, Probefahren: 079 / 691 05 48
 
 
 
-Technorati Tags: [prius](http://www.technorati.com/tag/prius)
+Technorati Tags: [prius](https://www.technorati.com/tag/prius)

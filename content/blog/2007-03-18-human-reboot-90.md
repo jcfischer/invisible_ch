@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-03-18 22:35:26+00:00
 layout: post
-link: http://invisible.ch/2007/03/18/human-reboot-90/
+link: https://invisible.ch/2007/03/18/human-reboot-90/
 slug: human-reboot-90
 tags: ["blog"]
 title: human? - reboot 9.0
@@ -41,20 +41,20 @@ In this case, I'm happy to share a synced space on our common timeline. I'm look
 
 
 
-[1]: http://reboot.dk
-[2]: http://www.reboot.dk/person-765-en.html
-[3]: http://www.reboot.dk/person-456-en.html
-[4]: http://www.reboot.dk/person-671-en.html
-[5]: http://www.reboot.dk/person-561-en.html
-[6]: http://www.reboot.dk/person-300-en.html
-[7]: http://www.reboot.dk/person-590-en.html
-[8]: http://www.reboot.dk/person-474-en.html
-[9]: http://www.reboot.dk/person-662-en.html
-[10]: http://www.reboot.dk/person-508-en.html
-[11]: http://www.reboot.dk/person-416-en.html
-[12]: http://www.reboot.dk/person-471-en.html
-[13]: http://www.reboot.dk/person-653-en.html
+[1]: https://reboot.dk
+[2]: https://www.reboot.dk/person-765-en.html
+[3]: https://www.reboot.dk/person-456-en.html
+[4]: https://www.reboot.dk/person-671-en.html
+[5]: https://www.reboot.dk/person-561-en.html
+[6]: https://www.reboot.dk/person-300-en.html
+[7]: https://www.reboot.dk/person-590-en.html
+[8]: https://www.reboot.dk/person-474-en.html
+[9]: https://www.reboot.dk/person-662-en.html
+[10]: https://www.reboot.dk/person-508-en.html
+[11]: https://www.reboot.dk/person-416-en.html
+[12]: https://www.reboot.dk/person-471-en.html
+[13]: https://www.reboot.dk/person-653-en.html
 
 
 
-Technorati Tags: [keywords](http://www.technorati.com/tag/keywords), [reboot9](http://www.technorati.com/tag/reboot9), [social](http://www.technorati.com/tag/social), [synchronicity](http://www.technorati.com/tag/synchronicity)
+Technorati Tags: [keywords](https://www.technorati.com/tag/keywords), [reboot9](https://www.technorati.com/tag/reboot9), [social](https://www.technorati.com/tag/social), [synchronicity](https://www.technorati.com/tag/synchronicity)

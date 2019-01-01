@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-11-20 14:50:33+00:00
 layout: post
-link: http://invisible.ch/2003/11/20/interesting-things-happening-on-the-ai-front/
+link: https://invisible.ch/2003/11/20/interesting-things-happening-on-the-ai-front/
 slug: interesting-things-happening-on-the-ai-front
 tags: ["blog"]
 title: Interesting things happening on the AI front

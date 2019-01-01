@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-11-04 09:15:25+00:00
 layout: post
-link: http://invisible.ch/2006/11/04/back-from-rails-konferenzde/
+link: https://invisible.ch/2006/11/04/back-from-rails-konferenzde/
 slug: back-from-rails-konferenzde
 tags: ["blog"]
 title: Back from rails-konferenz.de
@@ -24,10 +24,10 @@ I had a chance to reconnect to people I met at [other][2] [conferences][3] and m
 
 All in all a great day, and I'm looking forward to the next installation. 
 
-[1]: http://www.rails-konferenz.de
-[2]: http://reboot.dk
-[3]: http://www.liftconference.com
+[1]: https://www.rails-konferenz.de
+[2]: https://reboot.dk
+[3]: https://www.liftconference.com
 
 
 
-Technorati Tags: [rails-konferenz.de](http://www.technorati.com/tag/rails-konferenz.de), [rubyonrails](http://www.technorati.com/tag/rubyonrails)
+Technorati Tags: [rails-konferenz.de](https://www.technorati.com/tag/rails-konferenz.de), [rubyonrails](https://www.technorati.com/tag/rubyonrails)

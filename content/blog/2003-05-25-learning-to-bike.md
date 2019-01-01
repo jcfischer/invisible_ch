@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-25 11:42:25+00:00
 layout: post
-link: http://invisible.ch/2003/05/25/learning-to-bike/
+link: https://invisible.ch/2003/05/25/learning-to-bike/
 slug: learning-to-bike
 tags: ["blog"]
 title: Learning to bike
@@ -20,4 +20,4 @@ It took him 15 minutes before he drove on his own, another 5 min to learn how to
 
 Lesson learnt: Don't try to save on getting the right stuff, it's not worth it.
 
-![34O90029.jpg](http://www.invisible.ch/images/34O90029.jpg)
+![34O90029.jpg](https://www.invisible.ch/images/34O90029.jpg)

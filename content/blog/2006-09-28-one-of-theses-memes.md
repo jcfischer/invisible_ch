@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-09-28 21:53:00+00:00
 layout: post
-link: http://invisible.ch/2006/09/28/one-of-theses-memes/
+link: https://invisible.ch/2006/09/28/one-of-theses-memes/
 slug: one-of-theses-memes
 tags: ["blog"]
 title: One of theses memes
@@ -28,7 +28,7 @@ Straight from my shell
 
 via [Anarchaia][1]
 
-[1]: http://anarchaia.org/archive/2006/09/28.html
+[1]: https://anarchaia.org/archive/2006/09/28.html
 
 
-Technorati Tags: [meme](http://www.technorati.com/tag/meme), [shell](http://www.technorati.com/tag/shell), [unix](http://www.technorati.com/tag/unix)
+Technorati Tags: [meme](https://www.technorati.com/tag/meme), [shell](https://www.technorati.com/tag/shell), [unix](https://www.technorati.com/tag/unix)

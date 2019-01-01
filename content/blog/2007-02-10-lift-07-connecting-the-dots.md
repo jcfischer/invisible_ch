@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-02-10 00:11:01+00:00
 layout: post
-link: http://invisible.ch/2007/02/10/lift-07-connecting-the-dots/
+link: https://invisible.ch/2007/02/10/lift-07-connecting-the-dots/
 slug: lift-07-connecting-the-dots
 tags: ["blog"]
 title: Lift 07 - connecting the dots
@@ -37,13 +37,13 @@ On the web however, things look differently. There are lot's of single applicati
 
 
 [1]: /2007/02/07/lift-07-workshops/
-[2]: http://www.liftconference.com/2007/people/participant/245
-[3]: http://www.hole-in-the-wall.com/
-[4]: http://thingamy.typepad.com/
-[5]: http://www.habbo.com
-[6]: http://en.wikipedia.org/wiki/IBM_Lotus_Notes
-[7]: http://en.wikipedia.org/wiki/Microsoft_Office_Groove
+[2]: https://www.liftconference.com/2007/people/participant/245
+[3]: https://www.hole-in-the-wall.com/
+[4]: https://thingamy.typepad.com/
+[5]: https://www.habbo.com
+[6]: https://en.wikipedia.org/wiki/IBM_Lotus_Notes
+[7]: https://en.wikipedia.org/wiki/Microsoft_Office_Groove
 
 
 
-Technorati Tags: [collaboration](http://www.technorati.com/tag/collaboration), [lift07](http://www.technorati.com/tag/lift07), [spaces](http://www.technorati.com/tag/spaces)
+Technorati Tags: [collaboration](https://www.technorati.com/tag/collaboration), [lift07](https://www.technorati.com/tag/lift07), [spaces](https://www.technorati.com/tag/spaces)

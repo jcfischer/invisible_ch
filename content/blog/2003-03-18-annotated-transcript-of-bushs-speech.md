@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-18 06:10:22+00:00
 layout: post
-link: http://invisible.ch/2003/03/18/annotated-transcript-of-bushs-speech/
+link: https://invisible.ch/2003/03/18/annotated-transcript-of-bushs-speech/
 slug: annotated-transcript-of-bushs-speech
 tags: ["blog"]
 title: Annotated transcript of Bush's speech
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 34
 ---
 
-I found this annotated speech of Bush over at [Back to Iraq](http://www.back-to-iraq.com) in the commentaries. A terrifiying read early in the morning...
+I found this annotated speech of Bush over at [Back to Iraq](https://www.back-to-iraq.com) in the commentaries. A terrifiying read early in the morning...
 
 
 

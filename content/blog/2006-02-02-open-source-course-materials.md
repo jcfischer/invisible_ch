@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-02-02 15:28:37+00:00
 layout: post
-link: http://invisible.ch/2006/02/02/open-source-course-materials/
+link: https://invisible.ch/2006/02/02/open-source-course-materials/
 slug: open-source-course-materials
 tags: ["blog"]
 title: Open Source Course Materials
@@ -24,8 +24,8 @@ Today I attended a talk by [Cory Doctorow][2] who talked on "Digital Restriction
 Would the same hold true for sharing course materials? Would someone steal it? What are the things speaking for this idea, what is against it? What are your thoughts?
 
 
-[1]: http://www.invisible.ch/static/47/rubyonrailstraining
-[2]: http://www.craphound.com
+[1]: https://www.invisible.ch/static/47/rubyonrailstraining
+[2]: https://www.craphound.com
 
 
-Technorati Tags: [lift06](http://www.technorati.com/tag/lift06), [opensource](http://www.technorati.com/tag/opensource), [rubyonrails](http://www.technorati.com/tag/rubyonrails), [schulung](http://www.technorati.com/tag/schulung), [training](http://www.technorati.com/tag/training)
+Technorati Tags: [lift06](https://www.technorati.com/tag/lift06), [opensource](https://www.technorati.com/tag/opensource), [rubyonrails](https://www.technorati.com/tag/rubyonrails), [schulung](https://www.technorati.com/tag/schulung), [training](https://www.technorati.com/tag/training)

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-10 16:27:59+00:00
 layout: post
-link: http://invisible.ch/2005/11/10/tweakfest-net-art-generation/
+link: https://invisible.ch/2005/11/10/tweakfest-net-art-generation/
 slug: tweakfest-net-art-generation
 tags: ["blog"]
 title: Tweakfest - Net Art Generation
@@ -17,7 +17,7 @@ Cornelia Sollfrank, Netzkunstlerin
 
 
 
-[Net.Art Generator](http://soundwarez.org/generator)
+[Net.Art Generator](https://soundwarez.org/generator)
 
 
 
@@ -69,4 +69,4 @@ Der ganze Prozess von Herstellung, Generierung, Speicherung, Herunterladen, Auss
 
 
 
-Technorati Tags: [kreativ](http://technorati.com/tag/kreativ), [remix](http://technorati.com/tag/remix), [tweakfest05](http://technorati.com/tag/tweakfest05)
+Technorati Tags: [kreativ](https://technorati.com/tag/kreativ), [remix](https://technorati.com/tag/remix), [tweakfest05](https://technorati.com/tag/tweakfest05)

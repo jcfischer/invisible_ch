@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-18 19:17:15+00:00
 layout: post
-link: http://invisible.ch/2013/02/18/79-ein-wetter-um-helden-zu-zeugen/
+link: https://invisible.ch/2013/02/18/79-ein-wetter-um-helden-zu-zeugen/
 slug: 79-ein-wetter-um-helden-zu-zeugen
 tags: ["blog"]
 title: 79 - Ein Wetter um Helden zu zeugen

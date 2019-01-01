@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-04-23 05:55:14+00:00
 layout: post
-link: http://invisible.ch/2005/04/23/the-nsa-secures-your-computer/
+link: https://invisible.ch/2005/04/23/the-nsa-secures-your-computer/
 slug: the-nsa-secures-your-computer
 tags: ["blog"]
 title: The NSA secures your computer
@@ -21,9 +21,9 @@ Very interesting reading!
 
 
 
-[Operating System Security](http://www.nsa.gov/snac/downloads_os.cfm?MenuID=scg10.3.1.1)
+[Operating System Security](https://www.nsa.gov/snac/downloads_os.cfm?MenuID=scg10.3.1.1)
 
 
 
-[via [vowe](http://vowe.net/archives/005814.html)]
+[via [vowe](https://vowe.net/archives/005814.html)]
 

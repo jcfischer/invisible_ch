@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-05-03 11:54:15+00:00
 layout: post
-link: http://invisible.ch/2005/05/03/isyncing-with-the-nokia-9500/
+link: https://invisible.ch/2005/05/03/isyncing-with-the-nokia-9500/
 slug: isyncing-with-the-nokia-9500
 tags: ["blog"]
 title: iSyncing with the Nokia 9500
@@ -13,11 +13,11 @@ wordpress_id: 406
 ---
 
 
-After reading a bit about iSync & Tiger at [vowe](http://vowe.net/archives/005835.html), I decided to give the [solution outlined](http://www.macosxhints.com/article.php?story=20050422125043439) a try. However, I managed only to create a Kernel Exception on the phone, and to wipe out all my calendar entries.
+After reading a bit about iSync & Tiger at [vowe](https://vowe.net/archives/005835.html), I decided to give the [solution outlined](https://www.macosxhints.com/article.php?story=20050422125043439) a try. However, I managed only to create a Kernel Exception on the phone, and to wipe out all my calendar entries.
 
 
 
-Yes, I had a backup (through the excellent [mobical.net](http://www.mobical.net) service, which allows to sync the phone (and a lot of others) through GPRS.
+Yes, I had a backup (through the excellent [mobical.net](https://www.mobical.net) service, which allows to sync the phone (and a lot of others) through GPRS.
 
 
 
@@ -37,10 +37,10 @@ So I did, what every reasonable sane person in the same situation would do:
   * Backup the phone through the Nokia PCSuite on my Dell Laptop
 
 
-  * Perform a [factory reset](http://www.allaboutsymbian.com/forum/showthread.php?t=36358) on the Nokia 9500
+  * Perform a [factory reset](https://www.allaboutsymbian.com/forum/showthread.php?t=36358) on the Nokia 9500
 
 
-  * Re-Do the steps as outlined in the [macosxhints article](http://www.macosxhints.com/article.php?story=20050422125043439)
+  * Re-Do the steps as outlined in the [macosxhints article](https://www.macosxhints.com/article.php?story=20050422125043439)
 
 
 
@@ -48,4 +48,4 @@ So I did, what every reasonable sane person in the same situation would do:
 Presto - syncing of calendar entries and addresses is now working. My Nokia 9500 got a spring cleaning and I can re-install those applications that are really necessary (Which it turns out, is quite a small number of applications)
 
 
-Technorati Tags: [mac](http://technorati.com/tag/mac)
+Technorati Tags: [mac](https://technorati.com/tag/mac)

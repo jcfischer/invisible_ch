@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-04-06 21:08:21+00:00
 layout: post
-link: http://invisible.ch/2013/04/06/32-frank-doran-shihan/
+link: https://invisible.ch/2013/04/06/32-frank-doran-shihan/
 slug: 32-frank-doran-shihan
 tags: ["blog"]
 title: 32 - frank doran shihan
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 12806
 ---
 
-Incredible to not only see, but to work with [Frank Doran Shihan](http://en.wikipedia.org/wiki/Frank_Doran_(aikido)), who is in Zurich the 25th time. It's enlightening seeing a man that is 80 years old have so much energy and presence on the mat, with humour and joy.
+Incredible to not only see, but to work with [Frank Doran Shihan](https://en.wikipedia.org/wiki/Frank_Doran_(aikido)), who is in Zurich the 25th time. It's enlightening seeing a man that is 80 years old have so much energy and presence on the mat, with humour and joy.
 
 
 

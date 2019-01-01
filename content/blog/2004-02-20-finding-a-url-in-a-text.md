@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-02-20 10:13:49+00:00
 layout: post
-link: http://invisible.ch/2004/02/20/finding-a-url-in-a-text/
+link: https://invisible.ch/2004/02/20/finding-a-url-in-a-text/
 slug: finding-a-url-in-a-text
 tags: ["blog"]
 title: Finding a URL in a text
@@ -12,9 +12,9 @@ type: post
 wordpress_id: 252
 ---
 
-**How do you find a URL in a normal text and turn it into a HTML link using regular expressions?** That was the challenge I faced recently. Oh - and of course not only well formed url's (with the http:// in front of them, but any kind of url.
+**How do you find a URL in a normal text and turn it into a HTML link using regular expressions?** That was the challenge I faced recently. Oh - and of course not only well formed url's (with the https:// in front of them, but any kind of url.
 
-Why invent something, when there's google to search? I found [Ben Forta's "How to match a URL"](http://www.forta.com/blog/index.cfm?mode=e&entry=992) but unfortunately it was way to forgiving in what it parsed, so I had to expand it a bit. Here are the results of a couple of hours of labor:
+Why invent something, when there's google to search? I found [Ben Forta's "How to match a URL"](https://www.forta.com/blog/index.cfm?mode=e&entry=992) but unfortunately it was way to forgiving in what it parsed, so I had to expand it a bit. Here are the results of a couple of hours of labor:
 **UPDATE:** There was a nasty bug, that truncated all urls where the host started with the letters of one of the TLD's to the reminder ... _www.invisible.ch_ got truncated to _visible.ch_. The code below is corrected and simplified a bit (removed a couple of unneeded groups)
 `
 ([\s]|^|<p>)
@@ -43,7 +43,7 @@ Let's dissect this monster a bit, to see how it works:
 Here we are looking for the beginning of the expression: Either a whitespace character (the [\s]) or the beginning of the line ( ^ ) or an opening paragraph tag ( <p;> ). If something matches this expression, it is stored in group number 1 ($1) for the replacmenet later.
 
 `(https?://)?`
-Next we are looking for the http scheme. The ? after the s means, either one or none of the preceding characters (which is the "s"). This part matches both "http://" and "https://". The question mark after the bracket group means either one or none of the following, making the scheme optional. 
+Next we are looking for the http scheme. The ? after the s means, either one or none of the preceding characters (which is the "s"). This part matches both "https://" and "https://". The question mark after the bracket group means either one or none of the following, making the scheme optional. 
 
 `(([\w]+?[-\w\.]+?\.)+`
 This part matches the host name and -- if found -- stores it in a numbered group. A host must start with a word character ( [\w]. We continue to match on word characters ( +? ). Because both "-" and "." are allowed in host names, we then expand the match to include these two characters ( [-\w\.]+? ) and match as long as we can. The whole group must at least match once.

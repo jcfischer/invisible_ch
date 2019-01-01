@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-20 13:10:06+00:00
 layout: post
-link: http://invisible.ch/2003/03/20/tyranny-of-email-and-warping/
+link: https://invisible.ch/2003/03/20/tyranny-of-email-and-warping/
 slug: tyranny-of-email-and-warping
 tags: ["blog"]
 title: Tyranny of email - and warping
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 40
 ---
 
-Thanks to [Ned](http://www.nedbatchelder.com/blog/) for sharing this link to [The Tyranny of email](http://w-uh.com/index.cgi/articles/030308-tyranny_of_email.html). It contains some good thought - like the three hour rule:
+Thanks to [Ned](https://www.nedbatchelder.com/blog/) for sharing this link to [The Tyranny of email](https://w-uh.com/index.cgi/articles/030308-tyranny_of_email.html). It contains some good thought - like the three hour rule:
 
 
 

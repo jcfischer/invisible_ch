@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-09-15 15:07:28+00:00
 layout: post
-link: http://invisible.ch/2006/09/15/auf-zur-rails-konferenz/
+link: https://invisible.ch/2006/09/15/auf-zur-rails-konferenz/
 slug: auf-zur-rails-konferenz
 tags: ["blog"]
 title: Auf zur Rails-Konferenz
@@ -16,8 +16,8 @@ wordpress_id: 554
 
 Ich wurde mich freuen, einige von euch dort zu sehen.
 
-[1]: http://www.rails-konferenz.de/
-[2]: http://www.rails-konferenz.de/redner/jens-christian-fischer/
+[1]: https://www.rails-konferenz.de/
+[2]: https://www.rails-konferenz.de/redner/jens-christian-fischer/
 
 
-Technorati Tags: [conference](http://www.technorati.com/tag/conference), [rails-konferenz.de](http://www.technorati.com/tag/rails-konferenz.de), [rails](http://www.technorati.com/tag/rails)
+Technorati Tags: [conference](https://www.technorati.com/tag/conference), [rails-konferenz.de](https://www.technorati.com/tag/rails-konferenz.de), [rails](https://www.technorati.com/tag/rails)

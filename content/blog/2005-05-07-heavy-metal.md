@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-05-07 20:46:52+00:00
 layout: post
-link: http://invisible.ch/2005/05/07/heavy-metal/
+link: https://invisible.ch/2005/05/07/heavy-metal/
 slug: heavy-metal
 tags: ["blog"]
 title: Heavy Metal
@@ -17,7 +17,7 @@ Because we moved our TV from our home to our vacation flat, the only way to watc
 
 
 
-Like the documentary on the "[Eirik Raude](http://www.ocean-rig.com/default.asp?fid=1030)", a mobile oil rig. Seeing how this gigantic piece of machinery is being constructed and built is amazing. Many ten-thousand tons of metal that are swimming, not tethered. It's computer controlled 6 rudders can keep the colossus in a position of +/- meters in any kind of weather, with a drill reaching down 3000 meters through the ocean.
+Like the documentary on the "[Eirik Raude](https://www.ocean-rig.com/default.asp?fid=1030)", a mobile oil rig. Seeing how this gigantic piece of machinery is being constructed and built is amazing. Many ten-thousand tons of metal that are swimming, not tethered. It's computer controlled 6 rudders can keep the colossus in a position of +/- meters in any kind of weather, with a drill reaching down 3000 meters through the ocean.
 
 
 
@@ -28,4 +28,4 @@ Seeing what kind of difficult problems had to be solved to make this rig work is
 Inspiring!
 
 
-Technorati Tags: [engineering](http://technorati.com/tag/engineering)
+Technorati Tags: [engineering](https://technorati.com/tag/engineering)

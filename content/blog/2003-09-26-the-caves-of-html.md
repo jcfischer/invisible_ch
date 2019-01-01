@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-26 13:27:48+00:00
 layout: post
-link: http://invisible.ch/2003/09/26/the-caves-of-html/
+link: https://invisible.ch/2003/09/26/the-caves-of-html/
 slug: the-caves-of-html
 tags: ["blog"]
 title: The Caves of HTML
@@ -22,4 +22,4 @@ You can't do that now.</blockquote>
 
 
 
-[Welcome to the caves of HTML](http://gutfeldt.ch/matthias/blog/singleblog.php?entry=1064454714)
+[Welcome to the caves of HTML](https://gutfeldt.ch/matthias/blog/singleblog.php?entry=1064454714)

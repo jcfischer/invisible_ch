@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2009-04-29 21:38:38+00:00
 layout: post
-link: http://invisible.ch/2009/04/29/amazon-s3-heroku-and-the-paperclipped-assets-manager-for-radiant/
+link: https://invisible.ch/2009/04/29/amazon-s3-heroku-and-the-paperclipped-assets-manager-for-radiant/
 slug: amazon-s3-heroku-and-the-paperclipped-assets-manager-for-radiant
 tags: ["blog"]
 title: Amazon S3, Heroku and the Paperclipped Assets Manager for Radiant
@@ -12,11 +12,11 @@ type: post
 wordpress_id: 703
 ---
 
-Well this is my first post since joining Jens-Christian and Daniela here at InVisible, but the topic is an old one. About a year ago I released the [Paperclipped Assets manager](http://github.com/kbingman/paperclipped/tree/master) for Radiant, which started rather slowly, but has recently taken off and become quite popular. Thanks to the magic of [github](http://github.com), I have received numerous patches and improvements and it has begun to take shape. 
+Well this is my first post since joining Jens-Christian and Daniela here at InVisible, but the topic is an old one. About a year ago I released the [Paperclipped Assets manager](https://github.com/kbingman/paperclipped/tree/master) for Radiant, which started rather slowly, but has recently taken off and become quite popular. Thanks to the magic of [github](https://github.com), I have received numerous patches and improvements and it has begun to take shape. 
 
-With last week's announcement of pricing by [Heroku](http://heroku.com) and their recent blog about installing Radiant, I decided to give it a try. And, much to my surprise it works really well. Getting used to the read-only file system is certainly something new, but it is surprisely easy and very fast. I love being able to push and pull the database at will, which for small sites in Radiant is a real must to keep everything in sync. 
+With last week's announcement of pricing by [Heroku](https://heroku.com) and their recent blog about installing Radiant, I decided to give it a try. And, much to my surprise it works really well. Getting used to the read-only file system is certainly something new, but it is surprisely easy and very fast. I love being able to push and pull the database at will, which for small sites in Radiant is a real must to keep everything in sync. 
 
-But of course, Paperclipped no longer worked. It uses the file system by default, which just doesn't work in a read only world. But [Paperclip](http://github.com/thoughtbot/paperclip/tree/master), the wonderful plugin by [Thoughtbot](http://thoughtbot.com/) that powers it all supports S3 out of the box. I had used it before with no problems and modfying the extension proved to be very easy. 
+But of course, Paperclipped no longer worked. It uses the file system by default, which just doesn't work in a read only world. But [Paperclip](https://github.com/thoughtbot/paperclip/tree/master), the wonderful plugin by [Thoughtbot](https://thoughtbot.com/) that powers it all supports S3 out of the box. I had used it before with no problems and modfying the extension proved to be very easy. 
 
 Everything works as before, but now if you want to add S3 support, you simply set the storage setting to "s3". 
 
@@ -26,7 +26,7 @@ Everything works as before, but now if you want to add S3 support, you simply se
 
 
  
-Then add 3 new settings with your Amazon credentials, either in the console or with the [Settings](http://github.com/Squeegy/radiant-settings/tree/master) extension:
+Then add 3 new settings with your Amazon credentials, either in the console or with the [Settings](https://github.com/Squeegy/radiant-settings/tree/master) extension:
 
 
     
@@ -64,7 +64,7 @@ But that is not quite ready for prime time...
 
 Again thanks for all the patches and please keep them coming. 
 
-And for those of you going to the RailsConf next week, I will be hosting a [Birds of a Feather](http://en.oreilly.com/rails2009/public/schedule/detail/9204) session on Tuesday at 8:30pm. Hope to see you there!
+And for those of you going to the RailsConf next week, I will be hosting a [Birds of a Feather](https://en.oreilly.com/rails2009/public/schedule/detail/9204) session on Tuesday at 8:30pm. Hope to see you there!
 
 Keith
 

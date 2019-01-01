@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-10-27 19:21:36+00:00
 layout: post
-link: http://invisible.ch/2011/10/27/for-purely-scientific-reasons-another-reshare/
+link: https://invisible.ch/2011/10/27/for-purely-scientific-reasons-another-reshare/
 slug: for-purely-scientific-reasons-another-reshare
 tags: ["blog"]
 title: For purely scientific reasons - another reshare...
@@ -27,4 +27,4 @@ So please, everyone reshare.
 
   
   
-_Post imported by Google+Blog.  Created By [Daniel Treadwell](http://minimali.se/)._
+_Post imported by Google+Blog.  Created By [Daniel Treadwell](https://minimali.se/)._

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-04-02 21:00:06+00:00
 layout: post
-link: http://invisible.ch/2013/04/02/36-another-day-another-mobino-ios-app-released/
+link: https://invisible.ch/2013/04/02/36-another-day-another-mobino-ios-app-released/
 slug: 36-another-day-another-mobino-ios-app-released
 tags: ["blog"]
 title: 36 - another day, another Mobino iOS app released
@@ -16,4 +16,4 @@ We had released the first (of many) updates to our Mobino iOS app over a month a
 
 While it can be [frustrating to only seemingly taking baby steps](/2013/01/30/98-details/), it is totally satisfying to see people use the app for the first time, sail through the sign up process without problems, and even comment on the slickness.
 
-So - if you haven't yet - go and check out the current version of the [Mobino app](http://mobino.com/app). (also - of course - available with the same loving attention to details on Android)
+So - if you haven't yet - go and check out the current version of the [Mobino app](https://mobino.com/app). (also - of course - available with the same loving attention to details on Android)

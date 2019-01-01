@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-10-22 13:58:52+00:00
 layout: post
-link: http://invisible.ch/2005/10/22/brief-an-emi-wegen-un-cd/
+link: https://invisible.ch/2005/10/22/brief-an-emi-wegen-un-cd/
 slug: brief-an-emi-wegen-un-cd
 tags: ["blog"]
 title: Brief an EMI wegen Un-CD
@@ -63,4 +63,4 @@ Bin auf die Antwort gespannt.
 
 
 
-Technorati Tags: [copycontrol](http://technorati.com/tag/copycontrol), [emi](http://technorati.com/tag/emi), [mac](http://technorati.com/tag/mac), [music](http://technorati.com/tag/music), [drm](http://technorati.com/tag/drm)
+Technorati Tags: [copycontrol](https://technorati.com/tag/copycontrol), [emi](https://technorati.com/tag/emi), [mac](https://technorati.com/tag/mac), [music](https://technorati.com/tag/music), [drm](https://technorati.com/tag/drm)

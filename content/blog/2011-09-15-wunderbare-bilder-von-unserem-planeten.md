@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-09-15 07:58:26+00:00
 layout: post
-link: http://invisible.ch/2011/09/15/wunderbare-bilder-von-unserem-planeten/
+link: https://invisible.ch/2011/09/15/wunderbare-bilder-von-unserem-planeten/
 slug: wunderbare-bilder-von-unserem-planeten
 tags: ["blog"]
 title: Wunderbare Bilder von unserem Planeten...
@@ -27,4 +27,4 @@ _(Ein Video, dass meine Kolleginnen für das On Board-Entertainment der Lufthans
 
   
   
-_Post imported by Google+Blog.  Created By [Daniel Treadwell](http://minimali.se/)._
+_Post imported by Google+Blog.  Created By [Daniel Treadwell](https://minimali.se/)._

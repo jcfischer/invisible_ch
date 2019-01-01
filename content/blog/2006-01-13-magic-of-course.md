@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-01-13 06:10:58+00:00
 layout: post
-link: http://invisible.ch/2006/01/13/magic-of-course/
+link: https://invisible.ch/2006/01/13/magic-of-course/
 slug: magic-of-course
 tags: ["blog"]
 title: Magic? Of Course
@@ -35,4 +35,4 @@ There's a extension to this. I have been using computers for well over 20 years 
 
 
 
-Technorati Tags: [living](http://www.technorati.com/tag/living), [magic](http://www.technorati.com/tag/magic)
+Technorati Tags: [living](https://www.technorati.com/tag/living), [magic](https://www.technorati.com/tag/magic)

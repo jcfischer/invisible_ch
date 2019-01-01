@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-10 14:06:23+00:00
 layout: post
-link: http://invisible.ch/2005/11/10/tweakfest-open-source-is-not-enough/
+link: https://invisible.ch/2005/11/10/tweakfest-open-source-is-not-enough/
 slug: tweakfest-open-source-is-not-enough
 tags: ["blog"]
 title: Tweakfest - Open Source is not enough
@@ -35,4 +35,4 @@ Again this resonates with things said yesterday by Bruce Sterling and discussed 
 
 
 
-Technorati Tags: [freedom](http://technorati.com/tag/freedom), [free](http://technorati.com/tag/free), [tweakfest05](http://technorati.com/tag/tweakfest05)
+Technorati Tags: [freedom](https://technorati.com/tag/freedom), [free](https://technorati.com/tag/free), [tweakfest05](https://technorati.com/tag/tweakfest05)

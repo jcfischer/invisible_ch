@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-03-23 06:49:55+00:00
 layout: post
-link: http://invisible.ch/2007/03/23/joyent-slingshot/
+link: https://invisible.ch/2007/03/23/joyent-slingshot/
 slug: joyent-slingshot
 tags: ["blog"]
 title: Joyent Slingshot
@@ -22,8 +22,8 @@ Now [Joyent][1] have announced [Slingshot][2] and it seems, that at least parts 
 
 Kudos to the Joyfolks for tackling this!
 
-[1]: http://www.joyent.com
-[2]: http://joyeur.com/2007/03/22/joyent-slingshot
+[1]: https://www.joyent.com
+[2]: https://joyeur.com/2007/03/22/joyent-slingshot
 
 
-Technorati Tags: [joyent](http://www.technorati.com/tag/joyent), [offline](http://www.technorati.com/tag/offline), [replication](http://www.technorati.com/tag/replication), [rubyonrails](http://www.technorati.com/tag/rubyonrails), [slingshot](http://www.technorati.com/tag/slingshot)
+Technorati Tags: [joyent](https://www.technorati.com/tag/joyent), [offline](https://www.technorati.com/tag/offline), [replication](https://www.technorati.com/tag/replication), [rubyonrails](https://www.technorati.com/tag/rubyonrails), [slingshot](https://www.technorati.com/tag/slingshot)

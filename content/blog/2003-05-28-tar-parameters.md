@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-28 10:53:46+00:00
 layout: post
-link: http://invisible.ch/2003/05/28/tar-parameters/
+link: https://invisible.ch/2003/05/28/tar-parameters/
 slug: tar-parameters
 tags: ["blog"]
 title: TAR parameters
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 98
 ---
 
-This [list of TAR parameters](http://vowe.net/archives/003353.html) comes in really handy.... thanks [vowe](http://vowe.net)
+This [list of TAR parameters](https://vowe.net/archives/003353.html) comes in really handy.... thanks [vowe](https://vowe.net)
 <!-- more -->
 tar.gz -> -xvzf 
 tar.bz2 -> -xvjf

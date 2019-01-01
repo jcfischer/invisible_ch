@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-08-09 13:10:59+00:00
 layout: post
-link: http://invisible.ch/2005/08/09/sqlite3-on-mac-os-x-trials-and-tribulations/
+link: https://invisible.ch/2005/08/09/sqlite3-on-mac-os-x-trials-and-tribulations/
 slug: sqlite3-on-mac-os-x-trials-and-tribulations
 tags: ["blog"]
 title: sqlite3 on Mac OS X -- trials and tribulations
@@ -13,7 +13,7 @@ wordpress_id: 445
 ---
 
 
-For an upcoming Rails project, the plan is to [use ](http://wiki.rubyonrails.com/rails/show/HowtoUseSQLite)the [sqlite](http://sqlite.org/) database. On  Windows, the whole process of getting this installed was easy. Download the DLL, do a gem install sqlite3& and be done.
+For an upcoming Rails project, the plan is to [use ](https://wiki.rubyonrails.com/rails/show/HowtoUseSQLite)the [sqlite](https://sqlite.org/) database. On  Windows, the whole process of getting this installed was easy. Download the DLL, do a gem install sqlite3& and be done.
 
 
 
@@ -33,7 +33,7 @@ I end up with this error message:
 
 
 
-some [googling later](http://www.google.com/search?hl=de&client=safari&rls=de-de&q=mac+file%3A+-lSystem+is+not+an+object+file+%28not+allowed+in+a+library%29&btnG=Suche&lr=), it [seems to be related](http://gentoo-wiki.com/Gentoo_MacOS) to wrong file permissions, so I repair the volumes file permissions (using the Mac Disc Utility). Re-running "make" yields the same error message.
+some [googling later](https://www.google.com/search?hl=de&client=safari&rls=de-de&q=mac+file%3A+-lSystem+is+not+an+object+file+%28not+allowed+in+a+library%29&btnG=Suche&lr=), it [seems to be related](https://gentoo-wiki.com/Gentoo_MacOS) to wrong file permissions, so I repair the volumes file permissions (using the Mac Disc Utility). Re-running "make" yields the same error message.
 
 
 
@@ -55,4 +55,4 @@ To be continued
 
 
 
-Technorati Tags: [mac](http://technorati.com/tag/mac), [rails](http://technorati.com/tag/rails), [sqlite](http://technorati.com/tag/sqlite)
+Technorati Tags: [mac](https://technorati.com/tag/mac), [rails](https://technorati.com/tag/rails), [sqlite](https://technorati.com/tag/sqlite)

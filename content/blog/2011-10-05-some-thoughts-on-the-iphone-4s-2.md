@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-10-05 08:19:39+00:00
 layout: post
-link: http://invisible.ch/2011/10/05/some-thoughts-on-the-iphone-4s-2/
+link: https://invisible.ch/2011/10/05/some-thoughts-on-the-iphone-4s-2/
 slug: some-thoughts-on-the-iphone-4s-2
 tags: ["blog"]
 title: Some thoughts on the iPhone 4S
@@ -41,4 +41,4 @@ And by slowing down the pace of introducing new products constantly (as their co
 
   
   
-_Post imported by Google+Blog.  Created By [Daniel Treadwell](http://minimali.se/)._
+_Post imported by Google+Blog.  Created By [Daniel Treadwell](https://minimali.se/)._

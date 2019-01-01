@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-06 07:51:35+00:00
 layout: post
-link: http://invisible.ch/2013/03/06/63-learning-with-a-beginners-mind/
+link: https://invisible.ch/2013/03/06/63-learning-with-a-beginners-mind/
 slug: 63-learning-with-a-beginners-mind
 tags: ["blog"]
 title: 63 - learning with a beginners mind
@@ -14,7 +14,7 @@ wordpress_id: 12622
 
 The Coursera [Songwriting](https://www.coursera.org/course/songwriting) and [Music Production](https://www.coursera.org/course/musicproduction) classes I'm taking are being discussed over on the Justinguitar forums.
 
-Here's the text I [wrote as an answer to the bitching about the courses being all wrong, shallow](http://justinguitarcommunity.com/index.php?topic=31803.msg265240#msg265240), etc...
+Here's the text I [wrote as an answer to the bitching about the courses being all wrong, shallow](https://justinguitarcommunity.com/index.php?topic=31803.msg265240#msg265240), etc...
 
 I'm taking both the music production and the songwriting class, and so far have been enjoying them (each in their different way). I have been dabbling with audio for 30 or so years, but even so I have still learnt quite a bit on the basics and a few new things that weren't obvious to me. I am working on a video presentation of how to record an acoustic guitar and I have learnt how different polarities of my mic (cardiod, omnidirectional, stereo) sound (by actually trying them and recording some stuff with that setting). I have learnt more about iMovie and syncing of video and music than I cared for (and I have learnt that iMovie probably isn't the right tool for that kind of video production). Is it strictly about music production what I have learnt? No. Have I learnt something? Yes.
 

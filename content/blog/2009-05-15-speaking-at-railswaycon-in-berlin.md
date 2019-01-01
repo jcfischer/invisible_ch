@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2009-05-15 07:20:25+00:00
 layout: post
-link: http://invisible.ch/2009/05/15/speaking-at-railswaycon-in-berlin/
+link: https://invisible.ch/2009/05/15/speaking-at-railswaycon-in-berlin/
 slug: speaking-at-railswaycon-in-berlin
 tags: ["blog"]
 title: Speaking at RailsWayCon in Berlin
@@ -21,8 +21,8 @@ See the complete [Schedule][3]. I'm looking forward to seeing a lot of good pres
 There still are tickets available, be sure to check out the discounts for students and freelancers over at the [registration page][4]
 
 
-[1]: http://it-republik.de/conferences/railswaycon/
-[2]: http://cukes.info
-[3]: http://it-republik.de/konferenzen/planer/railswaycon_timetable.html
+[1]: https://it-republik.de/conferences/railswaycon/
+[2]: https://cukes.info
+[3]: https://it-republik.de/konferenzen/planer/railswaycon_timetable.html
 [4]: https://www.entwickler.com/ssl/formtool/index.php?id=18〈=en
 

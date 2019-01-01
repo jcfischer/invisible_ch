@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-10-13 15:17:07+00:00
 layout: post
-link: http://invisible.ch/2011/10/13/getting-a-java-jax-ws-service-created-with-intellij-10-5/
+link: https://invisible.ch/2011/10/13/getting-a-java-jax-ws-service-created-with-intellij-10-5/
 slug: getting-a-java-jax-ws-service-created-with-intellij-10-5
 tags: ["blog"]
 title: Getting a Java JAX-WS service created with IntelliJ 10.5
@@ -43,4 +43,4 @@ Compile, deploy - wonder why you are doing this in Java instead of better enviro
 
   
   
-_Post imported by Google+Blog.  Created By [Daniel Treadwell](http://minimali.se/)._
+_Post imported by Google+Blog.  Created By [Daniel Treadwell](https://minimali.se/)._

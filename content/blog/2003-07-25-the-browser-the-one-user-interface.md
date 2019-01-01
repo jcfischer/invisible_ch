@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-07-25 07:40:21+00:00
 layout: post
-link: http://invisible.ch/2003/07/25/the-browser-the-one-user-interface/
+link: https://invisible.ch/2003/07/25/the-browser-the-one-user-interface/
 slug: the-browser-the-one-user-interface
 tags: ["blog"]
 title: The browser - the one user interface?
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 132
 ---
 
-Tim Bray makes a case for not being a "sharecropper" and [developing for the browser only](http://www.tbray.org/ongoing/When/200x/2003/07/12/WebsThePlace) or rather - to code to open standards, XML, RPC etc. and so on. 
+Tim Bray makes a case for not being a "sharecropper" and [developing for the browser only](https://www.tbray.org/ongoing/When/200x/2003/07/12/WebsThePlace) or rather - to code to open standards, XML, RPC etc. and so on. 
 I agree 100% - that's a good thing to do. But he makes the case, that the browser is the best thing that happened to interface design and application design since sliced bread:
 
 
@@ -46,6 +46,6 @@ So what is the right way to do things?
 I don't think there's a clear black/white answer. The browser is great for a lot of things - and for information retrieval it's great. But as soon as interaction is involved - more than casual interaction that is - the browser starts to suck. 
 If you don't want it to suck, then you have to develop applications in HTML - which certainly is possible, but leads to the problems mentioned above.
 I'm not arguing that everybody should use VB or the .NET-du-jour tool or do everything in Java. But there are areas of interaction with data in the browsing - database interaction - content creation continuum that benefit from a FAT client (like Notes).
-There are of course exceptional browser based application: I discovered [Oddpost](http://www.oddpost.com/) a while ago, last I week I stumbled on [Convea](http://www.convea.com/) - beautiful applications that are so far away from being "browser" that it's scary. But then - look at the effort it takes to get to that stage. Hmm - or maybe that's the point? Maybe it is easier to code a web based application like Convea in DHTML and ASP and Javascript then to write an Outlook clone in C++? 
+There are of course exceptional browser based application: I discovered [Oddpost](https://www.oddpost.com/) a while ago, last I week I stumbled on [Convea](https://www.convea.com/) - beautiful applications that are so far away from being "browser" that it's scary. But then - look at the effort it takes to get to that stage. Hmm - or maybe that's the point? Maybe it is easier to code a web based application like Convea in DHTML and ASP and Javascript then to write an Outlook clone in C++? 
 
 Let me take some time to think about that....

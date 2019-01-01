@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-04-29 21:37:20+00:00
 layout: post
-link: http://invisible.ch/2013/04/29/12-improvisation/
+link: https://invisible.ch/2013/04/29/12-improvisation/
 slug: 12-improvisation
 tags: ["blog"]
 title: 12 - improvisation
@@ -14,7 +14,7 @@ wordpress_id: 12876
 
 (Yes, gentle reader, I missed  a post yesterday - again! As these 100 days draw to a close, I find it more and more difficult to bring up the necessary quiet time to sit down and write and also I don't have the urge anymore to write something while totally tired and bleary eyed... It is going to be interesting to see, what cadence in blogging I will reach when in 12 days, when the experiment has ended...)
 
-In the meantime, the next Coursera course has started: [Introduction to Improvisation](https://www.coursera.org/course/improvisation) taught by [Gary Burton](http://en.wikipedia.org/wiki/Gary_Burton). I have watched the first weeks worth of videos and was quietly disappointed by the lack of teachings about improvisation. Gary spoke about online course, how to do assignments, lots of logistics but only a few minutes on what he thinks is important in improvising.
+In the meantime, the next Coursera course has started: [Introduction to Improvisation](https://www.coursera.org/course/improvisation) taught by [Gary Burton](https://en.wikipedia.org/wiki/Gary_Burton). I have watched the first weeks worth of videos and was quietly disappointed by the lack of teachings about improvisation. Gary spoke about online course, how to do assignments, lots of logistics but only a few minutes on what he thinks is important in improvising.
 
 But then the assignments came: Analyse a solo by Gary over "What is this thing called love"
 

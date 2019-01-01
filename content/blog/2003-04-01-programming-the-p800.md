@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-04-01 17:10:12+00:00
 layout: post
-link: http://invisible.ch/2003/04/01/programming-the-p800/
+link: https://invisible.ch/2003/04/01/programming-the-p800/
 slug: programming-the-p800
 tags: ["blog"]
 title: Programming the P800
@@ -21,12 +21,12 @@ In the meantime, here are some links to get you started:
 
 
 
-  * [Developing the P800 with Java (german)](http://www.korelstar.de/p800java.php)
+  * [Developing the P800 with Java (german)](https://www.korelstar.de/p800java.php)
 
 
-  * [Java dev forum on my-symbian.com](http://my-symbian.com/forum/viewforum.php?f=9)
+  * [Java dev forum on my-symbian.com](https://my-symbian.com/forum/viewforum.php?f=9)
 
 
-  * [A Project Wizard for your PJava projects](http://my-symbian.com/forum/viewtopic.php?t=2295)
+  * [A Project Wizard for your PJava projects](https://my-symbian.com/forum/viewtopic.php?t=2295)
 
 

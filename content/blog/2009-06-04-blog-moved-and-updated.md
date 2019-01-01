@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2009-06-04 10:17:47+00:00
 layout: post
-link: http://invisible.ch/2009/06/04/blog-moved-and-updated/
+link: https://invisible.ch/2009/06/04/blog-moved-and-updated/
 slug: blog-moved-and-updated
 tags: ["blog"]
 title: Blog moved and updated....
@@ -16,4 +16,4 @@ We just moved this blog to our [own servers][1] and updated to Wordpress 2.7 in 
 
 Any other problems, missing stuff - let us know!
 
-[1]: http://invisible.ch/dienstleistungen/hosting/
+[1]: https://invisible.ch/dienstleistungen/hosting/

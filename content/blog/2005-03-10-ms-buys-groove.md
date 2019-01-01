@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-03-10 16:38:59+00:00
 layout: post
-link: http://invisible.ch/2005/03/10/ms-buys-groove/
+link: https://invisible.ch/2005/03/10/ms-buys-groove/
 slug: ms-buys-groove
 tags: ["blog"]
 title: MS buys Groove
@@ -22,9 +22,9 @@ I have been using Groove right from the start, before the 1.0 version (and [wrot
 
 All the best, Ray - I hope you can do what you do best at Microsoft - develop revolutionary ways of working.
 
-[1]: http://www.groove.net
-[2]: http://www.groove.net/index.cfm?pagename=ms_news&home;=ms-learnmore
-[3]: http://en.wikipedia.org/wiki/Ray_Ozzie
-[4]: http://www.ozzie.net/blog/
-[5]: http://www.ivorix.com
-[6]: http://www.heise.de/newsticker/result.xhtml?url=/newsticker/meldung/12734&words;=Jens%20Christian%20Fischer
+[1]: https://www.groove.net
+[2]: https://www.groove.net/index.cfm?pagename=ms_news&home;=ms-learnmore
+[3]: https://en.wikipedia.org/wiki/Ray_Ozzie
+[4]: https://www.ozzie.net/blog/
+[5]: https://www.ivorix.com
+[6]: https://www.heise.de/newsticker/result.xhtml?url=/newsticker/meldung/12734&words;=Jens%20Christian%20Fischer

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-05-01 15:41:37+00:00
 layout: post
-link: http://invisible.ch/2006/05/01/ruby-on-rails-reference/
+link: https://invisible.ch/2006/05/01/ruby-on-rails-reference/
 slug: ruby-on-rails-reference
 tags: ["blog"]
 title: Ruby On Rails Reference
@@ -34,12 +34,12 @@ The guide will always be free, but if you'd like, you can buy me a beer by press
 
 
 
-[1]: http://creativecommons.org
+[1]: https://creativecommons.org
 [2]: /files/rails-reference-1.1.pdf
-[3]: http://daringfireball.net/projects/markdown/
-[4]: http://invisible.ch/projects/browser/rails-seminar/doc
+[3]: https://daringfireball.net/projects/markdown/
+[4]: https://invisible.ch/projects/browser/rails-seminar/doc
 [5]: /files/rails-reference-1.1.html
-[6]: http://digg.com/programming/ruby_on_rails_reference_cheatsheet
+[6]: https://digg.com/programming/ruby_on_rails_reference_cheatsheet
 [7]: /files/changelog.html
 
 
@@ -49,4 +49,4 @@ The guide will always be free, but if you'd like, you can buy me a beer by press
 
 
 
-Technorati Tags: [creativecommons](http://www.technorati.com/tag/creativecommons), [markdown](http://www.technorati.com/tag/markdown), [rubyonrails](http://www.technorati.com/tag/rubyonrails), [training](http://www.technorati.com/tag/training)
+Technorati Tags: [creativecommons](https://www.technorati.com/tag/creativecommons), [markdown](https://www.technorati.com/tag/markdown), [rubyonrails](https://www.technorati.com/tag/rubyonrails), [training](https://www.technorati.com/tag/training)

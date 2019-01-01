@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-02-04 17:43:25+00:00
 layout: post
-link: http://invisible.ch/2007/02/04/web-20-the-machine-is-using-us/
+link: https://invisible.ch/2007/02/04/web-20-the-machine-is-using-us/
 slug: web-20-the-machine-is-using-us
 tags: ["blog"]
 title: Web 2.0 ... The Machine is Us/ing Us
@@ -18,8 +18,8 @@ A wonderful short video that explains what this Web 2.0 thing is all about. Wond
 
 [via [C0T0D0S0.org][1]]
 
-[1]: http://www.c0t0d0s0.eu/archives/2701-Web-2.0-...-The-Machine-is-Using-Us.html
-[2]: http://www.liftconference.com
+[1]: https://www.c0t0d0s0.eu/archives/2701-Web-2.0-...-The-Machine-is-Using-Us.html
+[2]: https://www.liftconference.com
 
 
-Technorati Tags: [lift07](http://www.technorati.com/tag/lift07), [antropology](http://www.technorati.com/tag/antropology), [puppy](http://www.technorati.com/tag/puppy), [web](http://www.technorati.com/tag/web)
+Technorati Tags: [lift07](https://www.technorati.com/tag/lift07), [antropology](https://www.technorati.com/tag/antropology), [puppy](https://www.technorati.com/tag/puppy), [web](https://www.technorati.com/tag/web)

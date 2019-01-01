@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-12-29 08:28:53+00:00
 layout: post
-link: http://invisible.ch/2004/12/29/the-threshold-of-caring/
+link: https://invisible.ch/2004/12/29/the-threshold-of-caring/
 slug: the-threshold-of-caring
 tags: ["blog"]
 title: The threshold of caring

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-09-29 08:30:37+00:00
 layout: post
-link: http://invisible.ch/2005/09/29/tracking-comments/
+link: https://invisible.ch/2005/09/29/tracking-comments/
 slug: tracking-comments
 tags: ["blog"]
 title: Tracking comments
@@ -44,7 +44,7 @@ Is there a solution to this? Let's examine a few:
   * The correlation of blog-entry and comment can be difficult
 
 
-  * Some comment feeds are truncated (bad, bad, bad) - [vowe take note](http://vowe.net/archives/006355.html)!
+  * Some comment feeds are truncated (bad, bad, bad) - [vowe take note](https://vowe.net/archives/006355.html)!
 
 
 
@@ -92,4 +92,4 @@ Or is there already a system in place that I don't know about? Let me know.
 
 
 
-Technorati Tags: [blog](http://technorati.com/tag/blog), [comments](http://technorati.com/tag/comments), [metablog](http://technorati.com/tag/metablog), [zappata](http://technorati.com/tag/zappata), [central](http://technorati.com/tag/central)
+Technorati Tags: [blog](https://technorati.com/tag/blog), [comments](https://technorati.com/tag/comments), [metablog](https://technorati.com/tag/metablog), [zappata](https://technorati.com/tag/zappata), [central](https://technorati.com/tag/central)

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-08-24 05:47:46+00:00
 layout: post
-link: http://invisible.ch/2005/08/24/google-knows-more/
+link: https://invisible.ch/2005/08/24/google-knows-more/
 slug: google-knows-more
 tags: ["blog"]
 title: Google knows more
@@ -27,4 +27,4 @@ Is this something that is standard? It's the first time I've noticed that in a G
 
 
 
-Technorati Tags: [google](http://technorati.com/tag/google), [adium](http://technorati.com/tag/adium)
+Technorati Tags: [google](https://technorati.com/tag/google), [adium](https://technorati.com/tag/adium)

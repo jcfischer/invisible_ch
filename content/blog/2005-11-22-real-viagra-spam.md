@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-22 17:18:06+00:00
 layout: post
-link: http://invisible.ch/2005/11/22/real-viagra-spam/
+link: https://invisible.ch/2005/11/22/real-viagra-spam/
 slug: real-viagra-spam
 tags: ["blog"]
 title: Real Viagra Spam
@@ -27,4 +27,4 @@ Somebody please tell them the wrong's of their ways
 
 
 
-Technorati Tags: [advertising](http://technorati.com/tag/advertising), [viagra](http://technorati.com/tag/viagra), [spam](http://technorati.com/tag/spam)
+Technorati Tags: [advertising](https://technorati.com/tag/advertising), [viagra](https://technorati.com/tag/viagra), [spam](https://technorati.com/tag/spam)

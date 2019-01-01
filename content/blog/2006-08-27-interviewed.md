@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-08-27 17:53:09+00:00
 layout: post
-link: http://invisible.ch/2006/08/27/interviewed/
+link: https://invisible.ch/2006/08/27/interviewed/
 slug: interviewed
 tags: ["blog"]
 title: interviewed
@@ -16,11 +16,11 @@ Satish Talim from the [Pune Ruby User Group][1] conducted an email interview wit
 
 You can read it [here][4]
 
-[1]: http://www.puneruby.com/blog/
-[2]: http://www.puneruby.com/blog/?p=62
-[3]: http://www.puneruby.com/blog/?p=67
-[4]: http://www.puneruby.com/blog/?p=76
+[1]: https://www.puneruby.com/blog/
+[2]: https://www.puneruby.com/blog/?p=62
+[3]: https://www.puneruby.com/blog/?p=67
+[4]: https://www.puneruby.com/blog/?p=76
 
 
 
-Technorati Tags: [interview](http://www.technorati.com/tag/interview), [india](http://www.technorati.com/tag/india), [ruby](http://www.technorati.com/tag/ruby), [rubyonrails](http://www.technorati.com/tag/rubyonrails)
+Technorati Tags: [interview](https://www.technorati.com/tag/interview), [india](https://www.technorati.com/tag/india), [ruby](https://www.technorati.com/tag/ruby), [rubyonrails](https://www.technorati.com/tag/rubyonrails)

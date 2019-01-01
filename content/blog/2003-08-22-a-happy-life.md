@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-08-22 16:35:43+00:00
 layout: post
-link: http://invisible.ch/2003/08/22/a-happy-life/
+link: https://invisible.ch/2003/08/22/a-happy-life/
 slug: a-happy-life
 tags: ["blog"]
 title: A happy life

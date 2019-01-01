@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-03-08 20:43:16+00:00
 layout: post
-link: http://invisible.ch/2005/03/08/openntf-log/
+link: https://invisible.ch/2005/03/08/openntf-log/
 slug: openntf-log
 tags: ["blog"]
 title: openNTF Log
@@ -18,5 +18,5 @@ What can I say: I'm a fool that I haven't used this much sooner. The installatio
 
 If you haven't done so, check it out immediately. Highly Recommended
 
-[1]: http://www.openntf.org
-[2]: http://www.openntf.org/Projects/pmt.nsf/ProjectHome?ReadForm&Query;=OpenLog
+[1]: https://www.openntf.org
+[2]: https://www.openntf.org/Projects/pmt.nsf/ProjectHome?ReadForm&Query;=OpenLog

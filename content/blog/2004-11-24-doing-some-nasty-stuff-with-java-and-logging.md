@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-11-24 17:14:40+00:00
 layout: post
-link: http://invisible.ch/2004/11/24/doing-some-nasty-stuff-with-java-and-logging/
+link: https://invisible.ch/2004/11/24/doing-some-nasty-stuff-with-java-and-logging/
 slug: doing-some-nasty-stuff-with-java-and-logging
 tags: ["blog"]
 title: doing some nasty stuff with java and logging
@@ -14,7 +14,7 @@ wordpress_id: 348
 
 Remove all .debug stuff in existing java files:
 
-[a handy SED reference](http://www.grymoire.com/Unix/Sed.html)
+[a handy SED reference](https://www.grymoire.com/Unix/Sed.html)
 
 `
 #!/usr/bin/sh

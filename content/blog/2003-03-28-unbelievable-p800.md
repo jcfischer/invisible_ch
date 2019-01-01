@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-03-28 14:53:27+00:00
 layout: post
-link: http://invisible.ch/2003/03/28/unbelievable-p800/
+link: https://invisible.ch/2003/03/28/unbelievable-p800/
 slug: unbelievable-p800
 tags: ["blog"]
 title: Unbelievable P800

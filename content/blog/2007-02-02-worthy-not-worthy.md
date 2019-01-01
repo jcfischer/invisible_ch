@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-02-02 17:16:46+00:00
 layout: post
-link: http://invisible.ch/2007/02/02/worthy-not-worthy/
+link: https://invisible.ch/2007/02/02/worthy-not-worthy/
 slug: worthy-not-worthy
 tags: ["blog"]
 title: worthy / not worthy
@@ -17,10 +17,10 @@ I'm taking after my late father, who loved photography, cameras and taking pictu
 So here's my pledge: If I manage to take a couple of good pictures next week at [Lift07][2] with the Lumix I will go for the DSLR. If not, I will look for a different hobby.
 
 
-[1]: http://www.dpreview.com/reviews/pentaxk10d/
-[2]: http://www.liftconference.com
-[3]: http://uncondition.blogspot.com
+[1]: https://www.dpreview.com/reviews/pentaxk10d/
+[2]: https://www.liftconference.com
+[3]: https://uncondition.blogspot.com
 
 
 
-Technorati Tags: [lift07](http://www.technorati.com/tag/lift07), [pentax](http://www.technorati.com/tag/pentax), [photography](http://www.technorati.com/tag/photography), [lumix](http://www.technorati.com/tag/lumix)
+Technorati Tags: [lift07](https://www.technorati.com/tag/lift07), [pentax](https://www.technorati.com/tag/pentax), [photography](https://www.technorati.com/tag/photography), [lumix](https://www.technorati.com/tag/lumix)

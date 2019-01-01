@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-15 07:04:50+00:00
 layout: post
-link: http://invisible.ch/2005/06/15/europeans-unite/
+link: https://invisible.ch/2005/06/15/europeans-unite/
 slug: europeans-unite
 tags: ["blog"]
 title: Europeans unite
@@ -13,11 +13,11 @@ wordpress_id: 431
 ---
 
 
-The [European Internet Project (EIP)](http://www.europeaninternetproject.org/) that was founded after [reboot7](http://reboot.dk/reboot7/show/HomePage) tries to bring together european people working on or for the internet project. It is trying to counter balance the US domination that has been the way of the internet for the last decades.
+The [European Internet Project (EIP)](https://www.europeaninternetproject.org/) that was founded after [reboot7](https://reboot.dk/reboot7/show/HomePage) tries to bring together european people working on or for the internet project. It is trying to counter balance the US domination that has been the way of the internet for the last decades.
 
 
 
-While I applaud the idea, I think there are larger things in the making. The [talk that Ben Hammersley](http://www.ballpark.ch/blog/index.php?id=10) ( [pdf](http://www.benhammersley.com/weblog/Hammersley_Reboot_2005.pdf) ) gave at reboot has got me into thinking:
+While I applaud the idea, I think there are larger things in the making. The [talk that Ben Hammersley](https://www.ballpark.ch/blog/index.php?id=10) ( [pdf](https://www.benhammersley.com/weblog/Hammersley_Reboot_2005.pdf) ) gave at reboot has got me into thinking:
   
 (warning: Ramblings ahead)
 
@@ -45,7 +45,7 @@ While I applaud the idea, I think there are larger things in the making. The [ta
     * Work on making social behaviors change, use our knowledge to change the way the rest of the world sees, understands & live the social changes we are inflicting upon them
 
 
-    * not only found an EIP, but found a new society, a [cult](http://henriette.prograes.com/blog/2005/06/we-knew-all-answers-and-we-shouted_14.html), a movement that transcends the physical borders of the countries. A society where people live in the internet, making it a place, rather than a transport mechanism (as Doc Searls postulates it should be)
+    * not only found an EIP, but found a new society, a [cult](https://henriette.prograes.com/blog/2005/06/we-knew-all-answers-and-we-shouted_14.html), a movement that transcends the physical borders of the countries. A society where people live in the internet, making it a place, rather than a transport mechanism (as Doc Searls postulates it should be)
 
 
 
@@ -54,7 +54,7 @@ While I applaud the idea, I think there are larger things in the making. The [ta
 
 
 
-Which one of the options outlined above is the correct one? Is it even up there on that list? Does it matter? I think it does. We have the power and the knowledge to change something. Let's make that change bigger. Bolder. More difficult. There is little gained by preaching to the choir. We need to reach the rest of the world to make a difference. Yes, it is fun to be a member of the "elite", but that's not what life is about. As [Doug Engelbart put's it in the Q&A session](http://www.socialtext.net/mayfield/index.cgi?mother_of_all_demos):
+Which one of the options outlined above is the correct one? Is it even up there on that list? Does it matter? I think it does. We have the power and the knowledge to change something. Let's make that change bigger. Bolder. More difficult. There is little gained by preaching to the choir. We need to reach the rest of the world to make a difference. Yes, it is fun to be a member of the "elite", but that's not what life is about. As [Doug Engelbart put's it in the Q&A session](https://www.socialtext.net/mayfield/index.cgi?mother_of_all_demos):
 
 
 <blockquote>
@@ -65,4 +65,4 @@ So I said I should get a goal for my career, so then in the next hour I decided 
 Now is the time for us to make a change on mankind. Move!
 
 
-Technorati Tags: [social change](http://technorati.com/tag/social change), [reboot7](http://technorati.com/tag/reboot7)
+Technorati Tags: [social change](https://technorati.com/tag/social change), [reboot7](https://technorati.com/tag/reboot7)

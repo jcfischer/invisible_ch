@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-04 22:54:33+00:00
 layout: post
-link: http://invisible.ch/2013/02/04/93-error-and-cause/
+link: https://invisible.ch/2013/02/04/93-error-and-cause/
 slug: 93-error-and-cause
 tags: ["blog"]
 title: 93 - Error and Cause
@@ -22,7 +22,7 @@ That is the good part. The bad part is that it often is quite difficult to actua
 ### Write easy to read code
 
 
-Don't try to be too clever. (And I'm guilty as charged). A cascade of ternary operators might prove that you know your shit (and there even [worse things out there](http://jeremywsherman.com/blog/2013/01/21/the-otherwise-operator/)). Name things properly especially variables and method names. Break methods into smaller ones (see below). Delete unused code (no commenting out stuff). Refactor when you see a possibility for it. Extract objects. Document why you did something (put in that link to Stackoverflow where you found a neat hint in a comment)
+Don't try to be too clever. (And I'm guilty as charged). A cascade of ternary operators might prove that you know your shit (and there even [worse things out there](https://jeremywsherman.com/blog/2013/01/21/the-otherwise-operator/)). Name things properly especially variables and method names. Break methods into smaller ones (see below). Delete unused code (no commenting out stuff). Refactor when you see a possibility for it. Extract objects. Document why you did something (put in that link to Stackoverflow where you found a neat hint in a comment)
 
 None of this is special, or mind boggling new. It is just common sense, and thus, as we usually do with common sense, we ignore it. Don't. You will regret it later...
 
@@ -30,7 +30,7 @@ None of this is special, or mind boggling new. It is just common sense, and thus
 ### Learn to count parentheses and semicolons
 
 
-The one programming experience that taught me  a lot was to program Lotus Notes formula language. If there is one ugly language (next to [Brainfuck](http://en.wikipedia.org/wiki/Brainfuck)) then it must be the formula language. Check out this little ditty (straight from the IBM documentation)
+The one programming experience that taught me  a lot was to program Lotus Notes formula language. If there is one ugly language (next to [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)) then it must be the formula language. Check out this little ditty (straight from the IBM documentation)
 
     
     @If(@Prompt([YESNO]; "Question";
@@ -56,7 +56,7 @@ This is a corollary to the things said above: Writing code is hard and difficult
 ### Write unit tests (or specs)
 
 
-Test all paths through the code, test edge cases, add to your tests when you discover bugs. Run your tests regularly (use a CI server like [Travis CI](https://travis-ci.org/) or [TeamCity](http://www.jetbrains.com/teamcity/) - don't bother with any of the others out there - Jenkins, I'm looking at you). There is nothing better than knowing that your methods are all working correctly and that you can build on stable blocks. If your tests start failing, listen to what they are telling you. Sometimes, they need to be updated to code changes, sometimes they really tell you about bugs that you introduced.
+Test all paths through the code, test edge cases, add to your tests when you discover bugs. Run your tests regularly (use a CI server like [Travis CI](https://travis-ci.org/) or [TeamCity](https://www.jetbrains.com/teamcity/) - don't bother with any of the others out there - Jenkins, I'm looking at you). There is nothing better than knowing that your methods are all working correctly and that you can build on stable blocks. If your tests start failing, listen to what they are telling you. Sometimes, they need to be updated to code changes, sometimes they really tell you about bugs that you introduced.
 
 
 ### Write integration tests
@@ -68,7 +68,7 @@ If you have complex systems (and chances are that you have complex systems) then
 ### Listen to what your logs and errors tell you
 
 
-You do have logs? Good - use them extensively. Almost all debug information belongs in the production logs. Matthias Meyer has[ important things to say about log files](http://www.paperplanes.de/2011/7/25/web_operations_101_for_developers.html) (and a lot of other important things too). Your log files can tell you what is happening in your app, but you need to actually read what they say and understand what they are trying to tell you.
+You do have logs? Good - use them extensively. Almost all debug information belongs in the production logs. Matthias Meyer has[ important things to say about log files](https://www.paperplanes.de/2011/7/25/web_operations_101_for_developers.html) (and a lot of other important things too). Your log files can tell you what is happening in your app, but you need to actually read what they say and understand what they are trying to tell you.
 
 
 ### Be methodical

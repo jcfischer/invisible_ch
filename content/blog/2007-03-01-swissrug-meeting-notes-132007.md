@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-03-01 22:38:17+00:00
 layout: post
-link: http://invisible.ch/2007/03/01/swissrug-meeting-notes-132007/
+link: https://invisible.ch/2007/03/01/swissrug-meeting-notes-132007/
 slug: swissrug-meeting-notes-132007
 tags: ["blog"]
 title: SwissRug Meeting Notes 1.3.2007
@@ -26,16 +26,16 @@ Oh - and to prove geekdom, we had pizza instead of going out.
 
 The next SwissRug meeting will be held in around 6-8 weeks time - hope to see you there!
 
-[1]: http://www.apple.com/macosx/features/speech/
-[2]: http://rubycocoa.sourceforge.net/
-[3]: http://www.sbb.ch
-[4]: http://blog.misto.ch/
-[5]: http://ifs.hsr.ch/1371
-[6]: http://rubyeclipse.sourceforge.net/
-[7]: http://www.radrails.org
-[8]: http://rubyonrails.ch/doku.php/mitglieder:georg
-[9]: http://rubyonrails.ch/doku.php/mitglieder:francosebregondi
-[10]: http://rubyonrails.ch/doku.php/codingweekend
+[1]: https://www.apple.com/macosx/features/speech/
+[2]: https://rubycocoa.sourceforge.net/
+[3]: https://www.sbb.ch
+[4]: https://blog.misto.ch/
+[5]: https://ifs.hsr.ch/1371
+[6]: https://rubyeclipse.sourceforge.net/
+[7]: https://www.radrails.org
+[8]: https://rubyonrails.ch/doku.php/mitglieder:georg
+[9]: https://rubyonrails.ch/doku.php/mitglieder:francosebregondi
+[10]: https://rubyonrails.ch/doku.php/codingweekend
 
 
-Technorati Tags: [refactoring](http://www.technorati.com/tag/refactoring), [radrails](http://www.technorati.com/tag/radrails), [ruby](http://www.technorati.com/tag/ruby), [speechrecognition](http://www.technorati.com/tag/speechrecognition), [swissrug](http://www.technorati.com/tag/swissrug)
+Technorati Tags: [refactoring](https://www.technorati.com/tag/refactoring), [radrails](https://www.technorati.com/tag/radrails), [ruby](https://www.technorati.com/tag/ruby), [speechrecognition](https://www.technorati.com/tag/speechrecognition), [swissrug](https://www.technorati.com/tag/swissrug)

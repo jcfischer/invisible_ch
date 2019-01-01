@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-03-14 22:27:37+00:00
 layout: post
-link: http://invisible.ch/2006/03/14/installing-lotus-domino-654-in-debian-xen/
+link: https://invisible.ch/2006/03/14/installing-lotus-domino-654-in-debian-xen/
 slug: installing-lotus-domino-654-in-debian-xen
 tags: ["blog"]
 title: Installing Lotus Domino 6.5.4 in Debian XEN
@@ -73,7 +73,7 @@ which will result in an error message
 The library needed is old, and not included in the current debian release. Unfortunately the [excellent notes by Ian Cherril][2] only cover an automated installation with apt-get which will no longer work. Therefore we need to hunt down the paket somewhere on the internet:
 
     notes$ su -
-    notes# wget http://ftp.debian.org/pool/main/e/egcs1.1/libstdc++2.9-glibc2.1_2.91.66-4_i386.deb
+    notes# wget https://ftp.debian.org/pool/main/e/egcs1.1/libstdc++2.9-glibc2.1_2.91.66-4_i386.deb
     notes# dpkg -i libstdc++2.9-glibc2.1_2.91.66-4_i386.deb
     notes# exit
     notes$ /opt/lotus/bin/server -listen
@@ -84,6 +84,6 @@ Coming up - configuring the server
 
    
 
-[1]: http://www.notes.net
-[2]: http://www-10.lotus.com/ldd/nd6forum.nsf/55c38d716d632d9b8525689b005ba1c0/20fda6ee3399510085256df7003d5005?OpenDocument
+[1]: https://www.notes.net
+[2]: https://www-10.lotus.com/ldd/nd6forum.nsf/55c38d716d632d9b8525689b005ba1c0/20fda6ee3399510085256df7003d5005?OpenDocument
 

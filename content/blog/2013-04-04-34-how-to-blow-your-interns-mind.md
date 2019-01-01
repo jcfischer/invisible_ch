@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-04-04 19:25:44+00:00
 layout: post
-link: http://invisible.ch/2013/04/04/34-how-to-blow-your-interns-mind/
+link: https://invisible.ch/2013/04/04/34-how-to-blow-your-interns-mind/
 slug: 34-how-to-blow-your-interns-mind
 tags: ["blog"]
 title: 34 - how to blow your interns mind

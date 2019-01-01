@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-09-29 15:19:42+00:00
 layout: post
-link: http://invisible.ch/2005/09/29/table-of-contents/
+link: https://invisible.ch/2005/09/29/table-of-contents/
 slug: table-of-contents
 tags: ["blog"]
 title: Table of Contents
@@ -39,4 +39,4 @@ Is it finally time for me to do Word 101?
 
 
 
-Technorati Tags: [arbeitstechnik](http://technorati.com/tag/arbeitstechnik), [automatisch](http://technorati.com/tag/automatisch), [openoffice](http://technorati.com/tag/openoffice), [word](http://technorati.com/tag/word)
+Technorati Tags: [arbeitstechnik](https://technorati.com/tag/arbeitstechnik), [automatisch](https://technorati.com/tag/automatisch), [openoffice](https://technorati.com/tag/openoffice), [word](https://technorati.com/tag/word)

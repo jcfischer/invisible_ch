@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-08-27 11:09:52+00:00
 layout: post
-link: http://invisible.ch/2004/08/27/well-but-what-is-zappata/
+link: https://invisible.ch/2004/08/27/well-but-what-is-zappata/
 slug: well-but-what-is-zappata
 tags: ["blog"]
 title: Well, but what is ZAPPATA?
@@ -12,11 +12,11 @@ type: post
 wordpress_id: 312
 ---
 
-A lot of people have been [asking](http://vowe.net/archives/004870.html#007159): What is it, that ZAPPATA does?
+A lot of people have been [asking](https://vowe.net/archives/004870.html#007159): What is it, that ZAPPATA does?
 
 The technical answer: It's a personal mail server that uses it's own peer to peer, secure infrastructrue to exchange mail
 
-But there's another answer: [Michael Sampson](http://sharedspaces.typepad.com/blog/2004/08/collaboration_s.html) has written an excellent report with an overview over different collaboration technologies. In it, he lists, the pros and cons of the different tools (email, IM, Presence, RSS, Shared Workspaces).
+But there's another answer: [Michael Sampson](https://sharedspaces.typepad.com/blog/2004/08/collaboration_s.html) has written an excellent report with an overview over different collaboration technologies. In it, he lists, the pros and cons of the different tools (email, IM, Presence, RSS, Shared Workspaces).
 
 Email has a list of whopping 11 negatives, cited below:
 
@@ -39,4 +39,4 @@ Email has a list of whopping 11 negatives, cited below:
 
 Well - it turns out, that ZAPPATA  has a solution to 10 of the 11 points raised (sorry, we can't do anything about Outlook being abused to transport virii and worms)
 
-We have published a [Whitepaper on how ZAPPATA solves email problems](http://www.zappatanetworks.com/news/7) on our website.
+We have published a [Whitepaper on how ZAPPATA solves email problems](https://www.zappatanetworks.com/news/7) on our website.

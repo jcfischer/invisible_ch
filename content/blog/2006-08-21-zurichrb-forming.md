@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: false
 date: 2006-08-21 17:41:46+00:00
 layout: post
-link: http://invisible.ch/2006/08/21/zurichrb-forming/
+link: https://invisible.ch/2006/08/21/zurichrb-forming/
 slug: zurichrb-forming
 tags: ["blog"]
 title: zurich.rb forming
@@ -25,8 +25,8 @@ Please comment here if you are interested, send me an email at  or find another 
 **Update:** There's a lot of interest, we are up to 7 people now, and there's a [SwissRUG mailing list][1] to further coordinate. The meeting  will take place, details to be announced.
 
 
-[1]: http://newfoundedpower.com/mailman/listinfo/swissrug_newfoundedpower.com 
+[1]: https://newfoundedpower.com/mailman/listinfo/swissrug_newfoundedpower.com 
 
 
 
-Technorati Tags: [rails](http://www.technorati.com/tag/rails), [ruby](http://www.technorati.com/tag/ruby), [rubyonrails](http://www.technorati.com/tag/rubyonrails), [zurich](http://www.technorati.com/tag/zurich)
+Technorati Tags: [rails](https://www.technorati.com/tag/rails), [ruby](https://www.technorati.com/tag/ruby), [rubyonrails](https://www.technorati.com/tag/rubyonrails), [zurich](https://www.technorati.com/tag/zurich)

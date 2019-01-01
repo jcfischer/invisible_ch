@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-02-02 11:23:49+00:00
 layout: post
-link: http://invisible.ch/2004/02/02/server-ist-ausgelastet/
+link: https://invisible.ch/2004/02/02/server-ist-ausgelastet/
 slug: server-ist-ausgelastet
 tags: ["blog"]
 title: Server ist ausgelastet...
@@ -13,7 +13,7 @@ wordpress_id: 239
 ---
 
 And while I'm at it... What the heck is that?
-![server.gif](http://www.invisible.ch/images/server.gif)
+![server.gif](https://www.invisible.ch/images/server.gif)
 
 This pops up from time to time, and sometimes it goes away, sometimes it doesn't... 
 

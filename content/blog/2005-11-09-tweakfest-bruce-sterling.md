@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-09 17:21:04+00:00
 layout: post
-link: http://invisible.ch/2005/11/09/tweakfest-bruce-sterling/
+link: https://invisible.ch/2005/11/09/tweakfest-bruce-sterling/
 slug: tweakfest-bruce-sterling
 tags: ["blog"]
 title: Tweakfest - Bruce Sterling
@@ -17,7 +17,7 @@ wordpress_id: 472
 
 
 
-Professor, Dr., Cyberpunk (What would William Gibson say) Bruce Sterling gave a speech called "[The Hacker Crackdown](http://stuff.mit.edu/hacker/hacker.html)", a reference to his 15 year old book about "hackers" and how the ideas and ideals have changed over time. 
+Professor, Dr., Cyberpunk (What would William Gibson say) Bruce Sterling gave a speech called "[The Hacker Crackdown](https://stuff.mit.edu/hacker/hacker.html)", a reference to his 15 year old book about "hackers" and how the ideas and ideals have changed over time. 
 
 
 
@@ -77,7 +77,7 @@ The US goverments doctrin on war is "shock and awe": Take out the central infras
 
 
 
-The same fundamental paradigm is used in defense against cyber crime. [Richard Clarke](http://en.wikipedia.org/wiki/Richard_A._Clarke) who wrote the doctrine on cybercrime about 15 years ago, defends against the same "shock and awe" cyber-terrorism. Government and financial networks end up being protected fairly well, while "the public internet" is left undefended. The current cyber crime waves take advantage of that: Phising, Denial of Service attacks are all directed at Joe Doe or public companies. Little is done to defend those.
+The same fundamental paradigm is used in defense against cyber crime. [Richard Clarke](https://en.wikipedia.org/wiki/Richard_A._Clarke) who wrote the doctrine on cybercrime about 15 years ago, defends against the same "shock and awe" cyber-terrorism. Government and financial networks end up being protected fairly well, while "the public internet" is left undefended. The current cyber crime waves take advantage of that: Phising, Denial of Service attacks are all directed at Joe Doe or public companies. Little is done to defend those.
 
 
 
@@ -126,4 +126,4 @@ To be continued with:
 
 
 
-Technorati Tags: [switzerland](http://technorati.com/tag/switzerland), [tweakfest05](http://technorati.com/tag/tweakfest05)
+Technorati Tags: [switzerland](https://technorati.com/tag/switzerland), [tweakfest05](https://technorati.com/tag/tweakfest05)

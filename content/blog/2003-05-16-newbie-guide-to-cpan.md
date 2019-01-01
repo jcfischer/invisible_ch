@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-16 10:38:46+00:00
 layout: post
-link: http://invisible.ch/2003/05/16/newbie-guide-to-cpan/
+link: https://invisible.ch/2003/05/16/newbie-guide-to-cpan/
 slug: newbie-guide-to-cpan
 tags: ["blog"]
 title: Newbie Guide to CPAN
@@ -14,13 +14,13 @@ wordpress_id: 75
 
 In my current project I have the pleasure (?) to work with Perl. I found out that there are hundres (thousands?) of useful modules out there. Before they can be used however, they have to be downloaded an installed... Grief!
 
-Here's the dummies guide to doing it: (Assuming a [Cygwin](http://www.cygwin.com) installation on a Win32 box)
+Here's the dummies guide to doing it: (Assuming a [Cygwin](https://www.cygwin.com) installation on a Win32 box)
 <!-- more -->
 
 
 
 
-  1. Locate the module on [Cpan](http://www.cpan.org)
+  1. Locate the module on [Cpan](https://www.cpan.org)
 
 
   2. Download the module.
@@ -55,4 +55,4 @@ Here's the dummies guide to doing it: (Assuming a [Cygwin](http://www.cygwin.com
 
 
 
-Thanks to [the Install FAQ](http://www.cpan.org/modules/INSTALL.html)
+Thanks to [the Install FAQ](https://www.cpan.org/modules/INSTALL.html)

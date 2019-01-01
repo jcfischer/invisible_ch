@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-10-14 13:25:14+00:00
 layout: post
-link: http://invisible.ch/2004/10/14/music-memorabilia/
+link: https://invisible.ch/2004/10/14/music-memorabilia/
 slug: music-memorabilia
 tags: ["blog"]
 title: Music Memorabilia
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 334
 ---
 
-Today it hit me - a memory from a life long past, from music bizare: [Hit Me With Your Rhythm Stick](http://www.countrybumpkin.ndo.co.uk/hitme.html)
+Today it hit me - a memory from a life long past, from music bizare: [Hit Me With Your Rhythm Stick](https://www.countrybumpkin.ndo.co.uk/hitme.html)
 <!-- more -->
 In the deserts of Sudan
 And the gardens of Japan

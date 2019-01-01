@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-03-01 23:04:50+00:00
 layout: post
-link: http://invisible.ch/2007/03/02/joyent-strongspace-and-my-samba-server/
+link: https://invisible.ch/2007/03/02/joyent-strongspace-and-my-samba-server/
 slug: joyent-strongspace-and-my-samba-server
 tags: ["blog"]
 title: Joyent, Strongspace and my Samba Server
@@ -26,11 +26,11 @@ In order to allow for syncing without passwords, I use ssh keys. My [backup guid
 
 Neat! And Joyent has just become much more usable. Now if they only would fix some of my peeves (like weeks starting on sunday instead of monday and the lack of a 24 hour clock) I'd be really happy.
 
-[1]: http://www.shareasale.com/r.cfm?B=57232&U;=196165&M;=10198
-[2]: http://forum.joyent.com/viewtopic.php?id=959&p;=1
-[3]: http://www.shareasale.com/r.cfm?B=69507&U;=196165&M;=10198
+[1]: https://www.shareasale.com/r.cfm?B=57232&U;=196165&M;=10198
+[2]: https://forum.joyent.com/viewtopic.php?id=959&p;=1
+[3]: https://www.shareasale.com/r.cfm?B=69507&U;=196165&M;=10198
 [4]: /2005/10/06/back-up/
 
 
 
-Technorati Tags: [joyent](http://www.technorati.com/tag/joyent), [rsync](http://www.technorati.com/tag/rsync)
+Technorati Tags: [joyent](https://www.technorati.com/tag/joyent), [rsync](https://www.technorati.com/tag/rsync)

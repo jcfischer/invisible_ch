@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-01-31 13:38:36+00:00
 layout: post
-link: http://invisible.ch/2013/01/31/spam-comment-of-the-day/
+link: https://invisible.ch/2013/01/31/spam-comment-of-the-day/
 slug: spam-comment-of-the-day
 tags: ["blog"]
 title: Spam comment of the day

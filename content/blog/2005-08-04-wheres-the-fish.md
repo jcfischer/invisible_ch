@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-08-04 08:19:41+00:00
 layout: post
-link: http://invisible.ch/2005/08/04/wheres-the-fish/
+link: https://invisible.ch/2005/08/04/wheres-the-fish/
 slug: wheres-the-fish
 tags: ["blog"]
 title: Where's the fish?
@@ -13,7 +13,7 @@ wordpress_id: 441
 ---
 
 
-Where indeed? Check [this puzzle](http://www.coudal.com/thefish.php), reportedly by Einstein. 
+Where indeed? Check [this puzzle](https://www.coudal.com/thefish.php), reportedly by Einstein. 
 
 
 
@@ -23,4 +23,4 @@ And yes, I know who own the fish, but I'm not going to tell you....
 
 
 
-Technorati Tags: [einstein](http://technorati.com/tag/einstein), [fish](http://technorati.com/tag/fish), [puzzle](http://technorati.com/tag/puzzle)
+Technorati Tags: [einstein](https://technorati.com/tag/einstein), [fish](https://technorati.com/tag/fish), [puzzle](https://technorati.com/tag/puzzle)

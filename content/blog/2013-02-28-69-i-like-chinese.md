@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-02-28 21:19:06+00:00
 layout: post
-link: http://invisible.ch/2013/02/28/69-i-like-chinese/
+link: https://invisible.ch/2013/02/28/69-i-like-chinese/
 slug: 69-i-like-chinese
 tags: ["blog"]
 title: 69 - I like chinese

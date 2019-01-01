@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-06-20 08:38:14+00:00
 layout: post
-link: http://invisible.ch/2006/06/20/painfully-quiet/
+link: https://invisible.ch/2006/06/20/painfully-quiet/
 slug: painfully-quiet
 tags: ["blog"]
 title: Painfully quiet
@@ -16,7 +16,7 @@ This blog hasn't seen much activity the last couple of weeks, due to not only a 
 
 Combined with the hot weather and the soccer world cup, there's not much time for blogging...
 
-[1]: http://de.wikipedia.org/wiki/Diskushernie
+[1]: https://de.wikipedia.org/wiki/Diskushernie
 
 
-Technorati Tags: [diskushernie](http://www.technorati.com/tag/diskushernie)
+Technorati Tags: [diskushernie](https://www.technorati.com/tag/diskushernie)

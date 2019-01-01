@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2011-10-04 23:56:55+00:00
 layout: post
-link: http://invisible.ch/2011/10/04/long-shot-im-trying-to-gauge-the-quality-of-some-random-numbers/
+link: https://invisible.ch/2011/10/04/long-shot-im-trying-to-gauge-the-quality-of-some-random-numbers/
 slug: long-shot-im-trying-to-gauge-the-quality-of-some-random-numbers
 tags: ["blog"]
 title: 'Long shot: I''m trying to gauge the quality of some "random" numbers...'
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 925
 ---
 
-Long shot: I'm trying to gauge the quality of some "random" numbers that I have generated. I'm using the "dieharder" [http://www.phy.duke.edu/~rgb/General/dieharder.php](http://www.phy.duke.edu/~rgb/General/dieharder.php) library to analyse the data I have (in a file)  
+Long shot: I'm trying to gauge the quality of some "random" numbers that I have generated. I'm using the "dieharder" [https://www.phy.duke.edu/~rgb/General/dieharder.php](https://www.phy.duke.edu/~rgb/General/dieharder.php) library to analyse the data I have (in a file)  
   
 I use a file for my data (even though that's not recommended) and give that data to dieharder:  
   
@@ -33,11 +33,11 @@ Any ideas out there in G+ land?
 												
 
 
-													![](http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&resize_h=100&url=http%3A%2F%2Fwww.phy.duke.edu%2F%7Ergb%2Fimages%2Frgb_thumbnail.jpg)
+													![](https://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&resize_h=100&url=http%3A%2F%2Fwww.phy.duke.edu%2F%7Ergb%2Fimages%2Frgb_thumbnail.jpg)
 												
 
 
-												[Robert G. Brown's General Tools Pagergb's Books](http://www.phy.duke.edu/~rgb/General/dieharder.php)  
+												[Robert G. Brown's General Tools Pagergb's Books](https://www.phy.duke.edu/~rgb/General/dieharder.php)  
 
 												Robert G. Brown's General Tools Page. Things on the site itself that may be of interest to students or philosophers of any age or generation include complete online books of poetry, various suppor...  
 
@@ -50,4 +50,4 @@ Any ideas out there in G+ land?
 
   
   
-_Post imported by Google+Blog.  Created By [Daniel Treadwell](http://minimali.se/)._
+_Post imported by Google+Blog.  Created By [Daniel Treadwell](https://minimali.se/)._

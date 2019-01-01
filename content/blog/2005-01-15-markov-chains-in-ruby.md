@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-01-15 16:45:39+00:00
 layout: post
-link: http://invisible.ch/2005/01/15/markov-chains-in-ruby/
+link: https://invisible.ch/2005/01/15/markov-chains-in-ruby/
 slug: markov-chains-in-ruby
 tags: ["blog"]
 title: Markov Chains in Ruby
@@ -18,19 +18,19 @@ Analysing text basically means counting which words follow each other. Producing
 
 For a [game project][2] we are working on, I need this functionality. Because Amuda is written in [Ruby][3] using [Ruby On Rails][4] as it's MVC framework, I also wanted to do the Markov Chains in Ruby. Because there don't seem to be any Ruby implementation, I ported [Gary Burds Markov Chain Generator][5]. For those interested, read on to see the code -- and if any Ruby-Gurus are out there, please help me improve my "Ruby-Fu", I'm still a beginner in this language.
 
-[1]: http://en.wikipedia.org/wiki/Markov_chain
-[2]: http://www.amuda.ch
-[3]: http://www.ruby-lang.org
-[4]: http://www.rubyonrails.org
-[5]: http://gary.burd.info/2003/11/markov-chain-generator.html
+[1]: https://en.wikipedia.org/wiki/Markov_chain
+[2]: https://www.amuda.ch
+[3]: https://www.ruby-lang.org
+[4]: https://www.rubyonrails.org
+[5]: https://gary.burd.info/2003/11/markov-chain-generator.html
 <!-- more -->
 Here we go
 
         #  Markov Chain Generator
-        # based on the Python version by Gary Burd: http://gary.burd.info/2003/11/markov-chain-generator.html
+        # based on the Python version by Gary Burd: https://gary.burd.info/2003/11/markov-chain-generator.html
         # Released into the public domain, please keep this notice intact
         # (c) InVisible GmbH    
-        # http://www.invisible.ch
+        # https://www.invisible.ch
         # 
 
     require "YAML"

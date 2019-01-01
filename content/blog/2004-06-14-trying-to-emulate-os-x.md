@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-06-14 15:37:21+00:00
 layout: post
-link: http://invisible.ch/2004/06/14/trying-to-emulate-os-x/
+link: https://invisible.ch/2004/06/14/trying-to-emulate-os-x/
 slug: trying-to-emulate-os-x
 tags: ["blog"]
 title: Trying to emulate OS X
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 289
 ---
 
-[Engadget](http://www.engadget.com/entry/8828351836181248/) has an article on how to turn XP into a Mac OS X lookalike.
+[Engadget](https://www.engadget.com/entry/8828351836181248/) has an article on how to turn XP into a Mac OS X lookalike.
 
 I like the dropshadow effect on the OSX windows, so I added YzShadow (it seems like it's difficult to download this, a little googling brings you to a danish page that has all the Yz utilities). So fine, I have dropshadows.
 

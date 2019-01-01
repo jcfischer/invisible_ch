@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-07-19 22:20:05+00:00
 layout: post
-link: http://invisible.ch/2004/07/19/summer-in-the-city/
+link: https://invisible.ch/2004/07/19/summer-in-the-city/
 slug: summer-in-the-city
 tags: ["blog"]
 title: Summer in the city

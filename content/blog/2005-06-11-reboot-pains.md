@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-11 16:44:44+00:00
 layout: post
-link: http://invisible.ch/2005/06/11/reboot-pains/
+link: https://invisible.ch/2005/06/11/reboot-pains/
 slug: reboot-pains
 tags: ["blog"]
 title: reboot pains
@@ -24,4 +24,4 @@ There is no clear winner, all of them are extremely uncomfortable in the long ru
 These chairs clearly don't.
 
 
-Technorati Tags: [reboot7](http://technorati.com/tag/reboot7)
+Technorati Tags: [reboot7](https://technorati.com/tag/reboot7)

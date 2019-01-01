@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-08-07 11:15:20+00:00
 layout: post
-link: http://invisible.ch/2003/08/07/when-do-documents-change-their-uniqueid/
+link: https://invisible.ch/2003/08/07/when-do-documents-change-their-uniqueid/
 slug: when-do-documents-change-their-uniqueid
 tags: ["blog"]
 title: When do documents change their UniqueID?
@@ -20,4 +20,4 @@ And guess what - the UNID had changed between when the document was saved the la
 
 The big question: Why does the UNID of a document change, even though it hasn't been updated through the Notes client? (because then the computed field would have the correct UNID)
 
-I suspect [TeamStudios](http://www.teamstudio.com) Configurator (The global search and replace tool for Notes). Anybody know more about that?
+I suspect [TeamStudios](https://www.teamstudio.com) Configurator (The global search and replace tool for Notes). Anybody know more about that?

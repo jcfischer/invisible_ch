@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-06-27 21:42:45+00:00
 layout: post
-link: http://invisible.ch/2005/06/27/copycats-part-ii/
+link: https://invisible.ch/2005/06/27/copycats-part-ii/
 slug: copycats-part-ii
 tags: ["blog"]
 title: CopyCats part II
@@ -13,7 +13,7 @@ wordpress_id: 436
 ---
 
 
-Obviously, [Josh Petersen got in contact](http://joshp.typepad.com/15/2005/06/the_copycats_re.html) with the [CopyCats](/archives/000435.html) of [aimido](http://www.aimido.de/). They responded and [Harald Schropfer](http://at.titu.de/), one of the missing advisors [made an appearance](http://www.43things.com/entries/view/100650#comments) on Josh's 43things list. The home page of Aimido now sports a "inspired by..." blurb which lists 43things and goes on like this: 
+Obviously, [Josh Petersen got in contact](https://joshp.typepad.com/15/2005/06/the_copycats_re.html) with the [CopyCats](/archives/000435.html) of [aimido](https://www.aimido.de/). They responded and [Harald Schropfer](https://at.titu.de/), one of the missing advisors [made an appearance](https://www.43things.com/entries/view/100650#comments) on Josh's 43things list. The home page of Aimido now sports a "inspired by..." blurb which lists 43things and goes on like this: 
 
 
 
@@ -36,7 +36,7 @@ Not only that, but the tone of the email they sent is, like, so elitist: "We hav
 
 
 
-Thinking back to [Ben Hammersley's talk](http://www.benhammersley.com/weblog/2005/06/11/etiquette_and_the_singularity_reboot_7.html) at reboot, it seems that those two "founders" should get a good talk-over from their mothers about what's appropriate, ethical and good human behavior. Stealing is naughty - off to bed without food!
+Thinking back to [Ben Hammersley's talk](https://www.benhammersley.com/weblog/2005/06/11/etiquette_and_the_singularity_reboot_7.html) at reboot, it seems that those two "founders" should get a good talk-over from their mothers about what's appropriate, ethical and good human behavior. Stealing is naughty - off to bed without food!
 
 
-Technorati Tags: [aimido](http://technorati.com/tag/aimido), [reboot7](http://technorati.com/tag/reboot7)
+Technorati Tags: [aimido](https://technorati.com/tag/aimido), [reboot7](https://technorati.com/tag/reboot7)

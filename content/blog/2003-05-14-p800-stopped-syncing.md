@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-05-14 06:30:57+00:00
 layout: post
-link: http://invisible.ch/2003/05/14/p800-stopped-syncing/
+link: https://invisible.ch/2003/05/14/p800-stopped-syncing/
 slug: p800-stopped-syncing
 tags: ["blog"]
 title: P800 stopped syncing
@@ -18,4 +18,4 @@ First impression: Their knowledgebase is useless. First of all, it doesn't recog
 
 Fired of an email to them - let's see what happens....
 
-On [Notes.net](http://www.notes.net) Andreas Imnitzer (hi - Andreas - good to see you again after all these years) made the suggestion to use fully qualified paths to the notes databases in the sync settings. I tried that already and it didn't help...
+On [Notes.net](https://www.notes.net) Andreas Imnitzer (hi - Andreas - good to see you again after all these years) made the suggestion to use fully qualified paths to the notes databases in the sync settings. I tried that already and it didn't help...

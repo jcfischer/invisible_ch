@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2003-09-03 12:24:48+00:00
 layout: post
-link: http://invisible.ch/2003/09/03/email-heaven/
+link: https://invisible.ch/2003/09/03/email-heaven/
 slug: email-heaven
 tags: ["blog"]
 title: EMail heaven
@@ -24,9 +24,9 @@ Here are the advantages of my setup:
 
 Interested? Here's what you need:
   * A Linux server under your control (mine is a redhat box)
-  * [Zoe](http://guests.itvectors.it/zoe/)
-  * [Popfile](http://popfile.sourceforge.net/)
-  * [Opera 7.x](http://www.opera.com/)
+  * [Zoe](https://guests.itvectors.it/zoe/)
+  * [Popfile](https://popfile.sourceforge.net/)
+  * [Opera 7.x](https://www.opera.com/)
 
 Read on for the setup
 <!-- more -->
@@ -62,7 +62,7 @@ Start both Popfile and Zoe and start your webbrowser to configure the two applic
 
 Configure Popfile to _Accept POP3 connections from remote machines_ and _Accept HTTP (User Interface) connections from remote machines_. Both can be found on Popfiles "Security" tab.
 Be sure to set a _User Interface Password_.
-Configure a Zoe account and let it retrieve mail from popfile, by setting it to use localhost and the "pop.isp.com:user@name" for the login name to the ISP's Popserver. See [Here is an example](http://www.invisible.ch/images/zoe-config.html) of my setup.
+Configure a Zoe account and let it retrieve mail from popfile, by setting it to use localhost and the "pop.isp.com:user@name" for the login name to the ISP's Popserver. See [Here is an example](https://www.invisible.ch/images/zoe-config.html) of my setup.
 Now Zoe pulls mails from PopFile which does all the Spam filtering. Zoe is the archive, and if I'm on the road, I can use the new "limited composer" to reply to or create new emails.
   
 

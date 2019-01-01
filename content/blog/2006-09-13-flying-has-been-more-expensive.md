@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-09-13 08:54:34+00:00
 layout: post
-link: http://invisible.ch/2006/09/13/flying-has-been-more-expensive/
+link: https://invisible.ch/2006/09/13/flying-has-been-more-expensive/
 slug: flying-has-been-more-expensive
 tags: ["blog"]
 title: Flying has been more expensive
@@ -19,7 +19,7 @@ Maybe I'm going to go to the [german Rails conference][1] in Frankfurt in the be
 The world is coming to an end...
 
 
-[1]: http://www.rails-konferenz.de/
+[1]: https://www.rails-konferenz.de/
 
 
-Technorati Tags: [conference](http://www.technorati.com/tag/conference), [flying](http://www.technorati.com/tag/flying), [rails](http://www.technorati.com/tag/rails), [swiss](http://www.technorati.com/tag/swiss)
+Technorati Tags: [conference](https://www.technorati.com/tag/conference), [flying](https://www.technorati.com/tag/flying), [rails](https://www.technorati.com/tag/rails), [swiss](https://www.technorati.com/tag/swiss)

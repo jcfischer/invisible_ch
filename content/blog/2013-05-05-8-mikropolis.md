@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-05-05 21:01:02+00:00
 layout: post
-link: http://invisible.ch/2013/05/05/8-mikropolis/
+link: https://invisible.ch/2013/05/05/8-mikropolis/
 slug: 8-mikropolis
 tags: ["blog"]
 title: 8 - mikropolis
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 12888
 ---
 
-My good friend [Daniel Frei](http://danielfrei.ch/) is embarking on several new exciting projects. One of them is [Mikropolis](http://mikropolis.ch), a "live polit no show" social media political discussion event. Daniela asked me and [Dragica Kahlina](http://kahlina.com/) to come up with some jingles for the show. This has in turn expanded into a live happening with Dragica and me playing live on May 15th and 22nd. I have made some first sketches and yesterday and today worked on a "bigger" soundscape:
+My good friend [Daniel Frei](https://danielfrei.ch/) is embarking on several new exciting projects. One of them is [Mikropolis](https://mikropolis.ch), a "live polit no show" social media political discussion event. Daniela asked me and [Dragica Kahlina](https://kahlina.com/) to come up with some jingles for the show. This has in turn expanded into a live happening with Dragica and me playing live on May 15th and 22nd. I have made some first sketches and yesterday and today worked on a "bigger" soundscape:
 
 
 

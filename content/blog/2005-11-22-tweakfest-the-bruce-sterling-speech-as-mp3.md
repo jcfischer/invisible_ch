@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-22 15:27:00+00:00
 layout: post
-link: http://invisible.ch/2005/11/22/tweakfest-the-bruce-sterling-speech-as-mp3/
+link: https://invisible.ch/2005/11/22/tweakfest-the-bruce-sterling-speech-as-mp3/
 slug: tweakfest-the-bruce-sterling-speech-as-mp3
 tags: ["blog"]
 title: Tweakfest - The Bruce Sterling speech as mp3
@@ -27,4 +27,4 @@ Enjoy: [Bruce Sterling at Tweakfest 05](/files/Tweakfest-BruceSterling.mp3) (24 
 
 
 
-Technorati Tags: [conference](http://technorati.com/tag/conference), [brucesterling](http://technorati.com/tag/brucesterling), [switzerland](http://technorati.com/tag/switzerland), [tweakfest05](http://technorati.com/tag/tweakfest05)
+Technorati Tags: [conference](https://technorati.com/tag/conference), [brucesterling](https://technorati.com/tag/brucesterling), [switzerland](https://technorati.com/tag/switzerland), [tweakfest05](https://technorati.com/tag/tweakfest05)

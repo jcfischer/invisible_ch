@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-08-26 13:24:00+00:00
 layout: post
-link: http://invisible.ch/2005/08/26/active-timer/
+link: https://invisible.ch/2005/08/26/active-timer/
 slug: active-timer
 tags: ["blog"]
 title: Active Timer
@@ -13,7 +13,7 @@ wordpress_id: 451
 ---
 
 
-What a nice little program! [Active Timer](http://osiris.laya.com/) keeps track of where you spend your time, while working at the computer.
+What a nice little program! [Active Timer](https://osiris.laya.com/) keeps track of where you spend your time, while working at the computer.
 
 
 
@@ -21,10 +21,10 @@ What a nice little program! [Active Timer](http://osiris.laya.com/) keeps track 
 
 
 
-[via [TUAW](http://www.tuaw.com/2005/08/26/log-your-minutes-in-each-app-with-active-timer/)]
+[via [TUAW](https://www.tuaw.com/2005/08/26/log-your-minutes-in-each-app-with-active-timer/)]
 
 
 
 
 
-Technorati Tags: [mac](http://technorati.com/tag/mac), [zeitmanangement](http://technorati.com/tag/zeitmanangement)
+Technorati Tags: [mac](https://technorati.com/tag/mac), [zeitmanangement](https://technorati.com/tag/zeitmanangement)

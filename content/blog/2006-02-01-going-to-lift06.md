@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-02-01 05:49:43+00:00
 layout: post
-link: http://invisible.ch/2006/02/01/going-to-lift06/
+link: https://invisible.ch/2006/02/01/going-to-lift06/
 slug: going-to-lift06
 tags: ["blog"]
 title: Going to Lift06
@@ -30,24 +30,24 @@ Of couse I also look forward to meeting all of the people I met in Denmark: [Hen
 
 [1]: /2005/06/10/a-near-religious-experience/
 [2]: /2005/11/11/tweakfest-gedanken-zum-schluss/
-[3]: http://www.lift06.org
-[4]: http://www.ballpark.ch
-[5]: http://www.lift06.org/doku.php/people:speakers:cory_doctorow
+[3]: https://www.lift06.org
+[4]: https://www.ballpark.ch
+[5]: https://www.lift06.org/doku.php/people:speakers:cory_doctorow
 [6]: /2005/11/09/tweakfest-bruce-sterling/
-[7]: http://www.lift06.org/doku.php/people:speakers:marc_francois_besson
-[8]: http://www.lift06.org/doku.php/people:speakers:regine_debatty
-[9]: http://www.lift06.org/doku.php/people:speakers:stefano_mastrogiacomo
-[10]: http://www.lift06.org/doku.php/people:xavier_comtesse
-[11]: http://www.lift06.org/doku.php/people:speakers:chris_lawer
-[12]: http://www.lift06.org/doku.php/people:speakers:sigurd_rinde
-[13]: http://www.thingamy.com/
-[14]: http://www.lift06.org/doku.php/people:speakers:euan_semple
+[7]: https://www.lift06.org/doku.php/people:speakers:marc_francois_besson
+[8]: https://www.lift06.org/doku.php/people:speakers:regine_debatty
+[9]: https://www.lift06.org/doku.php/people:speakers:stefano_mastrogiacomo
+[10]: https://www.lift06.org/doku.php/people:xavier_comtesse
+[11]: https://www.lift06.org/doku.php/people:speakers:chris_lawer
+[12]: https://www.lift06.org/doku.php/people:speakers:sigurd_rinde
+[13]: https://www.thingamy.com/
+[14]: https://www.lift06.org/doku.php/people:speakers:euan_semple
 [15]: /2005/06/09/the-score-is-even/
-[16]: http://www.toothlesstiger.net/
-[17]: http://www.lift06.org/doku.php/people:speakers:hughes_macleod
-[18]: http://www.lift06.org/doku.php/people:speakers:robert_scoble
-[19]: http://www.geoffjones.com/blogger.html
+[16]: https://www.toothlesstiger.net/
+[17]: https://www.lift06.org/doku.php/people:speakers:hughes_macleod
+[18]: https://www.lift06.org/doku.php/people:speakers:robert_scoble
+[19]: https://www.geoffjones.com/blogger.html
 
 
 
-Technorati Tags: [ballpark](http://www.technorati.com/tag/ballpark), [conference](http://www.technorati.com/tag/conference), [lift06](http://www.technorati.com/tag/lift06)
+Technorati Tags: [ballpark](https://www.technorati.com/tag/ballpark), [conference](https://www.technorati.com/tag/conference), [lift06](https://www.technorati.com/tag/lift06)

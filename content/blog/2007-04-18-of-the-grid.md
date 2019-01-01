@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2007-04-18 06:15:47+00:00
 layout: post
-link: http://invisible.ch/2007/04/18/of-the-grid/
+link: https://invisible.ch/2007/04/18/of-the-grid/
 slug: of-the-grid
 tags: ["blog"]
 title: of the grid

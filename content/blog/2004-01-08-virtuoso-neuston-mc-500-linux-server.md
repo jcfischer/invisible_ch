@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-01-08 21:02:54+00:00
 layout: post
-link: http://invisible.ch/2004/01/08/virtuoso-neuston-mc-500-linux-server/
+link: https://invisible.ch/2004/01/08/virtuoso-neuston-mc-500-linux-server/
 slug: virtuoso-neuston-mc-500-linux-server
 tags: ["blog"]
 title: Virtuoso Neuston MC-500 & Linux Server
@@ -12,11 +12,11 @@ type: post
 wordpress_id: 232
 ---
 
-I [recently](http://www.invisible.ch/archives/000214.html) got a [Neuston Virutoso MC-500](http://www.neuston.com/en/mc500.asp) streaming media client. A nice box that really does what it's supposed to to: Stream music and videos to my TV and living room amplifier.
+I [recently](https://www.invisible.ch/archives/000214.html) got a [Neuston Virutoso MC-500](https://www.neuston.com/en/mc500.asp) streaming media client. A nice box that really does what it's supposed to to: Stream music and videos to my TV and living room amplifier.
 
 The only drawback: It requires a windows PC as a server. I have moved all my media to a little fanless Debian box and was hoping to stream my media from there.
 
-Enter the [OpenShowCenter](http://openshowcenter.sourceforge.net) which is for Pinnacle streaming systems but works equally well for the MC-500.
+Enter the [OpenShowCenter](https://openshowcenter.sourceforge.net) which is for Pinnacle streaming systems but works equally well for the MC-500.
 
 Here's how I had to install it:
 

@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-01-17 10:33:34+00:00
 layout: post
-link: http://invisible.ch/2005/01/17/apache-2-not-coming-up/
+link: https://invisible.ch/2005/01/17/apache-2-not-coming-up/
 slug: apache-2-not-coming-up
 tags: ["blog"]
 title: Apache 2 not coming up?

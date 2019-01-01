@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-02-11 11:20:58+00:00
 layout: post
-link: http://invisible.ch/2005/02/11/burning-feeds/
+link: https://invisible.ch/2005/02/11/burning-feeds/
 slug: burning-feeds
 tags: ["blog"]
 title: burning Feeds
@@ -17,6 +17,6 @@ Taking a cue from [Gadgetguy][1], I have burned the most requested feed by runni
 Also it inserts links to "relevant" Amazon books. This of course in a constant effort to offset the cost of me running this blog. If it doesn't work out (as I suspect it will), this part will be removed again...
 
 
-[1]: http://www.gadgetguy.de/
-[2]: http://www.feedburner.com/
-[3]: http://www.statcounter.com/
+[1]: https://www.gadgetguy.de/
+[2]: https://www.feedburner.com/
+[3]: https://www.statcounter.com/

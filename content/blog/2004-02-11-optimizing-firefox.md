@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-02-11 11:33:39+00:00
 layout: post
-link: http://invisible.ch/2004/02/11/optimizing-firefox/
+link: https://invisible.ch/2004/02/11/optimizing-firefox/
 slug: optimizing-firefox
 tags: ["blog"]
 title: Optimizing FireFox
@@ -26,4 +26,4 @@ user_pref("network.http.proxy.pipelining", true);
 user_pref("nglayout.initialpaint.delay", 100);
 `
 
-by [Geek Styke](http://www.farrokhi.net/blog/archives/000235.html) via [Simon](http://simon.incutio.com) and his blogmarks
+by [Geek Styke](https://www.farrokhi.net/blog/archives/000235.html) via [Simon](https://simon.incutio.com) and his blogmarks

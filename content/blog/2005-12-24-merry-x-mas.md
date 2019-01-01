@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-12-24 21:32:12+00:00
 layout: post
-link: http://invisible.ch/2005/12/24/merry-x-mas/
+link: https://invisible.ch/2005/12/24/merry-x-mas/
 slug: merry-x-mas
 tags: ["blog"]
 title: Merry X-Mas

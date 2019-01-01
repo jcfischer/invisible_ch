@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2004-05-24 22:08:59+00:00
 layout: post
-link: http://invisible.ch/2004/05/24/the-google-software-principles/
+link: https://invisible.ch/2004/05/24/the-google-software-principles/
 slug: the-google-software-principles
 tags: ["blog"]
 title: The Google Software Principles
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 283
 ---
 
-[Software Principles](http://www.google.com/corporate/software_principles.html) by Google:
+[Software Principles](https://www.google.com/corporate/software_principles.html) by Google:
 
 
   1. We believe software should not trick you into installing it.
@@ -24,6 +24,6 @@ wordpress_id: 283
 
 Oh yes! This is something that I will sign immediately. These are good rules, and it's interesting to see that Google is not only saying "we're not evil", but saying it in different tongues.
 
-Of course, that doesn't mean, that you should trust both your GMail and your mailing lists to Google (there are alternatives and there [will be more](http://www.zappatanetworks.com)) 
+Of course, that doesn't mean, that you should trust both your GMail and your mailing lists to Google (there are alternatives and there [will be more](https://www.zappatanetworks.com)) 
 
-[via [matthias](http://matthias.leisi.net/archives/37_Googles_PR_stunts_against_Microsoft.html#extended)]
+[via [matthias](https://matthias.leisi.net/archives/37_Googles_PR_stunts_against_Microsoft.html#extended)]

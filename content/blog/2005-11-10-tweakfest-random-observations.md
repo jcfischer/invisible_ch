@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-11-10 09:51:34+00:00
 layout: post
-link: http://invisible.ch/2005/11/10/tweakfest-random-observations/
+link: https://invisible.ch/2005/11/10/tweakfest-random-observations/
 slug: tweakfest-random-observations
 tags: ["blog"]
 title: Tweakfest - Random Observations
@@ -44,4 +44,4 @@ Oh - Tweakfest is not getting a lot of these things....
 
 
 
-Technorati Tags: [conference](http://technorati.com/tag/conference), [tweakfest05](http://technorati.com/tag/tweakfest05)
+Technorati Tags: [conference](https://technorati.com/tag/conference), [tweakfest05](https://technorati.com/tag/tweakfest05)

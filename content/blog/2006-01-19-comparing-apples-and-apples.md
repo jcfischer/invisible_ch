@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-01-19 16:03:09+00:00
 layout: post
-link: http://invisible.ch/2006/01/19/comparing-apples-and-apples/
+link: https://invisible.ch/2006/01/19/comparing-apples-and-apples/
 slug: comparing-apples-and-apples
 tags: ["blog"]
 title: Comparing Apples and... Apples?
@@ -35,7 +35,7 @@ I think only then are we really comparing Apples to Apples
 PS: If somebody sends me the necessary Hardware, I'd do the tests myself
 
 
-[1]: http://www.macworld.com/2006/01/features/imaclabtest1/index.php
+[1]: https://www.macworld.com/2006/01/features/imaclabtest1/index.php
 
 
-Technorati Tags: [apple](http://www.technorati.com/tag/apple), [benchmark](http://www.technorati.com/tag/benchmark), [iMac](http://www.technorati.com/tag/iMac), [intel](http://www.technorati.com/tag/intel), [mac](http://www.technorati.com/tag/mac), [refactoring](http://www.technorati.com/tag/refactoring)
+Technorati Tags: [apple](https://www.technorati.com/tag/apple), [benchmark](https://www.technorati.com/tag/benchmark), [iMac](https://www.technorati.com/tag/iMac), [intel](https://www.technorati.com/tag/intel), [mac](https://www.technorati.com/tag/mac), [refactoring](https://www.technorati.com/tag/refactoring)

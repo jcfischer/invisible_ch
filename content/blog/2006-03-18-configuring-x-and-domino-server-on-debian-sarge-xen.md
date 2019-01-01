@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-03-18 20:55:26+00:00
 layout: post
-link: http://invisible.ch/2006/03/18/configuring-x-and-domino-server-on-debian-sarge-xen/
+link: https://invisible.ch/2006/03/18/configuring-x-and-domino-server-on-debian-sarge-xen/
 slug: configuring-x-and-domino-server-on-debian-sarge-xen
 tags: ["blog"]
 title: Configuring X and Domino Server on Debian Sarge XEN
@@ -33,7 +33,7 @@ So, the first task is to setup X on the virtualized Host. [Giving your Xen insta
 
 So this is what I get, after a lot of fiddling:
 
-[![](http://static.flickr.com/50/114285123_8bbbb9b55c.jpg?v=0)](http://www.flickr.com/photos/jcfischer/114285123/)
+[![](https://static.flickr.com/50/114285123_8bbbb9b55c.jpg?v=0)](https://www.flickr.com/photos/jcfischer/114285123/)
 
 Open problems:
 
@@ -42,15 +42,15 @@ Open problems:
 
 But at least, the Domino server is up and running...
 
-[1]: http://www-306.ibm.com/software/lotus/
+[1]: https://www-306.ibm.com/software/lotus/
 [2]: /2006/03/14/installing-lotus-domino-654-in-debian-xen/
-[3]: http://www.debian-administration.org/articles/322
-[4]: http://sourceforge.net/projects/cotvnc/
-[5]: http://lists.suse.com/archive/suse-domino/2002-Dec/0011.html
-[6]: http://colinp.dominodeveloper.net/plink/040228-0138
-[7]: http://publib-b.boulder.ibm.com/redbooks.nsf/RedbookAbstracts/sg246835.html?Open
+[3]: https://www.debian-administration.org/articles/322
+[4]: https://sourceforge.net/projects/cotvnc/
+[5]: https://lists.suse.com/archive/suse-domino/2002-Dec/0011.html
+[6]: https://colinp.dominodeveloper.net/plink/040228-0138
+[7]: https://publib-b.boulder.ibm.com/redbooks.nsf/RedbookAbstracts/sg246835.html?Open
 
 
 
 
-Technorati Tags: [debian](http://www.technorati.com/tag/debian), [domino](http://www.technorati.com/tag/domino), [lotus notes](http://www.technorati.com/tag/lotus notes), [xen](http://www.technorati.com/tag/xen)
+Technorati Tags: [debian](https://www.technorati.com/tag/debian), [domino](https://www.technorati.com/tag/domino), [lotus notes](https://www.technorati.com/tag/lotus notes), [xen](https://www.technorati.com/tag/xen)

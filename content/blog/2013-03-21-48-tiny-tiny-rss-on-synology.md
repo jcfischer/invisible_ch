@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2013-03-21 21:44:48+00:00
 layout: post
-link: http://invisible.ch/2013/03/21/48-tiny-tiny-rss-on-synology/
+link: https://invisible.ch/2013/03/21/48-tiny-tiny-rss-on-synology/
 slug: 48-tiny-tiny-rss-on-synology
 tags: ["blog"]
 title: 48 - Tiny Tiny RSS on Synology
@@ -12,7 +12,7 @@ type: post
 wordpress_id: 12705
 ---
 
-In my quest to "[own my own data](/2013/03/18/51-own-your-data/)" I spent the last few days to get an alternative to Google Reader going. I decided on trying [Tiny Tiny RSS](http://tt-rss.org/) instead of [Fever](http://feedafever.com/) mainly because TT-RSS is supported and in active development, while Fever (while looking more interesting) has been on hold for a few years and Shaun Inman basically hinted that he will not update or support it in the near future at least. Also, [Ràmon](http://blog.psy-q.ch/) has endorsed it...
+In my quest to "[own my own data](/2013/03/18/51-own-your-data/)" I spent the last few days to get an alternative to Google Reader going. I decided on trying [Tiny Tiny RSS](https://tt-rss.org/) instead of [Fever](https://feedafever.com/) mainly because TT-RSS is supported and in active development, while Fever (while looking more interesting) has been on hold for a few years and Shaun Inman basically hinted that he will not update or support it in the near future at least. Also, [Ràmon](https://blog.psy-q.ch/) has endorsed it...
 
 Here's a walk through of getting TT-RSS  running on my Synology NAS with Postgres as the database.
 
@@ -124,7 +124,7 @@ Finally, the background tasks for updating the feeds need to have the mb_intern
     chmod 644 /usr/syno/etc/php/extension.ini
 
 
-Now you should be able to open the TinyTiny RSS page by going to http://your-nas.your-domain/tt-rss
+Now you should be able to open the TinyTiny RSS page by going to https://your-nas.your-domain/tt-rss
 
 To enable regular updates of your feeds:
 
@@ -143,7 +143,7 @@ Alternatively, you can start the update process as a daemon:
     su -m nobody -c "(trap '' SIGHUP SIGINT SIGQUIT && /usr/bin/php /usr/syno/synoman/phpsrc/tt-rss/update.php --daemon >/tmp/tt.log 2>&1) &"
 
 
-You will need to restart it manually, if it ever should crash. (Hat tip to [feader](http://tt-rss.org/forum/viewtopic.php?t=1510&p=6785#p6785))
+You will need to restart it manually, if it ever should crash. (Hat tip to [feader](https://tt-rss.org/forum/viewtopic.php?t=1510&p=6785#p6785))
 
 Let me know, if I missed anything...
 
@@ -152,15 +152,15 @@ Helpful articles:
 
 
 	
-  * [http://www.synology-wiki.de/index.php/PhpPgAdmin_als_3rd-Party_Applikation](http://www.synology-wiki.de/index.php/PhpPgAdmin_als_3rd-Party_Applikation)
+  * [https://www.synology-wiki.de/index.php/PhpPgAdmin_als_3rd-Party_Applikation](https://www.synology-wiki.de/index.php/PhpPgAdmin_als_3rd-Party_Applikation)
 
 	
-  * [http://it.toolbox.com/blogs/unix-sysadmin/openbsd-and-ttrss-28664](http://it.toolbox.com/blogs/unix-sysadmin/openbsd-and-ttrss-28664)
+  * [https://it.toolbox.com/blogs/unix-sysadmin/openbsd-and-ttrss-28664](https://it.toolbox.com/blogs/unix-sysadmin/openbsd-and-ttrss-28664)
 
 	
-  * [http://www.nas-forum.com/forum/topic/33193-installation-de-tiny-tiny-rss-tt-rss-sur-un-ds1511/](http://www.nas-forum.com/forum/topic/33193-installation-de-tiny-tiny-rss-tt-rss-sur-un-ds1511/)
+  * [https://www.nas-forum.com/forum/topic/33193-installation-de-tiny-tiny-rss-tt-rss-sur-un-ds1511/](https://www.nas-forum.com/forum/topic/33193-installation-de-tiny-tiny-rss-tt-rss-sur-un-ds1511/)
 
 	
-  * [http://www.synology-wiki.de/index.php/Installation_von_Tiny_Tiny_RSS/Installationsskript](http://www.synology-wiki.de/index.php/Installation_von_Tiny_Tiny_RSS/Installationsskript)
+  * [https://www.synology-wiki.de/index.php/Installation_von_Tiny_Tiny_RSS/Installationsskript](https://www.synology-wiki.de/index.php/Installation_von_Tiny_Tiny_RSS/Installationsskript)
 
 

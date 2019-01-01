@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2005-01-16 20:38:40+00:00
 layout: post
-link: http://invisible.ch/2005/01/16/markov-entry/
+link: https://invisible.ch/2005/01/16/markov-entry/
 slug: markov-entry
 tags: ["blog"]
 title: Markov Entry

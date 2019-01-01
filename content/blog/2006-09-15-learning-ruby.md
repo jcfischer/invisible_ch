@@ -4,7 +4,7 @@ categories: ["musings"]
 comments: true
 date: 2006-09-15 15:27:49+00:00
 layout: post
-link: http://invisible.ch/2006/09/15/learning-ruby/
+link: https://invisible.ch/2006/09/15/learning-ruby/
 slug: learning-ruby
 tags: ["blog"]
 title: learning Ruby
@@ -17,11 +17,11 @@ I'm sitting and watching an [amazing screencast][1] that shows, how [Ruby Quiz 8
 It's long (about an hour), but worth watching!
 
 
-[1]: http://macromates.com/screencast/ruby_quiz_screencast.mov
-[2]: http://www.rubyquiz.com/quiz84.html
-[3]: http://en.wikipedia.org/wiki/Pascals_Triangle
-[4]: http://en.wikipedia.org/wiki/Test_driven_development
-[5]: http://www.macromates.com
+[1]: https://macromates.com/screencast/ruby_quiz_screencast.mov
+[2]: https://www.rubyquiz.com/quiz84.html
+[3]: https://en.wikipedia.org/wiki/Pascals_Triangle
+[4]: https://en.wikipedia.org/wiki/Test_driven_development
+[5]: https://www.macromates.com
 
 
-Technorati Tags: [textmate](http://www.technorati.com/tag/textmate), [ruby](http://www.technorati.com/tag/ruby), [testing](http://www.technorati.com/tag/testing)
+Technorati Tags: [textmate](https://www.technorati.com/tag/textmate), [ruby](https://www.technorati.com/tag/ruby), [testing](https://www.technorati.com/tag/testing)
