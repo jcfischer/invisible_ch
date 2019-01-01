@@ -20,19 +20,19 @@ and made the following changes:
 * Added support for [IndieWeb](https://indieweb.org/) and [IndieAuth](https://indieauth.com/). I followed
   the post [IndieWebify Your Hugo Website](https://www.amitgawande.com/indiewebify-hugo-website/)
 * Support for [Webmentions](https://www.amitgawande.com/display-webmentions/) using code from [Amits Blot Template](https://github.com/am1t/blot-musings)
+* Re-surrect the original CSS file so that I can change it
+* Reading time
+* Better organisation of posts (internally)
+* DRYed up display of article preview cards
   
 Things to do:
 
 * Add my own pictures to the template
 * Remove all superfluous partials
-* Re-surrect the original CSS file so that I can change it
 * CSS adaptions
 * Atom feed
-* ?
 * [POSSE](https://indieweb.org/POSSE) - I will probably use [IFTTT](https://ifttt.com) for this
 * 'Elsewhere' 
-* Reading time
 * Archives
-* Better organisation of posts (internally)
 * Expose Tags page
 

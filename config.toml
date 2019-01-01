@@ -7,8 +7,6 @@ paginate        = 6
 canonifyurls    = true
 
 
-
-
 [author]
     name    = "Jens-Christian Fischer"
     nick    = "jcfischer"
@@ -28,6 +26,7 @@ canonifyurls    = true
   customCSS = []
   RSSLink = ""
   showSubcribe = true
+  show_reading_time = true
 
   mainSections = ["musings", "music", "code", "art"]
 
@@ -39,6 +38,7 @@ canonifyurls    = true
 
 
   pageNotFoundTitle = "404 - Page not found"
+
 
 [permalinks]
   posts = "/:year/:month/:slug/"
