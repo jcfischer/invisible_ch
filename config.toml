@@ -41,7 +41,7 @@ canonifyurls    = true
 
 
 [permalinks]
-  posts = "/:year/:month/:day/:slug/"
+  posts = "/:year/:month/:slug/"
   blog   = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
