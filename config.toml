@@ -40,7 +40,7 @@ canonifyurls    = true
   pageNotFoundTitle = "404 - Page not found"
 
   googleSiteVerification = "TrRJwBFj-oKRaKg9YbzfGu6IHS7qDYBGHcZjkEAIkWA"
-
+  yandexSiteVerification = "f222468042a995be"
 
 [permalinks]
   posts = "/:year/:month/:slug/"
