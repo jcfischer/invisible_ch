@@ -35,4 +35,5 @@ Things to do:
 * 'Elsewhere' 
 * Archives
 * Expose Tags page
+* New Favicon
 

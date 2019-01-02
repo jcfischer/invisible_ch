@@ -1,5 +1,5 @@
 baseurl         = "https://invisible.ch/"
-title           = "Invisible - Musings. Music. Code. Art"
+title           = "Invisible"
 theme           = [ "chaschper", "matomo" ]
 languageCode    = "en-US"
 disqusShortname = ""
@@ -39,10 +39,17 @@ canonifyurls    = true
 
   pageNotFoundTitle = "404 - Page not found"
 
+  googleSiteVerification = "TrRJwBFj-oKRaKg9YbzfGu6IHS7qDYBGHcZjkEAIkWA"
+
 
 [permalinks]
   posts = "/:year/:month/:slug/"
   blog   = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1000
 
 [[menu.main]]
   name = "Musings"
