@@ -73,6 +73,11 @@ enableRobotsTXT = true
   weight = 95
 
 [[menu.main]]
+  name = "Now"
+  url = "/now"
+  weight = 92
+
+[[menu.main]]
   name = "About"
   url = "/about"
   weight = 90

@@ -13,7 +13,9 @@ disintegrate. I have been active on some of the social media plattforms, but am 
 happy with their walled garden approach to content. 
 
 I am a developer, musician, cloud & infrastructure operator, artist, maker. I live
-in Zurich, Switzerland and have way to many interests.
+in Zurich, Switzerland and have way too many interests.
+
+To see what I'm working on right now, check out my [now](/now) page.
 
 This site respects your [privacy](/pages/privacy)
 
