@@ -17,7 +17,7 @@ I have read at least [two](#) [accounts](https://schnuddelhuddel.de/switching-fr
 Here's where I'm at:
 
 * use [WorkingCopy](https://workingcopyapp.com) to clone this sites [jcfischer/invisible_ch](https://github.com/jcfischer/invisible_ch) repository 
-* use a Siri shortcut to [convert urls to markdown links](Create Markdown Link.shortcut)
+* use a Siri shortcut to [convert urls to markdown links](./Create Markdown Link.shortcut)
 
 {{< figure src="/images/working-copy.png" title="working in Working Copy" >}}
 
