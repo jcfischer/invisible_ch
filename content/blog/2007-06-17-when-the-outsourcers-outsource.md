@@ -14,7 +14,7 @@ wordpress_id: 621
 
 While going through my spam folder, I happened upon this gem:
 
-![](/outsourcing.png)
+{{< figure src="/wp-content/outsourcing.png" title="Outsourcing..."  >}}
 
 I find it sad, that the off-shoring country no 1 is trying to off-shore their work... At least, from what I've heard, the west is paying the east for offshored work. Doesn't seem, like this guy has heard of that concept...
 
