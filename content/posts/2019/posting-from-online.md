@@ -1,8 +1,8 @@
 ---
-title: "Lights"
+title: "Posting from iOS"
 date: 2019-01-04T12:46+01:00
 author: "Jens-Christian Fischer"
-image: ""
+image: "/images/working-copy.png"
 categories: ["musings"]
 tags: ["tech", "blog", "iOS"]
 language: en
