@@ -18,7 +18,7 @@ Here's where I'm at:
 
 * use [WorkingCopy](https://workingcopyapp.com) to clone this sites [jcfischer/invisible_ch](https://github.com/jcfischer/invisible_ch) repository 
 * use a Siri shortcut to [convert urls to markdown links](/files/Create%20Markdown%20Link.shortcut)
-* use a Siri shortcut to [export images from Photos to WorkingCopy](/files/Copy%20Foto%20%To%20Working%20Copy.shortcut)
+* use a Siri shortcut to [export images from Photos to WorkingCopy](/files/Copy%20Foto%20To%20Working%20Copy.shortcut)
   by saving it through the Files app in the repository that WorkingCopy hosts
 * Using [iA Writer](https://ia.net/writer) to edit files that are stored in A git repository (add WorkingCopy as a file provider in iA Writer)
 
