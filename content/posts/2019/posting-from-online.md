@@ -1,6 +1,6 @@
 ---
 title: "Posting from iOS"
-date: 2019-01-04T12:46+01:00
+date: 2019-01-04T12:46:00+01:00
 author: "Jens-Christian Fischer"
 image: "/images/working-copy.png"
 categories: ["musings"]
