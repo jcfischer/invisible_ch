@@ -23,4 +23,8 @@ A view of the completed electronic mess with a bonus of a deeply sceptic cat:
 
 {{< youtube FGBd9_B0taU >}}
 
+And here the strands are laid out in the geometry we plan to use later, controlled by a self written Python script.
+
+{{< youtube 42GYuky4vTY >}}
+
 
