@@ -19,7 +19,7 @@ and made the following changes:
   have started to remove the one I don't use)
 * Added support for [IndieWeb](https://indieweb.org/) and [IndieAuth](https://indieauth.com/). I followed
   the post [IndieWebify Your Hugo Website](https://www.amitgawande.com/indiewebify-hugo-website/)
-* Support for [Webmentions](https://www.amitgawande.com/display-webmentions/) using code from [Amits Blot Template](https://github.com/am1t/blot-musings)
+* Support for [Webmentions](https://www.amitgawande.com/display-webmentions/) using code from [Amits Blot Template](https://github.com/am1t/blot-musings) and [his description](https://www.amitgawande.com/display-webmentions/)
 * Re-surrect the original CSS file so that I can change it
 * Reading time
 * Better organisation of posts (internally)
