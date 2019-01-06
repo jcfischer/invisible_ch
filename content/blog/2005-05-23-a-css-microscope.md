@@ -15,10 +15,7 @@ wordpress_id: 414
 
 If you are sometimes looking at a wonderful CSS design and wonder, how this was achieved, you could look at the HTML and the CSS code and start to figure out how to achieve things. This could take quite some time.
 
-
-
-[![Xyloscope](/xyloscope-tm.jpg)](/xyloscope.png)
-
+{{< figure src="/wp-content/xyloscope.png" title="Xyloscope">}}
 
 
 Enter [Xylo Scope](https://www.culturedcode.com/xyle/).
