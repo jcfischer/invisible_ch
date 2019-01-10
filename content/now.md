@@ -41,6 +41,7 @@ Last updated: 2019-01-03
 * Signs - communication can go wrong when you aren't aware of how your message is received by the recipient
 * [How to get better at playing guitar](https://playinthezone.com/get-better-at-guitar-master-skills/) - reflections
   on that long post by Mark
+* Habits
   
 ### Projects
 
