@@ -24,7 +24,7 @@ posts on different IndieWeb sites together ([Webmentions](https://indieweb.org/W
 the own domain and website for authentication ([IndieAuth](https://indieauth.com/)), that allow for syndication
 of your content in silos ([POSSE](https://indieweb.org/POSSE)) and more. This blog has implemented a number of 
 these techniques - for example, you will see comments made on Twitter to a certain post on this site 
-([See this page for an example](/2018/12/hugo-templating/).
+([See this page for an example](/2018/12/hugo-templating/)).
 
 [Jeremy Keith](https://adactio.com) (whom I met at [Reboot 8.0](/2006/06/05/re-booted-re-birthed-version-80/)) back 
 in 2006 and who inspired me with his [talk about the Hyperlink](https://adactio.com/journal/1136) (I noted _"The hyperlink was the best session I attended. Beautifully written and narrated and deeply profound - even though it covered such a “simple” topic"_) has given an excellent talk [Taking Back the Web](https://adactio.com/links/14572)
