@@ -9,6 +9,8 @@ author: "Jens-Christian Fischer"
 Human. Husband. Father. [Coder](/categories/code). [Musician](/categories/music). [Artist](/categories/art).
 [Blogger](/categories/musings). 
 
+{{< figure src="/images/jcf_square.jpg" height="384" width="384" >}}
+
 ## What am I doing now?
 
 see my [now](/now) page

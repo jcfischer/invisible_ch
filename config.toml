@@ -12,7 +12,7 @@ enableRobotsTXT = true
     name    = "Jens-Christian Fischer"
     nick    = "jcfischer"
     email   = "jens-christian@invisible.ch"
-    avatar  = ""
+    avatar  = "/images/jcf_square.jpg"
     description = "Maker. Musician"
 
 [params]
