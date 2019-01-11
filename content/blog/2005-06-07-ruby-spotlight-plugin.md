@@ -12,8 +12,8 @@ type: post
 wordpress_id: 420
 ---
 
+{{< figure src="/wp-content/ruby-import.png" title="Ruby Import" >}}
 
-[![Ruby-Import](/ruby-import-tm.jpg)](/ruby-import.png)
   
 Spotlight continues to be useful: With the [RubyImporter](https://www.apple.com/downloads/macosx/spotlight/rubyimporter.html) Plugin it understands Ruby Code... Neat
 

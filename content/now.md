@@ -33,3 +33,17 @@ Last updated: 2019-01-03
 * Learning to let go: My son has moved out in December 2018, my daughter will probably follow suit
   in the next few years
     
+
+## What I plan to do
+
+### Blog Posts
+
+* Signs - communication can go wrong when you aren't aware of how your message is received by the recipient
+* [How to get better at playing guitar](https://playinthezone.com/get-better-at-guitar-master-skills/) - reflections
+  on that long post by Mark
+* Habits
+  
+### Projects
+
+* LED python scene manager
+* Continue evolvement of Chaschper Template
