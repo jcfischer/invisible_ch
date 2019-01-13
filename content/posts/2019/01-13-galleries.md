@@ -39,7 +39,7 @@ say - suboptimal). It took a bit of fiddling with the hugo templating language b
 work out. The relevant code in the [`layouts/gallery/single.html`](https://github.com/jcfischer/hugo-chaschper/blob/master/layouts/gallery/single.html) file look like this:
 
     <div class="photo-grid">
-    {{- $resources := .Resources.Match "*.jpg"}}
+    {{- $resources := .Resources.ByType "image"}}
     {{- range $resources }}
     {{- with . }}
         {{- $image400x := (.Resize "400x") }}
@@ -51,8 +51,10 @@ work out. The relevant code in the [`layouts/gallery/single.html`](https://githu
     {{- end }}
     </div>
 
-The code picks up the [Page Bundles](https://gohugo.io/content-management/page-bundles/) resources (i.e. all files that match "*.jpg"), iterates
-over them and creates two new images. When Hugo builds the site, it will create those files
+The code picks up the [Page Bundles](https://gohugo.io/content-management/page-bundles/) resources of 
+type "image", iterates
+over them and creates two new images and then uses them for the gallery. 
+When Hugo builds the site, it will create those files
 in the correct `public/galleries` directory and link correctly.
 
 An example of one of these new galleries can be found here: [Sucol 2019-01-12](/galleries/2019-01-12/)
