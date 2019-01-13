@@ -1,7 +1,6 @@
 ---
 title: "Scuol 2018-10-25"
 date: 2018-10-25T15:26:46+01:00
-imagesPath: "2018-10-25"
 tags: ["scuol", "autumn"]
 type: "gallery"
 ---

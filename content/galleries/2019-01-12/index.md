@@ -1,7 +1,6 @@
 ---
 title: "Scuol 2019-01-12"
 date: 2019-01-12T15:26:46+01:00
-imagesPath: "2019-01-12"
 tags: ["scuol", "winter"]
 type: "gallery"
 ---
