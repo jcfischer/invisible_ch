@@ -13,7 +13,7 @@ type: post
 
 What a nice surprise!
 
-My friend [Matthias Reinhard De-Roo](https://reinharderoocom.wordpress.com/) read a poem by Enid Madras, played
+My friend [Matthias Reinhard De-Roo](https://reinharderoocom.wordpress.com/) read a poem by Enid Madaras, played
 bass and percussion and made a video to go with it. And then there are sounds that come from me (recorded
 at a jam session we had sometime last year).
 
