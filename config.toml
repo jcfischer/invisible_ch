@@ -6,7 +6,7 @@ disqusShortname = ""
 paginate        = 6
 canonifyurls    = true
 enableRobotsTXT = true
-
+assetDir        = "static"
 
 [author]
     name    = "Jens-Christian Fischer"
