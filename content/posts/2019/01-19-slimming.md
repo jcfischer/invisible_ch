@@ -30,7 +30,7 @@ two problematic areas:
   for all articles, and I just pulled the full image in the preview. Obviously this is totally unnecessary.
   
 I used the [Hugo Image Processing](https://gohugo.io/content-management/image-processing/) commands to generate
-smaller sized images. I had to do make one change to my `config.toml` file and add the `assetDir` directive. The
+smaller sized images. I had to make one change to my `config.toml` file and add the `assetDir` directive. The
 `assetDir` points to `static` where the images are stored in the `images` folder. That allows the image processing
 directives to work on those assets as well (otherwise, they are limited to work on images stored in the same
 [Page Bundle](https://gohugo.io/content-management/page-bundles/)) as the referencing code.
