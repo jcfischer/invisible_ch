@@ -38,6 +38,7 @@ for preview purposed (also because downloading 50MB of image data to show a gall
 say - suboptimal). It took a bit of fiddling with the hugo templating language before things started to
 work out. The relevant code in the [`layouts/gallery/single.html`](https://github.com/jcfischer/hugo-chaschper/blob/master/layouts/gallery/single.html) file look like this:
 
+{{< highlight "html" >}}
     <div class="photo-grid">
     {{- $resources := .Resources.ByType "image"}}
     {{- range $resources }}
@@ -50,6 +51,7 @@ work out. The relevant code in the [`layouts/gallery/single.html`](https://githu
     {{- end }}
     {{- end }}
     </div>
+{{< /highlight >}}    
 
 The code picks up the [Page Bundles](https://gohugo.io/content-management/page-bundles/) resources of 
 type "image", iterates
