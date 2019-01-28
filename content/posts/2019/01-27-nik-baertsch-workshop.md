@@ -46,14 +46,7 @@ led to much hilarity.
 
 A further exercise took the shaking / throwing / catching balls and combined it with one of the
 exercises that we did with the jō. One participant was surrounded by the others who "attacked" (i.e.
-threw their ball) at random time. Of course, Nik had to up the ante and 
-we had to do the same, while standing on a balancing soft ball. It was already difficult to keep the
-balance on this without anything else going on, so shaking and throwing balls at the same time
-led to much hilarity. 
-
-A further exercise took the shaking / throwing / catching balls and combined it with one of the
-exercises that we did with the jō. One participant was surrounded by the others who "attacked" (i.e.
-threw their ball) at random times. 
+threw their ball) at random time. 
 
 The day ended with Shihatsu, stretching and another meditiation and a reflection on the day. 
 
