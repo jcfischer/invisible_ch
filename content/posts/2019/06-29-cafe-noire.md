@@ -3,7 +3,7 @@ title: "Café noire"
 author: "Jens-Christian Fischer"
 date: 2019-06-29T10:01:18+01:00
 description: "An exploration of the soul"
-image: 'img/cafe-noire.jpg'
+image: 'images/cafe-noire.jpg'
 categories: ["music"]
 tags: ["music", "album"]
 resources: []
