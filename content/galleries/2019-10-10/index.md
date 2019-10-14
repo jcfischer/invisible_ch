@@ -1,5 +1,5 @@
 ---
-title: "Lillebaelt 2019-10-10"
+title: "Lillebelt 2019-10-10"
 date: 2019-10-10T17:17:09+02:00
 tags: ["denmark", "fall", "iPhone Xs"]
 type: "gallery"
