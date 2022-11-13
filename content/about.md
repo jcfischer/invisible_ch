@@ -6,7 +6,7 @@ author: "Jens-Christian Fischer"
 
 ## Who am I?
 
-Human. Husband. Father. [Coder](/categories/code). [Musician](/categories/music). [Artist](/categories/art).
+Human. [Coder](/categories/code). [Musician](/categories/music). [Artist](/categories/art).
 [Blogger](/categories/musings). 
 
 {{< figure src="/images/jcf_square.jpg" height="384" width="384" >}}
@@ -28,6 +28,7 @@ I like personal contact, if you see me, talk to me. I also receive emails:
 [jens-christian@invisible.ch](mailto:jens-christian@invisible.ch)
 
 I'm on the usual networks: [Twitter](https://twitter.com/jcfischer), 
+[Mastodon](https://mastodon.green/@jcfischer), 
 [Facebook](https://www.facebook.com/JensChristianFischer) (this is my "musicians" page), 
 [Github](https://github.com/jcfischer),
 [LinkedIn](https://www.linkedin.com/in/jenscfischer/). 

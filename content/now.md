@@ -17,7 +17,28 @@ Based on the idea of [nownownow.com](https://nownownow.com)
 
 ## What I'm doing now
 
-Last updated: 2019-01-03
+Last updated: 2022-11-13
+
+* Moving from Twitter to Mastodon
+* Learning a ton of new things about CyberSecurity (I have changed roles and am now working to build a SOC)
+* Continuing to making weird music
+
+
+
+
+    
+
+## What I plan to do
+
+
+
+
+## Archived Now pages
+
+### Updated 2019-01-03
+
+(Yeah, I pretty much didn't do any of these things - except for letting go: Both my kids have moved out, graduated and are fully
+in their own life. That's great: 2022-11-13)
 
 * Working on the Album [Crystal Caves](/2018/11/crystal-caves/). So far I have recorded three
   tracks, at least three more to come
@@ -32,18 +53,15 @@ Last updated: 2019-01-03
   that build and operate [SWITCHengines](https://switch.ch/engines), a IaaS cloud for Swiss Academia
 * Learning to let go: My son has moved out in December 2018, my daughter will probably follow suit
   in the next few years
-    
 
-## What I plan to do
-
-### Blog Posts
+ #### Blog Posts
 
 * Signs - communication can go wrong when you aren't aware of how your message is received by the recipient
 * [How to get better at playing guitar](https://playinthezone.com/get-better-at-guitar-master-skills/) - reflections
   on that long post by Mark
 * Habits
   
-### Projects
+#### Projects
 
 * LED python scene manager
 * Continue evolvement of Chaschper Template
