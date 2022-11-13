@@ -20,7 +20,7 @@ timeout         = 30000
   title       = "InVisible"
   domain      = "invisible.ch"
   subtitle    = "Musings. Music. Code. Art"
-  copyright   = "© 2022"
+  copyright   = "© 2003 – 2022"
 
   cover       = "img/blog-cover.jpg"
   description = "Portfolio and Blog of Jens-Christian Fischer"
@@ -64,7 +64,13 @@ timeout         = 30000
 [[menu.main]]
   name = "Music"
   url = "/categories/music"
+  weight = 101
+
+[[menu.main]]
+  name = "Galleries"
+  url = "/galleries"
   weight = 100
+
 
 [[menu.main]]
   name = "Code"
@@ -104,3 +110,7 @@ timeout         = 30000
 [params.matomo.block]
     button = "Disable Analytics"
     message = "Your visits will *not* be logged."
+
+
+[markup.goldmark.renderer]
+unsafe = true
