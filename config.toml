@@ -17,7 +17,7 @@ timeout         = 30000
     description = "Maker. Musician"
 
 [params]
-  title       = "Invisible"
+  title       = "InVisible"
   domain      = "invisible.ch"
   subtitle    = "Musings. Music. Code. Art"
   copyright   = "© 2022"
