@@ -1,0 +1,28 @@
+---
+title: "11 12 Alive"
+date: 2022-11-13T13:26:44+01:00
+author: "Jens-Christian Fischer"
+description: "This the part where site owner says, that he's still alive"
+image: ""
+categories: ["musings"]
+tags: [""]
+language: en
+slug:
+type: post
+---
+
+After over two^h^h^h three years of not doing anything here, the recent exodus from "Birdsite" to Mastodon
+has brought up the topic of self hosted and independent content. Time to dust of the old blog.
+
+I had to update a few files in my [Chaschper Theme](https://github.com/jcfischer/hugo-chaschper) to make it compatible 
+with a more recent version of Hugo than the one I had installed. I also had to do the usual Yak shaving to get 
+everything back up to speed on a new laptop (where new is relative - I've had this machine for over 6 months and
+just not had the need to run Git or Hugo from the commandline since then. New job, new profile - long story, and one 
+for another day)
+
+So what are the next plans:
+
+- Link this site to my Mastodon profile: [@jcfischer@mastodon.green](https://mastodon.green/@jcfischer)
+- Upload a bunch of music I have created in the last two years
+- maybe get back to regular blogging?
+- update the [Now](/now) page - it's woefully out of date
