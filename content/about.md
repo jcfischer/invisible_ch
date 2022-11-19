@@ -28,7 +28,7 @@ I like personal contact, if you see me, talk to me. I also receive emails:
 [jens-christian@invisible.ch](mailto:jens-christian@invisible.ch)
 
 I'm on the usual networks: [Twitter](https://twitter.com/jcfischer), 
-[Mastodon](https://mastodon.green/@jcfischer), 
+[Mastodon](https://social.invisible.ch/@jcfischer), 
 [Facebook](https://www.facebook.com/JensChristianFischer) (this is my "musicians" page), 
 [Github](https://github.com/jcfischer),
 [LinkedIn](https://www.linkedin.com/in/jenscfischer/). 
