@@ -20,7 +20,7 @@ timeout         = 30000
   title       = "InVisible"
   domain      = "invisible.ch"
   subtitle    = "Musings. Music. Code. Art"
-  copyright   = "© 2003 – 2022"
+  copyright   = "© 2003 – 2025"
 
   cover       = "img/blog-cover.jpg"
   description = "Portfolio and Blog of Jens-Christian Fischer"
@@ -33,8 +33,7 @@ timeout         = 30000
 
   mainSections = ["musings", "music", "code", "art"]
 
-  twitterName = "jcfischer"
-  mastodonName = "social.invisible.ch/@jcfischer"
+  mastodonName = "swiss.social/@jcfischer"
   fbName = "JensChristianFischer"
   githubName = "jcfischer"
   linkedinName = "jenscfischer"
