@@ -2,14 +2,15 @@ baseurl         = "https://invisible.ch/"
 title           = "Invisible"
 theme           = [ "chaschper", "matomo" ]
 languageCode    = "en-US"
-disqusShortname = ""
-paginate        = 6
 canonifyurls    = true
 enableRobotsTXT = true
 assetDir        = "static"
 timeout         = 30000
 
-[author]
+[pagination]
+    pagerSize = 6
+
+[params.author]
     name    = "Jens-Christian Fischer"
     nick    = "jcfischer"
     email   = "jens-christian@invisible.ch"
