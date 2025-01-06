@@ -14,7 +14,9 @@ type: post
 [The Website Obesity Crisis](https://idlewords.com/talks/website_obesity.htm) is a wonderful talk about the sheer 
 size that even simple websites have. Thanks to [@stilkov](https://twitter.com/stilkov) for the pointer:
 
-{{< tweet 1085423465962921986 >}}
+2025-01-06: There used to be a link to twitter here, but somewhere in the last few years since I deployed my blog 
+the twitter API changed/broke/whatever. I have therfore removed the content.
+
 
 That led me to look at the size of this blog and it was scary:
 

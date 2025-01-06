@@ -19,7 +19,9 @@ I read (yes, blogs still are a thing, it seems) I found [Ghost](https://ghost.or
 good. Instead of just diving straight into installing it, I decided to ask the collective wisdom
 of Twitter for suggestions.
 
-{{< tweet 1078567149986295808 >}}
+2025-01-06: There used to be a link to twitter here, but somewhere in the last few years since I deployed my blog 
+the twitter API changed/broke/whatever. I have therfore removed the content.
+
 
 
 | Name | Votes |

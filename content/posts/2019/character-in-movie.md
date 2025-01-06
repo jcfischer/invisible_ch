@@ -11,5 +11,6 @@ type: post
 ---
 Thread:
 
-{{< tweet 1080183740637241344 >}}
+2025-01-06: There used to be a link to twitter here, but somewhere in the last few years since I deployed my blog 
+the twitter API changed/broke/whatever. I have therfore removed the content.
 
