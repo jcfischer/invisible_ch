@@ -3,7 +3,7 @@ title: "Exil Sessions 10: Jelamagua"
 date: 2023-10-03T15:43:49+01:00
 author: "Jens-Christian Fischer"
 description: ""
-image: 'images/2023-11-03-jelamagua.png'
+image: 'images/2023-10-03-jelamagua.png'
 categories: ["music"]
 tags: ["music", "album"]
 language: en
