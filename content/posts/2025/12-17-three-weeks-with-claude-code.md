@@ -3,7 +3,7 @@ title: "Three Weeks with Claude Code: Building a Personal AI Infrastructure"
 date: 2025-12-17T17:00:00+01:00
 author: "Jens-Christian Fischer"
 description: "Reflections on building CLI tools and MCP servers with Claude Code"
-image: ""
+image: "/images/2025-12-17-claude-code-pai.png"
 categories: ["code"]
 tags: ["claude", "ai", "cli", "tana", "mcp"]
 language: en
